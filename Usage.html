@@ -1,0 +1,96 @@
+<html>
+    <head>
+        <title>
+            Data Annotation
+        </title>
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    </head>
+    <body>
+        <h1>
+            Test Annotate Example (Single Mode)
+        </h1>
+        <div>
+            <form>
+                <label>Model 1 : </label>
+                <select name="model1" id="m_single">
+                </select><br/>
+                <label>Example to check : </label>
+                <select name="example" id="exam_single">
+                </select><br/>
+                <button id="gen_single" type="button">Submit</button>
+            </form>
+        </div>
+        <h1>
+            Test Annotate Example (Side-By-Side Mode)
+        </h1>
+        <div>
+            <form>
+                <label>Model 1 : </label>
+                <select name="model1" id="m1">
+                </select>
+                <br/>
+                <label>Model 2 : </label>
+                <select name="model2" id="m2">
+                </select>
+                <br/>
+
+                <label>Example to check : </label>
+                <select name="example" id="exam">
+                </select>
+                <br/>
+
+                <button id="gen_double" type="button">Submit</button>
+            </form>
+        </div>
+        <script type="text/javascript">
+            $(document).ready(function(){
+                $.getJSON("brat/data/Metadata/examples_for_annotation.json", function(data){
+                    for(i in data['R']) {
+                        $('#exam')
+                            .append($('<option>', { "value" : data['R'][i]})
+                            .text(data['R'][i]));
+
+                        $('#exam_single')
+                            .append($('<option>', { "value" : data['R'][i]})
+                            .text(data['R'][i]));
+                    }
+                    for(i = 0; i < 9; i+=1) {
+                        $('#m_single')
+                            .append($('<option>', { "value" : "Model_" + i})
+                            .text("Model_" + i));
+                        $('#m1')
+                            .append($('<option>', { "value" : "Model_" + i})
+                            .text("Model_" + i));
+                        $('#m2')
+                            .append($('<option>', { "value" : "Model_" + i})
+                            .text("Model_" + i));
+                    }
+                    $('#m_single')
+                        .append($('<option>', { "value" : "true"})
+                        .text("true"));
+                    $('#m1')
+                        .append($('<option>', { "value" : "true"})
+                        .text("true"));
+                    $('#m2')
+                        .append($('<option>', { "value" : "true"})
+                        .text("true"));
+                });
+            });
+            $("#gen_single").on("click", function(e){
+                var m1 = $("#m_single").val();
+                var exam = $("#exam_single").val();
+                var url = "http://localhost:9001/index.xhtml#/annotations/" + m1 + "/P" + exam;
+                var win = window.open(url, "_blank");
+                win.focus();
+            });
+            $("#gen_double").on("click", function(e){
+                var m1 = $("#m1").val();
+                var m2 = $("#m2").val();
+                var exam = $("#exam").val();
+                var url = "http://localhost:9001/diff.xhtml?diff=/annotations/" + m1 + "/#/annotations/" + m2 + "/P" + exam;
+                var win = window.open(url, "_blank");
+                win.focus();
+            });
+        </script>
+    </body>
+</html>
