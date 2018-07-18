@@ -44,15 +44,17 @@
         </div>
         <script type="text/javascript">
             $(document).ready(function(){
+                console.log("In");
                 $.getJSON("brat/data/Metadata/examples_for_annotation.json", function(data){
-                    for(i in data['R']) {
+                    console.log(data);
+                    for(i in data) {
                         $('#exam')
-                            .append($('<option>', { "value" : data['R'][i]})
-                            .text(data['R'][i]));
+                            .append($('<option>', { "value" : data[i]})
+                            .text(data[i]));
 
                         $('#exam_single')
-                            .append($('<option>', { "value" : data['R'][i]})
-                            .text(data['R'][i]));
+                            .append($('<option>', { "value" : data[i]})
+                            .text(data[i]));
                     }
                     for(i = 0; i < 9; i+=1) {
                         $('#m_single')
