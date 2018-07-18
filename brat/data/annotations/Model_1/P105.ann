@@ -1,0 +1,20 @@
+T1	p 65 104	infants with single-ventricle lesions :
+T2	p 265 305	infants undergoing the Norwood procedure
+T3	p 721 781	549 subjects ( follow-up , 2.7 ? 0.9 years ) were analyzed .
+T4	p 1333 1367	were full term with aortic atresia
+T5	p 1459 1498	were preterm with a patent aortic valve
+T6	p 1921 1953	Term infants with aortic atresia
+T7	p 2015 2061	and preterm infants with a patent aortic valve
+T8	i 38 61	cardiac transplantation
+T9	i 238 261	cardiac transplantation
+T10	i 288 305	Norwood procedure
+T11	i 381 402	Blalock-Taussig shunt
+T12	i 437 451	artery shunt .
+T13	i 1240 1275	ventricle-to-pulmonary artery shunt
+T14	i 1387 1417	modified Blalock-Taussig shunt
+T15	i 1977 2014	ventricle-to-pulmonary artery shunt ,
+T16	i 2079 2111	modified Blalock-Taussig shunt .
+T17	o 782 796	Mortality risk
+T18	o 933 943	with death
+T19	o 1139 1149	with death
+T20	o 1289 1304	better survival

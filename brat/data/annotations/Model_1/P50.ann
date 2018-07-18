@@ -1,0 +1,16 @@
+T1	p 114 237	patients with acute myeloid leukemia and myelodysplastic syndromes : a Japanese multicenter randomized , controlled study .
+T2	p 297 507	prophylactic effects of capsule forms of fluconazole ( n = 110 ) and itraconazole ( n = 108 ) in patients with acute myeloid leukemia ( AML ) or myelodysplastic syndromes ( MDS ) during and after chemotherapy .
+T3	p 734 751	patients with MDS
+T4	p 1031 1085	patients with neutrophil counts of > 0.1 x 10 ( 9 ) /L
+T5	p 1337 1387	patients with AML or MDS who received chemotherapy
+T6	i 33 79	itraconazole capsules and fluconazole capsules
+T7	i 338 349	fluconazole
+T8	i 366 378	itraconazole
+T9	i 574 586	itraconazole
+T10	i 649 660	fluconazole
+T11	o 84 110	systemic fungal infections
+T12	o 541 566	systemic fungal infection
+T13	o 669 683	Adverse events
+T14	o 832 863	probable or possible infections
+T15	o 1122 1144	frequency of infection
+T16	o 1450 1473	systemic fungal disease

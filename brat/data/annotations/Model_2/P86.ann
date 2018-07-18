@@ -1,0 +1,51 @@
+T1	p 100 116	schizophrenics :
+T2	p 272 288	schizophrenics .
+T3	p 297 339	A total of 81 schizophrenics were randomly
+T4	p 359 369	group with
+T5	p 2513 2541	symptoms of schizophrenics .
+T6	i 20 57	paliperidone extended-release tablets
+T7	i 192 229	paliperidone extended-release tablets
+T8	i 370 419	paliperidone extended-release tablets and control
+T9	i 431 442	risperidone
+T10	i 554 560	social
+T11	i 593 603	SDSS ) and
+T12	i 664 668	th )
+T13	i 686 690	th )
+T14	i 776 780	th )
+T15	i 1119 1123	th )
+T16	i 1249 1253	th )
+T17	i 1371 1375	th )
+T18	i 1739 1743	th )
+T19	i 1925 1929	th )
+T20	i 2012 2016	th )
+T21	i 2174 2178	th )
+T22	i 2417 2454	Paliperidone extended-release tablets
+T23	o 65 96	improvement of social functions
+T24	o 237 268	improvement of social functions
+T25	o 517 581	negative symptoms scales ( PANSS ) , social disability screening
+T26	o 604 643	treatment emergent symptom scale ( TESS
+T27	o 664 683	th ) weekend and 12
+T28	o 686 700	th ) weekend .
+T29	o 738 763	and total scores of PANSS
+T30	o 776 788	th ) weekend
+T31	o 792 801	treatment
+T32	o 1056 1062	factor
+T33	o 1065 1106	negative factor and total scores of PANSS
+T34	o 1119 1131	th ) weekend
+T35	o 1135 1144	treatment
+T36	o 1249 1261	th ) weekend
+T37	o 1265 1274	treatment
+T38	o 1371 1386	th ) weekend of
+T39	o 1411 1436	and total scores of PANSS
+T40	o 1706 1726	total scores of SDSS
+T41	o 1739 1754	th ) weekend of
+T42	o 1779 1780	)
+T43	o 1892 1912	total scores of SDSS
+T44	o 1925 1940	th ) weekend of
+T45	o 1963 1964	)
+T46	o 2012 2027	th ) weekend of
+T47	o 2174 2189	th ) weekend of
+T48	o 2206 2226	total scores of SDSS
+T49	o 2254 2255	)
+T50	o 2353 2374	severe adverse effect
+T51	o 2472 2521	improve social functions and psychiatric symptoms

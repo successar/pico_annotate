@@ -1,0 +1,12 @@
+T1	p 335 357	healthy young subjects
+T2	p 431 461	Five groups of 8 subjects each
+T3	i 181 222	potent cholesteryl ester transfer protein
+T4	i 230 268	) inhibitor torcetrapib ( CP-529,414 )
+T5	i 481 519	placebo ( n=2 ) or torcetrapib ( n=6 )
+T6	i 533 565	60 , and 120 mg daily and 120 mg
+T7	i 590 603	. Torcetrapib
+T8	o 278 331	high-density lipoprotein cholesterol ( HDL-C ) levels
+T9	o 693 711	plasma drug levels
+T10	o 1001 1025	Total plasma cholesterol
+T11	o 1129 1164	low-density lipoprotein cholesterol
+T12	o 1349 1361	triglyceride

@@ -1,0 +1,38 @@
+T1	p 70 115	A beta-haemolytic streptococcal pharyngitis .
+T2	p 194 249	A beta-haemolytic streptococcal ( GABHS ) pharyngitis .
+T3	p 386 405	GABHS pharyngitis .
+T4	p 498 559	New Zealand . Children presenting with GABHS pharyngitis were
+T5	p 871 877	throat
+T6	p 895 906	3-6 , 12-16
+T7	p 911 916	26-36
+T8	p 919 924	GABHS
+T9	p 1230 1279	353 children with positive throat swabs for GABHS
+T10	p 2035 2071	GABHS in children with pharyngitis .
+T11	i 6 60	Once-daily amoxicillin versus twice-daily penicillin V
+T12	i 302 325	( QD ) oral amoxicillin
+T13	i 365 380	oral penicillin
+T14	i 386 391	GABHS
+T15	i 574 613	oral amoxicillin 1500 mg QD ( or 750 mg
+T16	i 617 627	bodyweight
+T17	i 634 691	or=30 kg ) or to oral penicillin V 500 mg BID ( or 250 mg
+T18	i 695 780	bodyweight was < or=20 kg ) for 10 days . Observed medication and weekend diary cards
+T19	i 1161 1172	amoxicillin
+T20	i 1177 1187	penicillin
+T21	i 1299 1310	amoxicillin
+T22	i 1323 1340	or penicillin V (
+T23	i 1866 1877	amoxicillin
+T24	i 1937 1953	oral amoxicillin
+T25	i 1985 1997	penicillin V
+T26	o 757 780	and weekend diary cards
+T27	o 802 855	adherence . OUTCOME Eradication of GABHS , determined
+T28	o 871 886	throat cultures
+T29	o 911 933	26-36 . GABHS isolates
+T30	o 964 1015	bacteriological treatment failures ( and relapses )
+T31	o 1131 1153	success of eradication
+T32	o 1257 1263	throat
+T33	o 1394 1411	positive cultures
+T34	o 1516 1547	failures ( including relapses )
+T35	o 1730 1752	resolution of symptoms
+T36	o 1803 1840	unsubstantiated acute rheumatic fever
+T37	o 2020 2031	eradication
+T38	o 2035 2040	GABHS

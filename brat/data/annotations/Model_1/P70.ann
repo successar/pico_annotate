@@ -1,0 +1,19 @@
+T1	p 92 116	small cell lung cancer ]
+T2	p 119 168	Eighty-three patients with small cell lung cancer
+T3	p 358 400	74 patients were availble to be analysis .
+T4	p 431 489	well-matched in age , sex , stage and performance status .
+T5	p 1629 1650	solid cancer patients
+T6	i 18 63	liu wei di huang or jin gui shen qi decoction
+T7	i 185 357	with or without using a traditional Chinese Kidney-tonifying decoction ( Liu Wei Di Huang or Jin Gui Shen Qi medicinal decoction ) in chemotherapy or radiotherapy courses .
+T8	i 652 664	Chinese herb
+T9	i 778 812	Chinese Kidney-tonifying decoction
+T10	i 1000 1012	Chinese herb
+T11	i 1086 1098	Chinese herb
+T12	i 1508 1554	traditional Chinese Kidney-tonifying decoction
+T13	o 542 579	response rate and the median survival
+T14	o 605 636	overall response rate ( CR+PR )
+T15	o 728 743	median survival
+T16	o 880 914	Survival curve ( Kaplan-meire 's )
+T17	o 1157 1174	disease-free life
+T18	o 1199 1221	Hematologic toxicities
+T19	o 1441 1472	immuno-enhancement activities .

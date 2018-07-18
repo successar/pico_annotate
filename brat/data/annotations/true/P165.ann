@@ -1,0 +1,34 @@
+T1	p 328 368	95 patients with atherosclerotic disease
+T2	i 108 112	diet
+T3	i 115 125	clofibrate
+T4	i 130 140	niceritrol
+T5	i 478 488	clofibrate
+T6	i 492 502	niceritrol
+T7	i 647 651	diet
+T8	i 654 664	clofibrate
+T9	i 669 679	niceritrol
+T10	i 1239 1243	diet
+T11	i 1268 1278	clofibrate
+T12	i 1285 1295	niceritrol
+T13	i 1360 1370	Clofibrate
+T14	i 2283 2293	clofibrate
+T15	i 2374 2378	diet
+T16	o 21 70	fatty acid composition of the plasma lipid esters
+T17	o 174 183	linoleate
+T18	o 226 275	fatty acid composition of the plasma lipid esters
+T19	o 706 717	serum lipid
+T20	o 735 784	fatty acid composition in the plasma lipid esters
+T21	o 917 969	content of saturated and monounsaturated fatty acids
+T22	o 988 1015	polyunsaturated fatty acids
+T23	o 1045 1114	ratio between pulyunsaturated and saturated fatty acids ( P/S ratio )
+T24	o 1197 1210	phospholipids
+T25	o 1335 1357	fatty acid composition
+T26	o 1418 1445	monounsaturated fatty acids
+T27	o 1459 1465	oleate
+T28	o 1507 1538	triglycerides and phospholipids
+T29	o 1586 1621	content of linoleic ( 18 : 2 ) acid
+T30	o 1770 1779	P/S ratio
+T31	o 1852 1873	saturated fatty acids
+T32	o 2080 2153	polyunsaturated to monounsaturated fatty acids in the plasma lipid esters
+T33	o 2192 2247	ratio between polyunsaturated and saturated fatty acids
+T34	o 2260 2272	acid changes

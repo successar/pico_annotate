@@ -1,0 +1,19 @@
+T1	p 92 112	stable COPD patients
+T2	p 129 142	COPD patients
+T3	p 596 612	60 COPD patients
+T4	i 718 725	placebo
+T5	i 735 746	indacaterol
+T6	o 462 506	specific airway resistance changes ( ?sRAW )
+T7	o 623 655	dyspnea evaluation ( VAS score )
+T8	o 660 678	pulmonary function
+T9	o 772 809	Spirographic and ?sRAW-based criteria
+T10	o 904 938	intrathoracic gas volume ( ?ITGV )
+T11	o 964 987	residual volume ( ?RV )
+T12	o 1013 1017	?FVC
+T13	o 1081 1086	?FEV1
+T14	o 1108 1112	?FVC
+T15	o 1172 1177	?ITGV
+T16	o 1192 1195	?RV
+T17	o 1214 1218	?VAS
+T18	o 1288 1293	?sRAW
+T19	o 1488 1503	improvements of

@@ -1,0 +1,38 @@
+T1	p 178 197	diabetic patients :
+T2	p 676 746	, 360 diabetic patients with coronary artery disease were treated with
+T3	p 1167 1175	patients
+T4	p 2458 2468	patients .
+T5	p 2559 2607	diabetic patients with coronary artery disease .
+T6	i 19 56	triglyceride/high-density lipoprotein
+T7	i 119 131	pioglitazone
+T8	i 216 225	PERISCOPE
+T9	i 228 240	Pioglitazone
+T10	i 451 463	pioglitazone
+T11	i 582 594	Pioglitazone
+T12	i 628 639	glimepiride
+T13	i 747 774	pioglitazone or glimepiride
+T14	i 796 805	PERISCOPE
+T15	i 808 820	Pioglitazone
+T16	i 1568 1580	pioglitazone
+T17	i 1758 1769	glimepiride
+T18	i 2356 2368	pioglitazone
+T19	o 45 68	lipoprotein cholesterol
+T20	o 467 487	atheroma progression
+T21	o 559 579	atheroma progression
+T22	o 934 954	atheroma progression
+T23	o 1067 1118	percent atheroma volume , and total atheroma volume
+T24	o 1197 1349	increases in high-density lipoprotein cholesterol ( HDL-C ) and reductions in glycated hemoglobin , triglycerides , and C-reactive protein . Significant
+T25	o 1396 1439	percent atheroma volume and triglycerides (
+T26	o 1464 1488	triglyceride/HDL-C ratio
+T27	o 1515 1540	and glycated hemoglobin (
+T28	o 1598 1635	low-density lipoprotein cholesterol (
+T29	o 1709 1723	apolipoprotein
+T30	o 1772 1805	Substantial atheroma regression ,
+T31	o 1818 1829	progression
+T32	o 1860 1887	relative increases in HDL-C
+T33	o 1941 1957	in triglycerides
+T34	o 1995 2019	triglyceride/HDL-C ratio
+T35	o 2067 2091	in glycated hemoglobin (
+T36	o 2245 2270	percent atheroma volume (
+T37	o 2286 2309	total atheroma volume (
+T38	o 2425 2445	atheroma progression

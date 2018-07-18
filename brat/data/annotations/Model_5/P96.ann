@@ -1,0 +1,20 @@
+T1	p 213 232	departments ( EDs )
+T2	p 290 300	patients '
+T3	p 753 919	sample comprised 186 patients ( mean age 70 years , 123 ( 66 % ) female patients , 130 ( 70 % ) trauma ) who were referred for physiotherapy assessment/intervention .
+T4	p 958 983	patients ' EECU admission
+T5	i 8 21	physiotherapy
+T6	i 36 54	emergency extended
+T7	i 203 212	emergency
+T8	i 269 274	EECUs
+T9	i 560 577	work/home/leisure
+T10	i 1012 1027	medical/nursing
+T11	i 1085 1124	physiotherapy assessment/intervention .
+T12	i 1816 1833	work/home/leisure
+T13	o 461 465	rate
+T14	o 920 928	Referral
+T15	o 1198 1227	rate of admission to hospital
+T16	o 1293 1297	rate
+T17	o 1454 1515	return to usual work/home/leisure activities and satisfaction
+T18	o 1672 1676	rate
+T19	o 1680 1705	hospital admission , rate
+T20	o 1788 1868	the rate of return to usual work/home/leisure activities or patient satisfaction

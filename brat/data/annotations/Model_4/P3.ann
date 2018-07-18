@@ -1,0 +1,26 @@
+T1	p 57 78	premenopausal women .
+T2	p 186 201	breast cancer .
+T3	p 539 596	in 36 premenopausal women , 20 of whom used OC . Subjects
+T4	i 17 20	soy
+T5	i 100 114	phytoestrogens
+T6	i 118 130	soy products
+T7	i 243 246	soy
+T8	i 264 276	isoflavonoid
+T9	i 369 372	soy
+T10	i 480 506	oral contraceptives ( OC )
+T11	i 535 538	soy
+T12	i 583 587	OC .
+T13	i 612 623	normal diet
+T14	i 661 751	soy beverage containing 20 g of protein and 38 mg of total isoflavones to their usual diet
+T15	i 971 974	soy
+T16	i 1155 1158	soy
+T17	i 1188 1190	OC
+T18	i 1294 1296	OC
+T19	i 1310 1313	soy
+T20	o 31 53	sex hormone metabolism
+T21	o 402 410	function
+T22	o 414 419	serum
+T23	o 828 970	in serum estrone , estradiol , sex hormone-binding globulin , dehydroepiandrosterone sulfate , prolactin , or progesterone concentrations with
+T24	o 1018 1095	changes in menstrual cycle length or the urinary estrogen metabolite ratio of
+T25	o 1199 1237	Levels of urinary estrogen metabolites
+T26	o 1359 1434	menstrual cycle , serum sex hormones , or urinary estrogen metabolite ratio

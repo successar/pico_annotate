@@ -1,0 +1,4 @@
+T1	p 1776 1823	patients with high-risk resected melanoma , HDI
+T2	i 87 116	adjuvant high-dose interferon
+T3	i 340 381	adjuvant high-dose IFN-alpha 2b therapy .
+T4	o 1196 1251	relapse-free survival ( RFS ) -but not overall survival

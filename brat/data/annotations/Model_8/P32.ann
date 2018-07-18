@@ -1,0 +1,21 @@
+T1	p 114 137	fertilization program .
+T2	p 290 303	fertilization
+T3	p 312 319	program
+T4	p 429 498	Assisted Reproduction Unit . PATIENTS Forty-eight patients having IVF
+T5	p 965 993	of patients undergoing IVF .
+T6	i 27 98	short and ultrashort regimens of gonadotropin-releasing hormone agonist
+T7	i 180 251	ultrashort regimen of gonadotropin-releasing hormone agonist ( GnRH-a )
+T8	i 290 321	fertilization ( IVF ) program .
+T9	i 370 409	short and ultrashort regimens of GnRH-a
+T10	i 668 672	LH )
+T11	i 755 773	ultrashort regimen
+T12	i 894 912	ultrashort regimen
+T13	o 250 251	)
+T14	o 255 264	ovulation
+T15	o 290 303	fertilization
+T16	o 438 450	Reproduction
+T17	o 584 592	Response
+T18	o 604 615	stimulation
+T19	o 620 681	occurrence of spontaneous luteinizing hormone ( LH ) surges .
+T20	o 693 750	ovulation induction , fertilization , and pregnancy rates
+T21	o 868 878	LH surge .

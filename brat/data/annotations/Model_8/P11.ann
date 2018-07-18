@@ -1,0 +1,62 @@
+T1	p 79 116	acute invasive diarrhea in children .
+T2	p 190 200	children .
+T3	p 369 442	acute invasive diarrhea requiring an emergency visit in southern Israel .
+T4	p 585 586	.
+T5	p 699 748	acute invasive diarrhea in infants and children .
+T6	p 770 857	From July 1996 through December 1997 , 201 evaluable children ages 6 months to 10 years
+T7	p 860 862	35
+T8	p 881 932	< 3 years ) presenting with acute invasive diarrhea
+T9	p 940 964	Pediatric Emergency Room
+T10	p 1064 1068	= 95
+T11	p 1127 1130	n =
+T12	p 1194 1237	Shigella , Salmonella , Campylobacter spp .
+T13	p 1256 1267	Escherichia
+T14	p 1434 1443	pathogens
+T15	p 1462 1472	patients :
+T16	p 1494 1495	;
+T17	p 1519 1520	;
+T18	p 1557 1558	)
+T19	p 1573 1574	.
+T20	p 1680 1695	Campylobacter ,
+T21	p 2006 2029	Shigella and Salmonella
+T22	p 2396 2419	acute invasive diarrhea
+T23	p 2423 2475	ambulatory pediatric patients requiring an emergency
+T24	i 6 65	Oral ciprofloxacin vs. intramuscular ceftriaxone as empiric
+T25	i 276 320	oral antibiotics , intramuscular ceftriaxone
+T26	i 650 661	formulation
+T27	i 665 678	ciprofloxacin
+T28	i 992 1025	either ciprofloxacin suspension (
+T29	i 1029 1061	mg/kg twice a day + im placebo ;
+T30	i 1071 1124	or im ceftriaxone ( 50 mg/kg/day + placebo suspension
+T31	i 1194 1202	Shigella
+T32	i 1242 1255	diarrheagenic
+T33	i 1485 1495	Shigella ;
+T34	i 1636 1644	Shigella
+T35	i 1803 1832	ciprofloxacin and ceftriaxone
+T36	i 1863 1876	ciprofloxacin
+T37	i 2006 2014	Shigella
+T38	i 2110 2125	ciprofloxacin ,
+T39	i 2136 2151	; ceftriaxone ,
+T40	i 2293 2311	Oral ciprofloxacin
+T41	i 2355 2366	ceftriaxone
+T42	o 79 102	acute invasive diarrhea
+T43	o 143 151	diarrhea
+T44	o 227 237	resistance
+T45	o 241 258	enteric pathogens
+T46	o 369 402	acute invasive diarrhea requiring
+T47	o 447 460	inconvenience
+T48	o 567 584	invasive diarrhea
+T49	o 614 633	efficacy and safety
+T50	o 699 725	acute invasive diarrhea in
+T51	o 915 932	invasive diarrhea
+T52	o 1175 1180	Stool
+T53	o 1325 1353	Clinical response and safety
+T54	o 1434 1443	pathogens
+T55	o 1575 1608	Overall bacteriologic eradication
+T56	o 1738 1766	Clinical cure or improvement
+T57	o 1857 1876	Serum ciprofloxacin
+T58	o 1985 1990	MIC90
+T59	o 2056 2083	drug-related adverse events
+T60	o 2194 2213	. Joint examination
+T61	o 2319 2337	safe and effective
+T62	o 2396 2422	acute invasive diarrhea in

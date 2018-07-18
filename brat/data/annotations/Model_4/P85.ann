@@ -1,0 +1,44 @@
+T1	p 97 150	walking performance of patients with chronic stroke .
+T2	p 433 521	Physical Therapy . SUBJECTS Fifteen subjects with post-stroke hemiparesis . INTERVENTION
+T3	p 545 554	trainings
+T4	p 558 579	walking performance :
+T5	p 733 742	locomotor
+T6	p 779 785	rhythm
+T7	p 2269 2308	patients with post-stroke hemiparesis .
+T8	i 6 85	Visual and kinesthetic locomotor imagery training integrated with auditory step
+T9	i 186 235	visual and kinesthetic locomotor imagery training
+T10	i 348 356	training
+T11	i 433 449	Physical Therapy
+T12	i 527 554	locomotor imagery trainings
+T13	i 587 787	locomotor imagery training , kinesthetic locomotor imagery training , visual locomotor imagery training with auditory step rhythm and kinesthetic locomotor imagery training with auditory step rhythm .
+T14	i 1065 1081	imagery training
+T15	i 1125 1163	kinesthetic locomotor imagery training
+T16	i 1302 1318	imagery training
+T17	i 1628 1636	training
+T18	i 2059 2066	imagery
+T19	o 97 116	walking performance
+T20	o 239 258	walking performance
+T21	o 289 300	feasibility
+T22	o 558 596	walking performance : visual locomotor
+T23	o 616 637	kinesthetic locomotor
+T24	o 657 681	visual locomotor imagery
+T25	o 696 750	auditory step rhythm and kinesthetic locomotor imagery
+T26	o 765 787	auditory step rhythm .
+T27	o 810 906	The timed up-and-go test and electromyographic and kinematic analyses of the affected lower limb
+T28	o 1007 1027	timed up-and-go test
+T29	o 1048 1072	visual locomotor imagery
+T30	o 1125 1191	kinesthetic locomotor imagery training with auditory step rhythm (
+T31	o 1250 1273	swing and stance phases
+T32	o 1276 1318	the kinesthetic locomotor imagery training
+T33	o 1343 1458	increased activation in a greater number of muscles and increased angular displacement of the knee and ankle joints
+T34	o 1477 1501	visual locomotor imagery
+T35	o 1556 1576	auditory step rhythm
+T36	o 1643 1670	activation of the hamstring
+T37	o 1682 1687	swing
+T38	o 1727 1733	stance
+T39	o 1753 1785	kinematic data of the knee joint
+T40	o 1856 1865	locomotor
+T41	o 1891 1920	kinesthetic locomotor imagery
+T42	o 1935 1955	auditory step rhythm
+T43	o 2128 2148	auditory step rhythm
+T44	o 2246 2265	walking performance

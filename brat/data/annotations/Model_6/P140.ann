@@ -1,0 +1,12 @@
+T1	p 144 303	patients prescribed blood pressure or lipid-lowering drugs for the prevention of coronary heart disease and stroke do not take their medication as prescribed .
+T2	p 454 564	303 patients taking blood pressure and/or lipid-lowering medications were randomly assigned to being sent text
+T3	p 574 622	( Text group , 151 ) or not being sent them ( No
+T4	p 1101 1109	patients
+T5	p 1736 1784	patients taking blood pressure or lipid-lowering
+T6	p 1803 1846	prevention of cardiovascular disease , text
+T7	i 164 202	blood pressure or lipid-lowering drugs
+T8	i 496 510	lipid-lowering
+T9	i 774 804	automated computer programme .
+T10	i 1770 1784	lipid-lowering
+T11	o 1429 1438	adherence
+T12	o 1758 1766	pressure

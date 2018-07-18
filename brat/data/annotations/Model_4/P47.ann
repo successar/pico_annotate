@@ -1,0 +1,22 @@
+T1	p 77 106	anemic patients with cancer .
+T2	p 222 271	patients with cancer-associated anemia . PATIENTS
+T3	p 284 306	Eligible patients were
+T4	p 577 685	hundred sixty-five patients were enrolled . One hundred eighty-three patients were assigned to the 40K arm ,
+T5	i 59 73	erythropoietin
+T6	i 138 150	epoetin alfa
+T7	i 205 217	epoetin alfa
+T8	i 372 415	epoetin alfa 40,000 U subcutaneously ( SC )
+T9	i 437 471	standard weekly epoetin alfa ( 40K
+T10	i 494 513	epoetin alfa ( 120K
+T11	i 518 522	) SC
+T12	i 1544 1563	epoetin alfa 40,000
+T13	i 1586 1587	U
+T14	i 1751 1763	epoetin alfa
+T15	o 757 802	proportion of patients requiring transfusions
+T16	o 1075 1077	Hb
+T17	o 1170 1261	mean end-of-study Hb levels . Toxicities , including thromboembolism , and overall survival
+T18	o 1307 1344	higher global quality of life ( QOL )
+T19	o 1426 1448	global QOL improvement
+T20	o 1484 1487	QOL
+T21	o 1686 1689	QOL
+T22	o 1696 1698	Hb

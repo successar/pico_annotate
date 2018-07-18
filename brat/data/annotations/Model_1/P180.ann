@@ -1,0 +1,23 @@
+T1	p 66 97	adults with autistic disorder .
+T2	p 508 544	Thirty adults with autistic disorder
+T3	p 799 920	15 patients in the fluvoxamine-treated group were categorized as responders compared with none of 15 in the placebo group
+T4	i 23 41	placebo-controlled
+T5	i 51 62	fluvoxamine
+T6	i 580 598	placebo-controlled
+T7	i 623 681	selective serotonin uptake inhibitor fluvoxamine maleate .
+T8	i 818 837	fluvoxamine-treated
+T9	i 907 914	placebo
+T10	i 936 947	Fluvoxamine
+T11	i 964 971	placebo
+T12	i 1355 1366	fluvoxamine
+T13	i 1472 1483	Fluvoxamine
+T14	i 1507 1514	placebo
+T15	i 1614 1625	fluvoxamine
+T16	o 682 700	Behavioral ratings
+T17	o 984 1016	repetitive thoughts and behavior
+T18	o 1032 1052	maladaptive behavior
+T19	o 1072 1082	aggression
+T20	o 1130 1148	social relatedness
+T21	o 1174 1188	language usage
+T22	o 1310 1334	mild sedation and nausea
+T23	o 1391 1448	dyskinesias , adverse cardiovascular events , or seizures

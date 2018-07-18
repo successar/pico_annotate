@@ -1,0 +1,12 @@
+T1	p 96 125	patients with gastric ulcer ]
+T2	p 147 205	100 patients with gastric ulcer aged from 16 to 60 years .
+T3	p 608 621	gastric ulcer
+T4	i 18 49	transcranial electrostimulation
+T5	i 223 324	traditional treatment was supplemented by transcranial electrotherapy using a TRANSAIR-02 apparatus .
+T6	i 465 531	Combined treatment ( traditional therapy plus electrostimulation )
+T7	o 53 92	clinical and laboratory characteristics
+T8	o 369 387	lactoferrin ( LF )
+T9	o 392 434	tumour necrosis factor-alpha ( TNF-alpha )
+T10	o 571 600	duration of the main symptoms
+T11	o 723 737	ulcer scarring
+T12	o 767 810	dynamics of serum LF and TNF-alpha levels .

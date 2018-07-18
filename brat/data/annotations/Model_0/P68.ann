@@ -1,0 +1,11 @@
+T1	p 106 193	postoperative analgesia and knee rehabilitation after total knee arthroplasty ( TKA ) .
+T2	p 895 1044	61 ASA physical status I-III patients scheduled for elective unilateral total knee arthroplasty ( TKA ) under spinal anesthesia ( SA ) participated .
+T3	i 22 102	continuous femoral nerve block ( CFNB ) and continuous epidural infusion ( CEI )
+T4	i 205 276	Postoperative epidural analgesia ( EA ) and femoral nerve block ( FNB )
+T5	i 614 684	epidural infusion ( CEI ) with continuous femoral nerve block ( CFNB )
+T6	i 1152 1300	continuous infusion of 0.125 % levobupivacaine with morphine 0.0125 mg/ml ( 4 ml/hr ) , Group II ( CFNB ) were maintained by 0.125 % levobupivacaine
+T7	o 353 413	nausea , vomiting , pruritus , dizziness , and hypotension .
+T8	o 699 812	postoperative analgesic efficacy , side effects , postoperative knee rehabilitation , and hospital length of stay
+T9	o 1356 1407	VAS scores at PO6-12 hr and tramadol IV requirement
+T10	o 1553 1589	dizziness , pruritus , and PONV more
+T11	o 1824 1873	side effects and greater patient , satisfaction .

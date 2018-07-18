@@ -1,0 +1,18 @@
+T1	p 79 128	children with pervasive developmental disorders .
+T2	p 409 419	tantrums ,
+T3	p 975 985	exportable
+T4	i 56 75	and parent training
+T5	i 221 264	risperidone plus structured parent training
+T6	i 286 302	risperidone only
+T7	i 456 464	training
+T8	i 548 567	and parent training
+T9	i 761 775	off medication
+T10	i 955 970	pharmacotherapy
+T11	i 975 1010	exportable behavioral interventions
+T12	o 306 373	measures of noncompliance , irritability and adaptive functioning .
+T13	o 409 417	tantrums
+T14	o 431 434	and
+T15	o 489 529	noncompliance and adaptive functioning .
+T16	o 609 610	.
+T17	o 792 793	.
+T18	o 799 843	symptom reduction and functional improvement

@@ -1,0 +1,24 @@
+T1	p 451 471	St. Louis University
+T2	p 578 776	which patients with multivessel coronary artery disease were randomized to receive either coronary artery bypass grafting or percutaneous transluminal coronary angioplasty . The St. Louis University
+T3	i 130 141	Angioplasty
+T4	i 176 182	BARI )
+T5	i 407 410	ECG
+T6	i 668 784	coronary artery bypass grafting or percutaneous transluminal coronary angioplasty . The St. Louis University program
+T7	i 860 869	Minnesota
+T8	i 875 881	( MC )
+T9	i 899 929	modified NOVACODE hierarchical
+T10	i 998 1010	coding loupe
+T11	i 1036 1043	MC from
+T12	i 1046 1073	customized software program
+T13	i 1185 1190	coder
+T14	i 1228 1240	coding rules
+T15	i 1291 1293	MC
+T16	i 1579 1581	MC
+T17	i 1644 1649	Louis
+T18	o 192 212	electrocardiographic
+T19	o 215 218	ECG
+T20	o 825 827	ST
+T21	o 1466 1469	ECG
+T22	o 1515 1531	wave progression
+T23	o 1706 1736	grade 1 MC Q wave progressions
+T24	o 1871 1903	grade 2 Q wave progression codes

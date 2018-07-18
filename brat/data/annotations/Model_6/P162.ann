@@ -1,0 +1,24 @@
+T1	p 51 69	premature monkey :
+T2	p 215 234	Macaca nemestrina )
+T3	i 81 106	antenatal dexamethasone .
+T4	i 137 171	antenatal glucocorticoid treatment
+T5	i 286 330	dams received dexamethasone ( 2 mg/dose ) 72
+T6	i 333 335	48
+T7	i 342 344	24
+T8	i 354 372	abdominal delivery
+T9	i 438 446	saline .
+T10	i 1512 1525	dexamethasone
+T11	i 1633 1646	dexamethasone
+T12	o 509 538	incidence and severity of HMD
+T13	o 707 734	volume-pressure behavior of
+T14	o 747 787	lungs included greater distensibility in
+T15	o 800 831	from dexamethasone-treated dams
+T16	o 925 934	stability
+T17	o 952 1023	Accelerated production of surface active material ( SAM ) phospholipids
+T18	o 1097 1120	total lung phospholipid
+T19	o 1194 1228	alveolar lavage fluid phospholipid
+T20	o 1303 1368	and alveolar lavage fluid disaturated phosphatidylcholine ( DPC )
+T21	o 1443 1489	Incorporation of 14C-palmitate into lung lipid
+T22	o 1688 1697	incidence
+T23	o 1702 1710	severity
+T24	o 1823 1862	maturation of fetal pulmonary functions

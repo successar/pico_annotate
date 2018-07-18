@@ -1,0 +1,17 @@
+T1	p 35 65	self-recorded blood pressure .
+T2	p 136 184	ten normotensive and seven hypertensive subjects
+T3	p 196 222	self-inflation of the cuff
+T4	i 17 31	cuff inflation
+T5	i 99 110	'Finapres '
+T6	i 196 222	self-inflation of the cuff
+T7	i 226 256	just wearing the inflated cuff
+T8	i 272 290	Inflating the cuff
+T9	i 438 451	inflated cuff
+T10	i 560 576	cuff inflation .
+T11	o 35 65	self-recorded blood pressure .
+T12	o 99 132	'Finapres ' finger blood pressure
+T13	o 323 346	systolic blood pressure
+T14	o 467 483	blood pressure .
+T15	o 501 509	pressure
+T16	o 577 600	Systolic blood pressure
+T17	o 802 839	self-recorded systolic blood pressure

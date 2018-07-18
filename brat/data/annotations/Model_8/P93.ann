@@ -1,0 +1,33 @@
+T1	p 124 141	type 1 diabetes .
+T2	p 242 274	diagnosis with type 1 diabetes (
+T3	p 344 367	diagnosis with standard
+T4	p 513 525	subcutaneous
+T5	p 562 619	24 patients , 8-18 years old , with newly diagnosed T1D .
+T6	p 634 643	evaluated
+T7	p 706 718	diagnosis of
+T8	p 1394 1415	pump-treated subjects
+T9	p 1494 1511	subjects reported
+T10	i 6 26	Insulin pump therapy
+T11	i 320 340	insulin pump therapy
+T12	i 368 390	multiple daily insulin
+T13	i 485 496	MDI therapy
+T14	i 502 558	continuous subcutaneous insulin therapy ( pump therapy )
+T15	i 932 957	continuous glucose sensor
+T16	i 1118 1130	pump therapy
+T17	i 1614 1634	insulin pump therapy
+T18	i 1808 1820	pump therapy
+T19	o 73 89	glycemic control
+T20	o 105 120	?-cell function
+T21	o 172 218	preserving residual insulin secretory capacity
+T22	o 391 401	injections
+T23	o 741 758	insulin secretion
+T24	o 770 816	by mixed-meal-stimulated C-peptide secretion ,
+T25	o 896 921	glycosylated hemoglobin (
+T26	o 958 1037	data , insulin utilization , anthropometric measures , and patient satisfaction
+T27	o 1191 1244	mixed-meal tolerance test-stimulated C-peptide values
+T28	o 1353 1369	glycemic control
+T29	o 1423 1472	time spent with normoglycemia , better mean HbA1c
+T30	o 1657 1673	glycemic control
+T31	o 1680 1696	well tolerated ,
+T32	o 1725 1745	patient satisfaction
+T33	o 1844 1868	residual ?-cell function

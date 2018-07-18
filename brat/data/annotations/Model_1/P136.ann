@@ -1,0 +1,13 @@
+T1	p 45 56	Tunisians :
+T2	p 326 344	foetus and newborn
+T3	p 419 472	370 RH:1 Tunisian donors by polymerase chain reaction
+T4	p 945 1061	our 370 donors comprise 193 dizygous and 145 hemizygous individuals and 32 subjects whose zygosity remains unknown .
+T5	i 122 136	molecular test
+T6	i 531 612	polymerase chain reaction - restriction fragment length polymorphism ( PCR-RFLP )
+T7	i 655 714	real time quantitative polymerase chain reaction ( RQ-PCR )
+T8	i 1432 1438	RQ-PCR
+T9	i 1615 1623	PCR-RFLP
+T10	o 1062 1088	Positive predictive values
+T11	o 1161 1187	Negative predictive values
+T12	o 1303 1327	Rhesus box polymorphisms
+T13	o 1338 1357	novel RHD alleles :

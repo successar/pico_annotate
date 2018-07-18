@@ -1,0 +1,29 @@
+T1	p 39 105	endometriosis-related infertility patients by laparoscopic surgery
+T2	p 124 143	quyu jiedu recipe ]
+T3	p 264 317	endometriosis ( EMs ) -related infertility patients .
+T4	p 326 456	130 EMs-related infertility patients of blood stasis and toxin accumulation syndrome diagnosed and treated by laparoscopic surgery
+T5	p 2851 2862	infertility
+T6	i 85 105	laparoscopic surgery
+T7	i 124 134	quyu jiedu
+T8	i 194 214	laparoscopic surgery
+T9	i 233 260	Quyu Jiedu Recipe ( QYJDR )
+T10	i 507 511	test
+T11	i 539 552	control group
+T12	i 598 655	progesterone treatment after laparoscopic surgery . QYJDR
+T13	i 702 722	laparoscopic surgery
+T14	i 1001 1013	drug therapy
+T15	i 1037 1049	drug therapy
+T16	i 2531 2551	laparoscopic surgery
+T17	i 2570 2575	QYJDR
+T18	o 757 778	pregnancy rate within
+T19	o 866 971	medicine syndrome integrals , serum endometrium antibody ( EMAb ) and cancer antigen 125 ( CA125 ) levels
+T20	o 1064 1085	pregnancy rate within
+T21	o 1280 1306	medicine syndrome integral
+T22	o 1330 1335	score
+T23	o 1525 1551	medicine syndrome integral
+T24	o 1645 1664	integral difference
+T25	o 1896 1939	the serum EMAb negative conversion rate was
+T26	o 2076 2093	serum CA125 level
+T27	o 2602 2619	clinical symptoms
+T28	o 2639 2748	blood stasis and toxin accumulation syndrome , promote negative conversion of EMAb , lower serum CA125 levels
+T29	o 2755 2798	elevate the clinical pregnancy rate . QYJDR

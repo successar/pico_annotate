@@ -1,0 +1,34 @@
+T1	p 480 520	receiving chemotherapy for breast cancer
+T2	p 827 875	chemotherapy-na?ve patients with breast cancer .
+T3	p 1117 1295	age of the 94 women was 51 years ( range 27-76 ) : 79 received fluorouracil/epirubicin/cyclophosphamide and 15 received doxorubicin/cyclophosphamide . Thirteen withdrew pre-cycle
+T4	i 32 50	placebo-controlled
+T5	i 115 128	dexamethasone
+T6	i 151 172	adjuvant chemotherapy
+T7	i 364 377	dexamethasone
+T8	i 490 502	chemotherapy
+T9	i 543 567	dexamethasone or placebo
+T10	i 757 782	oral dexamethasone ( 4 mg
+T11	i 799 822	2 days ) versus placebo
+T12	i 827 845	chemotherapy-na?ve
+T13	i 898 977	intravenous granisetron and dexamethasone pre-chemotherapy and oral granisetron
+T14	i 1180 1220	fluorouracil/epirubicin/cyclophosphamide
+T15	i 1237 1267	doxorubicin/cyclophosphamide .
+T16	i 1384 1391	placebo
+T17	i 1467 1480	dexamethasone
+T18	i 1676 1691	dexamethasone .
+T19	i 1862 1886	dexamethasone or placebo
+T20	i 1902 1925	adjuvant chemotherapy .
+T21	o 85 100	quality of life
+T22	o 274 280	nausea
+T23	o 285 293	vomiting
+T24	o 592 660	delayed nausea and vomiting , and to compare quality of life ( QOL )
+T25	o 1018 1040	) patient preference ;
+T26	o 1043 1047	ii )
+T27	o 1084 1090	of QOL
+T28	o 1348 1355	stating
+T29	o 1358 1368	preference
+T30	o 1493 1503	preference
+T31	o 1535 1598	intensity of vomiting , nausea , or time to onset of vomiting .
+T32	o 1626 1639	in global QOL
+T33	o 1701 1712	symptom/QOL
+T34	o 1809 1839	preference , QOL , or symptoms

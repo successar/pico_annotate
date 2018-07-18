@@ -1,0 +1,14 @@
+T1	p 67 106	Children with Autism Spectrum Disorders
+T2	p 342 388	children with autism spectrum disorder ( ASD )
+T3	p 391 462	Participants were 44 children ages 6-12 ( n = 22 typical , n = 22 ASD )
+T4	i 6 41	Sensory Adapted Dental Environments
+T5	i 205 248	sensory adapted dental environment ( SADE )
+T6	i 575 609	regular dental environment ( RDE )
+T7	i 623 627	SADE
+T8	i 930 934	SADE
+T9	i 957 960	RDE
+T10	i 1001 1005	SADE
+T11	o 259 313	distress , sensory discomfort , and perception of pain
+T12	o 734 819	physiological anxiety , behavioral distress , pain intensity , and sensory discomfort
+T13	o 854 875	physiological anxiety
+T14	o 895 922	pain and sensory discomfort

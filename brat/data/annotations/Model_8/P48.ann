@@ -1,0 +1,39 @@
+T1	p 70 125	due to house dust mite Dermatophagoides pteronyssinus :
+T2	p 168 181	immunotherapy
+T3	p 295 318	house dust mite ( HDM )
+T4	p 387 421	10 patients with asthma due to HDM
+T5	p 427 434	studied
+T6	p 467 468	(
+T7	p 533 545	5 patients (
+T8	p 882 897	2 patients lost
+T9	p 969 970	.
+T10	p 1427 1440	asthma due to
+T11	i 6 25	Local immunotherapy
+T12	i 29 39	inhalation
+T13	i 43 59	a powder extract
+T14	i 83 125	dust mite Dermatophagoides pteronyssinus :
+T15	i 157 183	parenteral immunotherapy .
+T16	i 231 257	local immunotherapy ( LI )
+T17	i 261 271	inhalation
+T18	i 275 310	a powder extract of house dust mite
+T19	i 340 371	parenteral immunotherapy ( PI )
+T20	i 477 478	)
+T21	i 489 530	LI and subcutaneous injections of placebo
+T22	i 552 553	B
+T23	i 566 568	PI
+T24	i 587 594	lactose
+T25	i 657 697	premedication with disodium cromoglycate
+T26	i 717 718	.
+T27	i 1037 1049	methacholine
+T28	i 1069 1103	nebulized distilled water ( UNDW )
+T29	o 198 210	efficacy and
+T30	o 215 227	tolerability
+T31	o 753 826	in symptoms score and in peak expiratory flow ( PEF ) -derived parameters
+T32	o 902 916	late component
+T33	o 924 942	bronchial response
+T34	o 1019 1033	responsiveness
+T35	o 1111 1154	immunologic humoral and cellular parameters
+T36	o 1158 1174	peripheral blood
+T37	o 1212 1245	local important adverse reactions
+T38	o 1278 1299	systemic side effects
+T39	o 1572 1593	systemic side effects

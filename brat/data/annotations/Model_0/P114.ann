@@ -1,0 +1,10 @@
+T1	p 133 191	patients with mixed dyslipidaemia and metabolic syndrome .
+T2	p 601 645	patients with mixed dyslipidaemia and MetS .
+T3	i 16 94	rosuvastatin monotherapy or in combination with fenofibrate or ?-3 fatty acids
+T4	i 458 558	high-dose rosuvastatin monotherapy with moderate dosing combined with fenofibrate or ?-3 fatty acids
+T5	i 826 890	rosuvastatin 10 mg/day combined with fenofibrate 200 mg/day ( RF
+T6	o 210 355	triglycerides ( TG ) , decreased high-density lipoprotein cholesterol ( HDL-C ) levels and a predominance of small dense low density lipoproteins
+T7	o 1235 1248	mean LDL size
+T8	o 1469 1493	insulin resistance by RF
+T9	o 1540 1552	HDL-C levels
+T10	o 1750 1768	mean LDL size ; RF

@@ -1,0 +1,6 @@
+T1	p 335 357	healthy young subjects
+T2	i 138 151	torcetrapib .
+T3	i 181 268	potent cholesteryl ester transfer protein ( CETP ) inhibitor torcetrapib ( CP-529,414 )
+T4	i 481 511	placebo ( n=2 ) or torcetrapib
+T5	o 278 331	high-density lipoprotein cholesterol ( HDL-C ) levels
+T6	o 1001 1025	Total plasma cholesterol

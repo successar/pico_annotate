@@ -1,0 +1,17 @@
+T1	p 121 129	melanoma
+T2	p 140 192	Nearly 2000 patients with stage IIB and III melanoma
+T3	p 1776 1817	patients with high-risk resected melanoma
+T4	i 106 116	interferon
+T5	i 359 371	IFN-alpha 2b
+T6	i 874 894	IFN-alpha 2b ( HDI )
+T7	i 898 901	Obs
+T8	i 1353 1356	HDI
+T9	i 1364 1367	Obs
+T10	i 1669 1672	HDI
+T11	i 1680 1683	Obs
+T12	o 1196 1225	relapse-free survival ( RFS )
+T13	o 1235 1258	overall survival ( OS )
+T14	o 1654 1657	RFS
+T15	o 1722 1724	OS
+T16	o 1888 1891	RFS
+T17	o 1933 1935	OS

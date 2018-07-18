@@ -1,0 +1,47 @@
+T1	p 6 46	Recurrent epithelial ovarian carcinoma :
+T2	p 233 275	patients with epithelial ovarian carcinoma
+T3	p 318 360	first-line , platinum-based chemotherapy .
+T4	p 382 390	Patients
+T5	p 396 434	measurable and assessable disease were
+T6	p 587 625	Patients were stratified prospectively
+T7	p 700 701	.
+T8	p 718 738	of 474 patients were
+T9	p 777 778	.
+T10	p 798 813	intent-to-treat
+T11	p 1120 1147	platinum-sensitive patients
+T12	p 1401 1407	median
+T13	i 79 129	pegylated liposomal doxorubicin versus topotecan .
+T14	i 176 229	pegylated liposomal doxorubicin ( PLD ) and topotecan
+T15	i 346 360	chemotherapy .
+T16	i 457 475	either PLD 50 mg/m
+T17	i 478 479	2
+T18	i 487 502	1-hour infusion
+T19	i 509 538	4 weeks or topotecan 1.5 mg/m
+T20	i 630 638	platinum
+T21	i 749 778	239 PLD and 235 topotecan ) .
+T22	i 950 967	PLD and topotecan
+T23	i 1068 1071	PLD
+T24	i 1076 1080	56.7
+T25	i 1091 1102	topotecan .
+T26	i 1202 1205	PLD
+T27	i 1271 1278	for PLD
+T28	i 1286 1290	23.3
+T29	i 1301 1312	topotecan .
+T30	i 1336 1339	PLD
+T31	i 1370 1379	topotecan
+T32	i 1618 1627	topotecan
+T33	i 1695 1708	growth factor
+T34	i 1846 1849	PLD
+T35	o 153 165	efficacy and
+T36	o 411 421	assessable
+T37	o 831 870	overall progression-free survival rates
+T38	o 923 945	overall response rates
+T39	o 1020 1049	Median overall survival times
+T40	o 1210 1237	progression-free survival (
+T41	o 1317 1339	overall survival , PLD
+T42	o 1370 1379	topotecan
+T43	o 1506 1526	significant survival
+T44	o 1569 1596	Severe hematologic toxicity
+T45	o 1695 1737	growth factor or blood product utilization
+T46	o 1766 1774	efficacy
+T47	o 1777 1803	favorable safety profile ,

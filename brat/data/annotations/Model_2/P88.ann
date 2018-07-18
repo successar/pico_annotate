@@ -1,0 +1,30 @@
+T1	i 43 49	Beluga
+T2	i 52 63	Huso huso (
+T3	i 107 128	clove powder solution
+T4	i 138 139	.
+T5	i 178 188	anesthesia
+T6	i 218 231	, Huso huso (
+T7	i 242 255	blood-sampled
+T8	i 268 298	without anesthesia ( control )
+T9	i 325 335	anesthesia
+T10	i 406 424	l?? clove solution
+T11	i 654 657	l??
+T12	i 684 685	.
+T13	i 741 744	l??
+T14	i 771 778	group .
+T15	i 863 866	l??
+T16	i 1049 1052	Cl?
+T17	i 1055 1057	K?
+T18	i 1177 1182	blood
+T19	o 12 39	biochemical characteristics
+T20	o 52 56	Huso
+T21	o 74 82	response
+T22	o 192 217	serum parameters , Beluga
+T23	o 220 224	Huso
+T24	o 442 455	Blood samples
+T25	o 570 597	cortisol and glucose levels
+T26	o 686 706	Serum lactate levels
+T27	o 779 793	Lactate levels
+T28	o 917 1048	serum levels of cholesterol , total protein , lactate dehydrogenase , aspartate aminotransferase , alanine aminotransferase , Na? ,
+T29	o 1053 1059	, K? ,
+T30	o 1064 1068	Ca??

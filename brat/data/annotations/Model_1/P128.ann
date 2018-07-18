@@ -1,0 +1,21 @@
+T1	p 45 90	patients with isolated hypertriglyceridemia .
+T2	p 356 401	patients with isolated hypertriglyceridemia .
+T3	p 429 579	39 patients with elevated triglyceride levels and peripheral artery sclerosis , treated for 90 days with either simvastatin ( 40 mg daily ) or placebo
+T4	p 1265 1333	fibrinolysis in patients with isolated hypertriglyceridemia and that
+T5	p 1364 1420	benefits to patients with elevated triglyceride levels .
+T6	i 16 27	simvastatin
+T7	i 294 305	simvastatin
+T8	i 541 552	simvastatin
+T9	i 572 581	placebo .
+T10	i 707 718	Simvastatin
+T11	i 729 736	placebo
+T12	i 1181 1219	suggest that statin treatment produces
+T13	o 324 352	coagulation and fibrinolysis
+T14	o 582 625	Plasma lipids , glucose homeostasis markers
+T15	o 630 650	hemostasic variables
+T16	o 778 814	plasma levels/activity of fibrinogen
+T17	o 855 876	0.01 ) , factor VII (
+T18	o 930 970	plasminogen activator inhibitor-1 ( from
+T19	o 1041 1088	reduction in von Willebrand factor levels , and
+T20	o 1096 1155	to prolong the prothrombin and partial thromboplastin times
+T21	o 1246 1289	on coagulation and fibrinolysis in patients

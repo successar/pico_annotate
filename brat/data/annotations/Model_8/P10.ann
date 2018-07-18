@@ -1,0 +1,72 @@
+T1	p 72 85	dogs and cats
+T2	p 122 137	North America .
+T3	p 300 313	dogs and cats
+T4	p 361 370	in dogs .
+T5	p 460 487	dogs and cats showing signs
+T6	p 504 520	dermatitis ( FAD
+T7	p 651 689	Dogs and cats with naturally occurring
+T8	p 759 760	,
+T9	p 845 871	( 220 dogs , 189 cats ) or
+T10	p 901 907	dogs :
+T11	p 924 932	; cats :
+T12	p 1277 1300	selamectin-treated dogs
+T13	p 1368 1389	fenthion-treated dogs
+T14	p 1531 1554	selamectin-treated cats
+T15	p 1622 1644	pyrethrin-treated cats
+T16	p 1787 1826	dogs and cats diagnosed clinically with
+T17	p 1831 1832	.
+T18	p 1841 1886	of 397 dogs free of adult heartworm infection
+T19	p 1892 1896	four
+T20	p 1924 1931	the USA
+T21	p 2098 2106	all dogs
+T22	p 2115 2123	negative
+T23	p 2128 2151	microfilariae and adult
+T24	p 2225 2278	total of 673 dogs and 347 cats having an age range of
+T25	p 2287 2300	to 19 years (
+T26	p 2320 2348	animals included 19 purebred
+T27	p 2352 2361	crossbred
+T28	p 2561 2574	dogs and cats
+T29	p 2641 2654	of in-contact
+T30	p 2849 2864	dogs and cats .
+T31	i 29 39	selamectin
+T32	i 48 53	fleas
+T33	i 58 68	heartworms
+T34	i 248 258	selamectin
+T35	i 436 456	selamectin treatment
+T36	i 517 522	FAD )
+T37	i 563 574	topically ,
+T38	i 811 818	topical
+T39	i 829 844	with selamectin
+T40	i 872 890	a positive-control
+T41	i 908 916	fenthion
+T42	i 933 943	pyrethrins
+T43	i 955 965	Selamectin
+T44	i 1156 1159	FAD
+T45	i 1827 1832	FAD .
+T46	i 1988 2024	selamectin ( n=298 ) or ivermectin (
+T47	i 2034 2044	Selamectin
+T48	i 2056 2065	heartworm
+T49	i 2192 2202	Selamectin
+T50	i 2340 2379	purebred or crossbred Collies ( Bearded
+T51	i 2490 2500	selamectin
+T52	i 2644 2654	in-contact
+T53	i 2728 2740	. Selamectin
+T54	i 2806 2816	heartworms
+T55	o 6 14	Efficacy
+T56	o 19 25	safety
+T57	o 225 244	efficacy and safety
+T58	o 248 258	selamectin
+T59	o 341 350	heartworm
+T60	o 1121 1127	counts
+T61	o 1132 1140	clinical
+T62	o 1257 1273	mean flea counts
+T63	o 1348 1364	mean flea counts
+T64	o 1468 1476	counts .
+T65	o 1511 1527	mean flea counts
+T66	o 1602 1618	mean flea counts
+T67	o 1723 1742	counts . Selamectin
+T68	o 1861 1866	adult
+T69	o 2077 2081	rate
+T70	o 2382 2388	Border
+T71	o 2425 2449	serious adverse events .
+T72	o 2702 2707	signs

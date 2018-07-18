@@ -1,0 +1,25 @@
+T1	p 19 69	hyaline membrane disease in the premature monkey :
+T2	p 196 290	premature monkey ( Macaca nemestrina ) model of hyaline membrane disease ( HMD ) . Twelve dams
+T3	p 406 428	Twelve control animals
+T4	p 447 484	Infants of dexamethasone-treated dams
+T5	i 81 106	antenatal dexamethasone .
+T6	i 137 171	antenatal glucocorticoid treatment
+T7	i 300 313	dexamethasone
+T8	i 438 446	saline .
+T9	i 458 479	dexamethasone-treated
+T10	i 805 826	dexamethasone-treated
+T11	i 1040 1061	dexamethasone-treated
+T12	i 1512 1525	dexamethasone
+T13	i 1623 1656	Antenatal dexamethasone treatment
+T14	o 509 538	incidence and severity of HMD
+T15	o 707 752	volume-pressure behavior of the excised lungs
+T16	o 770 784	distensibility
+T17	o 915 934	deflation stability
+T18	o 964 1023	production of surface active material ( SAM ) phospholipids
+T19	o 1097 1120	total lung phospholipid
+T20	o 1194 1228	alveolar lavage fluid phospholipid
+T21	o 1307 1368	alveolar lavage fluid disaturated phosphatidylcholine ( DPC )
+T22	o 1443 1489	Incorporation of 14C-palmitate into lung lipid
+T23	o 1688 1730	incidence and severity of experimental HMD
+T24	o 1823 1862	maturation of fetal pulmonary functions
+T25	o 1898 1940	synthetic metabolism of SAM phospholipid .

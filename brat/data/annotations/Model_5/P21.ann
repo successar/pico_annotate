@@ -1,0 +1,15 @@
+T1	p 218 282	patients with recently diagnosed rheumatoid arthritis ( RA ) and
+T2	p 333 418	Twenty-two patients with a history of recently diagnosed RA of less than 2 years were
+T3	p 544 552	patients
+T4	p 565 582	the control group
+T5	p 682 697	Patients became
+T6	p 712 726	more depressed
+T7	i 618 644	standard outpatient clinic
+T8	o 93 103	disability
+T9	o 106 143	illness perceptions , pain and coping
+T10	o 717 726	depressed
+T11	o 732 736	time
+T12	o 796 806	depression
+T13	o 856 928	level of depression , disability , pain , beliefs about the consequences
+T14	o 1069 1081	independence
+T15	o 1169 1180	perceptions

@@ -1,0 +1,22 @@
+T1	p 43 82	Autism Spectrum Disorders in Toddlers .
+T2	p 168 213	autism spectrum disorders ( ASD ) in toddlers
+T3	p 410 482	Autism in Toddlers ( RITA-T ) with ASD-specific diagnostic instruments .
+T4	p 602 705	toddlers with ASD from toddlers with developmental delay ( DD ) /non-ASD in an early childhood clinic .
+T5	p 751 790	toddlers with no developmental concerns
+T6	p 967 1003	total of 61 toddlers were enrolled .
+T7	p 1625 1677	toddlers in general pediatric and early intervention
+T8	i 8 38	New Interactive Screening Test
+T9	i 373 405	Rapid Interactive Screening Test
+T10	i 572 578	RITA-T
+T11	i 602 610	toddlers
+T12	i 620 674	from toddlers with developmental delay ( DD ) /non-ASD
+T13	i 1515 1521	RITA-T
+T14	i 1561 1570	screening
+T15	o 816 821	score
+T16	o 831 856	sensitivity , specificity
+T17	o 1011 1017	scores
+T18	o 1052 1062	diagnostic
+T19	o 1100 1118	clinical diagnoses
+T20	o 1144 1155	Mean scores
+T21	o 1370 1381	sensitivity
+T22	o 1392 1403	specificity

@@ -1,0 +1,46 @@
+T1	p 32 63	breast cancer risk counseling :
+T2	p 134 171	women with a family history of breast
+T3	p 246 276	experience excessive anxiety .
+T4	p 356 375	women , specialized
+T5	p 389 418	breast cancer risk counseling
+T6	p 439 484	in medical centers across the United States .
+T7	p 582 600	breast cancer risk
+T8	p 678 712	index breast cancer patients and 2
+T9	p 733 741	most and
+T10	p 867 896	breast cancer risk counseling
+T11	p 900 925	general health counseling
+T12	p 951 1029	200 women aged 35 years and older who had a family history of breast cancer in
+T13	p 1056 1111	Women with a personal history of cancer were excluded .
+T14	p 1208 1223	cancer risk and
+T15	p 1324 1347	women who received risk
+T16	p 1448 1450	in
+T17	p 1601 1609	of women
+T18	p 1857 1869	who had high
+T19	p 1888 1920	preoccupation with breast cancer
+T20	p 1962 1973	white women
+T21	p 2007 2034	African-American women ( OR
+T22	p 2114 2125	about their
+T23	p 2133 2139	cancer
+T24	p 2197 2203	cancer
+T25	p 2290 2308	breast cancer risk
+T26	p 2415 2450	cloned breast cancer susceptibility
+T27	i 51 63	counseling :
+T28	i 554 562	protocol
+T29	i 652 674	first-degree relatives
+T30	i 787 788	.
+T31	i 900 939	general health counseling ( control ) .
+T32	i 1343 1358	risk counseling
+T33	i 1681 1693	counseling .
+T34	o 184 210	exaggerated perceptions of
+T35	o 257 276	excessive anxiety .
+T36	o 280 288	response
+T37	o 296 315	need to communicate
+T38	o 632 645	personal risk
+T39	o 1112 1130	Risk comprehension
+T40	o 1163 1200	between perceived subjective lifetime
+T41	o 1407 1425	risk comprehension
+T42	o 1651 1656	risks
+T43	o 1798 1820	improved comprehension
+T44	o 1870 1876	levels
+T45	o 1880 1901	anxious preoccupation
+T46	o 2297 2303	cancer

@@ -1,0 +1,26 @@
+T1	p 346 362	root canals with
+T2	p 724 773	groups ( N = 12 ) and one control group ( N = 5 )
+T3	i 25 45	different irrigation
+T4	i 85 91	sealer
+T5	i 160 208	sonic , ultrasonic , and hydrodynamic devices in
+T6	i 226 243	root canal sealer
+T7	i 380 387	grooves
+T8	i 468 493	AH Plus root canal sealer
+T9	i 527 555	control ) syringe irrigation
+T10	i 564 574	CanalBrush
+T11	i 591 614	ultrasonic irrigation ,
+T12	i 621 634	EndoActivator
+T13	i 678 684	sealer
+T14	i 798 827	amount of remaining sealer in
+T15	i 832 857	root canal irregularities
+T16	i 915 921	system
+T17	i 946 952	sealer
+T18	i 1041 1062	ultrasonic irrigation
+T19	i 1340 1361	ultrasonic irrigation
+T20	i 1389 1403	sealer removal
+T21	i 1476 1491	lateral grooves
+T22	i 1605 1617	canal sealer
+T23	i 1676 1697	Ultrasonic irrigation
+T24	o 837 857	canal irregularities
+T25	o 965 978	canal surface
+T26	o 1272 1279	grooves

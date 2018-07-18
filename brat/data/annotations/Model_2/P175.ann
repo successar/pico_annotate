@@ -1,0 +1,51 @@
+T1	p 84 86	to
+T2	p 153 154	.
+T3	p 285 286	)
+T4	p 304 314	morphine (
+T5	p 605 647	20 patients undergoing lateral thoracotomy
+T6	p 652 666	lung resection
+T7	p 869 876	cough ,
+T8	p 920 944	forced expiratory volume
+T9	p 1842 1897	patients undergoing lateral thoracotomy who receive 0.5
+T10	i 56 71	nerve blocks as
+T11	i 87 99	subarachnoid
+T12	i 113 121	morphine
+T13	i 181 192	Thoracotomy
+T14	i 266 284	nerve blocks ( INB
+T15	i 291 314	subarachnoid morphine (
+T16	i 318 323	) act
+T17	i 628 656	lateral thoracotomy for lung
+T18	i 694 718	0.5 mg SM preoperatively
+T19	i 723 752	INB with bupivacaine ( INB+ )
+T20	i 768 821	closure or 0.5 mg SM with INB using saline ( INB- ) .
+T21	i 914 917	arm
+T22	i 968 971	and
+T23	i 1000 1001	)
+T24	i 1167 1171	INB+
+T25	i 1395 1399	INB+
+T26	i 1556 1557	,
+T27	i 1570 1574	INB+
+T28	i 1713 1721	adjuvant
+T29	i 1725 1734	0.5 mg SM
+T30	i 1739 1755	post-thoracotomy
+T31	i 1834 1837	INB
+T32	i 1862 1885	lateral thoracotomy who
+T33	i 1894 1900	0.5 mg
+T34	i 1904 1905	.
+T35	o 126 142	post-thoracotomy
+T36	o 212 216	pain
+T37	o 252 271	. Intercostal nerve
+T38	o 353 365	pain pathway
+T39	o 390 420	post-thoracotomy pain relief .
+T40	o 464 499	relieving post-thoracotomy pain and
+T41	o 510 523	postoperative
+T42	o 818 853	) . Visual analog scale pain scores
+T43	o 869 874	cough
+T44	o 920 947	forced expiratory volume in
+T45	o 968 1001	and forced vital capacity ( FVC )
+T46	o 1075 1078	use
+T47	o 1245 1261	) and FVC values
+T48	o 1315 1337	resting and cough pain
+T49	o 1456 1467	pain scores
+T50	o 1669 1696	pain and pulmonary function
+T51	o 1739 1765	post-thoracotomy analgesia

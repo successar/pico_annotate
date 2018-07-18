@@ -1,0 +1,45 @@
+T1	p 92 114	stable COPD patients .
+T2	p 129 158	COPD patients , reversibility
+T3	p 220 226	volume
+T4	p 596 630	60 COPD patients underwent dyspnea
+T5	p 789 800	?sRAW-based
+T6	p 842 853	45 patients
+T7	p 1250 1287	patients were stratified according to
+T8	p 1424 1432	criteria
+T9	i 241 246	) and
+T10	i 276 277	)
+T11	i 331 346	bronchodilators
+T12	i 392 400	trapping
+T13	i 462 470	specific
+T14	i 505 506	)
+T15	i 556 573	bronchodilators .
+T16	i 718 725	placebo
+T17	i 729 746	300?g indacaterol
+T18	i 931 938	?ITGV )
+T19	i 982 987	?RV )
+T20	i 1013 1017	?FVC
+T21	i 1045 1049	?VAS
+T22	i 1108 1112	?FVC
+T23	i 1192 1195	?RV
+T24	i 1352 1367	bronchodilators
+T25	i 1509 1518	mechanics
+T26	o 20 40	acute bronchodilator
+T27	o 63 88	airway resistance changes
+T28	o 202 229	forced expiratory volume at
+T29	o 247 270	forced vital capacity (
+T30	o 310 323	smooth muscle
+T31	o 371 423	hyperinflation , gas trapping , and possibly dyspnea
+T32	o 471 498	airway resistance changes (
+T33	o 631 686	evaluation ( VAS score ) and pulmonary function testing
+T34	o 772 784	Spirographic
+T35	o 871 876	?sRAW
+T36	o 904 936	intrathoracic gas volume ( ?ITGV
+T37	o 964 985	residual volume ( ?RV
+T38	o 1013 1017	?FVC
+T39	o 1045 1049	?VAS
+T40	o 1172 1177	?ITGV
+T41	o 1192 1195	?RV
+T42	o 1214 1218	?VAS
+T43	o 1231 1232	)
+T44	o 1331 1341	functional
+T45	o 1465 1530	bronchodilator-induced improvements of lung mechanics and dyspnea

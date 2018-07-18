@@ -1,0 +1,38 @@
+T1	p 304 356	patients with chronic immune thrombocytopenia during
+T2	p 452 530	adults with previously treated immune thrombocytopenia of more than 6 months '
+T3	p 544 599	had baseline platelet counts lower than 30,000 per ?L .
+T4	p 1503 1560	Between Nov 22 , 2006 , and July 31 , 2007 , 197 patients
+T5	p 2965 3035	patients who have not responded to splenectomy or previous treatment .
+T6	i 6 17	Eltrombopag
+T7	i 155 178	thrombopoietin receptor
+T8	i 274 300	eltrombopag versus placebo
+T9	i 424 442	placebo-controlled
+T10	i 667 737	local standard of care plus 50 mg eltrombopag or matching placebo once
+T11	i 1377 1384	placebo
+T12	i 1681 1688	placebo
+T13	i 1838 1845	placebo
+T14	i 1954 1961	placebo
+T15	i 2175 2182	placebo
+T16	i 2309 2316	placebo
+T17	i 2436 2443	placebo
+T18	i 2511 2518	placebo
+T19	i 2657 2664	placebo
+T20	i 2731 2738	placebo
+T21	i 2818 2831	eltrombopag .
+T22	i 2847 2858	Eltrombopag
+T23	o 51 67	thrombocytopenia
+T24	o 333 349	thrombocytopenia
+T25	o 490 506	thrombocytopenia
+T26	o 557 572	platelet counts
+T27	o 937 953	thrombocytopenia
+T28	o 956 980	and splenectomy status .
+T29	o 1106 1114	platelet
+T30	o 1153 1161	response
+T31	o 1190 1204	platelet count
+T32	o 1208 1226	50,000-400,000 per
+T33	o 2247 2253	rescue
+T34	o 2380 2401	thromboembolic events
+T35	o 2544 2591	in alanine aminotransferase concentration , and
+T36	o 2684 2701	total bilirubin .
+T37	o 2743 2766	serious bleeding events
+T38	o 2898 2921	immune thrombocytopenia

@@ -1,0 +1,7 @@
+T1	p 61 83	children with autism .
+T2	p 107 127	children with autism
+T3	p 316 396	47 teachers and children who were randomized to receive the COMPASS intervention
+T4	i 48 51	IEP
+T5	i 376 396	COMPASS intervention
+T6	i 1158 1161	IEP
+T7	o 576 601	child IEP goal attainment

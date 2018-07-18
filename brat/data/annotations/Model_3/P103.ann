@@ -1,0 +1,18 @@
+T1	p 73 114	acute nonlymphocytic leukemia in adults .
+T2	p 419 456	adult acute nonlymphocytic leukemia (
+T3	p 628 674	101 eligible cases ( bestatin : 48 , control :
+T4	p 959 967	50-65 yr
+T5	i 37 55	chemoimmunotherapy
+T6	i 61 69	bestatin
+T7	i 157 171	INN : Ubenimex
+T8	i 337 359	bestatin immunotherapy
+T9	i 380 414	remission maintenance chemotherapy
+T10	i 552 560	bestatin
+T11	i 587 599	po ) daily )
+T12	i 608 623	control group .
+T13	i 665 674	control :
+T14	i 700 708	bestatin
+T15	o 731 740	remission
+T16	o 803 813	survival .
+T17	o 826 851	prolongation of remission
+T18	o 1114 1122	survival

@@ -1,0 +1,18 @@
+T1	p 99 137	male adolescents and in Caco-2 cells .
+T2	p 234 279	adolescents and across Caco-2 cell monolayers
+T3	p 346 427	, 18 male adolescents consumed two diets , named white diet ( WD ) and brown diet
+T4	i 19 59	diets rich in Maillard reaction products
+T5	i 172 198	Maillard reaction products
+T6	i 381 434	diets , named white diet ( WD ) and brown diet ( BD )
+T7	o 71 88	bioavailability .
+T8	o 162 168	intake
+T9	o 172 198	Maillard reaction products
+T10	o 201 204	MRP
+T11	o 210 230	calcium availability
+T12	o 556 561	blood
+T13	o 606 620	and absorption
+T14	o 832 855	calcium bioavailability
+T15	o 950 1043	Serum and urine biochemical parameters related to calcium status and bone metabolism remained
+T16	o 1054 1085	. Only deoxypyridinoline values
+T17	o 1230 1253	efficient bone turnover
+T18	o 1414 1434	excessive MRP intake

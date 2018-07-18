@@ -1,0 +1,42 @@
+T1	p 71 86	tumor lesions .
+T2	p 215 243	forceps biopsy with cytology
+T3	p 375 393	malignant stenosis
+T4	p 480 486	cohort
+T5	p 490 500	patients .
+T6	p 623 629	biopsy
+T7	p 665 682	296 patients with
+T8	p 709 721	lesions were
+T9	p 731 737	in the
+T10	p 764 795	unit of a university hospital .
+T11	p 809 835	consecutively conducted 55
+T12	p 1818 1823	tumor
+T13	i 6 22	Cryoprobe biopsy
+T14	i 105 111	biopsy
+T15	i 215 229	forceps biopsy
+T16	i 235 243	cytology
+T17	i 309 318	cryoprobe
+T18	i 427 439	cryobiopsies
+T19	i 600 631	cryobiopsy and forceps biopsy .
+T20	i 860 880	, forceps biopsy and
+T21	i 1119 1129	cryobiopsy
+T22	i 1293 1307	forceps biopsy
+T23	i 1476 1486	cryobiopsy
+T24	i 1501 1508	forceps
+T25	i 1747 1757	Cryobiopsy
+T26	o 37 53	diagnostic yield
+T27	o 57 76	endobronchial tumor
+T28	o 268 278	diagnostic
+T29	o 569 599	diagnostic yield and safety of
+T30	o 881 891	cryobiopsy
+T31	o 998 1014	size and quality
+T32	o 1060 1087	safety and diagnostic yield
+T33	o 1119 1129	cryobiopsy
+T34	o 1247 1263	diagnostic yield
+T35	o 1438 1462	and artifact-free tissue
+T36	o 1536 1574	overall diagnostic yield of cryobiopsy
+T37	o 1588 1601	Mild bleeding
+T38	o 1635 1652	moderate bleeding
+T39	o 1685 1704	and severe bleeding
+T40	o 1761 1765	safe
+T41	o 1780 1800	the diagnostic yield
+T42	o 1804 1823	endobronchial tumor

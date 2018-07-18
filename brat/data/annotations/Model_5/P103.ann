@@ -1,0 +1,23 @@
+T1	p 61 69	bestatin
+T2	p 73 114	acute nonlymphocytic leukemia in adults .
+T3	p 419 461	adult acute nonlymphocytic leukemia ( ANLL
+T4	p 628 659	101 eligible cases ( bestatin :
+T5	p 931 949	15-49 yr age group
+T6	p 955 971	the 50-65 yr age
+T7	p 1151 1167	elderly patients
+T8	p 1192 1193	.
+T9	i 37 55	chemoimmunotherapy
+T10	i 61 69	bestatin
+T11	i 121 171	immunomodulating agent , bestatin ( INN : Ubenimex
+T12	i 337 414	bestatin immunotherapy in combination with remission maintenance chemotherapy
+T13	i 552 566	bestatin group
+T14	i 608 615	control
+T15	i 649 657	bestatin
+T16	i 694 695	;
+T17	i 700 708	bestatin
+T18	i 1008 1016	Bestatin
+T19	o 79 93	nonlymphocytic
+T20	o 724 740	longer remission
+T21	o 803 813	survival .
+T22	o 826 851	prolongation of remission
+T23	o 1114 1122	survival

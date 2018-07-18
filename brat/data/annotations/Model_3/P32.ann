@@ -1,0 +1,10 @@
+T1	p 458 517	PATIENTS Forty-eight patients having IVF for the first time
+T2	p 968 993	patients undergoing IVF .
+T3	i 37 98	ultrashort regimens of gonadotropin-releasing hormone agonist
+T4	i 180 251	ultrashort regimen of gonadotropin-releasing hormone agonist ( GnRH-a )
+T5	i 380 390	ultrashort
+T6	i 755 765	ultrashort
+T7	i 894 904	ultrashort
+T8	o 584 681	Response to ovarian stimulation and occurrence of spontaneous luteinizing hormone ( LH ) surges .
+T9	o 693 750	ovulation induction , fertilization , and pregnancy rates
+T10	o 868 878	LH surge .

@@ -1,0 +1,37 @@
+T1	p 140 172	patients undergoing laparatomy .
+T2	p 450 482	patients undergoing laparotomy .
+T3	p 491 568	Eighty patients ( 18 to 65 years of age ) undergoing elective laparotomy were
+T4	p 1921 1953	patients undergoing laparotomy .
+T5	p 2049 2081	patients undergoing laparatomy .
+T6	i 21 98	preoperative oral pregabalin and perioperative intravenous lidocaine infusion
+T7	i 160 170	laparatomy
+T8	i 223 300	preoperative oral pregabalin and perioperative intravenous lidocaine infusion
+T9	i 470 482	laparotomy .
+T10	i 544 563	elective laparotomy
+T11	i 636 697	, placebo capsules and normal saline infusion perioperatively
+T12	i 708 711	) ;
+T13	i 722 792	placebo capsules and lidocaine 1 mg?kg intravenous bolus dose followed
+T14	i 796 833	2 mg?kg?h infusion until skin closure
+T15	i 850 886	mg oral pregabalin and normal saline
+T16	i 929 932	150
+T17	i 935 1004	nbsp ; mg oral pregabalin and lidocaine 2 mg?kg?h infusion until skin
+T18	i 1322 1330	Morphine
+T19	i 1602 1679	Preoperative oral pregabalin and perioperative intravenous lidocaine infusion
+T20	i 1730 1745	oral pregabalin
+T21	i 1795 1834	intravenous lidocaine infusion hastened
+T22	i 1941 1953	laparotomy .
+T23	i 1966 2015	preoperative pregabalin with or without lidocaine
+T24	o 102 136	postoperative morphine requirement
+T25	o 304 356	postoperative morphine requirement , adverse effects
+T26	o 368 446	' satisfaction , mobilization , time to first defecation and time to discharge
+T27	o 1015 1185	Hemodynamic parameters , visual analogue scale ( VAS ) scores , analgesic consumption , side effects , time to mobilization , time to first defecation , time to discharge
+T28	o 1190 1213	patients ' satisfaction
+T29	o 1238 1248	VAS scores
+T30	o 1322 1342	Morphine consumption
+T31	o 1405 1424	Incidence of nausea
+T32	o 1480 1516	to first defecation and mobilization
+T33	o 1690 1716	postoperative VAS scores .
+T34	o 1756 1776	morphine requirement
+T35	o 1826 1883	hastened gastrointestinal motility and mobilization , and
+T36	o 1898 1917	incidence of nausea
+T37	o 2034 2045	pain relief

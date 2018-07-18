@@ -1,0 +1,10 @@
+T1	p 258 420	salbutamol . One hundred and fifty-six infants aged between 7 weeks and 24 months who had had an episode of wheezing and other signs and symptoms of bronchiolitis
+T2	i 6 24	Salbutamol or mist
+T3	i 172 179	placebo
+T4	i 565 590	mL saline ; ( ii ) saline
+T5	i 1351 1361	Salbutamol
+T6	o 824 841	respiratory score
+T7	o 856 907	. Respiratory rate , heart rate , oxygen saturation
+T8	o 1034 1051	respiratory score
+T9	o 1216 1226	Heart rate
+T10	o 1378 1396	effective and safe

@@ -1,0 +1,9 @@
+T1	p 441 454	young women .
+T2	p 623 733	elderly patients . Eighty-five ASA grade I or II patients ( aged 60-89 yr ) for elective total hip replacement
+T3	p 1438 1512	elderly patients undergoing elective procedures , withholding prehydration
+T4	i 761 828	500 mL crystalloid solution ( Hartmanns , n = 29 ) , 500 mL colloid
+T5	o 471 533	incidence and frequency of hypotension and vasopressor therapy
+T6	o 982 1005	systolic blood pressure
+T7	o 1093 1122	absolute systolic BP readings
+T8	o 1210 1234	incidence of hypotension
+T9	o 1540 1601	greater degree of hypotension or need for vasopressor therapy

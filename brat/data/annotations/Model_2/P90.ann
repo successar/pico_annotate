@@ -1,0 +1,35 @@
+T1	p 108 117	walking .
+T2	p 782 791	treadmill
+T3	p 1397 1422	closed-loop perturbations
+T4	p 1428 1438	conflicted
+T5	p 1444 1449	prior
+T6	p 1673 1687	pre-programmed
+T7	i 418 433	sensed feedback
+T8	i 739 751	optimization
+T9	i 765 791	perturbations to treadmill
+T10	i 868 894	step frequency adjustments
+T11	i 1182 1202	took tens of seconds
+T12	i 1428 1438	conflicted
+T13	i 1688 1693	gaits
+T14	i 1762 1771	fine-tune
+T15	i 1792 1798	direct
+T16	o 80 94	step frequency
+T17	o 189 203	expenditure of
+T18	o 351 356	speed
+T19	o 437 457	energy expenditure .
+T20	o 625 634	frequency
+T21	o 820 827	changes
+T22	o 831 847	step frequency .
+T23	o 873 894	frequency adjustments
+T24	o 961 969	response
+T25	o 985 1014	total amplitude change ; mean
+T26	o 1017 1019	SD
+T27	o 1092 1102	change ) .
+T28	o 1107 1122	other component
+T29	o 1130 1147	smaller amplitude
+T30	o 1169 1177	change )
+T31	o 1297 1309	optimization
+T32	o 1335 1360	pre-programmed response .
+T33	o 1518 1522	slow
+T34	o 1688 1693	gaits
+T35	o 1728 1732	step

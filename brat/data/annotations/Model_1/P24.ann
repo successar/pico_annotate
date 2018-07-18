@@ -1,0 +1,12 @@
+T1	p 68 79	pterygium ]
+T2	p 217 228	pterygium .
+T3	p 304 352	208 patients ( 229 eyes ) with initial pterygium
+T4	i 6 51	[ Limbal epithelial autograft transplantation
+T5	i 130 173	limbal epithelial autograft transplantation
+T6	i 178 196	pterygium excision
+T7	i 395 473	excision of pterygium with limbal epithelial autograft transplantation surgery
+T8	i 515 540	simple pterygium excision
+T9	i 1080 1123	limbal epithelial autograft transplantation
+T10	o 644 662	epithelial healing
+T11	o 670 719	abnormal proliferation of pterygium-like tissue .
+T12	o 968 976	recurred

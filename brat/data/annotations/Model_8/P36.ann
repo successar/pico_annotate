@@ -1,0 +1,31 @@
+T1	p 27 55	eastern cooperative oncology
+T2	p 121 129	melanoma
+T3	p 152 218	patients with stage IIB and III melanoma have participated in four
+T4	p 270 304	Eastern Cooperative Oncology Group
+T5	p 584 619	status were updated to April 2001 .
+T6	p 709 717	patients
+T7	p 832 860	from 713 patients randomized
+T8	p 978 993	E1694 confirmed
+T9	p 1069 1076	years .
+T10	p 1182 1193	7.2 years )
+T11	p 1331 1347	patients treated
+T12	p 1480 1508	, recurrent disease at entry
+T13	p 1533 1545	and age > 49
+T14	p 1776 1817	patients with high-risk resected melanoma
+T15	i 87 116	adjuvant high-dose interferon
+T16	i 340 379	adjuvant high-dose IFN-alpha 2b therapy
+T17	i 864 894	high-dose IFN-alpha 2b ( HDI )
+T18	i 1353 1356	HDI
+T19	i 1669 1672	HDI
+T20	i 1820 1823	HDI
+T21	o 563 583	Survival and disease
+T22	o 808 813	Obs )
+T23	o 893 894	)
+T24	o 1194 1277	, relapse-free survival ( RFS ) -but not overall survival ( OS ) -was significantly
+T25	o 1457 1499	OS included ulceration , recurrent disease
+T26	o 1642 1665	significant RFS benefit
+T27	o 1722 1724	OS
+T28	o 1879 1895	improved RFS and
+T29	o 1933 1935	OS
+T30	o 2036 2047	relapse and
+T31	o 2087 2098	therapeutic

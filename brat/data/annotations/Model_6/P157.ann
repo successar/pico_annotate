@@ -1,0 +1,13 @@
+T1	p 67 119	Three hundred forty-one Tanzanian preschool children
+T2	p 523 531	children
+T3	p 544 557	infected with
+T4	i 146 177	levamisole or placebo treatment
+T5	i 458 468	levamisole
+T6	i 478 493	placebo-treated
+T7	i 653 663	levamisole
+T8	i 688 695	placebo
+T9	i 769 776	placebo
+T10	o 211 230	Weights and heights
+T11	o 395 414	rate of weight gain
+T12	o 584 603	rate of weight gain
+T13	o 714 733	rate of height gain

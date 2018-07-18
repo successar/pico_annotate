@@ -1,0 +1,25 @@
+T1	p 304 334	208 patients ( 229 eyes ) with
+T2	p 450 465	transplantation
+T3	p 474 475	(
+T4	p 496 503	and 124
+T5	p 563 575	and 105 eyes
+T6	p 578 579	.
+T7	p 619 654	transparency with stable epithelial
+T8	p 1126 1145	for an injured limb
+T9	i 8 14	Limbal
+T10	i 68 77	pterygium
+T11	i 130 136	limbal
+T12	i 174 196	and pterygium excision
+T13	i 217 228	pterygium .
+T14	i 395 403	excision
+T15	i 407 416	pterygium
+T16	i 422 428	limbal
+T17	i 466 473	surgery
+T18	i 515 544	simple pterygium excision ( B
+T19	i 1061 1077	stem cell source
+T20	i 1080 1086	limbal
+T21	i 1205 1214	pterygium
+T22	o 130 147	limbal epithelial
+T23	o 597 605	recovery
+T24	o 655 710	healing and no abnormal proliferation of pterygium-like
+T25	o 1080 1097	limbal epithelial

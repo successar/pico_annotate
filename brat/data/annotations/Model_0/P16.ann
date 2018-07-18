@@ -1,0 +1,11 @@
+T1	p 241 307	patients with open angle glaucoma or ocular hypertension where IOP
+T2	p 431 585	patients with primary open angle glaucoma , capsular glaucoma , or ocular hypertension with an IOP of at least 21 mmHg on current therapy were recruited .
+T3	i 38 49	latanoprost
+T4	i 182 237	timolol to latanoprost or adding latanoprost to timolol
+T5	i 342 351	timolol .
+T6	i 736 878	timolol , one switched from timolol to latanoprost , 50 microg/ml once daily , and a third group received latanoprost in addition to timolol .
+T7	i 1290 1340	combined treatment . Adding latanoprost to timolol
+T8	i 1578 1589	latanoprost
+T9	o 135 163	intraocular pressure ( IOP )
+T10	o 883 891	efficacy
+T11	o 1645 1658	IOP reduction

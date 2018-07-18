@@ -1,0 +1,29 @@
+T1	p 66 97	adults with autistic disorder .
+T2	p 109 117	Autistic
+T3	p 379 400	persons with autism .
+T4	p 508 554	Thirty adults with autistic disorder completed
+T5	p 1562 1591	autistic disorder in adults .
+T6	p 1703 1741	children and adolescents with autism .
+T7	i 23 41	placebo-controlled
+T8	i 51 62	fluvoxamine
+T9	i 580 598	placebo-controlled
+T10	i 650 681	inhibitor fluvoxamine maleate .
+T11	i 907 914	placebo
+T12	i 936 947	Fluvoxamine
+T13	i 964 971	placebo
+T14	i 1355 1366	fluvoxamine
+T15	i 1472 1483	Fluvoxamine
+T16	i 1507 1514	placebo
+T17	i 1614 1625	fluvoxamine
+T18	i 1674 1684	inhibitors
+T19	o 682 700	Behavioral ratings
+T20	o 984 1016	repetitive thoughts and behavior
+T21	o 1032 1052	maladaptive behavior
+T22	o 1072 1082	aggression
+T23	o 1130 1148	social relatedness
+T24	o 1174 1182	language
+T25	o 1214 1222	response
+T26	o 1315 1323	sedation
+T27	o 1328 1334	nausea
+T28	o 1376 1387	tolerated .
+T29	o 1391 1448	dyskinesias , adverse cardiovascular events , or seizures

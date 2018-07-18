@@ -1,0 +1,19 @@
+T1	p 770 985	186 patients ( mean age 70 years , 123 ( 66 % ) female patients , 130 ( 70 % ) trauma ) who were referred for physiotherapy assessment/intervention . Referral occurred at any stage of the patients ' EECU admission .
+T2	p 1605 1624	for EECU patients ,
+T3	i 8 29	physiotherapy service
+T4	i 164 186	physiotherapy services
+T5	i 387 408	physiotherapy service
+T6	i 880 919	physiotherapy assessment/intervention .
+T7	i 1012 1032	medical/nursing care
+T8	i 1051 1064	physiotherapy
+T9	i 1085 1124	physiotherapy assessment/intervention .
+T10	i 1137 1150	physiotherapy
+T11	i 1583 1608	physiotherapy service for
+T12	o 83 112	admission rates to hospital :
+T13	o 432 588	rate of hospital admission , rate of re-presentation to the ED , visits to community healthcare practitioners , return to usual work/home/leisure activities
+T14	o 593 615	patient satisfaction .
+T15	o 1198 1227	rate of admission to hospital
+T16	o 1293 1326	rate of re-presentation to the ED
+T17	o 1410 1541	for use of community healthcare resources , return to usual work/home/leisure activities and satisfaction with their EECU care were
+T18	o 1668 1776	the rate of hospital admission , rate of re-presentation to the ED , use of community healthcare resources ,
+T19	o 1788 1870	the rate of return to usual work/home/leisure activities or patient satisfaction .

@@ -1,0 +1,21 @@
+T1	p 100 132	82 patients having postoperative
+T2	p 438 467	transparent adhesive dressing
+T3	p 577 578	.
+T4	p 589 596	percent
+T5	p 651 656	cm of
+T6	i 20 33	tunnelling on
+T7	i 142 151	analgesia
+T8	i 191 201	tunnelling
+T9	i 205 207	an
+T10	i 271 279	catheter
+T11	i 365 367	cm
+T12	i 403 467	standard method of fixation with a transparent adhesive dressing
+T13	i 505 522	epidural catheter
+T14	i 611 630	tunnelled catheters
+T15	i 712 735	non-tunnelled catheters
+T16	i 858 868	tunnelling
+T17	o 62 63	.
+T18	o 241 263	migration . Tunnelling
+T19	o 330 359	incidence of inward migration
+T20	o 572 576	area
+T21	o 799 825	Outward catheter migration

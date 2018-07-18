@@ -1,0 +1,30 @@
+T1	p 54 67	endopyelotomy
+T2	p 146 153	animals
+T3	p 159 163	good
+T4	p 191 207	of ureterotomy .
+T5	p 475 560	total of 57 consecutive patients with primary ureteropelvic junction obstruction were
+T6	p 645 646	)
+T7	p 655 660	group
+T8	p 663 664	)
+T9	p 899 948	group 26 patients were available for evaluation .
+T10	i 42 50	stenting
+T11	i 54 67	endopyelotomy
+T12	i 87 95	stenting
+T13	i 279 287	stenting
+T14	i 420 428	stenting
+T15	i 435 450	endopyelotomy .
+T16	i 583 636	7/14Fr internal endopyelotomy stent placement for 2 (
+T17	i 643 654	1 ) and 4 (
+T18	i 661 664	2 )
+T19	i 671 672	.
+T20	i 675 719	symptom based questionnaire was administered
+T21	i 723 763	all patients at stent removal . Followup
+T22	i 778 786	diuretic
+T23	i 861 880	diuretic renography
+T24	o 996 999	sex
+T25	o 1002 1010	symptoms
+T26	o 1015 1060	ipsilateral glomerular filtration rate . Mean
+T27	o 1262 1280	drainage pattern .
+T28	o 1319 1341	Stent related symptoms
+T29	o 1452 1489	incidence of urinary tract infections
+T30	o 1758 1771	complications

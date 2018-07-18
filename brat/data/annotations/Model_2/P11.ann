@@ -1,0 +1,60 @@
+T1	p 106 116	children .
+T2	p 190 200	children .
+T3	p 375 392	invasive diarrhea
+T4	p 406 415	emergency
+T5	p 422 442	in southern Israel .
+T6	p 726 748	infants and children .
+T7	p 770 857	From July 1996 through December 1997 , 201 evaluable children ages 6 months to 10 years
+T8	p 860 862	35
+T9	p 881 923	< 3 years ) presenting with acute invasive
+T10	p 950 964	Emergency Room
+T11	p 1125 1128	; n
+T12	p 1194 1202	Shigella
+T13	p 1205 1215	Salmonella
+T14	p 1218 1235	Campylobacter spp
+T15	p 1462 1472	patients :
+T16	p 1494 1495	;
+T17	p 1555 1574	% ) Campylobacter .
+T18	p 1674 1675	%
+T19	p 1680 1695	Campylobacter ,
+T20	p 2267 2270	all
+T21	p 2434 2475	pediatric patients requiring an emergency
+T22	i 6 54	Oral ciprofloxacin vs. intramuscular ceftriaxone
+T23	i 58 65	empiric
+T24	i 276 320	oral antibiotics , intramuscular ceftriaxone
+T25	i 469 487	parenteral regimen
+T26	i 650 661	formulation
+T27	i 665 678	ciprofloxacin
+T28	i 999 1061	ciprofloxacin suspension ( 10 mg/kg twice a day + im placebo ;
+T29	i 1071 1124	or im ceftriaxone ( 50 mg/kg/day + placebo suspension
+T30	i 1481 1498	% ) Shigella ; 23
+T31	i 1636 1644	Shigella
+T32	i 1803 1832	ciprofloxacin and ceftriaxone
+T33	i 2006 2014	Shigella
+T34	i 2019 2029	Salmonella
+T35	i 2110 2123	ciprofloxacin
+T36	i 2136 2149	; ceftriaxone
+T37	i 2298 2311	ciprofloxacin
+T38	i 2355 2366	ceftriaxone
+T39	i 2476 2480	room
+T40	o 85 102	invasive diarrhea
+T41	o 143 151	diarrhea
+T42	o 227 258	resistance of enteric pathogens
+T43	o 375 402	invasive diarrhea requiring
+T44	o 447 460	inconvenience
+T45	o 576 586	diarrhea .
+T46	o 614 633	efficacy and safety
+T47	o 705 722	invasive diarrhea
+T48	o 924 932	diarrhea
+T49	o 1175 1189	Stool cultures
+T50	o 1325 1353	Clinical response and safety
+T51	o 1430 1443	127 pathogens
+T52	o 1575 1608	Overall bacteriologic eradication
+T53	o 1738 1766	Clinical cure or improvement
+T54	o 1857 1876	Serum ciprofloxacin
+T55	o 1991 1997	values
+T56	o 2056 2083	drug-related adverse events
+T57	o 2194 2213	. Joint examination
+T58	o 2319 2323	safe
+T59	o 2328 2337	effective
+T60	o 2402 2433	invasive diarrhea in ambulatory

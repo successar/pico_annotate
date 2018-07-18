@@ -1,0 +1,6 @@
+T1	p 55 119	treatment . Three hundred forty-one Tanzanian preschool children
+T2	i 146 167	levamisole or placebo
+T3	i 688 695	placebo
+T4	o 395 414	rate of weight gain
+T5	o 584 603	rate of weight gain
+T6	o 714 733	rate of height gain

@@ -1,0 +1,25 @@
+T1	p 915 1014	control subjects who used open fires during the trial and received chimney stoves after the trial .
+T2	p 1098 1179	49 intervention and 70 control women 38-84 years of age , and 55 control subjects
+T3	i 6 57	Intervention to lower household wood smoke exposure
+T4	i 521 538	chimney woodstove
+T5	i 552 573	wood smoke exposure .
+T6	i 619 637	stove intervention
+T7	i 654 667	open fire use
+T8	i 841 868	randomized stove assignment
+T9	i 936 1041	used open fires during the trial and received chimney stoves after the trial . Electrocardiogram sessions
+T10	i 1215 1223	stoves .
+T11	i 1636 1658	the stove intervention
+T12	i 1912 1934	The stove intervention
+T13	o 79 124	ST-segment depression on electrocardiograms .
+T14	o 318 325	effects
+T15	o 683 704	ST-segment depression
+T16	o 718 750	heart rate variability ( HRV ) .
+T17	o 1224 1249	HRV and ST-segment values
+T18	o 1289 1310	ST-segment depression
+T19	o 1360 1376	Personal fine PM
+T20	o 1411 1442	PM?.? ] exposures were measured
+T21	o 1493 1513	PM?.? exposure means
+T22	o 1742 1769	for ST-segment depression .
+T23	o 1889 1911	with HRV . CONCLUSIONS
+T24	o 1977 2012	nonspecific ST-segment depression ,
+T25	o 2060 2109	affect ventricular repolarization and potentially

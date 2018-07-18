@@ -1,0 +1,20 @@
+T1	p 48 74	patients with depression .
+T2	p 218 261	patients with mild to moderate depression .
+T3	p 427 518	15 depressive patients who had been under antidepressant treatment for at least one month .
+T4	p 733 767	Patients in the experimental group
+T5	p 1039 1073	patients in the experimental group
+T6	p 1182 1201	Depressive patients
+T7	i 19 28	lifestyle
+T8	i 143 177	physical activity and sun exposure
+T9	i 469 493	antidepressant treatment
+T10	i 531 564	wrist-watch-like actimetry sensor
+T11	i 779 897	brief note in which they were explicitly asked to increase both their physical activity level and time of sun exposure
+T12	i 906 919	control group
+T13	i 933 977	not receive these explicit recommendations .
+T14	o 6 44	Adherence to lifestyle recommendations
+T15	o 143 177	physical activity and sun exposure
+T16	o 324 333	adherence
+T17	o 576 610	physical activity and sun exposure
+T18	o 849 897	physical activity level and time of sun exposure
+T19	o 1088 1130	time of sun exposure and physical activity
+T20	o 1206 1277	able to follow prescribed lifestyle recommendations in the short-term .

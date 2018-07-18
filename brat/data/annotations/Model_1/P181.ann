@@ -1,0 +1,8 @@
+T1	p 584 633	patients with multivessel coronary artery disease
+T2	p 1371 1497	4,244 BARI randomized and registry study participants with follow-up ECGs received at the Core ECG Laboratory as of March 1995
+T3	i 21 46	serial ECG classification
+T4	i 74 82	NOVACODE
+T5	i 400 433	serial ECG classification program
+T6	i 668 751	coronary artery bypass grafting or percutaneous transluminal coronary angioplasty .
+T7	o 387 433	computerized serial ECG classification program
+T8	o 803 846	serial changes in Q , ST , and T wave items

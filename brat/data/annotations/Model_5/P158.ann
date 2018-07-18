@@ -1,0 +1,22 @@
+T1	p 99 136	insulin dependent diabetes mellitus :
+T2	p 230 234	type
+T3	p 247 302	dependent ) diabetics without proliferative retinopathy
+T4	i 12 22	tightening
+T5	i 26 39	blood glucose
+T6	i 337 478	continuous subcutaneous insulin infusion , multiple insulin injections , or conventional insulin treatment ( controls ) . Near normoglycaemia
+T7	i 497 540	continuous infusion and multiple injections
+T8	i 549 578	with conventional treatment .
+T9	i 599 621	fluorescein angiograms
+T10	i 849 857	infusion
+T11	o 668 679	retinopathy
+T12	o 713 726	deterioration
+T13	o 892 917	retinal cotton wool spots
+T14	o 960 969	regressed
+T15	o 1053 1063	wool spots
+T16	o 1096 1106	wool spots
+T17	o 1150 1199	glycosylated haemoglobin and blood glucose values
+T18	o 1207 1241	frequent episodes of hypoglycaemia
+T19	o 1253 1261	duration
+T20	o 1265 1273	diabetes
+T21	o 1280 1314	more severe retinopathy at onset .
+T22	o 1341 1368	blood glucose concentration

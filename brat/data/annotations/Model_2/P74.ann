@@ -1,0 +1,66 @@
+T1	p 81 134	postmenopausal breast cancer survivors with bone loss
+T2	p 381 445	223 postmenopausal breast cancer survivors . Subjects who were >
+T3	p 582 612	) postmenopausal breast cancer
+T4	p 641 645	loss
+T5	p 754 759	total
+T6	p 764 773	, femoral
+T7	p 801 807	radius
+T8	p 812 814	33
+T9	p 858 892	2 ) subjects who also participated
+T10	p 896 911	strength/weight
+T11	p 1014 1026	3 ) subjects
+T12	p 1111 1125	Postmenopausal
+T13	p 1136 1137	)
+T14	p 1429 1443	women who took
+T15	p 1518 1523	total
+T16	p 1732 1741	total hip
+T17	p 1774 1788	, total radius
+T18	p 1961 1980	Subjects who were >
+T19	p 2047 2052	total
+T20	p 2100 2107	femoral
+T21	i 20 35	weight training
+T22	i 227 252	weight training exercises
+T23	i 283 294	risedronate
+T24	i 297 304	calcium
+T25	i 311 320	vitamin D
+T26	i 666 677	risedronate
+T27	i 680 687	calcium
+T28	i 694 703	vitamin D
+T29	i 896 937	strength/weight training ( ST ) exercises
+T30	i 1164 1202	exercise plus medication or medication
+T31	i 1263 1270	calcium
+T32	i 1275 1300	400 IU of vitamin D daily
+T33	i 1314 1325	risedronate
+T34	i 1343 1351	exercise
+T35	i 1375 1393	ST exercises twice
+T36	i 1444 1463	medications without
+T37	i 1617 1626	serum NTx
+T38	i 1857 1866	Serum NTx
+T39	i 2165 2199	Strength/weight training exercises
+T40	o 39 77	bone mineral density and bone turnover
+T41	o 266 279	effectiveness
+T42	o 336 377	or improving bone mineral density ( BMD )
+T43	o 483 501	improvement in BMD
+T44	o 629 645	) with bone loss
+T45	o 718 746	bone mineral density ( BMD )
+T46	o 760 763	hip
+T47	o 774 778	neck
+T48	o 787 792	spine
+T49	o 795 800	total
+T50	o 830 855	decreased bone turnover ;
+T51	o 950 970	increases in BMD and
+T52	o 992 1007	bone turnover ;
+T53	o 1097 1102	BMD .
+T54	o 1491 1513	improvements in BMD at
+T55	o 1544 1549	spine
+T56	o 1591 1599	Alkphase
+T57	o 1617 1622	serum
+T58	o 1691 1700	in BMD at
+T59	o 1756 1761	spine
+T60	o 1831 1839	Alkphase
+T61	o 1857 1862	Serum
+T62	o 1891 1923	changes in BMD and bone turnover
+T63	o 2100 2107	femoral
+T64	o 2212 2223	loss of BMD
+T65	o 2249 2253	risk
+T66	o 2258 2269	bone loss .

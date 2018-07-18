@@ -1,0 +1,5 @@
+T1	p 328 370	95 patients with atherosclerotic disease .
+T2	i 478 527	clofibrate or niceritrol , a nicotinic acid ester
+T3	i 647 679	diet , clofibrate and niceritrol
+T4	o 765 784	plasma lipid esters
+T5	o 1634 1672	cholesterol esters and triglycerides .

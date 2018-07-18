@@ -1,0 +1,13 @@
+T1	p 182 195	left coronary
+T2	p 360 402	16 patients with ischaemic heart disease .
+T3	i 56 61	media
+T4	i 145 158	Amidotrizoate
+T5	i 187 195	coronary
+T6	i 540 557	dipyridamole load
+T7	i 572 590	non-ionic contrast
+T8	o 32 55	nonionic x-ray contrast
+T9	o 76 109	perfusion and myocardial function
+T10	o 206 261	global myocardial perfusion and function ( pressures in
+T11	o 281 295	, heart rate )
+T12	o 332 344	transmission
+T13	o 447 467	myocardial perfusion

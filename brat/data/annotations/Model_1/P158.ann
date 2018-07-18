@@ -1,0 +1,18 @@
+T1	p 99 136	insulin dependent diabetes mellitus :
+T2	p 141 153	Oslo study .
+T3	p 168 302	retinopathy during one year of tight blood glucose control 45 type I ( insulin dependent ) diabetics without proliferative retinopathy
+T4	i 337 443	continuous subcutaneous insulin infusion , multiple insulin injections , or conventional insulin treatment
+T5	i 497 516	continuous infusion
+T6	i 521 540	multiple injections
+T7	i 734 753	continuous infusion
+T8	i 783 801	multiple injection
+T9	o 84 95	retinopathy
+T10	o 599 621	fluorescein angiograms
+T11	o 653 679	progression of retinopathy
+T12	o 892 917	retinal cotton wool spots
+T13	o 1046 1065	cotton wool spots .
+T14	o 1150 1199	glycosylated haemoglobin and blood glucose values
+T15	o 1216 1241	episodes of hypoglycaemia
+T16	o 1246 1273	longer duration of diabetes
+T17	o 1280 1303	more severe retinopathy
+T18	o 1341 1368	blood glucose concentration

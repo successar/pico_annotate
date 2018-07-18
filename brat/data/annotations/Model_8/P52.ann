@@ -1,0 +1,19 @@
+T1	p 118 136	pathologies of the
+T2	p 353 380	98 patients aged between 18
+T3	p 385 432	75 suffering from pain-inflammatory pathologies
+T4	i 59 69	nimesulide
+T5	i 73 84	suppository
+T6	i 204 218	pharmaceutical
+T7	i 266 278	. Nimesulide
+T8	i 335 347	flurbiprofen
+T9	i 488 503	one suppository
+T10	o 30 38	efficacy
+T11	o 46 55	tolerance
+T12	o 148 162	, and throat ]
+T13	o 169 194	efficacy and tolerability
+T14	o 536 597	marked anti-inflammatory , analgesic and antipyretic activity
+T15	o 627 650	progressive improvement
+T16	o 682 694	inflammatory
+T17	o 722 744	remission . Nimesulide
+T18	o 755 803	greater speed and duration of therapeutic action
+T19	o 824 854	effectiveness and tolerability

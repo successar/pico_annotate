@@ -1,0 +1,12 @@
+T1	p 838 862	patients in each group .
+T2	i 223 225	CT
+T3	i 297 299	CT
+T4	i 540 554	CT angiography
+T5	i 574 603	multidetector-row CT ( MDCT )
+T6	i 654 667	iopamidol 300
+T7	i 696 700	ml/s
+T8	i 710 726	of iopamidol 300
+T9	i 755 759	ml/s
+T10	i 769 788	ml of iopamidol 370
+T11	o 1215 1233	good arteriovenous
+T12	o 1475 1530	ICA attenuation without intracavernous attenuation gain

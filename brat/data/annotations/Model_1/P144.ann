@@ -1,0 +1,39 @@
+T1	p 6 70	Sedation during endoscopic retrograde cholangiopancreatography :
+T2	p 372 550	patients ' experiences using patient-controlled sedation ( PCS ) with propofol , nurse anesthetist-controlled sedation ( ACS ) , or the department 's standard of care , midazolam
+T3	p 560 596	the procedure team ( control group )
+T4	p 620 669	The study included 281 adults in 301 procedures .
+T5	i 6 14	Sedation
+T6	i 104 140	patient-controlled propofol sedation
+T7	i 161 180	nurse anesthetist .
+T8	i 223 231	sedation
+T9	i 401 498	patient-controlled sedation ( PCS ) with propofol , nurse anesthetist-controlled sedation ( ACS )
+T10	i 508 578	department 's standard of care , midazolam given by the procedure team
+T11	i 674 677	PCS
+T12	i 729 737	propofol
+T13	i 781 784	ACS
+T14	i 822 830	propofol
+T15	i 992 1001	midazolam
+T16	i 1058 1061	PCS
+T17	i 1066 1069	ACS
+T18	i 1162 1186	midazolam sedation ( ACS
+T19	i 1195 1198	PCS
+T20	i 1207 1216	midazolam
+T21	i 1232 1235	ACS
+T22	i 1342 1345	PCS
+T23	i 1350 1359	midazolam
+T24	i 1425 1453	following PCS . PCS resulted
+T25	i 1528 1547	for PCS and ACS was
+T26	i 1559 1590	CONCLUSION PCS with propofol is
+T27	i 1603 1616	midazolam and
+T28	i 1631 1649	ACS . PCS resulted
+T29	i 1730 1736	ACS in
+T30	o 328 365	safety , ease of treatment , recovery
+T31	o 372 394	patients ' experiences
+T32	o 1084 1105	ease of the procedure
+T33	o 1122 1149	number of sedation failures
+T34	o 1251 1307	deeply sedated patients ( OAA/S level 2 ) , desaturation
+T35	o 1314 1332	obstructed airways
+T36	o 1369 1415	Time to full recovery ( Aldrete score ?9 ) was
+T37	o 1461 1489	least fatigue and pain after
+T38	o 1494 1531	procedure . Patients ' preference for
+T39	o 1655 1698	rapid recovery , fewer respiratory events ,

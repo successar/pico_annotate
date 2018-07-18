@@ -1,0 +1,20 @@
+T1	p 23 39	asthma in adults
+T2	p 230 257	31 adult asthmatic patients
+T3	i 46 65	sodium cromoglycate
+T4	i 122 141	Sodium cromoglycate
+T5	i 205 212	placebo
+T6	i 311 330	Sodium cromoglycate
+T7	i 347 354	placebo
+T8	i 769 788	sodium cromoglycate
+T9	i 933 952	sodium cromoglycate
+T10	i 975 982	placebo
+T11	i 1053 1072	sodium cromoglycate
+T12	i 1136 1143	placebo
+T13	o 368 390	breathlessness at rest
+T14	o 415 441	breathlessness on exertion
+T15	o 471 487	quality of sleep
+T16	o 538 577	morning peak expiratory flow rate value
+T17	o 715 736	treatment preferences
+T18	o 988 1000	side-effects
+T19	o 1168 1186	asthmatic symptoms
+T20	o 1236 1267	bronchodilator therapy required

@@ -1,0 +1,21 @@
+T1	p 109 206	patients with primary Raynaud 's phenomenon in South Korea ; Korean Raynaud study ( KOARA study )
+T2	p 356 411	primary Raynaud 's phenomenon ( RP ) in Korea . Primary
+T3	p 1114 1131	Korean patients .
+T4	p 1163 1184	primary RP patients .
+T5	i 44 54	nifedipine
+T6	i 78 99	Ginkgo biloba extract
+T7	i 256 266	nifedipine
+T8	i 287 300	nifedipine SR
+T9	i 317 338	Ginkgo biloba extract
+T10	i 456 475	nifedipine SR group
+T11	i 495 522	Ginkgo biloba extract group
+T12	i 1023 1036	nifedipine SR
+T13	i 1061 1082	Ginkgo biloba extract
+T14	o 21 29	efficacy
+T15	o 34 40	safety
+T16	o 233 252	efficacy and safety
+T17	o 277 284	release
+T18	o 673 691	the RP attack rate
+T19	o 911 933	serious adverse events
+T20	o 956 970	adverse events
+T21	o 1023 1036	nifedipine SR

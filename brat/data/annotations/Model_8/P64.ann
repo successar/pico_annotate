@@ -1,0 +1,43 @@
+T1	p 234 235	.
+T2	p 602 611	) scanner
+T3	p 835 854	10 patients in each
+T4	p 889 915	bilateral internal carotid
+T5	p 925 926	(
+T6	p 951 992	trunk , bilateral cavernous sinuses ( CSs
+T7	i 6 21	Bolus injection
+T8	i 25 33	contrast
+T9	i 112 146	three-dimensional CT angiography :
+T10	i 205 235	multidetector-row CT scanner .
+T11	i 284 299	tomography ( CT
+T12	i 396 405	injection
+T13	i 522 556	three-dimensional CT angiography (
+T14	i 572 613	a multidetector-row CT ( MDCT ) scanner .
+T15	i 648 667	ml of iopamidol 300
+T16	i 707 726	ml of iopamidol 300
+T17	i 769 788	ml of iopamidol 370
+T18	i 899 933	internal carotid arteries ( ICAs )
+T19	i 936 943	basilar
+T20	i 951 956	trunk
+T21	i 969 978	cavernous
+T22	i 1001 1008	Galenic
+T23	i 1098 1110	four-channel
+T24	i 1116 1117	.
+T25	i 1299 1307	delivery
+T26	i 1323 1351	the intermediate concentrate
+T27	i 1432 1450	High-concentration
+T28	o 61 94	concentrations and delivery rates
+T29	o 161 173	intracranial
+T30	o 328 349	intracranial arterial
+T31	o 425 469	iodine delivery rate or higher concentration
+T32	o 684 688	rate
+T33	o 743 747	rate
+T34	o 805 809	rate
+T35	o 932 933	)
+T36	o 936 950	basilar artery
+T37	o 1009 1013	vein
+T38	o 1116 1117	.
+T39	o 1185 1233	iodine-delivery rate achieved good arteriovenous
+T40	o 1292 1298	iodine
+T41	o 1475 1490	ICA attenuation
+T42	o 1499 1513	intracavernous
+T43	o 1526 1530	gain

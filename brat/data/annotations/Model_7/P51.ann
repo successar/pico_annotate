@@ -1,0 +1,15 @@
+T1	p 283 503	Department of Obstetric and Gynecology 2nd Medical Faculty Charles University and Teaching Hospital Motol , Prague , and Department of Obstetric and Gynecology 1st Medical Faculty and Teaching Hospital Bulovka , Prague .
+T2	p 600 670	regimen to 50 women with clinical and lab signs of postpartal anemia .
+T3	i 66 84	ferrum preparation
+T4	i 205 223	ferrum preparation
+T5	i 383 388	Motol
+T6	i 447 503	Medical Faculty and Teaching Hospital Bulovka , Prague .
+T7	i 512 556	500 mg of sacharose ferric oxide ( Venofer )
+T8	i 1341 1384	trivalent saccharose ferric oxide treatment
+T9	o 651 668	postpartal anemia
+T10	o 745 760	red blood count
+T11	o 855 913	serum values of soluble transferrin receptors and ferritin
+T12	o 942 962	iron cell saturation
+T13	o 967 971	body
+T14	o 1043 1057	adverse events
+T15	o 1149 1165	pospartal anemia

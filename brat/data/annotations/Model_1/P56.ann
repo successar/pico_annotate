@@ -1,0 +1,20 @@
+T1	p 26 34	autism :
+T2	p 221 251	preschool children with autism
+T3	p 308 392	Participants were 58 children ( 46 boys ) with autism between 3 and 4 years of age .
+T4	p 1251 1279	young children with autism .
+T5	i 60 100	joint attention and play interventions .
+T6	i 170 217	joint attention ( JA ) and symbolic play ( SP )
+T7	i 423 459	JA intervention , an SP intervention
+T8	i 465 472	control
+T9	i 554 556	JA
+T10	i 566 568	SP
+T11	i 1051 1066	JA intervention
+T12	i 1125 1127	SP
+T13	i 1231 1233	JA
+T14	i 1238 1240	SP
+T15	o 6 22	Language outcome
+T16	o 273 289	language outcome
+T17	o 554 630	JA skills , SP skills , mother-child interactions , and language development
+T18	o 775 800	expressive language gains
+T19	o 806 813	greater
+T20	o 1067 1092	improved language outcome

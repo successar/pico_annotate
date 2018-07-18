@@ -1,0 +1,9 @@
+T1	p 92 114	stable COPD patients .
+T2	p 129 142	COPD patients
+T3	p 596 612	60 COPD patients
+T4	p 735 763	indacaterol administration .
+T5	i 718 725	placebo
+T6	o 623 678	dyspnea evaluation ( VAS score ) and pulmonary function
+T7	o 901 938	of intrathoracic gas volume ( ?ITGV )
+T8	o 964 987	residual volume ( ?RV )
+T9	o 1172 1177	?ITGV

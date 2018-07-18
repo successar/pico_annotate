@@ -1,0 +1,31 @@
+T1	p 131 150	venous thrombosis .
+T2	p 167 180	postoperative
+T3	p 193 205	thrombosis (
+T4	p 280 303	a hypercoagulable state
+T5	p 347 358	prophylaxis
+T6	p 624 627	the
+T7	p 924 952	the United States evaluating
+T8	p 1105 1211	surgical patients including those undergoing noncardiac thoracic and pelvic operations who were identified
+T9	p 1227 1231	high
+T10	p 1241 1267	postop DVT were included .
+T11	p 1454 1518	. Eight hundred and eighty eight patients were entered into this
+T12	p 1552 1561	the study
+T13	i 547 576	dihydroergotamine ( DHE ) and
+T14	i 676 683	current
+T15	i 718 724	theory
+T16	i 982 1012	DHE 0.5 mg plus heparin 5000 U
+T17	i 1015 1062	DHE 0.5 mg plus heparin 2500 U , heparin 5000 U
+T18	i 1069 1096	DHE 0.5 mg versus placebo .
+T19	i 1325 1339	preoperatively
+T20	i 1620 1627	DHE/Hep
+T21	i 1645 1652	placebo
+T22	i 1696 1702	active
+T23	o 126 148	deep venous thrombosis
+T24	o 167 205	postoperative deep venous thrombosis (
+T25	o 298 303	state
+T26	o 429 430	.
+T27	o 567 572	DHE )
+T28	o 793 799	injury
+T29	o 970 978	efficacy
+T30	o 1241 1251	postop DVT
+T31	o 1436 1437	)

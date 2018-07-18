@@ -1,0 +1,18 @@
+T1	p 70 161	postoperative rectal cancer patients treated with adjuvant concurrent chemoradiotherapy ] .
+T2	p 331 441	postoperative rectal cancer patients who received capecitabine-based postoperative chemoradiotherapy ( CRT ) .
+T3	p 450 507	Four hundred patients with stage II and III rectal cancer
+T4	p 678 728	two groups . Two hundred and twenty-eight patients
+T5	p 2527 2665	postoperative stage II and III rectal cancer patients treated with adjuvant concurrent chemoradiotherapy of capecitabine and oxaliplatin .
+T6	i 120 159	adjuvant concurrent chemoradiotherapy ]
+T7	i 381 437	capecitabine-based postoperative chemoradiotherapy ( CRT
+T8	i 517 578	postoperative CRT of capecitabine with or without oxaliplatin
+T9	i 747 799	concurrent capecitabine and radiotherapy ( Cap-CRT )
+T10	i 837 883	capecitabine and oxaliplatin plus radiotherapy
+T11	i 2594 2665	adjuvant concurrent chemoradiotherapy of capecitabine and oxaliplatin .
+T12	o 46 66	acute adverse events
+T13	o 1079 1151	polymerase chain reaction-based restriction fragment length polymorphism
+T14	o 1600 1614	AEs . Diarrhea
+T15	o 1635 1668	AE , and severe diarrhea occurred
+T16	o 1946 1990	1.66-fold increased risk for severe diarrhea
+T17	o 2200 2244	2.34-fold increased risk for severe diarrhea
+T18	o 2390 2415	risk of severe diarrhea .

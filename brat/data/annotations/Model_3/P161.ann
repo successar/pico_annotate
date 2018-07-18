@@ -1,0 +1,15 @@
+T1	p 133 150	middle aged men .
+T2	p 249 319	31 healthy middle aged men undertook regular physical exercise for two
+T3	p 1200 1223	healthy middle aged men
+T4	i 17 39	mild physical exercise
+T5	i 175 192	physical exercise
+T6	i 294 311	physical exercise
+T7	i 403 411	exercise
+T8	o 403 444	exercise serum cholesterol concentrations
+T9	o 477 508	density lipoprotein subfraction
+T10	o 604 632	density lipoprotein fraction
+T11	o 690 789	plasma 6-keto-prostaglandin F1 alpha concentration and decreased serum thromboxane B2 concentration
+T12	o 844 875	prostaglandin E2 concentrations
+T13	o 913 963	plasma 6-keto-prostaglandin F1 alpha concentration
+T14	o 999 1035	serum HDL2 cholesterol concentration
+T15	o 1150 1174	cholesterol distribution

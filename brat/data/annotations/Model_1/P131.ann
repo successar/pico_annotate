@@ -1,0 +1,19 @@
+T1	p 100 204	ADHD and Autism . Attention deficit hyperactivity disorder ( ADHD ) and autism spectrum disorder ( ASD )
+T2	p 612 680	Age-matched boys with ADHD ( 15 ) , ASD ( 18 ) , and controls ( 21 )
+T3	p 1345 1353	ASD boys
+T4	i 24 34	Fluoxetine
+T5	i 317 366	selective serotonin reuptake inhibitors ( SSRIs )
+T6	i 596 600	SSRI
+T7	i 700 746	functional magnetic resonance imaging ( fMRI )
+T8	i 832 853	Fluoxetine or placebo
+T9	i 874 892	placebo-controlled
+T10	i 1107 1114	placebo
+T11	i 1281 1291	Fluoxetine
+T12	i 1421 1428	placebo
+T13	i 1491 1501	Fluoxetine
+T14	o 965 979	drug effects .
+T15	o 1141 1174	medial prefrontal cortex ( mPFC )
+T16	o 1252 1274	precuneus activation .
+T17	o 1294 1309	mPFC activation
+T18	o 1464 1480	task performance
+T19	o 1535 1550	mPFC activation

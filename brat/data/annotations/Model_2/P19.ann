@@ -1,0 +1,33 @@
+T1	p 43 66	myocardial infarction ]
+T2	p 117 138	myocardial infarction
+T3	p 227 251	patients on thrombolytic
+T4	p 291 328	106 males with Q-MI entered the study
+T5	p 378 398	30 patients received
+T6	p 437 448	29 patients
+T7	p 1038 1046	patients
+T8	p 1090 1126	ventricular systolic dysfunction and
+T9	i 6 39	[ Neoton and thrombolytic therapy
+T10	i 85 99	neoton therapy
+T11	i 144 145	)
+T12	i 239 267	thrombolytic therapy ( TLT )
+T13	i 343 375	treatment without TLT and neoton
+T14	i 399 436	TLT with streptokinase preparations ,
+T15	i 460 499	streptokinase preparations and neoton .
+T16	i 551 567	echocardiography
+T17	i 638 648	monitoring
+T18	i 667 669	MI
+T19	i 791 797	neoton
+T20	i 976 982	neoton
+T21	i 1019 1025	Neoton
+T22	i 1057 1060	TLT
+T23	o 117 127	myocardial
+T24	o 149 166	systolic function
+T25	o 174 223	left ventricle , arrhythmia and clinical symptoms
+T26	o 498 534	. Left ventricular systolic function
+T27	o 602 614	; arrhythmia
+T28	o 694 741	arrest progression of left ventricular dilation
+T29	o 760 773	hospital stay
+T30	o 843 877	end systolic and diastolic volumes
+T31	o 881 884	the
+T32	o 949 972	. Antiarrhythmic action
+T33	o 1070 1110	progression of left ventricular systolic

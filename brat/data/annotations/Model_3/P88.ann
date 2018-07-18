@@ -1,0 +1,8 @@
+T1	i 107 128	clove powder solution
+T2	i 268 298	without anesthesia ( control )
+T3	i 325 424	anesthesia procedure : 40 , 120 , and 240 s exposure to 3,000 , 700 , and 500 mg l?? clove solution
+T4	i 654 657	l??
+T5	o 570 597	cortisol and glucose levels
+T6	o 686 706	Serum lactate levels
+T7	o 779 793	Lactate levels
+T8	o 917 1070	serum levels of cholesterol , total protein , lactate dehydrogenase , aspartate aminotransferase , alanine aminotransferase , Na? , Cl? , K? , and Ca?? .

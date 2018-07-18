@@ -1,0 +1,19 @@
+T1	p 44 70	cholangiopancreatography :
+T2	p 630 695	included 281 adults in 301 procedures . The PCS group ( n = 101 )
+T3	i 44 68	cholangiopancreatography
+T4	i 104 140	patient-controlled propofol sedation
+T5	i 161 180	nurse anesthetist .
+T6	i 250 292	retrograde cholangiopancreatography ( ERCP
+T7	i 401 428	patient-controlled sedation
+T8	i 442 496	propofol , nurse anesthetist-controlled sedation ( ACS
+T9	i 541 550	midazolam
+T10	i 729 737	propofol
+T11	i 992 1001	midazolam
+T12	i 1162 1180	midazolam sedation
+T13	i 1579 1587	propofol
+T14	i 1603 1612	midazolam
+T15	o 328 428	safety , ease of treatment , recovery , and patients ' experiences using patient-controlled sedation
+T16	o 1084 1149	ease of the procedure and reduced the number of sedation failures
+T17	o 1377 1406	full recovery ( Aldrete score
+T18	o 1461 1483	least fatigue and pain
+T19	o 1661 1696	recovery , fewer respiratory events

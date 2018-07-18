@@ -1,0 +1,28 @@
+T1	p 54 102	previously untreated advanced breast cancer -- a
+T2	p 643 697	previously untreated metastatic breast cancer patients
+T3	p 1258 1521	Patients had to have histologically documented measurable breast cancer and a performance status of 0-1 . Patients could not have had prior chemotherapy for metastatic disease . Prior adjuvant chemotherapy was permitted . Patients could not have visceral crisis .
+T4	p 2284 2329	previously untreated breast cancer patients .
+T5	i 6 17	Amonafide :
+T6	i 154 163	Amonafide
+T7	i 498 507	Amonafide
+T8	i 788 840	standard cyclophosphamide-doxorubicin-5-fluorouracil
+T9	i 849 928	immediate treatment with standard cyclophosphamide-doxorubicin-5-fluorouracil .
+T10	i 1133 1142	amonafide
+T11	i 1186 1229	cyclophosphamide-doxorubicin-5-fluorouracil
+T12	i 1522 1531	Amonafide
+T13	i 2252 2261	amonafide
+T14	o 988 1030	survival , toxicity , and overall response
+T15	o 1701 1715	hematotoxicity
+T16	o 1734 1742	Toxicity
+T17	o 1794 1817	grade 3 or 4 leukopenia
+T18	o 1831 1862	grade 3 or 4 thrombocytopenia ;
+T19	o 1875 1885	leukopenia
+T20	o 1902 1920	thrombocytopenia .
+T21	o 1925 1938	response rate
+T22	o 2014 2036	hematological toxicity
+T23	o 2083 2093	leukopenia
+T24	o 2151 2159	response
+T25	o 2176 2192	thrombocytopenia
+T26	o 2345 2370	steep dose-response curve
+T27	o 2418 2434	myelosuppression
+T28	o 2450 2468	Rates of responses

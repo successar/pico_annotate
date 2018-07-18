@@ -1,0 +1,24 @@
+T1	p 72 123	zoster vaccine in healthy adults ?60 years of age .
+T2	p 507 538	with 210 subjects ?60 years old
+T3	p 1674 1696	adults ?60 years old .
+T4	i 72 86	zoster vaccine
+T5	i 333 340	vaccine
+T6	i 632 645	vs. placebo .
+T7	i 681 748	VZV interferon-gamma ( IFN-? ) enzyme-linked immunospot ( ELISPOT )
+T8	i 776 803	enzyme-linked immunosorbent
+T9	i 912 918	Card .
+T10	i 1304 1311	placebo
+T11	i 1500 1507	placebo
+T12	o 6 48	Safety , tolerability , and immunogenicity
+T13	o 646 660	Immunogenicity
+T14	o 726 736	immunospot
+T15	o 739 748	ELISPOT )
+T16	o 755 860	and VZV glycoprotein enzyme-linked immunosorbent antibody ( gpELISA ) assay . Adverse experiences ( AEs )
+T17	o 930 957	serious vaccine-related AEs
+T18	o 969 1085	VZV IFN-? ELISPOT geometric mean count ( GMC ) of spot-forming cells per 10 ( 6 ) peripheral blood mononuclear cells
+T19	o 1245 1248	GMC
+T20	o 1356 1377	peak ELISPOT response
+T21	o 1421 1459	gpELISA geometric mean titers ( GMTs )
+T22	o 1567 1599	IFN-? ELISPOT and gpELISA assays
+T23	o 1640 1670	well-tolerated and immunogenic
+T24	o 1756 1777	VZV-specific immunity

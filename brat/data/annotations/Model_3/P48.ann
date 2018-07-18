@@ -1,0 +1,14 @@
+T1	p 63 125	asthma due to house dust mite Dermatophagoides pteronyssinus :
+T2	p 387 421	10 patients with asthma due to HDM
+T3	i 29 59	inhalation of a powder extract
+T4	i 93 123	Dermatophagoides pteronyssinus
+T5	i 157 183	parenteral immunotherapy .
+T6	i 231 318	local immunotherapy ( LI ) by inhalation of a powder extract of house dust mite ( HDM )
+T7	i 340 384	parenteral immunotherapy ( PI ) by injection
+T8	i 489 532	LI and subcutaneous injections of placebo ,
+T9	i 566 594	PI and inhalation of lactose
+T10	i 676 697	disodium cromoglycate
+T11	o 756 826	symptoms score and in peak expiratory flow ( PEF ) -derived parameters
+T12	o 902 942	late component of the bronchial response
+T13	o 1228 1245	adverse reactions
+T14	o 1287 1299	side effects

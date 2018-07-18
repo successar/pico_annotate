@@ -1,0 +1,14 @@
+T1	p 403 434	Thirty-five university students
+T2	i 34 48	Reichert AT550
+T3	i 250 264	Reichert AT550
+T4	i 326 345	Reichert Xpert Plus
+T5	i 348 378	Goldmann applanation tonometer
+T6	i 383 400	Perkins tonometer
+T7	i 790 799	AT550 NCT
+T8	i 995 1013	Goldmann tonometer
+T9	i 1095 1104	AT550 NCT
+T10	i 1156 1174	Goldmann tonometry
+T11	o 6 26	Clinical performance
+T12	o 128 145	level of accuracy
+T13	o 150 162	measurements
+T14	o 1082 1085	IOP

@@ -1,0 +1,37 @@
+T1	p 17 61	minimally invasive total knee arthroplasty :
+T2	p 161 192	total knee arthroplasty ( TKA )
+T3	p 468 527	patients undergoing minimally invasive TKA using custom-fit
+T4	p 614 652	80 patients was carried out . Patients
+T5	p 680 696	2 equal groups .
+T6	i 6 16	Custom-fit
+T7	i 136 150	custom-fit pin
+T8	i 311 325	intramedullary
+T9	i 336 340	jigs
+T10	i 498 573	invasive TKA using custom-fit magnetic resonance imaging ( MRI ) -based pin
+T11	i 712 741	intramedullary alignment jigs
+T12	i 776 800	custom-fit MRI-based pin
+T13	i 851 896	cemented posterior-stabilized implant through
+T14	i 899 922	mini-midvastus approach
+T15	i 1833 1847	custom-fit pin
+T16	o 72 82	blood loss
+T17	o 257 261	time
+T18	o 361 371	blood loss
+T19	o 426 455	blood loss and early clinical
+T20	o 929 956	volume in the drain bottles
+T21	o 982 989	Hb loss
+T22	o 1023 1036	postoperative
+T23	o 1046 1112	preoperative Hb level . Transfusion requirements and surgical time
+T24	o 1151 1220	Knee Society Scores ( KSS ) , knee flexion , knee swelling and pain .
+T25	o 1245 1267	mean drainage of blood
+T26	o 1356 1376	estimated loss of Hb
+T27	o 1415 1442	in transfusion requirements
+T28	o 1471 1484	Surgical time
+T29	o 1551 1554	KSS
+T30	o 1635 1647	Knee flexion
+T31	o 1695 1717	knee swelling and pain
+T32	o 1855 1879	reduces blood drainage ,
+T33	o 1892 1909	estimated Hb loss
+T34	o 1956 1988	transfusion rate . Surgical time
+T35	o 2034 2051	clinical outcomes
+T36	o 2072 2083	Therapeutic
+T37	o 2092 2101	Level I .

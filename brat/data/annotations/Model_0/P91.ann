@@ -1,0 +1,8 @@
+T1	p 94 117	chronic periodontitis :
+T2	p 388 460	Twenty-four patients presenting with ?12 teeth with probing depth ( PD )
+T3	i 37 90	subgingival controlled-release chlorhexidine delivery
+T4	i 231 263	chlorhexidine ( CHX ) chips used
+T5	i 575 600	placebo chips ( control )
+T6	i 1642 1649	placebo
+T7	o 1184 1196	Serum levels
+T8	o 1512 1537	clinical attachment level

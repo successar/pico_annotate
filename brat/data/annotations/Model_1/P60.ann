@@ -1,0 +1,13 @@
+T1	p 226 234	subjects
+T2	p 850 858	Subjects
+T3	i 66 86	Vibrotactile stimuli
+T4	i 241 255	auditory tones
+T5	i 324 345	vibrotactile stimulus
+T6	i 440 569	auditory stimulation ( no tone , tone at detection threshold , tone at 5 dB above threshold , and tone at 10 dB above threshold )
+T7	i 590 611	vibrotactile stimulus
+T8	i 876 888	vibrotaction
+T9	i 932 944	vibrotaction
+T10	i 998 1039	conditions without vibrotactile stimuli .
+T11	i 1063 1075	vibrotaction
+T12	i 1175 1187	vibrotaction
+T13	o 639 675	perceived loudness of auditory tones

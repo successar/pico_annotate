@@ -1,0 +1,46 @@
+T1	p 70 159	postoperative rectal cancer patients treated with adjuvant concurrent chemoradiotherapy ]
+T2	p 345 433	rectal cancer patients who received capecitabine-based postoperative chemoradiotherapy (
+T3	p 450 578	Four hundred patients with stage II and III rectal cancer received postoperative CRT of capecitabine with or without oxaliplatin
+T4	p 691 741	Two hundred and twenty-eight patients were treated
+T5	p 1373 1385	136 patients
+T6	p 1396 1402	severe
+T7	p 2565 2580	cancer patients
+T8	i 18 42	CCND1 A870G polymorphism
+T9	i 120 159	adjuvant concurrent chemoradiotherapy ]
+T10	i 233 288	between single nucleotide polymorphism ( SNP ) of CCND1
+T11	i 313 327	events ( AEs )
+T12	i 345 351	rectal
+T13	i 381 439	capecitabine-based postoperative chemoradiotherapy ( CRT )
+T14	i 517 613	postoperative CRT of capecitabine with or without oxaliplatin were accumulated and prostectively
+T15	i 747 799	concurrent capecitabine and radiotherapy ( Cap-CRT )
+T16	i 832 916	with capecitabine and oxaliplatin plus radiotherapy ( Cap-Oxa-CRT ) . Adverse events
+T17	i 922 928	graded
+T18	i 946 964	Common Terminology
+T19	i 995 997	v.
+T20	i 1004 1009	CTCAE
+T21	i 1079 1164	polymerase chain reaction-based restriction fragment length polymorphism ( PCR-RFLP )
+T22	i 1205 1208	SNP
+T23	i 1459 1461	GG
+T24	i 1726 1728	GG
+T25	i 2085 2087	GG
+T26	i 2091 2093	GA
+T27	i 2306 2308	GG
+T28	i 2312 2314	GA
+T29	i 2594 2665	adjuvant concurrent chemoradiotherapy of capecitabine and oxaliplatin .
+T30	o 46 66	acute adverse events
+T31	o 902 916	Adverse events
+T32	o 953 973	Terminology Criteria
+T33	o 978 992	Adverse Events
+T34	o 1096 1175	reaction-based restriction fragment length polymorphism ( PCR-RFLP ) analysis .
+T35	o 1209 1222	and acute AEs
+T36	o 1246 1252	ratios
+T37	o 1255 1258	ORs
+T38	o 1403 1406	AEs
+T39	o 1464 1473	GA and AA
+T40	o 1600 1614	AEs . Diarrhea
+T41	o 1640 1659	and severe diarrhea
+T42	o 1716 1740	genotypes GG , GA and AA
+T43	o 1884 1894	diarrhea .
+T44	o 1966 1990	risk for severe diarrhea
+T45	o 2220 2244	risk for severe diarrhea
+T46	o 2398 2415	severe diarrhea .

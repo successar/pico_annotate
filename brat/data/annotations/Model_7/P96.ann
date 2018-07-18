@@ -1,0 +1,23 @@
+T1	p 36 64	emergency extended care unit
+T2	p 213 276	departments ( EDs ) and emergency extended care units ( EECUs )
+T3	p 290 298	patients
+T4	p 753 928	sample comprised 186 patients ( mean age 70 years , 123 ( 66 % ) female patients , 130 ( 70 % ) trauma ) who were referred for physiotherapy assessment/intervention . Referral
+T5	p 945 950	stage
+T6	p 954 985	the patients ' EECU admission .
+T7	i 8 29	physiotherapy service
+T8	i 36 59	emergency extended care
+T9	i 164 186	physiotherapy services
+T10	i 203 212	emergency
+T11	i 225 232	( EDs )
+T12	i 237 276	emergency extended care units ( EECUs )
+T13	i 492 494	ED
+T14	i 560 577	work/home/leisure
+T15	i 1012 1027	medical/nursing
+T16	i 1085 1124	physiotherapy assessment/intervention .
+T17	o 93 98	rates
+T18	o 920 928	Referral
+T19	o 1198 1227	rate of admission to hospital
+T20	o 1293 1297	rate
+T21	o 1431 1515	healthcare resources , return to usual work/home/leisure activities and satisfaction
+T22	o 1672 1705	rate of hospital admission , rate
+T23	o 1780 1868	improve the rate of return to usual work/home/leisure activities or patient satisfaction

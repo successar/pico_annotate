@@ -1,0 +1,12 @@
+T1	p 6 80	Protection of man from natural infection with influenza A2 Hong Kong virus
+T2	p 314 423	391 medical student volunteers during the influenza A2 Hong Kong epidemic in Helsinki in the winter of 1969 .
+T3	p 544 633	27 out of 192 students in the amantadine group against 57 out of 199 in the placebo group
+T4	i 84 96	amantadine :
+T5	i 155 165	amantadine
+T6	i 574 590	amantadine group
+T7	i 620 633	placebo group
+T8	o 6 16	Protection
+T9	o 29 80	natural infection with influenza A2 Hong Kong virus
+T10	o 232 273	protection against influenza A2 infection
+T11	o 424 456	Serologically verified influenza
+T12	o 474 529	complement fixation and/or haemagglutination inhibition

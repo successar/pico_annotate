@@ -1,0 +1,23 @@
+T1	p 473 571	A total of 57 consecutive patients with primary ureteropelvic junction obstruction were randomized
+T2	p 583 589	7/14Fr
+T3	p 899 931	group 26 patients were available
+T4	p 1237 1245	patients
+T5	p 1479 1489	infections
+T6	i 54 67	endopyelotomy
+T7	i 87 95	stenting
+T8	i 206 207	.
+T9	i 338 339	.
+T10	i 420 428	stenting
+T11	i 435 450	endopyelotomy .
+T12	i 583 628	7/14Fr internal endopyelotomy stent placement
+T13	i 689 702	questionnaire
+T14	i 739 754	stent removal .
+T15	i 861 882	diuretic renography .
+T16	i 1578 1588	stenting .
+T17	o 164 171	healing
+T18	o 675 702	symptom based questionnaire
+T19	o 996 1060	sex , symptoms and ipsilateral glomerular filtration rate . Mean
+T20	o 1262 1278	drainage pattern
+T21	o 1325 1341	related symptoms
+T22	o 1452 1489	incidence of urinary tract infections
+T23	o 1744 1771	stent related complications

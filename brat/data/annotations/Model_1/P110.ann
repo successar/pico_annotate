@@ -1,0 +1,21 @@
+T1	p 94 136	patients with inflammatory bowel disease .
+T2	p 382 403	Fifty-six outpatients
+T3	p 966 1006	Thirty-nine subjects completed the study
+T4	p 1430 1463	indicate IBD patients may benefit
+T5	i 17 56	guided imagery with relaxation training
+T6	i 444 453	treatment
+T7	i 478 485	control
+T8	i 528 609	three relaxation-training sessions and received an audio disc for home practice .
+T9	i 1062 1094	relaxation-training intervention
+T10	i 1464 1488	from relaxation training
+T11	o 60 67	anxiety
+T12	o 72 87	quality of life
+T13	o 191 216	quality of life ( QoL ) .
+T14	o 657 670	state anxiety
+T15	o 693 757	State-Trait Anxiety Inventory , QoL with the IBD Questionnaire .
+T16	o 762 783	Visual Analogue Scale
+T17	o 793 819	pain , depression , stress
+T18	o 824 830	mood .
+T19	o 1259 1289	interaction ) : anxiety levels
+T20	o 1306 1336	0.01 ) , QoL and mood improved
+T21	o 1368 1383	pain and stress

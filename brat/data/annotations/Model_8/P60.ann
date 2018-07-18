@@ -1,0 +1,18 @@
+T1	i 6 21	Vibrotactile --
+T2	i 66 86	Vibrotactile stimuli
+T3	i 241 264	auditory tones embedded
+T4	i 324 336	vibrotactile
+T5	i 440 462	auditory stimulation (
+T6	i 590 602	vibrotactile
+T7	i 751 775	2-interval forced-choice
+T8	i 1009 1029	without vibrotactile
+T9	i 1063 1075	vibrotaction
+T10	i 1192 1200	audition
+T11	o 274 279	noise
+T12	o 440 448	auditory
+T13	o 466 477	tone , tone
+T14	o 481 507	detection threshold , tone
+T15	o 534 542	and tone
+T16	o 635 669	the perceived loudness of auditory
+T17	o 824 835	cross-modal
+T18	o 1238 1256	perceptual level .

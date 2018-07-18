@@ -1,0 +1,9 @@
+T1	p 131 141	children .
+T2	p 352 400	90 paediatric patients , ASA I , aged 4-10 years
+T3	p 1139 1198	children undergoing general anaesthesia for tonsillectomy .
+T4	i 30 54	prophylactic granisetron
+T5	i 175 204	granisetron with perphenazine
+T6	i 412 461	granisetron 40 mg kg-1 or perphenazine 70 mg kg-1
+T7	i 768 779	granisetron
+T8	i 1026 1037	granisetron
+T9	o 949 971	serious adverse events

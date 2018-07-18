@@ -1,0 +1,31 @@
+T1	p 560 578	dyspnoeic patients
+T2	p 680 686	breath
+T3	p 717 743	100 consecutive patients .
+T4	p 757 760	not
+T5	p 856 861	close
+T6	p 994 1059	patients with severe pulmonary disease ; for patients with FEV1 <
+T7	p 1271 1277	breath
+T8	i 116 133	monoxide ( TLCO )
+T9	i 226 234	monoxide
+T10	i 241 262	inert gas ( methane )
+T11	i 359 363	upon
+T12	i 403 418	inspiration and
+T13	i 589 611	Exhalation TLCO ( TLCO
+T14	i 641 669	standard ( Jones and Meade )
+T15	i 680 713	breath holding TLCO ( TLCO , bh )
+T16	i 774 794	exhalation manoeuvre
+T17	i 912 925	( precision )
+T18	i 944 956	mmol/min/kPa
+T19	i 1377 1401	breath holding technique
+T20	o 30 36	factor
+T21	o 127 133	TLCO )
+T22	o 201 215	concentrations
+T23	o 219 225	carbon
+T24	o 253 262	methane )
+T25	o 275 279	lung
+T26	o 612 618	, ex )
+T27	o 680 686	breath
+T28	o 869 881	difference (
+T29	o 914 925	precision )
+T30	o 1069 1084	mean difference
+T31	o 1259 1263	TLCO

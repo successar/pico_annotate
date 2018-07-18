@@ -1,0 +1,46 @@
+T1	p 51 62	ear surgery
+T2	p 69 100	various anesthesia technics ] .
+T3	p 236 266	ear microsurgical operations .
+T4	p 357 378	49 patients under the
+T5	p 433 442	halothane
+T6	p 576 590	retroauricular
+T7	p 1268 1274	factor
+T8	p 1374 1415	patients subjected to general anaesthesia
+T9	i 69 98	various anesthesia technics ]
+T10	i 240 266	microsurgical operations .
+T11	i 274 336	mastoidectomies , radical mastoidectomies and tympano plastics
+T12	i 431 529	1 halothane anaesthesia and retroauricular infiltration anaesthesia with lidocaine and ornipressin
+T13	i 549 633	2 fentanyl anaesthesia and retroauricular anaesthesia with lidocaine and ornipressin
+T14	i 653 752	3 fentanyl anaesthesia and retroauricular infiltration anaesthesia with lidocaine and epinephrine (
+T15	i 776 849	retroauricular infiltration anaesthesia with prilocaine and epinephrine (
+T16	i 882 893	epinephrine
+T17	i 940 948	glycerol
+T18	i 1001 1002	(
+T19	i 1007 1008	)
+T20	i 1081 1085	skin
+T21	i 1097 1099	10
+T22	i 1134 1142	drilling
+T23	i 1404 1415	anaesthesia
+T24	i 1457 1472	epinephrine and
+T25	i 1525 1566	( retroauricular infiltration anaesthesia
+T26	i 1591 1604	variabilities
+T27	i 1654 1665	epinephrine
+T28	i 1725 1733	followed
+T29	i 1786 1796	glycerol .
+T30	i 1822 1829	general
+T31	i 1883 1894	epinephrine
+T32	o 12 47	sympatho-adrenergic stress reaction
+T33	o 202 228	endocrine stress responses
+T34	o 292 315	radical mastoidectomies
+T35	o 320 327	tympano
+T36	o 865 878	plasma levels
+T37	o 896 948	norepinephrine , glucose , lactate and free glycerol
+T38	o 983 1028	arterial pressure ( MAP ) and heart rate ( HR
+T39	o 1277 1312	Plasma catecholamine concentrations
+T40	o 1433 1454	Plasma catecholamines
+T41	o 1473 1489	norepinephrine )
+T42	o 1620 1632	MAP and HR .
+T43	o 1637 1650	plasma levels
+T44	o 1759 1796	glucose , lactate and free glycerol .
+T45	o 1866 1879	plasma levels
+T46	o 1899 1913	norepinephrine

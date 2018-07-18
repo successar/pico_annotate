@@ -1,0 +1,11 @@
+{
+    "crf.p": 0,
+    "crowd.p": 1,
+    "ner_only_cnn_joint.p": 2,
+    "ner_only_rnn_crf.p": 3,
+    "ner_only_rnn_fine.p": 4,
+    "ner_only_rnn_joint.p": 5,
+    "ner_only_rnn_joint_kld.p": 6,
+    "pico_joint_rnn_fine.p": 7,
+    "pico_ner_cnn_joint.p": 8
+}

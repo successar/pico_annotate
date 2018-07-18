@@ -1,0 +1,20 @@
+T1	p 32 52	adults with autism .
+T2	p 88 108	children with autism
+T3	p 296 328	children to adults with autism .
+T4	p 368 402	children , adults with autism were
+T5	p 427 436	searching
+T6	p 441 450	targets .
+T7	p 647 670	adults with autism have
+T8	p 752 776	adults previous findings
+T9	p 780 800	children with autism
+T10	p 837 866	adults with autism , stemming
+T11	p 988 996	disorder
+T12	p 1000 1007	general
+T13	i 163 168	tasks
+T14	i 427 436	searching
+T15	o 156 162	search
+T16	o 205 234	visual discrimination ability
+T17	o 489 506	target-distractor
+T18	o 525 554	the visual search performance
+T19	o 682 713	visual discrimination ability .
+T20	o 957 980	processing disturbances

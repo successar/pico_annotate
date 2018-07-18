@@ -1,0 +1,12 @@
+T1	p 498 554	New Zealand . Children presenting with GABHS pharyngitis
+T2	p 2044 2071	children with pharyngitis .
+T3	i 6 28	Once-daily amoxicillin
+T4	i 36 60	twice-daily penicillin V
+T5	i 370 382	penicillin V
+T6	i 651 668	oral penicillin V
+T7	i 1161 1189	amoxicillin and penicillin V
+T8	i 1937 1953	oral amoxicillin
+T9	i 1973 1997	twice-daily penicillin V
+T10	o 1506 1547	Treatment failures ( including relapses )
+T11	o 1730 1752	resolution of symptoms
+T12	o 1819 1849	acute rheumatic fever occurred

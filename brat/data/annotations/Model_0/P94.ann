@@ -1,0 +1,13 @@
+T1	p 233 317	Quyu Jiedu Recipe ( QYJDR ) on endometriosis ( EMs ) -related infertility patients .
+T2	p 326 456	130 EMs-related infertility patients of blood stasis and toxin accumulation syndrome diagnosed and treated by laparoscopic surgery
+T3	i 85 105	laparoscopic surgery
+T4	i 194 260	laparoscopic surgery in combination of Quyu Jiedu Recipe ( QYJDR )
+T5	i 590 655	routine progesterone treatment after laparoscopic surgery . QYJDR
+T6	i 702 722	laparoscopic surgery
+T7	i 2531 2551	laparoscopic surgery
+T8	o 757 771	pregnancy rate
+T9	o 896 971	serum endometrium antibody ( EMAb ) and cancer antigen 125 ( CA125 ) levels
+T10	o 1064 1078	pregnancy rate
+T11	o 1900 1935	serum EMAb negative conversion rate
+T12	o 2076 2093	serum CA125 level
+T13	o 2639 2798	blood stasis and toxin accumulation syndrome , promote negative conversion of EMAb , lower serum CA125 levels , and elevate the clinical pregnancy rate . QYJDR

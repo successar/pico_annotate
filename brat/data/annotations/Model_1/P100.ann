@@ -1,0 +1,29 @@
+T1	p 173 238	patients with chronic heart failure after myocardial infarction .
+T2	p 373 409	patients with heart failure ( HF ) .
+T3	p 575 637	patients with class II to IV HF and ejection fraction < 35 % .
+T4	p 793 916	Of 330 patients intended for enrollment , 23 were randomized ( MARVEL-1 ) before stopping the study for financial reasons .
+T5	p 1478 1537	In HF patients with chronic postinfarction cardiomyopathy ,
+T6	p 1846 1895	in HF patients with postinfarction cardiomyopathy
+T7	i 118 169	skeletal myoblast implantation by catheter delivery
+T8	i 312 369	transcatheter intramyocardial administration of myoblasts
+T9	i 441 459	placebo-controlled
+T10	i 469 548	image-guided , catheter-based intramyocardial injection of placebo or myoblasts
+T11	i 992 1003	( placebo )
+T12	i 1132 1148	myoblast-treated
+T13	i 1162 1173	( placebo )
+T14	i 1278 1294	myoblast-treated
+T15	i 1354 1361	placebo
+T16	i 1567 1579	of myoblasts
+T17	i 1715 1736	by myoblast injection
+T18	i 1819 1845	of myoblast administration
+T19	o 81 87	safety
+T20	o 92 114	cardiovascular effects
+T21	o 277 283	safety
+T22	o 300 308	efficacy
+T23	o 662 708	frequency of serious adverse events ( safety )
+T24	o 713 742	changes in 6-minute walk test
+T25	o 747 792	Minnesota Living With HF score ( efficacy ) .
+T26	o 1053 1110	deaths . Ventricular tachycardia responsive to amiodarone
+T27	o 1245 1264	functional capacity
+T28	o 1429 1465	in Minnesota Living With HF scores .
+T29	o 1675 1698	Ventricular tachycardia

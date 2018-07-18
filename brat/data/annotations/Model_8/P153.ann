@@ -1,0 +1,22 @@
+T1	p 94 135	non-insulin dependent diabetes mellitus .
+T2	p 255 316	30 non-insulin dependent ( Type II ) diabetic subjects during
+T3	p 383 394	a metabolic
+T4	p 1219 1237	Type II diabetes .
+T5	p 1335 1362	Type II diabetic patients .
+T6	i 14 54	angiotensin-converting enzyme inhibitors
+T7	i 64 80	antihypertensive
+T8	i 150 171	captopril monotherapy
+T9	i 227 245	placebo-controlled
+T10	i 347 379	run-in/drug ; placebo/wash-out )
+T11	i 400 411	. Captopril
+T12	i 626 640	ACE-inhibition
+T13	i 1206 1215	captopril
+T14	i 1236 1252	. ACE inhibitors
+T15	i 1302 1331	antihypertensive intervention
+T16	o 175 204	blood pressure and metabolism
+T17	o 434 476	both systolic and diastolic blood pressure
+T18	o 534 546	side effects
+T19	o 561 602	postprandial blood glucose concentrations
+T20	o 765 791	blood kinin concentrations
+T21	o 890 1006	Body mass index , fasting plasma insulin , serum electrolyte pattern , uric acid , white blood count , lipid profile
+T22	o 1018 1055	hepatic and renal function parameters

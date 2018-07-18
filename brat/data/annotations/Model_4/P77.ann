@@ -1,0 +1,27 @@
+T1	p 158 172	endoscopically
+T2	p 181 188	lesions
+T3	p 490 500	patients .
+T4	p 649 798	6-year period , 296 patients with visible endoluminal tumor lesions were included in the study at the bronchoscopy unit of a university hospital . In
+T5	p 833 841	55 cases
+T6	i 6 22	Cryoprobe biopsy
+T7	i 105 111	biopsy
+T8	i 309 318	cryoprobe
+T9	i 427 439	cryobiopsies
+T10	i 600 631	cryobiopsy and forceps biopsy .
+T11	i 691 702	endoluminal
+T12	i 849 859	techniques
+T13	i 862 891	forceps biopsy and cryobiopsy
+T14	i 1119 1129	cryobiopsy
+T15	i 1747 1757	Cryobiopsy
+T16	o 37 53	diagnostic yield
+T17	o 279 284	yield
+T18	o 569 596	diagnostic yield and safety
+T19	o 1007 1014	quality
+T20	o 1060 1087	safety and diagnostic yield
+T21	o 1104 1115	feasibility
+T22	o 1247 1278	diagnostic yield for cryobiopsy
+T23	o 1536 1574	overall diagnostic yield of cryobiopsy
+T24	o 1588 1601	Mild bleeding
+T25	o 1635 1652	moderate bleeding
+T26	o 1685 1704	and severe bleeding
+T27	o 1784 1800	diagnostic yield

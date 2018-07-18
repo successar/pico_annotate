@@ -1,0 +1,37 @@
+T1	p 173 238	patients with chronic heart failure after myocardial infarction .
+T2	p 373 409	patients with heart failure ( HF ) .
+T3	p 575 630	patients with class II to IV HF and ejection fraction <
+T4	p 757 777	Living With HF score
+T5	p 796 799	330
+T6	p 833 837	, 23
+T7	p 1086 1096	responsive
+T8	p 1132 1159	myoblast-treated patients :
+T9	p 1442 1453	Living With
+T10	p 1481 1537	HF patients with chronic postinfarction cardiomyopathy ,
+T11	p 1849 1895	HF patients with postinfarction cardiomyopathy
+T12	i 127 160	myoblast implantation by catheter
+T13	i 312 341	transcatheter intramyocardial
+T14	i 360 369	myoblasts
+T15	i 418 424	MARVEL
+T16	i 441 459	placebo-controlled
+T17	i 469 550	image-guided , catheter-based intramyocardial injection of placebo or myoblasts (
+T18	i 738 742	test
+T19	i 990 1003	8 ( placebo )
+T20	i 1100 1110	amiodarone
+T21	i 1162 1173	( placebo )
+T22	i 1354 1364	placebo vs
+T23	i 1570 1579	myoblasts
+T24	i 1718 1726	myoblast
+T25	i 1822 1830	myoblast
+T26	o 81 114	safety and cardiovascular effects
+T27	o 611 628	ejection fraction
+T28	o 662 708	frequency of serious adverse events ( safety )
+T29	o 721 746	in 6-minute walk test and
+T30	o 769 788	HF score ( efficacy
+T31	o 947 964	numbers of events
+T32	o 1053 1085	deaths . Ventricular tachycardia
+T33	o 1230 1241	improvement
+T34	o 1245 1264	functional capacity
+T35	o 1304 1323	?6-minute walk test
+T36	o 1464 1465	.
+T37	o 1675 1698	Ventricular tachycardia

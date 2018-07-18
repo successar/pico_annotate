@@ -1,0 +1,14 @@
+T1	p 28 49	acute bronchiolitis .
+T2	p 275 420	hundred and fifty-six infants aged between 7 weeks and 24 months who had had an episode of wheezing and other signs and symptoms of bronchiolitis
+T3	i 6 24	Salbutamol or mist
+T4	i 73 88	bronchodilators
+T5	i 172 179	placebo
+T6	i 248 270	nebulized salbutamol .
+T7	i 472 492	nebulized salbutamol
+T8	i 549 694	0.15 mg/kg in 2 mL saline ; ( ii ) saline was nebulized to 52 patients in group II and ( iii ) in group III 52 patients received mist in a tent .
+T9	i 1351 1361	Salbutamol
+T10	o 824 841	respiratory score
+T11	o 858 957	Respiratory rate , heart rate , oxygen saturation and presence of cyanosis , wheezing , retractions
+T12	o 1034 1051	respiratory score
+T13	o 1216 1226	Heart rate
+T14	o 1256 1273	Oxygen saturation

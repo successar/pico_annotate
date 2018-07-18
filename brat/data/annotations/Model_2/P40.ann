@@ -1,0 +1,52 @@
+T1	p 59 76	stroke patients ]
+T2	p 100 131	post-acute hemiparetic patients
+T3	p 196 200	with
+T4	p 203 214	specialised
+T5	p 253 281	Twenty-six patients within 3
+T6	p 457 479	with left hemiplegia .
+T7	p 550 551	.
+T8	p 559 585	Thirteen patients received
+T9	p 1066 1067	.
+T10	i 6 43	[ Postural biofeedback and locomotion
+T11	i 100 110	post-acute
+T12	i 157 200	conventional physical therapy alone or with
+T13	i 203 243	specialised balance retraining program .
+T14	i 327 410	receive physical therapy ( control group ) or therapy and retraining ( experimental
+T15	i 550 551	.
+T16	i 586 614	early conventional therapy ,
+T17	i 631 638	therapy
+T18	i 670 693	training by biofeedback
+T19	i 791 802	walk ( JM )
+T20	i 823 827	JM +
+T21	i 895 907	Vicon system
+T22	i 911 913	JM
+T23	i 918 920	JM
+T24	i 1034 1036	JM
+T25	i 1228 1230	JM
+T26	i 1538 1540	JM
+T27	i 1545 1547	JM
+T28	i 1571 1578	control
+T29	i 1693 1732	visual biofeedback by forceplate system
+T30	i 1819 1828	therapy .
+T31	o 134 150	gait improvement
+T32	o 298 300	of
+T33	o 682 693	biofeedback
+T34	o 696 699	BPM
+T35	o 712 729	Clinical measures
+T36	o 796 800	( JM
+T37	o 835 865	Gait spatiotemporal parameters
+T38	o 918 920	JM
+T39	o 980 995	clinical scores
+T40	o 1037 1038	+
+T41	o 1072 1076	time
+T42	o 1085 1091	stroke
+T43	o 1175 1188	Gait velocity
+T44	o 1228 1230	JM
+T45	o 1293 1308	walking pattern
+T46	o 1371 1390	the duration of the
+T47	o 1399 1417	limb single stance
+T48	o 1470 1478	duration
+T49	o 1513 1529	the paretic limb
+T50	o 1545 1549	JM +
+T51	o 1693 1711	visual biofeedback
+T52	o 1776 1788	anticipation

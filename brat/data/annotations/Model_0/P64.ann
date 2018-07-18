@@ -1,0 +1,4 @@
+T1	i 6 60	Bolus injection of contrast agents with various iodine
+T2	i 509 613	intracranial three-dimensional CT angiography ( 3D-CTA ) using a multidetector-row CT ( MDCT ) scanner .
+T3	i 1292 1357	iodine delivery , injection of the intermediate concentrate agent
+T4	o 425 469	iodine delivery rate or higher concentration

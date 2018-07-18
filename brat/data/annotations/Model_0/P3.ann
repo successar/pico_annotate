@@ -1,0 +1,9 @@
+T1	p 57 78	premenopausal women .
+T2	p 542 587	36 premenopausal women , 20 of whom used OC .
+T3	p 1438 1472	premenopausal OC or non-OC users .
+T4	i 480 508	oral contraceptives ( OC ) .
+T5	i 714 751	total isoflavones to their usual diet
+T6	i 837 982	estrone , estradiol , sex hormone-binding globulin , dehydroepiandrosterone sulfate , prolactin , or progesterone concentrations with soy feeding
+T7	o 831 965	serum estrone , estradiol , sex hormone-binding globulin , dehydroepiandrosterone sulfate , prolactin , or progesterone concentrations
+T8	o 1029 1092	menstrual cycle length or the urinary estrogen metabolite ratio
+T9	o 1377 1434	serum sex hormones , or urinary estrogen metabolite ratio

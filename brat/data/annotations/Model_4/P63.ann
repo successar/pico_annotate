@@ -1,0 +1,19 @@
+T1	p 55 61	autism
+T2	p 486 536	individuals with autism spectrum disorders ( ASD )
+T3	p 792 850	Children with ASD and typically developing ( TD ) children
+T4	p 1227 1244	children with ASD
+T5	p 1678 1697	children and adults
+T6	i 22 26	self
+T7	i 67 71	FMRI
+T8	i 81 90	self-face
+T9	i 689 693	fMRI
+T10	i 774 779	faces
+T11	i 877 899	digital morphs between
+T12	i 1328 1352	CONCLUSIONS/SIGNIFICANCE
+T13	o 1113 1122	self face
+T14	o 1160 1173	activation of
+T15	o 1358 1368	functional
+T16	o 1453 1469	neural substrate
+T17	o 1518 1538	social understanding
+T18	o 1627 1649	neural representations
+T19	o 1654 1658	self

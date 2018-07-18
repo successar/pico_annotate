@@ -1,0 +1,37 @@
+T1	p 51 94	individuals with autism spectrum disorder :
+T2	p 190 260	individuals formally diagnosed with autism spectrum disorder ( ASD ) .
+T3	p 274 314	were 20 children with ASD ( M age = 14.3
+T4	p 330 351	; 6 girls , 14 boys )
+T5	p 380 426	20 control children , who acted as listeners .
+T6	p 432 463	were all enrolled in mainstream
+T7	p 507 528	criteria were defined
+T8	p 565 571	of ASD
+T9	p 830 847	autistic symptoms
+T10	p 1275 1290	untrained group
+T11	p 1750 1770	individuals with ASD
+T12	i 152 186	referential communication training
+T13	i 475 506	education . Inclusion/exclusion
+T14	i 660 671	referential
+T15	i 768 792	trained vs untrained ) .
+T16	i 922 928	PPVT )
+T17	i 965 985	WISC-R or WAIS-III )
+T18	i 1142 1143	.
+T19	i 1156 1165	group was
+T20	i 1177 1215	referential communication tasks ( task
+T21	i 1239 1249	, and task
+T22	i 1261 1262	)
+T23	i 1275 1284	untrained
+T24	i 1700 1724	training program focused
+T25	o 41 47	skills
+T26	o 507 515	criteria
+T27	o 626 636	disability
+T28	o 672 691	communication , and
+T29	o 793 825	Linguistic age , cognitive level
+T30	o 830 847	autistic symptoms
+T31	o 888 921	Peabody Picture Vocabulary Test (
+T32	o 931 971	the Wechsler Intelligence Scale ( WISC-R
+T33	o 984 985	)
+T34	o 996 1057	Autistic Behavior Checklist ( ABC ) . Communicative abilities
+T35	o 1126 1141	self-regulation
+T36	o 1189 1208	communication tasks
+T37	o 1245 1249	task

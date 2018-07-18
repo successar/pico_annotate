@@ -1,0 +1,56 @@
+T1	p 106 122	cancer screening
+T2	p 267 301	Australia , bowel cancer screening
+T3	p 778 837	trial invited 25,511 people aged 50-74 years to complete an
+T4	p 850 898	questionnaire . Eligible respondents ( n = 3,408
+T5	p 1042 1050	sample )
+T6	p 1088 1095	on-line
+T7	p 1220 1232	participants
+T8	p 1289 1295	= 2270
+T9	p 1310 1317	an FOBT
+T10	p 1460 1463	ITT
+T11	p 1632 1636	FOBT
+T12	p 2024 2031	wanting
+T13	p 2165 2169	FOBT
+T14	p 2554 2597	internet-enabled people who are uncommitted
+T15	p 2701 2724	Zealand Clinical Trials
+T16	i 52 68	decision support
+T17	i 350 358	( FOBT )
+T18	i 368 393	Decision support tailored
+T19	i 492 569	computerised decision support to non-tailored computer or paper information .
+T20	i 927 1012	Personalised Decision Support ( TPDS ) , Non-Tailored PDS ( NTPDS ) , or Control ( CG
+T21	i 1053 1057	TPDS
+T22	i 1123 1139	accessed generic
+T23	i 1152 1153	.
+T24	i 1158 1162	TPDS
+T25	i 1193 1216	tailored intervention .
+T26	i 1245 1253	paper BS
+T27	i 1282 1284	BS
+T28	i 1313 1317	FOBT
+T29	i 1701 1706	paper
+T30	i 1816 1820	TPDS
+T31	i 1825 1830	NTPDS
+T32	i 2085 2089	TPDS
+T33	i 2141 2143	to
+T34	i 2226 2231	NTPDS
+T35	i 2494 2500	Online
+T36	o 137 149	occult blood
+T37	o 214 233	cognitive variables
+T38	o 285 315	cancer screening participation
+T39	o 322 356	faecal occult blood testing ( FOBT
+T40	o 594 598	FOBT
+T41	o 707 720	psychological
+T42	o 964 992	) , Non-Tailored PDS ( NTPDS
+T43	o 1132 1139	generic
+T44	o 1387 1414	BS variables ( per-protocol
+T45	o 1431 1443	RESULTS FOBT
+T46	o 1632 1636	FOBT
+T47	o 1660 1666	groups
+T48	o 1797 1801	FOBT
+T49	o 2094 2099	NTPDS
+T50	o 2155 2169	return an FOBT
+T51	o 2197 2206	CG . FOBT
+T52	o 2300 2312	psychosocial
+T53	o 2360 2368	salience
+T54	o 2373 2413	coherence of screening and self-efficacy
+T55	o 2428 2447	and faecal aversion
+T56	o 2621 2654	their attitudes , perceptions and

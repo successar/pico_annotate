@@ -1,0 +1,10 @@
+T1	p 55 63	autism :
+T2	p 486 538	individuals with autism spectrum disorders ( ASD ) .
+T3	p 792 850	Children with ASD and typically developing ( TD ) children
+T4	p 1590 1610	individuals with ASD
+T5	i 81 104	self-face recognition .
+T6	i 675 693	event-related fMRI
+T7	i 851 980	viewed randomly presented digital morphs between their own face and a gender-matched other face , and made self/other judgments .
+T8	o 81 102	self-face recognition
+T9	o 709 729	brain responsiveness
+T10	o 1017 1049	right premotor/prefrontal system

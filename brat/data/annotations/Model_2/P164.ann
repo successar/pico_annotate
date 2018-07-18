@@ -1,0 +1,20 @@
+T1	p 40 55	hospital versus
+T2	p 102 159	. One hundred and twenty patients presenting at Macquarie
+T3	p 169 182	for admission
+T4	p 261 278	standard hospital
+T5	p 312 317	group
+T6	p 327 344	were not admitted
+T7	p 401 407	to the
+T8	p 442 455	provided them
+T9	p 466 475	relatives
+T10	p 906 911	group
+T11	p 1063 1069	in the
+T12	i 66 75	treatment
+T13	i 261 278	standard hospital
+T14	i 456 459	and
+T15	i 481 494	comprehensive
+T16	i 497 506	assertive
+T17	i 553 567	24-hour crisis
+T18	i 869 890	relatives . Relatives
+T19	i 993 1004	relatives .
+T20	o 945 954	satisfied

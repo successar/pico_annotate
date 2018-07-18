@@ -1,0 +1,13 @@
+T1	p 86 117	elderly patients and associated
+T2	p 336 368	hypertension in older patients .
+T3	p 399 404	major
+T4	p 419 426	British
+T5	p 482 635	older adults , the Swedish Trial in Old Patients with Hypertension ( STOP-Hypertension ) and the Systolic Hypertension in the Elderly Program ( SHEP ) --
+T6	p 691 777	older patients ( > 60 years ) with both diastolic and isolated systolic hypertension .
+T7	p 1164 1180	older patients .
+T8	p 1275 1312	older individuals with hypertension .
+T9	i 56 71	pharmacological
+T10	i 626 630	SHEP
+T11	o 118 125	costs .
+T12	o 153 158	death
+T13	o 163 173	disability

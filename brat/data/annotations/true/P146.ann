@@ -1,0 +1,32 @@
+T1	p 140 170	patients undergoing laparatomy
+T2	p 491 563	Eighty patients ( 18 to 65 years of age ) undergoing elective laparotomy
+T3	i 39 49	pregabalin
+T4	i 80 89	lidocaine
+T5	i 241 251	pregabalin
+T6	i 282 291	lidocaine
+T7	i 638 645	placebo
+T8	i 659 681	normal saline infusion
+T9	i 722 729	placebo
+T10	i 743 752	lidocaine
+T11	i 858 868	pregabalin
+T12	i 873 895	normal saline infusion
+T13	i 950 960	pregabalin
+T14	i 965 974	lidocaine
+T15	i 1620 1630	pregabalin
+T16	i 1661 1670	lidocaine
+T17	i 1735 1745	pregabalin
+T18	i 1807 1816	lidocaine
+T19	i 1979 1989	pregabalin
+T20	i 2006 2015	lidocaine
+T21	o 102 136	postoperative morphine requirement
+T22	o 304 424	postoperative morphine requirement , adverse effects , patients ' satisfaction , mobilization , time to first defecation
+T23	o 429 446	time to discharge
+T24	o 1027 1213	parameters , visual analogue scale ( VAS ) scores , analgesic consumption , side effects , time to mobilization , time to first defecation , time to discharge and patients ' satisfaction
+T25	o 1242 1248	scores
+T26	o 1322 1330	Morphine
+T27	o 1405 1424	Incidence of nausea
+T28	o 1475 1482	Time to
+T29	o 1489 1516	defecation and mobilization
+T30	o 1690 1714	postoperative VAS scores
+T31	o 1756 1776	morphine requirement
+T32	o 1898 1917	incidence of nausea

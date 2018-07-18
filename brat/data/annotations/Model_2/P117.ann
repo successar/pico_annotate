@@ -1,0 +1,32 @@
+T1	p 69 116	refractory monosymptomatic nocturnal enuresis :
+T2	p 237 296	patients with refractory monosymptomatic nocturnal enuresis
+T3	p 333 404	assigned 28 patients with refractory monosymptomatic nocturnal enuresis
+T4	p 854 862	patients
+T5	p 968 984	group 1 patients
+T6	p 1090 1097	group 2
+T7	p 1448 1456	patients
+T8	p 1462 1463	a
+T9	p 1674 1733	patients with refractory monosymptomatic nocturnal enuresis
+T10	i 14 48	posterior tibial nerve stimulation
+T11	i 199 233	posterior tibial nerve stimulation
+T12	i 442 450	a weekly
+T13	i 459 496	of posterior tibial nerve stimulation
+T14	i 530 537	placebo
+T15	i 607 641	posterior tibial nerve stimulation
+T16	i 1002 1009	partial
+T17	i 1030 1064	posterior tibial nerve stimulation
+T18	i 1464 1471	partial
+T19	i 1598 1632	Posterior tibial nerve stimulation
+T20	o 177 187	urodynamic
+T21	o 396 404	enuresis
+T22	o 823 840	urodynamic data .
+T23	o 878 903	detrusor overactivity and
+T24	o 930 948	bladder capacity .
+T25	o 1013 1026	full response
+T26	o 1104 1120	partial response
+T27	o 1148 1176	average number of wet nights
+T28	o 1249 1270	urodynamic parameters
+T29	o 1325 1371	number of wet nights and urodynamic parameters
+T30	o 1475 1488	full response
+T31	o 1725 1735	enuresis .
+T32	o 1746 1759	deterioration

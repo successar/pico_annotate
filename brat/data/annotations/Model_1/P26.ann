@@ -1,0 +1,19 @@
+T1	p 146 153	animals
+T2	p 473 555	A total of 57 consecutive patients with primary ureteropelvic junction obstruction
+T3	p 673 752	A symptom based questionnaire was administered to all patients at stent removal
+T4	p 891 1055	In each group 26 patients were available for evaluation . The 2 groups were comparable in terms of age , sex , symptoms and ipsilateral glomerular filtration rate .
+T5	i 42 50	stenting
+T6	i 78 95	Internal stenting
+T7	i 279 287	stenting
+T8	i 420 428	stenting
+T9	i 583 628	7/14Fr internal endopyelotomy stent placement
+T10	i 1578 1588	stenting .
+T11	o 400 428	optimum duration of stenting
+T12	o 1002 1010	symptoms
+T13	o 1015 1055	ipsilateral glomerular filtration rate .
+T14	o 1262 1280	drainage pattern .
+T15	o 1319 1341	Stent related symptoms
+T16	o 1452 1489	incidence of urinary tract infections
+T17	o 1567 1588	2 weeks of stenting .
+T18	o 1636 1644	duration
+T19	o 1744 1773	stent related complications .

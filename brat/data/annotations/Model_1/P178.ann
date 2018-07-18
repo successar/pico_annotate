@@ -1,0 +1,17 @@
+T1	p 100 151	82 patients having postoperative epidural analgesia
+T2	p 208 225	epidural catheter
+T3	i 20 30	tunnelling
+T4	i 191 225	tunnelling of an epidural catheter
+T5	i 253 279	Tunnelling of the catheter
+T6	i 422 469	fixation with a transparent adhesive dressing .
+T7	i 611 630	tunnelled catheters
+T8	i 712 735	non-tunnelled catheters
+T9	i 845 870	subcutaneous tunnelling .
+T10	o 34 63	epidural catheter migration .
+T11	o 226 252	influences its migration .
+T12	o 330 359	incidence of inward migration
+T13	o 363 375	1 cm or more
+T14	o 412 430	method of fixation
+T15	o 438 469	transparent adhesive dressing .
+T16	o 631 680	remained within 0.5 cm of their original position
+T17	o 799 825	Outward catheter migration

@@ -1,0 +1,23 @@
+T1	p 92 114	stable COPD patients .
+T2	p 129 144	COPD patients ,
+T3	p 589 763	days , 60 COPD patients underwent dyspnea evaluation ( VAS score ) and pulmonary function testing at baseline and one hour after placebo or 300?g indacaterol administration .
+T4	p 842 853	45 patients
+T5	i 556 571	bronchodilators
+T6	i 718 725	placebo
+T7	i 735 746	indacaterol
+T8	i 1352 1367	bronchodilators
+T9	i 1370 1381	?sRAW-based
+T10	o 26 40	bronchodilator
+T11	o 70 80	resistance
+T12	o 209 226	expiratory volume
+T13	o 260 268	capacity
+T14	o 317 323	muscle
+T15	o 363 385	dynamic hyperinflation
+T16	o 388 400	gas trapping
+T17	o 403 423	and possibly dyspnea
+T18	o 623 686	dyspnea evaluation ( VAS score ) and pulmonary function testing
+T19	o 901 938	of intrathoracic gas volume ( ?ITGV )
+T20	o 964 987	residual volume ( ?RV )
+T21	o 1169 1207	of ?ITGV ( p=0.002 ) , ?RV ( p=0.023 )
+T22	o 1210 1218	and ?VAS
+T23	o 1523 1530	dyspnea

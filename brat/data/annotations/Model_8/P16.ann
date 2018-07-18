@@ -1,0 +1,41 @@
+T1	p 241 297	patients with open angle glaucoma or ocular hypertension
+T2	p 426 463	. 53 patients with primary open angle
+T3	p 495 525	or ocular hypertension with an
+T4	p 542 549	21 mmHg
+T5	p 561 585	therapy were recruited .
+T6	p 663 671	patients
+T7	p 1088 1089	(
+T8	p 1092 1093	=
+T9	p 1171 1172	(
+T10	p 1175 1176	=
+T11	p 1261 1262	(
+T12	p 1265 1266	=
+T13	p 1276 1284	patients
+T14	i 38 49	latanoprost
+T15	i 91 100	timolol .
+T16	i 182 237	timolol to latanoprost or adding latanoprost to timolol
+T17	i 342 351	timolol .
+T18	i 631 648	timolol , 5 mg/ml
+T19	i 736 771	timolol , one switched from timolol
+T20	i 775 786	latanoprost
+T21	i 842 853	latanoprost
+T22	i 869 876	timolol
+T23	i 1126 1133	timolol
+T24	i 1208 1219	latanoprost
+T25	i 1299 1310	treatment .
+T26	i 1318 1340	latanoprost to timolol
+T27	i 1408 1415	timolol
+T28	i 1419 1430	latanoprost
+T29	i 1578 1589	latanoprost
+T30	i 1614 1623	timolol ,
+T31	i 1695 1702	timolol
+T32	i 1706 1717	latanoprost
+T33	i 1793 1804	combination
+T34	o 135 166	intraocular pressure ( IOP ) of
+T35	o 285 297	hypertension
+T36	o 883 891	efficacy
+T37	o 926 927	9
+T38	o 984 987	IOP
+T39	o 1349 1352	IOP
+T40	o 1522 1538	IOP reduction of
+T41	o 1645 1658	IOP reduction

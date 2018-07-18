@@ -1,0 +1,14 @@
+T1	p 20 36	man from natural
+T2	p 52 80	influenza A2 Hong Kong virus
+T3	p 314 387	391 medical student volunteers during the influenza A2 Hong Kong epidemic
+T4	p 417 437	1969 . Serologically
+T5	p 551 569	of 192 students in
+T6	i 84 96	amantadine :
+T7	i 155 165	amantadine
+T8	i 574 584	amantadine
+T9	i 620 627	placebo
+T10	o 37 46	infection
+T11	o 251 263	influenza A2
+T12	o 417 446	1969 . Serologically verified
+T13	o 494 531	and/or haemagglutination inhibition ,
+T14	o 645 660	protection rate

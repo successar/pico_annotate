@@ -1,0 +1,18 @@
+T1	p 18 135	patients at high risk for neutropenic complications during chemotherapy for metastatic breast cancer with doxorubicin
+T2	p 401 449	patients with metastatic breast cancer ( MBC ) .
+T3	p 634 655	( n = 509 ) ( O'Brien
+T4	i 124 172	doxorubicin or pegylated liposomal doxorubicin :
+T5	i 314 396	chemotherapy with doxorubicin ( DOX ) or a pegylated liposomal formulation ( PLD )
+T6	i 524 598	DOX ( 60 mg/m ( 2 ) every 3 weeks ) or PLD ( 50 mg/m ( 2 ) every 4 weeks )
+T7	i 618 625	therapy
+T8	i 648 655	O'Brien
+T9	i 1378 1390	chemotherapy
+T10	i 1393 1407	DOX versus PLD
+T11	i 1813 1859	granulocyte colony stimulating factor or PLD )
+T12	i 1938 1950	chemotherapy
+T13	o 720 745	absolute neutrophil count
+T14	o 831 842	neutropenia
+T15	o 846 857	neutropenia
+T16	o 1259 1305	performance status , absolute neutrophil count
+T17	o 1527 1536	threshold
+T18	o 1541 1552	sensitivity

@@ -1,0 +1,14 @@
+T1	p 227 269	patients on thrombolytic therapy ( TLT ) .
+T2	p 291 330	106 males with Q-MI entered the study .
+T3	p 378 439	30 patients received TLT with streptokinase preparations , 29
+T4	i 8 39	Neoton and thrombolytic therapy
+T5	i 85 91	neoton
+T6	i 239 269	thrombolytic therapy ( TLT ) .
+T7	i 343 504	treatment without TLT and neoton , 30 patients received TLT with streptokinase preparations , 29 patients were given streptokinase preparations and neoton . Left
+T8	i 551 567	echocardiography
+T9	i 1057 1060	TLT
+T10	o 500 534	Left ventricular systolic function
+T11	o 701 741	progression of left ventricular dilation
+T12	o 760 773	hospital stay
+T13	o 847 877	systolic and diastolic volumes
+T14	o 1085 1122	left ventricular systolic dysfunction

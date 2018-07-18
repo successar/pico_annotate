@@ -1,0 +1,12 @@
+T1	p 486 538	individuals with autism spectrum disorders ( ASD ) .
+T2	p 792 850	Children with ASD and typically developing ( TD ) children
+T3	p 1227 1244	children with ASD
+T4	p 1607 1610	ASD
+T5	p 1678 1697	children and adults
+T6	i 67 71	FMRI
+T7	i 81 102	self-face recognition
+T8	i 689 693	fMRI
+T9	o 1160 1173	activation of
+T10	o 1453 1469	neural substrate
+T11	o 1518 1524	social
+T12	o 1627 1649	neural representations

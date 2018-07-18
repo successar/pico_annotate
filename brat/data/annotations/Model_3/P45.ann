@@ -1,0 +1,11 @@
+T1	p 29 166	parents of children with autistic spectrum disorder . Parents of children who receive the diagnosis of autistic spectrum disorder ( ASD )
+T2	p 433 472	large metropolitan children 's hospital
+T3	p 525 563	parents of children with ASD and ( b )
+T4	p 1630 1673	Nurses working with this special population
+T5	i 491 511	nursing intervention
+T6	i 671 706	post-diagnosis nursing intervention
+T7	i 866 1043	usual care plus 3 hours contact with a pediatric nurse practitioner ( PNP ) for counseling , instruction , and assistance with implementation of the recommended treatment plan .
+T8	i 1071 1159	only the usual care post-diagnosis , which consisted of a 1-hour consultation session to
+T9	i 1294 1306	and/or PNP .
+T10	o 731 755	stress , impact of event
+T11	o 1348 1384	impact of event and perceived stress

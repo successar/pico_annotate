@@ -1,0 +1,21 @@
+T1	p 68 123	preadolescent children with autism spectrum disorders :
+T2	p 255 303	children with autism spectrum disorders ( ASDs )
+T3	p 481 498	children with ASD
+T4	p 1013 1200	120 participants with ASD at the end of primary school ( 10-12 years of calendar age ) have been randomized to SST , SST-PTI ( SST with Parent & Teacher Involvement ) , or care-as-usual .
+T5	p 1968 2033	Dutch children with ASD in a specific age range ( 10-12 years ) .
+T6	i 41 63	social skills training
+T7	i 195 225	Social skills training ( SST )
+T8	i 377 381	SSTs
+T9	i 677 684	parents
+T10	i 689 697	teachers
+T11	i 718 721	SST
+T12	i 799 829	parent and teacher involvement
+T13	i 833 836	SST
+T14	i 1124 1179	SST , SST-PTI ( SST with Parent & Teacher Involvement )
+T15	i 1185 1200	care-as-usual .
+T16	i 1205 1208	SST
+T17	i 1278 1285	SST-PTI
+T18	i 1695 1698	SST
+T19	i 1943 1946	SST
+T20	o 1567 1580	socialization
+T21	o 1650 1811	specific social skills children learn during SST and on more general social skills pertaining to home and community settings from a multi-informant perspective .

@@ -1,0 +1,32 @@
+T1	p 83 111	seasonal allergic rhinitis .
+T2	p 264 300	seasonal allergic rhinitis ( SAR ) .
+T3	p 504 661	Private practices and hospital clinics in Ontario , Quebec and Manitoba . POPULATION Two hundred and eighty-four out-patients with SAR , who were symptomatic
+T4	p 681 715	season , volunteered for enrolment
+T5	p 1082 1085	and
+T6	p 1594 1599	SAR .
+T7	i 20 30	budesonide
+T8	i 42 57	with budesonide
+T9	i 171 181	budesonide
+T10	i 213 223	budesonide
+T11	i 367 374	devices
+T12	i 987 997	budesonide
+T13	i 1244 1245	.
+T14	i 1486 1499	of budesonide
+T15	i 1519 1529	budesonide
+T16	i 1623 1652	budesonide powder formulation
+T17	o 273 281	allergic
+T18	o 326 336	patients '
+T19	o 389 404	quality of life
+T20	o 535 542	clinics
+T21	o 546 562	Ontario , Quebec
+T22	o 673 680	ragweed
+T23	o 745 776	Mean daily nasal symptom scores
+T24	o 891 899	symptoms
+T25	o 1026 1050	non-nasal adverse events
+T26	o 1072 1096	epistaxis and headache .
+T27	o 1202 1223	less nasal irritation
+T28	o 1341 1352	Improvement
+T29	o 1356 1371	quality of life
+T30	o 1396 1402	visits
+T31	o 1553 1557	safe
+T32	o 1562 1573	efficacious

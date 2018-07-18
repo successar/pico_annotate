@@ -1,0 +1,12 @@
+T1	p 64 69	peers
+T2	p 180 185	peers
+T3	p 267 303	Children ( N = 576 ; M age = 10.06 )
+T4	p 1236 1244	children
+T5	i 419 440	descriptive ( AUT-D )
+T6	i 444 497	descriptive and explanatory information ( AUT-D + E )
+T7	i 1146 1185	descriptive and explanatory information
+T8	o 64 83	peers ' perceptions
+T9	o 180 225	peers ' perceptions and behavioral intentions
+T10	o 544 567	( Adjective Checklist )
+T11	o 594 629	( Shared Activities Questionnaire )
+T12	o 1236 1283	children 's attitudes and behavioral intentions

@@ -1,0 +1,22 @@
+T1	p 18 50	wound healing after nose surgery
+T2	p 438 505	61 inpatients with the diagnosis Rhinitis following nasal operation
+T3	p 1249 1284	patients following nasal operations
+T4	p 1628 1662	rhinitis following nasal operation
+T5	i 81 114	xylometazoline and dexpanthenol ]
+T6	i 248 320	Xylometazoline with Dexpanthenol ( Nasic ) versus Xylometazoline alone .
+T7	i 568 573	verum
+T8	i 578 585	placebo
+T9	i 871 910	Xylometazoline-Dexpanthenol nasal-spray
+T10	i 918 944	Xylometazoline nasal spray
+T11	i 1530 1557	Xylometazoline-Dexpanthenol
+T12	i 1693 1707	Xylometazoline
+T13	o 18 31	wound healing
+T14	o 173 198	efficacy and tolerability
+T15	o 611 657	nasal-breathing-resistance according to scores
+T16	o 1045 1071	clinically proven efficacy
+T17	o 1094 1106	tolerability
+T18	o 1175 1185	compliance
+T19	o 1222 1245	improvement of symptoms
+T20	o 1300 1308	efficacy
+T21	o 1351 1363	tolerability
+T22	o 1564 1604	enlargement and improvement of effective

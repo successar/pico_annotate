@@ -1,0 +1,34 @@
+T1	p 115 146	rheumatoid arthritis patients .
+T2	p 395 438	patients with rheumatoid arthritis ( RA ) ,
+T3	p 443 448	( b )
+T4	p 481 492	RA patients
+T5	p 620 624	GT3X
+T6	p 629 646	seven days before
+T7	p 662 666	IPAQ
+T8	p 1016 1154	Sixty-eight RA patients ( age=55?13 years , body mass index : 27.8?5.4 kg/m2 , median of disease duration=5 ( 2-8 ) yrs ) were recruited .
+T9	p 2457 2471	people with RA
+T10	o 41 58	physical activity
+T11	o 86 111	cardiorespiratory fitness
+T12	o 266 391	International Physical Activity Questionnaire ; IPAQ ) and objective ( accelerometry ; GT3X ) physical activity ( PA ) levels
+T13	o 520 522	PA
+T14	o 532 538	scores
+T15	o 542 572	the maximal oxygen uptake test
+T16	o 689 701	Bland-Altman
+T17	o 781 783	PA
+T18	o 799 812	Wilcoxon test
+T19	o 883 885	PA
+T20	o 902 913	VO2max test
+T21	o 1065 1069	mass
+T22	o 1187 1197	subjective
+T23	o 1202 1220	objective measures
+T24	o 1329 1371	time spent engaged in sedentary behaviours
+T25	o 1405 1407	PA
+T26	o 1449 1451	PA
+T27	o 1580 1589	PA levels
+T28	o 1764 1785	sedentary time ( ST )
+T29	o 1831 1842	moderate PA
+T30	o 2012 2032	max and GT3X-VO2 max
+T31	o 2059 2061	ST
+T32	o 2166 2187	sedentary and engaged
+T33	o 2203 2215	intensity PA
+T34	o 2409 2418	PA and ST

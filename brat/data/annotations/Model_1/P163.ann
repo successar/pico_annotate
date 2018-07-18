@@ -1,0 +1,15 @@
+T1	p 25 43	prostatic cancer .
+T2	p 162 213	previously untreated patients with prostatic cancer
+T3	p 623 696	patients with advanced disease no longer responsive to hormonal treatment
+T4	p 807 836	Procarbazine treated patients
+T5	i 243 317	Stilboestrol versus Cyproterone acetate versus Medroxyprogesterone acetate
+T6	i 343 355	Stilboestrol
+T7	i 363 371	Estracyt
+T8	i 473 485	Stilboestrol
+T9	i 723 733	Adriamycin
+T10	i 737 751	Procarbazine .
+T11	i 807 819	Procarbazine
+T12	o 528 546	objective response
+T13	o 550 574	significant side effects
+T14	o 586 601	gynaecomastia .
+T15	o 752 776	Toxicity and early death

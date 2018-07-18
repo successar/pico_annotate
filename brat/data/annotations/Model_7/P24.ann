@@ -1,0 +1,15 @@
+T1	p 15 25	epithelial
+T2	p 36 51	transplantation
+T3	p 68 79	pterygium ]
+T4	p 299 368	were 208 patients ( 229 eyes ) with initial pterygium , and they were
+T5	p 379 394	to two groups :
+T6	p 417 473	with limbal epithelial autograft transplantation surgery
+T7	i 8 14	Limbal
+T8	i 26 35	autograft
+T9	i 130 196	limbal epithelial autograft transplantation and pterygium excision
+T10	i 395 475	excision of pterygium with limbal epithelial autograft transplantation surgery (
+T11	i 504 544	eyes ) and simple pterygium excision ( B
+T12	i 576 577	)
+T13	i 1098 1107	autograft
+T14	o 597 605	recovery
+T15	o 611 618	corneal

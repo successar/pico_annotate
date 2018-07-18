@@ -1,0 +1,17 @@
+T1	p 206 227	10 healthy subjects .
+T2	i 38 54	garlic and onion
+T3	i 58 81	alimentary hyperlipemia
+T4	i 106 122	garlic and onion
+T5	i 126 149	alimentary hyperlipemia
+T6	i 177 183	butter
+T7	i 250 255	juice
+T8	i 259 292	50 g of garlic or onion , as well
+T9	i 320 341	their ether-extracted
+T10	i 352 356	oils
+T11	i 446 451	onion
+T12	i 745 751	garlic
+T13	i 756 761	onion
+T14	i 823 829	garlic
+T15	i 834 839	onion
+T16	o 522 561	serum cholesterol and plasma fibrinogen
+T17	o 579 623	coagulation time and fibrinolytic activity .

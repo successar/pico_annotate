@@ -1,0 +1,23 @@
+T1	p 25 28	and
+T2	p 37 38	:
+T3	p 277 283	threat
+T4	p 369 394	. Male students ( N=443 )
+T5	i 115 124	education
+T6	i 131 148	testicular cancer
+T7	i 238 244	, TC )
+T8	i 303 307	( eg
+T9	i 310 353	testicular self-examination ; TSE ) anxiety
+T10	i 421 454	a TC or TC +TSE information group
+T11	i 460 488	no information control group
+T12	i 592 598	TC+TSE
+T13	i 670 714	self-examine and lower message denigration .
+T14	i 778 796	of TSE information
+T15	o 142 150	cancer (
+T16	o 238 256	, TC ) information
+T17	o 308 337	, testicular self-examination
+T18	o 426 436	or TC +TSE
+T19	o 525 541	. Anxiety levels
+T20	o 637 644	benefit
+T21	o 657 682	intention to self-examine
+T22	o 732 743	information
+T23	o 809 840	acceptance of disease awareness

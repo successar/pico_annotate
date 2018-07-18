@@ -1,0 +1,31 @@
+T1	p 100 135	ADHD and Autism . Attention deficit
+T2	p 172 196	autism spectrum disorder
+T3	p 199 202	ASD
+T4	p 612 673	Age-matched boys with ADHD ( 15 ) , ASD ( 18 ) , and controls
+T5	p 980 988	Patients
+T6	p 1117 1140	ASD boys underactivated
+T7	p 1345 1353	ASD boys
+T8	i 24 34	Fluoxetine
+T9	i 337 356	reuptake inhibitors
+T10	i 711 746	magnetic resonance imaging ( fMRI )
+T11	i 818 853	acute dose of Fluoxetine or placebo
+T12	i 874 892	placebo-controlled
+T13	i 1077 1081	fMRI
+T14	i 1107 1114	placebo
+T15	i 1281 1291	Fluoxetine
+T16	i 1421 1428	placebo
+T17	i 1491 1501	Fluoxetine
+T18	o 38 73	Medial Prefrontal Cortex Activation
+T19	o 136 158	hyperactivity disorder
+T20	o 172 196	autism spectrum disorder
+T21	o 203 239	) share brain function abnormalities
+T22	o 247 268	cognitive flexibility
+T23	o 380 389	cognitive
+T24	o 414 422	behavior
+T25	o 1121 1174	boys underactivated medial prefrontal cortex ( mPFC )
+T26	o 1252 1280	precuneus activation . Under
+T27	o 1294 1309	mPFC activation
+T28	o 1314 1330	up-regulated and
+T29	o 1381 1395	down-regulated
+T30	o 1535 1550	mPFC activation
+T31	o 1562 1566	ADHD

@@ -1,0 +1,24 @@
+T1	p 18 118	patients at high risk for neutropenic complications during chemotherapy for metastatic breast cancer
+T2	p 401 449	patients with metastatic breast cancer ( MBC ) .
+T3	p 1873 1881	patients
+T4	i 77 89	chemotherapy
+T5	i 124 172	doxorubicin or pegylated liposomal doxorubicin :
+T6	i 314 326	chemotherapy
+T7	i 332 396	doxorubicin ( DOX ) or a pegylated liposomal formulation ( PLD )
+T8	i 524 527	DOX
+T9	i 563 566	PLD
+T10	i 1393 1396	DOX
+T11	i 1404 1407	PLD
+T12	i 1918 1952	anthracycline-based chemotherapy .
+T13	o 44 69	neutropenic complications
+T14	o 274 306	neutropenic complications ( NC )
+T15	o 698 774	NC were defined as an absolute neutrophil count < or =1.5 x 10 ( 9 ) cells/L
+T16	o 823 887	febrile neutropenia or neutropenia with a documented infection .
+T17	o 1254 1334	poor performance status , absolute neutrophil count < or =2.0 x 10 ( 9 ) cells/L
+T18	o 1359 1426	the first cycle of chemotherapy , DOX versus PLD and advanced age .
+T19	o 1429 1448	precycle risk score
+T20	o 1527 1552	threshold for sensitivity
+T21	o 1568 1579	specificity
+T22	o 1609 1642	score at or beyond this threshold
+T23	o 1666 1675	high risk
+T24	o 1908 1910	NC

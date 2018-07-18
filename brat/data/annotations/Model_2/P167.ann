@@ -1,0 +1,43 @@
+T1	p 137 170	after major gynecologic surgery .
+T2	p 349 429	360 ASA physical status I-III patients undergoing total abdominal hysterectomy (
+T3	p 434 437	) .
+T4	p 713 717	four
+T5	p 773 784	hypotension
+T6	p 881 882	.
+T7	p 901 920	patients developing
+T8	p 1135 1143	received
+T9	i 22 95	prophylactic ondansetron , droperidol , perphenazine , and metoclopramide
+T10	i 169 170	.
+T11	i 211 293	intravenous ( i.v . ) ondansetron , droperidol , perphenazine , and metoclopramide
+T12	i 349 356	360 ASA
+T13	i 405 437	abdominal hysterectomy ( TAH ) .
+T14	i 474 478	i.v.
+T15	i 488 504	ondansetron 4 mg
+T16	i 507 581	droperidol 1.25 mg , perphenazine 5 mg , metoclopramide 10 mg , or placebo
+T17	i 615 616	.
+T18	i 665 679	metoclopramide
+T19	i 733 744	ondansetron
+T20	i 855 865	droperidol
+T21	i 1044 1055	prophylaxis
+T22	i 1069 1086	antiemetic rescue
+T23	i 1148 1161	. ondansetron
+T24	i 1173 1183	droperidol
+T25	i 1195 1213	and perphenazine (
+T26	i 1255 1262	placebo
+T27	i 1285 1299	Metoclopramide
+T28	i 1327 1338	ondansetron
+T29	i 1341 1370	droperidol , and perphenazine
+T30	i 1410 1421	prophylaxis
+T31	i 1433 1447	. perphenazine
+T32	i 1500 1512	perphenazine
+T33	i 1565 1570	TAH .
+T34	o 117 136	nausea and vomiting
+T35	o 175 207	prophylactic antiemetic efficacy
+T36	o 617 628	Hypotension
+T37	o 764 784	systolic hypotension
+T38	o 873 882	sedated .
+T39	o 921 961	severe nausea , retching , or vomiting ,
+T40	o 973 986	severe emetic
+T41	o 1069 1088	antiemetic rescue .
+T42	o 1112 1118	number
+T43	o 1457 1472	of side effects

@@ -1,0 +1,28 @@
+T1	p 144 152	patients
+T2	p 222 258	of coronary heart disease and stroke
+T3	p 454 643	303 patients taking blood pressure and/or lipid-lowering medications were randomly assigned to being sent text messages ( Text group , 151 ) or not being sent them ( No text group , 152 ) .
+T4	p 1736 1769	patients taking blood pressure or
+T5	p 1817 1831	cardiovascular
+T6	i 170 202	pressure or lipid-lowering drugs
+T7	i 496 510	lipid-lowering
+T8	i 618 622	( No
+T9	i 636 665	152 ) . Texts were sent daily
+T10	i 670 671	2
+T11	i 680 694	alternate days
+T12	i 699 700	2
+T13	i 718 728	thereafter
+T14	i 733 735	22
+T15	i 744 745	6
+T16	i 753 804	overall ) , using an automated computer programme .
+T17	i 1770 1784	lipid-lowering
+T18	o 57 71	cardiovascular
+T19	o 400 422	cardiovascular disease
+T20	o 1429 1438	adherence
+T21	o 1555 1565	medication
+T22	o 1572 1577	least
+T23	o 1582 1590	occasion
+T24	o 1673 1681	efficacy
+T25	o 1685 1697	side-effects
+T26	o 1758 1766	pressure
+T27	o 1817 1839	cardiovascular disease
+T28	o 1866 1886	medication adherence

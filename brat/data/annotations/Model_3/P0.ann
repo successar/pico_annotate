@@ -1,0 +1,16 @@
+T1	p 92 111	allergic rhinitis .
+T2	p 282 300	rhinitis ( SAR ) .
+T3	p 504 736	Private practices and hospital clinics in Ontario , Quebec and Manitoba . POPULATION Two hundred and eighty-four out-patients with SAR , who were symptomatic during the ragweed season , volunteered for enrolment ( 243 randomized ) .
+T4	i 20 41	budesonide Turbuhaler
+T5	i 47 57	budesonide
+T6	i 171 192	budesonide Turbuhaler
+T7	i 213 223	budesonide
+T8	i 1489 1504	budesonide aqua
+T9	i 1519 1540	budesonide Turbuhaler
+T10	i 1623 1640	budesonide powder
+T11	o 389 406	quality of life .
+T12	o 745 776	Mean daily nasal symptom scores
+T13	o 887 899	eye symptoms
+T14	o 1036 1050	adverse events
+T15	o 1072 1096	epistaxis and headache .
+T16	o 1356 1371	quality of life

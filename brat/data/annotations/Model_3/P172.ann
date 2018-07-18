@@ -1,0 +1,6 @@
+T1	p 570 580	patients .
+T2	p 717 752	100 consecutive patients . Patients
+T3	i 109 124	carbon monoxide
+T4	i 219 234	carbon monoxide
+T5	i 426 433	holding
+T6	i 680 713	breath holding TLCO ( TLCO , bh )

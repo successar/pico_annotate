@@ -1,0 +1,29 @@
+T1	p 61 70	Guatemala
+T2	p 923 1014	subjects who used open fires during the trial and received chimney stoves after the trial .
+T3	p 1129 1140	women 38-84
+T4	p 1150 1153	age
+T5	p 1160 1162	55
+T6	i 6 70	Intervention to lower household wood smoke exposure in Guatemala
+T7	i 521 543	chimney woodstove that
+T8	i 619 637	stove intervention
+T9	i 654 663	open fire
+T10	i 877 895	) before-and-after
+T11	i 941 951	open fires
+T12	i 982 996	chimney stoves
+T13	i 1013 1041	. Electrocardiogram sessions
+T14	i 1215 1223	stoves .
+T15	i 1465 1482	electrocardiogram
+T16	i 1640 1645	stove
+T17	i 1916 1934	stove intervention
+T18	o 79 124	ST-segment depression on electrocardiograms .
+T19	o 683 704	ST-segment depression
+T20	o 718 740	heart rate variability
+T21	o 743 748	HRV )
+T22	o 1224 1249	HRV and ST-segment values
+T23	o 1289 1310	ST-segment depression
+T24	o 1409 1428	( PM?.? ] exposures
+T25	o 1746 1769	ST-segment depression .
+T26	o 1894 1897	HRV
+T27	o 1989 2010	ST-segment depression
+T28	o 2067 2093	ventricular repolarization
+T29	o 2110 2131	cardiovascular health

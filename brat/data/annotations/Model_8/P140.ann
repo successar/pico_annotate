@@ -1,0 +1,29 @@
+T1	p 110 111	)
+T2	p 170 181	pressure or
+T3	p 225 258	coronary heart disease and stroke
+T4	p 423 443	preventive treatment
+T5	p 454 522	303 patients taking blood pressure and/or lipid-lowering medications
+T6	p 1101 1109	patients
+T7	p 1214 1218	less
+T8	p 1260 1261	.
+T9	p 1374 1382	patients
+T10	p 1456 1468	100 patients
+T11	p 1513 1537	reminded 98/151 patients
+T12	p 1623 1637	stopped taking
+T13	p 1752 1784	blood pressure or lipid-lowering
+T14	i 83 92	treatment
+T15	i 182 202	lipid-lowering drugs
+T16	i 496 510	lipid-lowering
+T17	i 618 619	(
+T18	i 644 649	Texts
+T19	i 771 804	an automated computer programme .
+T20	i 1770 1794	lipid-lowering treatment
+T21	o 164 181	blood pressure or
+T22	o 387 396	adherence
+T23	o 474 495	blood pressure and/or
+T24	o 1063 1073	medication
+T25	o 1429 1438	adherence
+T26	o 1673 1708	efficacy or side-effects , resuming
+T27	o 1752 1769	blood pressure or
+T28	o 1817 1831	cardiovascular
+T29	o 1866 1886	medication adherence

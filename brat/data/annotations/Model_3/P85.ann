@@ -1,0 +1,24 @@
+T1	p 120 150	patients with chronic stroke .
+T2	p 452 508	SUBJECTS Fifteen subjects with post-stroke hemiparesis .
+T3	p 2269 2308	patients with post-stroke hemiparesis .
+T4	i 17 66	kinesthetic locomotor imagery training integrated
+T5	i 72 85	auditory step
+T6	i 197 235	kinesthetic locomotor imagery training
+T7	i 721 759	kinesthetic locomotor imagery training
+T8	o 558 586	walking performance : visual
+T9	o 696 742	auditory step rhythm and kinesthetic locomotor
+T10	o 765 787	auditory step rhythm .
+T11	o 814 879	timed up-and-go test and electromyographic and kinematic analyses
+T12	o 1007 1027	timed up-and-go test
+T13	o 1125 1146	kinesthetic locomotor
+T14	o 1169 1189	auditory step rhythm
+T15	o 1250 1273	swing and stance phases
+T16	o 1280 1301	kinesthetic locomotor
+T17	o 1353 1363	activation
+T18	o 1369 1458	greater number of muscles and increased angular displacement of the knee and ankle joints
+T19	o 1556 1576	auditory step rhythm
+T20	o 1643 1687	activation of the hamstring during the swing
+T21	o 1753 1785	kinematic data of the knee joint
+T22	o 1935 1955	auditory step rhythm
+T23	o 2128 2148	auditory step rhythm
+T24	o 2246 2265	walking performance

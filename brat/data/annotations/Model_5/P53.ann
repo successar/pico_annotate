@@ -1,0 +1,24 @@
+T1	p 176 182	asthma
+T2	p 246 291	patients with asthma poorly controlled on low
+T3	p 691 709	adult asthmatics .
+T4	p 718 741	Sixty-six subjects were
+T5	i 6 91	Salmeterol plus fluticasone propionate versus fluticasone propionate plus montelukast
+T6	i 305 320	corticosteroids
+T7	i 433 451	placebo-controlled
+T8	i 504 568	salmeterol plus fluticasone propionate ( FP ) ( Seretide ; SFC )
+T9	i 573 599	FP plus montelukast ( FP/M
+T10	i 756 767	SFC or FP/M
+T11	i 1379 1383	FP/M
+T12	i 1386 1390	FP/M
+T13	o 142 172	effects on airway inflammation
+T14	o 388 409	airway inflammation .
+T15	o 605 687	sputum inflammatory markers , airway responsiveness , lung function , and symptoms
+T16	o 818 916	neutrophil , eosinophil , macrophage , lymphocyte , and epithelial cell levels in induced sputum .
+T17	o 950 1067	change in other sputum markers of airway inflammation , airway responsiveness , symptom control , and lung function .
+T18	o 1129 1154	sputum inflammatory cells
+T19	o 1200 1223	in sputum eosinophils .
+T20	o 1263 1284	airway responsiveness
+T21	o 1340 1373	symptom control and lung function
+T22	o 1420 1463	reductions in sputum cysteinyl leukotrienes
+T23	o 1575 1607	eosinophilic airway inflammation
+T24	o 1627 1634	symptom

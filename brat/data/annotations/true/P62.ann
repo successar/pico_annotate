@@ -1,0 +1,21 @@
+T1	p 94 118	metastatic breast cancer
+T2	p 401 447	patients with metastatic breast cancer ( MBC )
+T3	p 1873 1881	patients
+T4	i 124 135	doxorubicin
+T5	i 139 170	pegylated liposomal doxorubicin
+T6	i 332 351	doxorubicin ( DOX )
+T7	i 357 396	pegylated liposomal formulation ( PLD )
+T8	i 524 527	DOX
+T9	i 563 566	PLD
+T10	i 1393 1396	DOX
+T11	i 1404 1407	PLD
+T12	o 44 69	neutropenic complications
+T13	o 274 306	neutropenic complications ( NC )
+T14	o 698 700	NC
+T15	o 720 774	absolute neutrophil count < or =1.5 x 10 ( 9 ) cells/L
+T16	o 823 885	febrile neutropenia or neutropenia with a documented infection
+T17	o 1254 1334	poor performance status , absolute neutrophil count < or =2.0 x 10 ( 9 ) cells/L
+T18	o 1421 1424	age
+T19	o 1429 1448	precycle risk score
+T20	o 1671 1675	risk
+T21	o 1908 1910	NC

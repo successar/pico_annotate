@@ -1,0 +1,8 @@
+T1	p 66 102	patients with rheumatoid arthritis :
+T2	p 250 279	rheumatoid arthritis ( RA ) .
+T3	p 556 593	38 patients with RA and 20 controls .
+T4	i 518 552	Clcr from serum creatinine ( Scr )
+T5	i 807 825	Cockcroft [ Clcr =
+T6	i 844 872	body weight ) / ( 72 x Scr )
+T7	o 178 193	filtration rate
+T8	o 322 342	creatinine clearance

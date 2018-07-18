@@ -1,0 +1,14 @@
+T1	p 452 547	adults with previously treated immune thrombocytopenia of more than 6 months ' duration who had
+T2	i 293 300	placebo
+T3	i 424 442	placebo-controlled
+T4	i 667 732	local standard of care plus 50 mg eltrombopag or matching placebo
+T5	i 1377 1395	placebo . Analysis
+T6	i 1838 1845	placebo
+T7	i 1954 1961	placebo
+T8	i 2175 2182	placebo
+T9	i 2309 2316	placebo
+T10	i 2436 2450	placebo . Nine
+T11	i 2511 2518	placebo
+T12	i 2657 2666	placebo )
+T13	i 2731 2738	placebo
+T14	o 36 67	chronic immune thrombocytopenia

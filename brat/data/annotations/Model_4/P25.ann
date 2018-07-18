@@ -1,0 +1,16 @@
+T1	p 403 473	Thirty-five university students were assessed with the four tonometers
+T2	i 34 48	Reichert AT550
+T3	i 57 80	non-contact tonometer .
+T4	i 166 187	intra-ocular pressure
+T5	i 190 193	IOP
+T6	i 212 243	new non-contact tonometer ( NCT
+T7	i 250 258	Reichert
+T8	i 326 378	Reichert Xpert Plus , Goldmann applanation tonometer
+T9	i 383 400	Perkins tonometer
+T10	i 503 524	non-contact tonometry
+T11	i 813 824	applanation
+T12	o 128 145	level of accuracy
+T13	o 166 195	intra-ocular pressure ( IOP )
+T14	o 644 647	IOP
+T15	o 880 885	level
+T16	o 1082 1085	IOP

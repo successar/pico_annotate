@@ -1,0 +1,23 @@
+T1	p 61 114	bestatin of acute nonlymphocytic leukemia in adults .
+T2	p 380 461	remission maintenance chemotherapy for adult acute nonlymphocytic leukemia ( ANLL
+T3	p 622 674	. The 101 eligible cases ( bestatin : 48 , control :
+T4	p 927 949	the 15-49 yr age group
+T5	p 955 971	the 50-65 yr age
+T6	p 1151 1167	elderly patients
+T7	i 37 55	chemoimmunotherapy
+T8	i 61 69	bestatin
+T9	i 121 137	immunomodulating
+T10	i 146 154	bestatin
+T11	i 337 359	bestatin immunotherapy
+T12	i 363 374	combination
+T13	i 390 414	maintenance chemotherapy
+T14	i 552 566	bestatin group
+T15	i 572 577	mg/bw
+T16	i 587 591	po )
+T17	i 608 615	control
+T18	i 700 708	bestatin
+T19	i 1008 1016	Bestatin
+T20	o 731 740	remission
+T21	o 803 813	survival .
+T22	o 826 851	prolongation of remission
+T23	o 1114 1136	survival and remission

@@ -1,0 +1,43 @@
+T1	p 451 476	St. Louis University Core
+T2	p 584 638	patients with multivessel coronary artery disease were
+T3	p 668 715	coronary artery bypass grafting or percutaneous
+T4	p 729 749	coronary angioplasty
+T5	p 756 792	St. Louis University program detects
+T6	p 1161 1174	referred to a
+T7	p 1397 1429	registry study participants with
+T8	p 1440 1444	ECGs
+T9	p 1481 1499	as of March 1995 ,
+T10	p 1549 1561	participants
+T11	p 1640 1673	St. Louis University coding rules
+T12	p 1798 1826	St. Louis University program
+T13	p 1922 1935	sample of 812
+T14	i 74 82	NOVACODE
+T15	i 130 141	Angioplasty
+T16	i 181 182	)
+T17	i 261 271	diagnostic
+T18	i 514 525	Angioplasty
+T19	i 668 751	coronary artery bypass grafting or percutaneous transluminal coronary angioplasty .
+T20	i 860 876	Minnesota code (
+T21	i 899 916	modified NOVACODE
+T22	i 975 1010	seven-power calibrated coding loupe
+T23	i 1044 1073	a customized software program
+T24	i 1175 1190	physician coder
+T25	i 1228 1240	coding rules
+T26	i 1291 1293	MC
+T27	i 1579 1581	MC
+T28	i 1591 1596	alone
+T29	o 28 31	ECG
+T30	o 87 115	Q wave myocardial infarction
+T31	o 192 220	electrocardiographic ( ECG )
+T32	o 304 330	myocardial ischemic events
+T33	o 407 410	ECG
+T34	o 477 491	ECG Laboratory
+T35	o 793 802	and codes
+T36	o 810 817	changes
+T37	o 821 846	Q , ST , and T wave items
+T38	o 1088 1096	minor or
+T39	o 1466 1480	ECG Laboratory
+T40	o 1510 1531	MC Q wave progression
+T41	o 1693 1736	incidence of grade 1 MC Q wave progressions
+T42	o 1855 1866	variability
+T43	o 1871 1903	grade 2 Q wave progression codes

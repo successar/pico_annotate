@@ -1,0 +1,8 @@
+T1	p 54 153	previously untreated advanced breast cancer -- a cancer and leukemia group B study ( CALGB 8642 ) .
+T2	p 536 697	the Cancer and Leukemia Group B ( CALGB ) master metastatic breast cancer protocol . CALGB 8642 randomizes previously untreated metastatic breast cancer patients
+T3	p 2284 2329	previously untreated breast cancer patients .
+T4	i 6 17	Amonafide :
+T5	i 457 507	active metabolite , N-acetyl-amonafide . Amonafide
+T6	o 988 1030	survival , toxicity , and overall response
+T7	o 1701 1742	hematotoxicity or lack thereof . Toxicity
+T8	o 1899 1938	no thrombocytopenia . The response rate

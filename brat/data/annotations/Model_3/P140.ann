@@ -1,0 +1,7 @@
+T1	p 211 258	prevention of coronary heart disease and stroke
+T2	p 454 643	303 patients taking blood pressure and/or lipid-lowering medications were randomly assigned to being sent text messages ( Text group , 151 ) or not being sent them ( No text group , 152 ) .
+T3	p 1736 1784	patients taking blood pressure or lipid-lowering
+T4	i 182 202	lipid-lowering drugs
+T5	i 474 522	blood pressure and/or lipid-lowering medications
+T6	i 589 804	151 ) or not being sent them ( No text group , 152 ) . Texts were sent daily for 2 weeks , alternate days for 2 weeks and weekly thereafter for 22 weeks ( 6 months overall ) , using an automated computer programme .
+T7	o 1429 1438	adherence

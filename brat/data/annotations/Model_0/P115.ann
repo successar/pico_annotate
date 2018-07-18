@@ -1,0 +1,15 @@
+T1	p 827 875	chemotherapy-na?ve patients with breast cancer .
+T2	p 1106 1167	8 . Median age of the 94 women was 51 years ( range 27-76 ) :
+T3	i 364 377	dexamethasone
+T4	i 543 567	dexamethasone or placebo
+T5	i 762 775	dexamethasone
+T6	i 815 822	placebo
+T7	i 898 977	intravenous granisetron and dexamethasone pre-chemotherapy and oral granisetron
+T8	i 1180 1267	fluorouracil/epirubicin/cyclophosphamide and 15 received doxorubicin/cyclophosphamide .
+T9	i 1384 1391	placebo
+T10	i 1676 1691	dexamethasone .
+T11	i 1862 1925	dexamethasone or placebo was used after adjuvant chemotherapy .
+T12	o 255 293	control of delayed nausea and vomiting
+T13	o 592 660	delayed nausea and vomiting , and to compare quality of life ( QOL )
+T14	o 1535 1598	intensity of vomiting , nausea , or time to onset of vomiting .
+T15	o 1617 1639	decrease in global QOL

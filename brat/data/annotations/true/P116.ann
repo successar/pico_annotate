@@ -1,0 +1,15 @@
+T1	p 48 72	patients with depression
+T2	p 218 259	patients with mild to moderate depression
+T3	p 427 516	15 depressive patients who had been under antidepressant treatment for at least one month
+T4	p 1182 1201	Depressive patients
+T5	i 19 28	lifestyle
+T6	i 849 866	physical activity
+T7	i 885 897	sun exposure
+T8	i 906 913	control
+T9	i 933 975	not receive these explicit recommendations
+T10	o 6 15	Adherence
+T11	o 324 333	adherence
+T12	o 576 610	physical activity and sun exposure
+T13	o 849 872	physical activity level
+T14	o 877 897	time of sun exposure
+T15	o 1088 1130	time of sun exposure and physical activity

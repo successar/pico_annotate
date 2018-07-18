@@ -1,0 +1,21 @@
+T1	p 64 127	children and young adults after repair of tetralogy of Fallot :
+T2	p 210 262	patients with congenital heart disease to exercise .
+T3	p 597 642	patients with corrected tetralogy of Fallot .
+T4	p 724 779	patients with tetralogy of Fallot aged 10 to 25 years .
+T5	p 1110 1157	One patient in the exercise group dropped out .
+T6	p 1601 1712	3-month aerobic dynamic exercise training in children and young adults with repaired tetralogy of Fallot . This
+T7	i 43 60	exercise training
+T8	i 381 389	training
+T9	i 500 525	exercise training program
+T10	i 790 844	standardized aerobic dynamic exercise training program
+T11	i 912 942	cardiopulmonary exercise tests
+T12	i 1058 1066	exercise
+T13	i 1085 1092	control
+T14	i 1129 1137	exercise
+T15	i 1221 1229	exercise
+T16	i 1240 1247	control
+T17	i 1601 1645	3-month aerobic dynamic exercise training in
+T18	o 6 38	Regional ventricular performance
+T19	o 912 1006	cardiopulmonary exercise tests , MRI , and echocardiography , including tissue-Doppler imaging
+T20	o 1158 1201	Change in tissue-Doppler imaging parameters
+T21	o 1358 1383	0.9?4.1 ; peak velocity A

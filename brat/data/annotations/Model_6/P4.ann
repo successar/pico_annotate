@@ -1,0 +1,20 @@
+T1	p 980 1004	40 subjects participated
+T2	p 1130 1151	20 subjects served as
+T3	p 1154 1161	control
+T4	i 26 46	root instrumentation
+T5	i 53 120	conventional steel or non-tooth substance removing plastic curettes
+T6	i 751 771	root instrumentation
+T7	i 778 794	plastic curettes
+T8	i 813 817	Soft
+T9	i 882 909	conventional steel curettes
+T10	i 1102 1129	active peridontal therapy .
+T11	i 1185 1270	with conventional steel curettes during a supportive periodontal care visit ( SPT ) .
+T12	o 359 363	loss
+T13	o 367 372	tooth
+T14	o 1385 1406	Clinical parameters ,
+T15	o 1412 1477	as bleeding on probing ( BOP ) and probing pocket depth ( PPD ) ,
+T16	o 1575 1589	BOP percentage
+T17	o 1755 1766	BOP and PPD
+T18	o 1836 1854	the BOP percentage
+T19	o 1928 1931	BOP
+T20	o 1950 1958	mean BOP

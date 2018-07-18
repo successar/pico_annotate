@@ -1,0 +1,25 @@
+T1	p 61 74	the elderly :
+T2	p 441 454	young women .
+T3	p 623 733	elderly patients . Eighty-five ASA grade I or II patients ( aged 60-89 yr ) for elective total hip replacement
+T4	p 1438 1485	elderly patients undergoing elective procedures
+T5	i 27 57	anesthesia-induced hypotension
+T6	i 123 173	of crystalloids , colloids , and no prehydration .
+T7	i 251 267	colloid solution
+T8	i 540 557	spinal anesthesia
+T9	i 565 577	prehydration
+T10	i 583 619	crystalloid and colloid prehydration
+T11	i 761 802	500 mL crystalloid solution ( Hartmanns ,
+T12	i 810 811	)
+T13	i 814 876	500 mL colloid ( Haemaccel , n = 28 ) , or no prehydration ( n
+T14	i 879 883	28 )
+T15	i 905 924	spinal anesthesia .
+T16	i 1059 1068	ephedrine
+T17	o 20 57	spinal anesthesia-induced hypotension
+T18	o 429 437	efficacy
+T19	o 481 533	and frequency of hypotension and vasopressor therapy
+T20	o 925 936	Hypotension
+T21	o 982 1024	systolic blood pressure ( BP ) or systolic
+T22	o 1093 1122	absolute systolic BP readings
+T23	o 1210 1234	incidence of hypotension
+T24	o 1292 1386	incidence of ephedrine use , incidence of nausea/vomiting , and median total dose of ephedrine
+T25	o 1548 1593	degree of hypotension or need for vasopressor

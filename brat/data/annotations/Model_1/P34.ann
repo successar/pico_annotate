@@ -1,0 +1,21 @@
+T1	p 335 357	healthy young subjects
+T2	p 431 461	Five groups of 8 subjects each
+T3	i 57 107	inhibition of cholesteryl ester transfer protein :
+T4	i 138 151	torcetrapib .
+T5	i 188 253	cholesteryl ester transfer protein ( CETP ) inhibitor torcetrapib
+T6	i 481 488	placebo
+T7	i 500 511	torcetrapib
+T8	i 592 603	Torcetrapib
+T9	i 903 918	CETP inhibition
+T10	i 1477 1492	CETP inhibition
+T11	o 613 622	tolerated
+T12	o 678 727	correlation of plasma drug levels with inhibition
+T13	o 833 842	CETP mass
+T14	o 903 918	CETP inhibition
+T15	o 1001 1025	Total plasma cholesterol
+T16	o 1081 1089	nonHDL-C
+T17	o 1129 1164	low-density lipoprotein cholesterol
+T18	o 1187 1211	Apolipoprotein A-I and E
+T19	o 1261 1265	apoB
+T20	o 1309 1334	Cholesteryl ester content
+T21	o 1349 1361	triglyceride

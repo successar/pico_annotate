@@ -1,0 +1,30 @@
+T1	p 64 115	group A beta-haemolytic streptococcal pharyngitis .
+T2	p 212 249	streptococcal ( GABHS ) pharyngitis .
+T3	p 386 405	GABHS pharyngitis .
+T4	p 502 554	Zealand . Children presenting with GABHS pharyngitis
+T5	p 1230 1279	353 children with positive throat swabs for GABHS
+T6	p 2035 2071	GABHS in children with pharyngitis .
+T7	i 17 28	amoxicillin
+T8	i 36 60	twice-daily penicillin V
+T9	i 228 235	GABHS )
+T10	i 304 325	QD ) oral amoxicillin
+T11	i 365 380	oral penicillin
+T12	i 386 405	GABHS pharyngitis .
+T13	i 579 590	amoxicillin
+T14	i 643 679	) or to oral penicillin V 500 mg BID
+T15	i 718 780	kg ) for 10 days . Observed medication and weekend diary cards
+T16	i 837 842	GABHS
+T17	i 1274 1279	GABHS
+T18	i 1326 1336	penicillin
+T19	i 1942 1953	amoxicillin
+T20	i 1985 1995	penicillin
+T21	i 2035 2040	GABHS
+T22	o 761 780	weekend diary cards
+T23	o 802 844	adherence . OUTCOME Eradication of GABHS ,
+T24	o 919 933	GABHS isolates
+T25	o 1131 1153	success of eradication
+T26	o 1394 1411	positive cultures
+T27	o 1516 1547	failures ( including relapses )
+T28	o 1730 1752	resolution of symptoms
+T29	o 1803 1840	unsubstantiated acute rheumatic fever
+T30	o 2020 2040	eradication of GABHS

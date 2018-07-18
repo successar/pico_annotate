@@ -1,0 +1,31 @@
+T1	p 51 82	adults with autistic disorder .
+T2	p 233 272	adult patients with autistic disorder .
+T3	p 281 395	Twenty drug-free adults with autistic disorder ( 16 men and 4 women ) ( mean [ +/- SD ] age , 30.5 +/- 8.5 years )
+T4	p 936 938	17
+T5	p 2117 2139	patients with autism .
+T6	p 2287 2297	patients .
+T7	p 2386 2403	autistic disorder
+T8	i 458 476	placebo-controlled
+T9	i 529 567	24-hour , low-tryptophan diet followed
+T10	i 577 584	morning
+T11	i 588 609	an amino acid drink .
+T12	i 1276 1284	whirling
+T13	i 1287 1295	flapping
+T14	i 1298 1304	pacing
+T15	i 1307 1314	banging
+T16	i 1319 1331	hitting self
+T17	i 1334 1341	rocking
+T18	i 1348 1351	toe
+T19	i 1652 1678	tryptophan-deficient amino
+T20	o 168 179	biochemical
+T21	o 621 628	ratings
+T22	o 745 784	Plasma free and total tryptophan levels
+T23	o 1005 1064	worsening of behavioral symptoms with short-term tryptophan
+T24	o 1138 1146	clinical
+T25	o 1258 1363	behaviors such as whirling , flapping , pacing , banging and hitting self , rocking , and toe walking ( P
+T26	o 1421 1454	calm and happy and more anxious .
+T27	o 1493 1589	social relatedness or repetitive thoughts and behavior . Plasma total and free tryptophan levels
+T28	o 1746 1754	symptoms
+T29	o 1780 1819	baseline plasma total tryptophan levels
+T30	o 1837 1869	Autism Behavior Checklist scores
+T31	o 1937 1945	symptoms

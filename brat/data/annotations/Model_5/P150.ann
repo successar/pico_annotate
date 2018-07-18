@@ -1,0 +1,24 @@
+T1	p 51 96	ear surgery using various anesthesia technics
+T2	p 357 424	49 patients under the following randomised anaesthetic procedures :
+T3	i 6 7	[
+T4	i 12 47	sympatho-adrenergic stress reaction
+T5	i 55 62	surgery
+T6	i 69 98	various anesthesia technics ]
+T7	i 240 336	microsurgical operations . Simple mastoidectomies , radical mastoidectomies and tympano plastics
+T8	i 423 531	: Group 1 halothane anaesthesia and retroauricular infiltration anaesthesia with lidocaine and ornipressin (
+T9	i 549 635	2 fentanyl anaesthesia and retroauricular anaesthesia with lidocaine and ornipressin (
+T10	i 653 752	3 fentanyl anaesthesia and retroauricular infiltration anaesthesia with lidocaine and epinephrine (
+T11	i 774 849	4 retroauricular infiltration anaesthesia with prilocaine and epinephrine (
+T12	i 882 910	epinephrine , norepinephrine
+T13	i 940 948	glycerol
+T14	i 1786 1794	glycerol
+T15	o 865 948	plasma levels of epinephrine , norepinephrine , glucose , lactate and free glycerol
+T16	o 978 1028	mean arterial pressure ( MAP ) and heart rate ( HR
+T17	o 1298 1312	concentrations
+T18	o 1433 1454	Plasma catecholamines
+T19	o 1473 1487	norepinephrine
+T20	o 1620 1632	MAP and HR .
+T21	o 1637 1650	plasma levels
+T22	o 1670 1684	norepinephrine
+T23	o 1699 1714	direct response
+T24	o 1759 1796	glucose , lactate and free glycerol .

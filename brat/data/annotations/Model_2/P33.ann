@@ -1,0 +1,45 @@
+T1	p 93 132	advanced epithelial ovarian carcinoma .
+T2	p 214 224	previously
+T3	p 234 245	multicentre
+T4	p 296 394	patients with advanced epithelial ovarian cancer who had failed one prior platinum-based regimen .
+T5	p 416 464	Patients with bidimensionally measurable disease
+T6	p 601 637	Patients were eligible for treatment
+T7	p 932 954	dyspnea , constipation
+T8	p 959 971	insomnia ) .
+T9	p 988 1031	of 226 patients were evaluable for response
+T10	p 1230 1231	<
+T11	p 1311 1312	<
+T12	p 1370 1394	years post-randomisation
+T13	p 1459 1460	<
+T14	p 1541 1542	<
+T15	p 1920 1929	topotecan
+T16	p 1944 1960	ovarian cancer .
+T17	i 62 89	topotecan versus paclitaxel
+T18	i 265 292	topotecan versus paclitaxel
+T19	i 484 493	topotecan
+T20	i 496 499	1.5
+T21	i 507 515	2 ) /day
+T22	i 527 548	) or paclitaxel ( 175
+T23	i 556 564	2 ) /day
+T24	i 574 584	infusion )
+T25	i 647 664	alternate therapy
+T26	i 1162 1171	topotecan
+T27	i 1279 1296	paclitaxel , 14.7
+T28	i 1420 1429	topotecan
+T29	i 1509 1526	paclitaxel , 53.0
+T30	i 1605 1614	Topotecan
+T31	i 1676 1686	paclitaxel
+T32	i 1920 1929	topotecan
+T33	o 6 24	Long-term survival
+T34	o 177 185	survival
+T35	o 685 710	European Organisation for
+T36	o 737 792	Cancer Quality of Life ( EORTC QOL ) -C30 questionnaire
+T37	o 824 832	symptoms
+T38	o 870 969	pain , anorexia , diarrhoea , fatigue , nausea and vomiting , dyspnea , constipation and insomnia )
+T39	o 1046 1061	characteristics
+T40	o 1125 1151	EORTC QOL-30 questionnaire
+T41	o 1180 1206	median time to progression
+T42	o 1397 1412	median survival
+T43	o 1651 1663	efficacy and
+T44	o 1703 1775	and non-cumulative haematological toxicity . Non-haematological toxicity
+T45	o 1817 1840	long-term survival rate

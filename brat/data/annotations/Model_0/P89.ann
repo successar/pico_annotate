@@ -1,0 +1,25 @@
+T1	p 178 197	diabetic patients :
+T2	p 669 728	In all , 360 diabetic patients with coronary artery disease
+T3	p 2449 2468	diabetic patients .
+T4	p 2559 2607	diabetic patients with coronary artery disease .
+T5	i 119 131	pioglitazone
+T6	i 216 240	PERISCOPE ( Pioglitazone
+T7	i 451 463	pioglitazone
+T8	i 628 639	glimepiride
+T9	i 747 774	pioglitazone or glimepiride
+T10	i 796 820	PERISCOPE ( Pioglitazone
+T11	i 1568 1580	pioglitazone
+T12	i 1758 1771	glimepiride .
+T13	i 2356 2368	pioglitazone
+T14	o 1042 1118	biochemical parameters , percent atheroma volume , and total atheroma volume
+T15	o 1210 1362	high-density lipoprotein cholesterol ( HDL-C ) and reductions in glycated hemoglobin , triglycerides , and C-reactive protein . Significant correlations
+T16	o 1396 1437	percent atheroma volume and triglycerides
+T17	o 1464 1488	triglyceride/HDL-C ratio
+T18	o 1598 1633	low-density lipoprotein cholesterol
+T19	o 1882 1887	HDL-C
+T20	o 1944 1957	triglycerides
+T21	o 1995 2019	triglyceride/HDL-C ratio
+T22	o 2194 2212	triglyceride/HDL-C
+T23	o 2245 2268	percent atheroma volume
+T24	o 2286 2307	total atheroma volume
+T25	o 2376 2445	triglyceride/HDL-C ratio correlated with delayed atheroma progression

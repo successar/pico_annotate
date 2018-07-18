@@ -1,0 +1,21 @@
+T1	p 387 421	10 patients with asthma due to HDM
+T2	i 6 59	Local immunotherapy by inhalation of a powder extract
+T3	i 157 183	parenteral immunotherapy .
+T4	i 231 318	local immunotherapy ( LI ) by inhalation of a powder extract of house dust mite ( HDM )
+T5	i 340 384	parenteral immunotherapy ( PI ) by injection
+T6	i 489 491	LI
+T7	i 523 530	placebo
+T8	i 566 594	PI and inhalation of lactose
+T9	i 676 706	disodium cromoglycate ( DSCG )
+T10	i 1349 1351	LI
+T11	i 1371 1373	PI
+T12	i 1458 1460	LI
+T13	o 198 206	efficacy
+T14	o 215 227	tolerability
+T15	o 756 770	symptoms score
+T16	o 778 826	peak expiratory flow ( PEF ) -derived parameters
+T17	o 902 970	late component of the bronchial response to the challenge with HDM .
+T18	o 1009 1174	bronchial responsiveness to methacholine and ultrasonically nebulized distilled water ( UNDW ) and in immunologic humoral and cellular parameters in peripheral blood
+T19	o 1212 1245	local important adverse reactions
+T20	o 1278 1299	systemic side effects
+T21	o 1572 1595	systemic side effects .

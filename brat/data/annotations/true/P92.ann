@@ -1,0 +1,21 @@
+T1	p 1098 1179	49 intervention and 70 control women 38-84 years of age , and 55 control subjects
+T2	i 521 538	chimney woodstove
+T3	i 619 637	stove intervention
+T4	i 654 663	open fire
+T5	i 852 857	stove
+T6	i 941 951	open fires
+T7	i 982 996	chimney stoves
+T8	i 1215 1221	stoves
+T9	i 1640 1658	stove intervention
+T10	i 1916 1934	stove intervention
+T11	o 79 100	ST-segment depression
+T12	o 683 704	ST-segment depression
+T13	o 718 748	heart rate variability ( HRV )
+T14	o 1224 1249	HRV and ST-segment values
+T15	o 1289 1310	ST-segment depression
+T16	o 1360 1376	Personal fine PM
+T17	o 1417 1428	] exposures
+T18	o 1493 1507	PM?.? exposure
+T19	o 1746 1767	ST-segment depression
+T20	o 1894 1897	HRV
+T21	o 1989 2010	ST-segment depression

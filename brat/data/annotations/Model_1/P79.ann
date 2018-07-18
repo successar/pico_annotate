@@ -1,0 +1,17 @@
+T1	p 99 137	male adolescents and in Caco-2 cells .
+T2	p 234 245	adolescents
+T3	p 348 367	18 male adolescents
+T4	i 19 59	diets rich in Maillard reaction products
+T5	i 157 206	high intake of Maillard reaction products ( MRP )
+T6	i 395 434	white diet ( WD ) and brown diet ( BD )
+T7	i 448 468	poor and rich in MRP
+T8	i 1424 1434	MRP intake
+T9	o 63 88	calcium bioavailability .
+T10	o 210 230	calcium availability
+T11	o 548 569	fasting blood samples
+T12	o 587 640	Calcium solubility and absorption across Caco-2 cells
+T13	o 732 742	solubility
+T14	o 832 855	calcium bioavailability
+T15	o 950 1034	Serum and urine biochemical parameters related to calcium status and bone metabolism
+T16	o 1061 1085	deoxypyridinoline values
+T17	o 1225 1253	less efficient bone turnover

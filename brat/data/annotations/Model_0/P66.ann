@@ -1,0 +1,21 @@
+T1	p 218 237	Japanese patients .
+T2	p 449 527	patients who undergo mastectomy ( with axillary dissection ) experience PONV .
+T3	p 654 684	women who undergo mastectomy .
+T4	p 870 925	PONV after breast cancer surgery in Japanese patients .
+T5	p 1689 1863	A total of 100 women ( mean [ SD ] age , 52 [ 7 ] years ; height , 154 [ 6 ] cm ; weight , 54 [ 7 ] kg ) were included in the study . Each study group comprised 25 patients .
+T6	p 2753 2805	Japanese women who underwent breast cancer surgery .
+T7	i 20 62	propofol , droperidol , and metoclopramide
+T8	i 190 208	placebo-controlled
+T9	i 624 631	placebo
+T10	i 774 846	propofol with the conventional antiemetics droperidol and metoclopramide
+T11	i 984 1002	placebo-controlled
+T12	i 1091 1309	propofol 0.5 mg/kg , droperidol 20 microg/kg , metoclopramide 0.2 mg/kg , or placebo ( isotonic saline ) immediately after skin suture . A standard general anesthetic technique , including sevoflurane and air in oxygen
+T13	i 2105 2115	droperidol
+T14	i 2146 2160	metoclopramide
+T15	i 2188 2195	placebo
+T16	i 2325 2365	droperidol , and propofol and droperidol
+T17	i 2441 2455	metoclopramide
+T18	i 2643 2676	propofol 0.5 mg/kg and droperidol
+T19	i 2860 2936	propofol and droperidol compared with metoclopramide 0.2 mg/kg and placebo .
+T20	o 82 115	postoperative nausea and vomiting
+T21	o 379 412	postoperative nausea and vomiting

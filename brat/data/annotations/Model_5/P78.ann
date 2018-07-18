@@ -1,0 +1,15 @@
+T1	p 79 87	trauma .
+T2	p 341 382	21 hospitalized trauma patients to assess
+T3	i 6 30	Virtual reality hypnosis
+T4	i 236 273	nonpharmacologic analgesic techniques
+T5	i 409 486	virtual reality hypnosis ( VRH ) -hypnotic induction and analgesic suggestion
+T6	i 497 553	by customized virtual reality ( VR ) hardware/software .
+T7	i 622 625	VRH
+T8	i 650 673	standard analgesic care
+T9	i 697 757	adjunctive VR without hypnosis and standard care alone . VRH
+T10	i 894 897	VRH
+T11	i 1072 1099	therapist-provided hypnosis
+T12	o 565 577	pain ratings
+T13	o 781 824	pain intensity and less pain unpleasantness
+T14	o 972 991	pain management and
+T15	o 1004 1053	availability of hypnotic analgesia to populations

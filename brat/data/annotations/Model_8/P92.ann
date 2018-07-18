@@ -1,0 +1,31 @@
+T1	p 104 122	electrocardiograms
+T2	p 144 148	body
+T3	p 398 409	countries .
+T4	p 923 940	subjects who used
+T5	p 1118 1153	70 control women 38-84 years of age
+T6	p 1156 1179	and 55 control subjects
+T7	i 378 383	fuels
+T8	i 521 538	chimney woodstove
+T9	i 572 573	.
+T10	i 619 637	stove intervention
+T11	i 946 951	fires
+T12	i 982 996	chimney stoves
+T13	i 1015 1041	Electrocardiogram sessions
+T14	i 1465 1484	electrocardiogram .
+T15	i 1580 1592	intervention
+T16	i 1640 1645	stove
+T17	i 1916 1921	stove
+T18	o 79 103	ST-segment depression on
+T19	o 180 198	particulate matter
+T20	o 234 248	cardiovascular
+T21	o 303 325	cardiovascular effects
+T22	o 471 490	Respiratory Effects
+T23	o 683 746	ST-segment depression and increase heart rate variability ( HRV
+T24	o 1224 1249	HRV and ST-segment values
+T25	o 1289 1310	ST-segment depression
+T26	o 1483 1484	.
+T27	o 1499 1507	exposure
+T28	o 1746 1767	ST-segment depression
+T29	o 1974 1999	of nonspecific ST-segment
+T30	o 2067 2093	ventricular repolarization
+T31	o 2098 2124	potentially cardiovascular

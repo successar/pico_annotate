@@ -1,0 +1,21 @@
+T1	p 292 296	risk
+T2	p 300 310	haemolytic
+T3	p 326 332	foetus
+T4	p 337 344	newborn
+T5	p 423 443	RH:1 Tunisian donors
+T6	p 953 959	donors
+T7	p 969 981	193 dizygous
+T8	p 986 1012	145 hemizygous individuals
+T9	i 15 27	RHD zygosity
+T10	i 389 401	RHD zygosity
+T11	i 428 654	Tunisian donors by polymerase chain reaction - sequence-specific polymorphism ( PCR-SSP ) analysis and polymerase chain reaction - restriction fragment length polymorphism ( PCR-RFLP ) amplification of hybrid Rhesus box and by
+T12	i 665 738	quantitative polymerase chain reaction ( RQ-PCR ) specific for RHD exon 5
+T13	i 839 859	RHD and Rhesus boxes
+T14	i 878 897	PCR and sequenced .
+T15	i 1358 1361	RHD
+T16	i 1432 1438	RQ-PCR
+T17	o 757 784	accuracy of molecular tests
+T18	o 847 859	Rhesus boxes
+T19	o 1071 1088	predictive values
+T20	o 1161 1187	Negative predictive values
+T21	o 1344 1355	RHD alleles

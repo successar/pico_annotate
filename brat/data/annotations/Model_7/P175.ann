@@ -1,0 +1,24 @@
+T1	p 87 99	subarachnoid
+T2	p 126 142	post-thoracotomy
+T3	p 603 671	, 20 patients undergoing lateral thoracotomy for lung resection were
+T4	p 1842 1905	patients undergoing lateral thoracotomy who receive 0.5 mg SM .
+T5	i 56 68	nerve blocks
+T6	i 113 121	morphine
+T7	i 181 192	Thoracotomy
+T8	i 291 317	subarachnoid morphine ( SM
+T9	i 628 647	lateral thoracotomy
+T10	i 694 821	0.5 mg SM preoperatively and INB with bupivacaine ( INB+ ) prior to wound closure or 0.5 mg SM with INB using saline ( INB- ) .
+T11	i 972 984	forced vital
+T12	i 1633 1636	INB
+T13	i 1870 1881	thoracotomy
+T14	i 1901 1903	SM
+T15	o 407 418	pain relief
+T16	o 510 533	postoperative pulmonary
+T17	o 822 856	Visual analog scale pain scores at
+T18	o 927 956	expiratory volume in 1 second
+T19	o 968 1001	and forced vital capacity ( FVC )
+T20	o 1068 1078	Opioid use
+T21	o 1245 1261	) and FVC values
+T22	o 1315 1339	resting and cough pain (
+T23	o 1456 1467	pain scores
+T24	o 1669 1696	pain and pulmonary function

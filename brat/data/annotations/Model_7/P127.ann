@@ -1,0 +1,19 @@
+T1	p 87 132	for children with autism spectrum disorders :
+T2	p 306 381	children diagnosed with an autism spectrum disorder as part of the ScanBrit
+T3	p 1389 1393	aged
+T4	p 1766 1806	children with autism require independent
+T5	i 11 30	mining the ScanBrit
+T6	i 40 86	a gluten- and casein-free dietary intervention
+T7	i 174 181	dietary
+T8	i 254 285	gluten- and casein-free diet as
+T9	i 289 301	intervention
+T10	i 373 395	ScanBrit collaboration
+T11	i 906 926	dietary intervention
+T12	i 1451 1473	dietary intervention .
+T13	i 1733 1761	gluten- and casein-free diet
+T14	o 543 559	peripheral areas
+T15	o 563 574	functioning
+T16	o 758 769	behavioural
+T17	o 774 786	psychometric
+T18	o 988 1031	of inattention and hyperactivity behaviours
+T19	o 1078 1089	said scores

@@ -1,0 +1,15 @@
+T1	p 118 147	pathologies of the ear , nose
+T2	p 154 162	throat ]
+T3	p 353 448	98 patients aged between 18 and 75 suffering from pain-inflammatory pathologies of ENT nature .
+T4	i 59 69	nimesulide
+T5	i 73 84	suppository
+T6	i 231 278	non-steroid anti-inflammatory drug . Nimesulide
+T7	i 335 347	flurbiprofen
+T8	i 492 503	suppository
+T9	o 169 194	efficacy and tolerability
+T10	o 543 601	anti-inflammatory , analgesic and antipyretic activity and
+T11	o 627 650	progressive improvement
+T12	o 666 674	symptoms
+T13	o 682 700	inflammatory state
+T14	o 713 733	complete remission .
+T15	o 755 857	greater speed and duration of therapeutic action . Assessment on the effectiveness and tolerability as

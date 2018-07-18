@@ -1,0 +1,36 @@
+T1	p 51 153	of previously untreated advanced breast cancer -- a cancer and leukemia group B study ( CALGB 8642 ) .
+T2	p 536 714	the Cancer and Leukemia Group B ( CALGB ) master metastatic breast cancer protocol . CALGB 8642 randomizes previously untreated metastatic breast cancer patients either to one of
+T3	p 723 731	Phase II
+T4	p 1258 1266	Patients
+T5	p 1279 1293	histologically
+T6	p 1305 1329	measurable breast cancer
+T7	p 1358 1382	0-1 . Patients could not
+T8	p 1388 1435	had prior chemotherapy for metastatic disease .
+T9	p 2295 2329	untreated breast cancer patients .
+T10	p 2472 2491	patients adequately
+T11	p 2524 2555	hematotoxicity ) with amonafide
+T12	i 6 17	Amonafide :
+T13	i 21 27	active
+T14	i 154 163	Amonafide
+T15	i 193 210	naphthalic acid .
+T16	i 874 882	standard
+T17	i 1072 1102	precedes standard chemotherapy
+T18	i 1451 1463	chemotherapy
+T19	i 2252 2261	amonafide
+T20	i 2658 2680	acetylator phenotyping
+T21	o 988 1030	survival , toxicity , and overall response
+T22	o 1504 1521	visceral crisis .
+T23	o 1657 1666	reduction
+T24	o 1701 1742	hematotoxicity or lack thereof . Toxicity
+T25	o 1757 1770	hematological
+T26	o 1800 1817	3 or 4 leukopenia
+T27	o 1839 1860	or 4 thrombocytopenia
+T28	o 1875 1885	leukopenia
+T29	o 1902 1938	thrombocytopenia . The response rate
+T30	o 1964 1983	complete response .
+T31	o 1989 1997	response
+T32	o 2014 2036	hematological toxicity
+T33	o 2083 2105	leukopenia grade 3/4 (
+T34	o 2176 2204	thrombocytopenia grade 3/4 (
+T35	o 2345 2370	steep dose-response curve
+T36	o 2418 2468	myelosuppression and response . Rates of responses

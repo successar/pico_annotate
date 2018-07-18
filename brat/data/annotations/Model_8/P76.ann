@@ -1,0 +1,47 @@
+T1	p 23 42	conditioning before
+T2	p 133 176	patients with acute myocardial infarction :
+T3	p 261 291	injury at elective surgery and
+T4	p 353 365	conditioning
+T5	p 373 405	evolving ST-elevation myocardial
+T6	p 443 464	percutaneous coronary
+T7	p 509 510	.
+T8	p 519 600	333 consecutive adult patients with a suspected first acute myocardial infarction
+T9	p 686 715	primary percutaneous coronary
+T10	p 734 741	( n=166
+T11	p 989 995	remote
+T12	p 1052 1073	percutaneous coronary
+T13	p 1099 1100	.
+T14	p 1176 1197	percutaneous coronary
+T15	p 1425 1461	82 patients were excluded on arrival
+T16	p 1465 1473	hospital
+T17	p 1510 1523	criteria , 32
+T18	p 2058 2067	failure (
+T19	p 2118 2137	conditioning before
+T20	i 6 22	Remote ischaemic
+T21	i 209 241	Remote ischaemic preconditioning
+T22	i 280 305	surgery and angioplasty .
+T23	i 336 342	remote
+T24	i 443 477	percutaneous coronary intervention
+T25	i 655 660	block
+T26	i 686 728	primary percutaneous coronary intervention
+T27	i 760 767	without
+T28	i 770 799	n=167 ) remote conditioning (
+T29	i 850 865	5-min inflation
+T30	i 870 912	5-min deflation of a blood-pressure cuff )
+T31	i 1052 1086	percutaneous coronary intervention
+T32	i 1176 1210	percutaneous coronary intervention
+T33	i 2084 2117	. INTERPRETATION Remote ischaemic
+T34	o 406 416	infarction
+T35	o 490 500	myocardial
+T36	o 1126 1144	myocardial salvage
+T37	o 1225 1235	myocardial
+T38	o 1261 1283	proportion of the area
+T39	o 1402 1413	NCT00435266
+T40	o 1454 1461	arrival
+T41	o 1617 1637	Median salvage index
+T42	o 1827 1845	mean salvage index
+T43	o 1954 1996	Major adverse coronary events were death (
+T44	o 2013 2029	, reinfarction (
+T45	o 2052 2065	heart failure
+T46	o 2167 2185	myocardial salvage
+T47	o 2209 2215	safety

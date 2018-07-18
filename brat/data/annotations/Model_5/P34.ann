@@ -1,0 +1,20 @@
+T1	p 335 361	healthy young subjects was
+T2	p 431 461	Five groups of 8 subjects each
+T3	p 578 591	for 14 days .
+T4	p 634 650	treated subjects
+T5	p 1612 1615	low
+T6	i 181 222	potent cholesteryl ester transfer protein
+T7	i 230 253	) inhibitor torcetrapib
+T8	i 481 519	placebo ( n=2 ) or torcetrapib ( n=6 )
+T9	i 542 545	120
+T10	i 559 562	120
+T11	i 590 603	. Torcetrapib
+T12	i 1187 1201	Apolipoprotein
+T13	o 278 324	high-density lipoprotein cholesterol ( HDL-C )
+T14	o 613 622	tolerated
+T15	o 693 727	plasma drug levels with inhibition
+T16	o 1001 1025	Total plasma cholesterol
+T17	o 1129 1164	low-density lipoprotein cholesterol
+T18	o 1187 1205	Apolipoprotein A-I
+T19	o 1349 1361	triglyceride
+T20	o 1379 1401	nonHDL plasma fraction

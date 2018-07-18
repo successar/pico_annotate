@@ -1,0 +1,20 @@
+T1	p 51 94	individuals with autism spectrum disorder :
+T2	p 190 486	individuals formally diagnosed with autism spectrum disorder ( ASD ) . Participants were 20 children with ASD ( M age = 14.3 yr. , SD = 4.2 ; 6 girls , 14 boys ) in the role of speakers and 20 control children , who acted as listeners . They were all enrolled in mainstream compulsory education .
+T3	p 568 571	ASD
+T4	p 1750 1770	individuals with ASD
+T5	i 6 26	Training referential
+T6	i 152 186	referential communication training
+T7	i 475 486	education .
+T8	i 768 792	trained vs untrained ) .
+T9	i 888 926	Peabody Picture Vocabulary Test ( PPVT
+T10	i 965 971	WISC-R
+T11	i 975 985	WAIS-III )
+T12	i 1026 1031	ABC )
+T13	i 1166 1173	trained
+T14	i 1177 1374	referential communication tasks ( task analysis , role taking , and task evaluation ) , while the untrained group took part in a communicative game but without any specific communicative training .
+T15	i 1700 1708	training
+T16	o 626 636	disability
+T17	o 793 847	Linguistic age , cognitive level and autistic symptoms
+T18	o 888 926	Peabody Picture Vocabulary Test ( PPVT
+T19	o 935 1057	Wechsler Intelligence Scale ( WISC-R or WAIS-III ) , and the Autistic Behavior Checklist ( ABC ) . Communicative abilities
+T20	o 1546 1559	communication

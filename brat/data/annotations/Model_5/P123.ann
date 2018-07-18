@@ -1,0 +1,34 @@
+T1	p 74 140	patients with chemotherapy-induced painful peripheral neuropathy :
+T2	p 468 541	8 National Cancer Institute ( NCI ) -funded cooperative research networks
+T3	p 547 680	enrolled 231 patients who were 25 years or older being treated at community and academic settings between April 2008 and March 2011 .
+T4	p 920 1187	patients have grade 1 or higher sensory neuropathy according to the NCI Common Terminology Criteria for Adverse Events and at least 4 on a scale of 0 to 10 , representing average chemotherapy-induced pain , after paclitaxel , other taxane , or oxaliplatin treatment .
+T5	p 1745 1756	Individuals
+T6	p 2297 2325	painful chemotherapy-induced
+T7	i 16 26	duloxetine
+T8	i 316 326	duloxetine
+T9	i 329 331	60
+T10	i 430 448	placebo-controlled
+T11	i 827 868	duloxetine followed by placebo or placebo
+T12	i 881 891	duloxetine
+T13	i 1099 1119	chemotherapy-induced
+T14	i 1133 1201	paclitaxel , other taxane , or oxaliplatin treatment . INTERVENTIONS
+T15	i 1214 1223	treatment
+T16	i 1237 1300	taking 1 capsule daily of either 30 mg of duloxetine or placebo
+T17	i 1354 1381	duloxetine or placebo daily
+T18	i 1501 1508	placebo
+T19	i 1942 1949	placebo
+T20	i 2065 2072	placebo
+T21	i 2204 2211	placebo
+T22	i 2386 2393	placebo
+T23	o 30 67	pain , function , and quality of life
+T24	o 234 254	chemotherapy-induced
+T25	o 266 276	neuropathy
+T26	o 354 367	pain severity
+T27	o 1099 1124	chemotherapy-induced pain
+T28	o 1523 1587	chemotherapy-induced peripheral neuropathic pain . Pain severity
+T29	o 1617 1660	Pain Inventory-Short Form average pain item
+T30	o 1684 1688	pain
+T31	o 1837 1855	in average pain of
+T32	o 2023 2041	average pain score
+T33	o 2231 2251	pain of any amount .
+T34	o 2441 2445	pain

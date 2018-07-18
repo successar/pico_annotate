@@ -1,0 +1,23 @@
+T1	p 113 144	periodontal furcation pockets .
+T2	p 154 264	and lower molars with furcation grade II involvement were selected from 16 patients with periodontal disease .
+T3	p 354 383	4 consecutive administrations
+T4	p 716 717	.
+T5	p 773 780	probing
+T6	i 29 47	combined treatment
+T7	i 54 109	tetracycline-immobilized collagen film and root planing
+T8	i 113 124	periodontal
+T9	i 387 450	tetracycline-immobilized cross-linked collagen film ( TC film )
+T10	i 476 478	TC
+T11	i 495 519	1 root planing treatment
+T12	i 539 564	) combination treatment (
+T13	i 570 572	RP
+T14	i 592 611	treatment ( control
+T15	i 1237 1246	furcation
+T16	o 192 194	II
+T17	o 565 567	TC
+T18	o 626 637	therapeutic
+T19	o 726 846	of plaque index , gingival index , bleeding on probing , probing depth , probing attachment level and microscopic counts
+T20	o 924 971	in probing depth and density of micro-organisms
+T21	o 991 995	TC +
+T22	o 1028 1030	TC
+T23	o 1075 1152	rate of bleeding on pocket probing and an increased probing attachment gain .

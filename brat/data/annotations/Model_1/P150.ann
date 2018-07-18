@@ -1,0 +1,11 @@
+T1	p 51 62	ear surgery
+T2	p 229 368	during ear microsurgical operations . Simple mastoidectomies , radical mastoidectomies and tympano plastics were carried out in 49 patients
+T3	i 77 98	anesthesia technics ]
+T4	i 267 315	Simple mastoidectomies , radical mastoidectomies
+T5	i 320 336	tympano plastics
+T6	i 433 529	halothane anaesthesia and retroauricular infiltration anaesthesia with lidocaine and ornipressin
+T7	i 551 633	fentanyl anaesthesia and retroauricular anaesthesia with lidocaine and ornipressin
+T8	i 655 750	fentanyl anaesthesia and retroauricular infiltration anaesthesia with lidocaine and epinephrine
+T9	i 776 847	retroauricular infiltration anaesthesia with prilocaine and epinephrine
+T10	o 865 930	plasma levels of epinephrine , norepinephrine , glucose , lactate
+T11	o 1277 1796	Plasma catecholamine concentrations remained within the normal range during the investigation in patients subjected to general anaesthesia ( Groups 1-3 ) . Plasma catecholamines ( epinephrine and norepinephrine ) increased significantly in Group 4 ( retroauricular infiltration anaesthesia ) . There were no group variabilities with regard to MAP and HR . The plasma levels of epinephrine and norepinephrine demonstrate a direct response to stress followed by a secondary change in glucose , lactate and free glycerol .

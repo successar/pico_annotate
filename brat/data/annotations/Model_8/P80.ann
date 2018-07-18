@@ -1,0 +1,20 @@
+T1	p 100 126	patients with depression :
+T2	p 198 203	years
+T3	p 610 672	. Eighty depressed patients undergoing standard antidepressant
+T4	p 1084 1087	who
+T5	p 1178 1182	care
+T6	i 23 55	hygienic-dietary recommendations
+T7	i 59 68	enhancers
+T8	i 72 86	antidepressant
+T9	i 264 280	light exposure ,
+T10	i 319 347	a Mediterranean diet pattern
+T11	i 493 516	adjuvant antidepressant
+T12	i 649 672	standard antidepressant
+T13	i 714 799	additional hygienic-dietary recommendations about exercise , diet , sunlight exposure
+T14	i 945 960	recommendations
+T15	o 281 314	physical activity , sleep control
+T16	o 370 380	prevention
+T17	o 395 396	.
+T18	o 804 811	sleep .
+T19	o 1006 1031	their depressive symptoms
+T20	o 1136 1153	costless measures

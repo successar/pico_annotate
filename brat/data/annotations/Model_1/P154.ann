@@ -1,0 +1,22 @@
+T1	p 61 107	outpatients with a major depressive disorder .
+T2	p 110 139	double-blind controlled study
+T3	p 189 224	outpatients with primary depression
+T4	i 33 57	doxepin versus bupropion
+T5	i 165 185	bupropion to doxepin
+T6	i 325 332	placebo
+T7	i 676 683	Doxepin
+T8	i 698 707	bupropion
+T9	i 775 782	doxepin
+T10	i 824 843	bupropion . Doxepin
+T11	i 990 1001	bupropion .
+T12	i 1076 1083	doxepin
+T13	i 1096 1107	bupropion .
+T14	o 251 270	efficacy and safety
+T15	o 417 440	Antidepressant response
+T16	o 461 550	Hamilton Depression and Anxiety Scales , Clinical Global Severity and Improvement Ratings
+T17	o 561 596	Zung Self-Rating Depression Scale .
+T18	o 608 616	efficacy
+T19	o 722 767	sleep factor of the Hamilton Depression Scale
+T20	o 793 798	sleep
+T21	o 876 970	anticholinergic side effects , including dry mouth , constipation , sleepiness , and tiredness
+T22	o 1019 1043	appetite and weight gain

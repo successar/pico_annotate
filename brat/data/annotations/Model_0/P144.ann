@@ -1,0 +1,9 @@
+T1	p 620 669	The study included 281 adults in 301 procedures .
+T2	i 104 140	patient-controlled propofol sedation
+T3	i 401 550	patient-controlled sedation ( PCS ) with propofol , nurse anesthetist-controlled sedation ( ACS ) , or the department 's standard of care , midazolam
+T4	i 992 1001	midazolam
+T5	i 1162 1180	midazolam sedation
+T6	i 1570 1587	PCS with propofol
+T7	o 328 428	safety , ease of treatment , recovery , and patients ' experiences using patient-controlled sedation
+T8	o 1122 1149	number of sedation failures
+T9	o 1369 1390	Time to full recovery

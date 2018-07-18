@@ -1,0 +1,38 @@
+T1	p 44 68	cholangiopancreatography
+T2	p 167 178	anesthetist
+T3	p 261 292	cholangiopancreatography ( ERCP
+T4	p 431 441	PCS ) with
+T5	p 459 496	anesthetist-controlled sedation ( ACS
+T6	p 630 705	included 281 adults in 301 procedures . The PCS group ( n = 101 ) delivered
+T7	p 1187 1204	n = 0 ; PCS n = 4
+T8	p 1217 1220	n =
+T9	p 1258 1282	sedated patients ( OAA/S
+T10	i 44 68	cholangiopancreatography
+T11	i 104 144	patient-controlled propofol sedation and
+T12	i 161 180	nurse anesthetist .
+T13	i 250 285	retrograde cholangiopancreatography
+T14	i 288 294	ERCP )
+T15	i 401 496	patient-controlled sedation ( PCS ) with propofol , nurse anesthetist-controlled sedation ( ACS
+T16	i 541 550	midazolam
+T17	i 721 747	5 mg of propofol according
+T18	i 822 830	propofol
+T19	i 992 1001	midazolam
+T20	i 1162 1180	midazolam sedation
+T21	i 1207 1216	midazolam
+T22	i 1350 1359	midazolam
+T23	i 1579 1587	propofol
+T24	i 1603 1612	midazolam
+T25	o 6 14	Sedation
+T26	o 328 365	safety , ease of treatment , recovery
+T27	o 368 371	and
+T28	o 381 394	' experiences
+T29	o 420 428	sedation
+T30	o 766 774	sedation
+T31	o 1084 1158	ease of the procedure and reduced the number of sedation failures compared
+T32	o 1172 1180	sedation
+T33	o 1258 1265	sedated
+T34	o 1283 1288	level
+T35	o 1291 1332	) , desaturation , and obstructed airways
+T36	o 1369 1409	Time to full recovery ( Aldrete score ?9
+T37	o 1461 1483	least fatigue and pain
+T38	o 1661 1702	recovery , fewer respiratory events , and

@@ -1,0 +1,16 @@
+T1	p 144 258	patients prescribed blood pressure or lipid-lowering drugs for the prevention of coronary heart disease and stroke
+T2	p 454 545	303 patients taking blood pressure and/or lipid-lowering medications were randomly assigned
+T3	p 1736 1839	patients taking blood pressure or lipid-lowering treatment for the prevention of cardiovascular disease
+T4	i 348 362	text messaging
+T5	i 549 586	being sent text messages ( Text group
+T6	i 598 617	not being sent them
+T7	i 1179 1186	No text
+T8	i 1398 1402	Text
+T9	i 1842 1856	text messaging
+T10	i 1901 1920	no text messaging .
+T11	o 44 53	adherence
+T12	o 387 396	adherence
+T13	o 1429 1438	adherence
+T14	o 1550 1565	take medication
+T15	o 1673 1720	efficacy or side-effects , resuming treatment .
+T16	o 1866 1886	medication adherence

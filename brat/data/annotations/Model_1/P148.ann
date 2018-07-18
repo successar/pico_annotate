@@ -1,0 +1,20 @@
+T1	p 87 136	Obsessive-Compulsive Disorder with Poor Insight :
+T2	p 733 770	patients with OCD with poor insight .
+T3	p 833 924	90 patients with OCD with poor insight received either 24 CBT sessions or 24 IBA sessions .
+T4	p 1610 1645	Patients with OCD with poor insight
+T5	i 6 66	Inference-Based Approach versus Cognitive Behavioral Therapy
+T6	i 471 503	inference-based approach ( IBA )
+T7	i 694 728	cognitive behavior therapy ( CBT )
+T8	i 891 903	CBT sessions
+T9	i 910 924	IBA sessions .
+T10	i 1435 1438	IBA
+T11	i 1523 1526	CBT
+T12	i 1744 1747	CBT
+T13	i 1756 1759	IBA
+T14	i 1817 1820	IBA
+T15	i 1850 1853	CBT
+T16	o 961 1010	Yale-Brown Obsessive Compulsive Scale ( YBOCS ) .
+T17	o 1043 1117	level of insight , anxiety and depressive symptoms , and quality of life .
+T18	o 1216 1249	significant OCD symptom reduction
+T19	o 1366 1373	insight
+T20	o 1470 1491	OCD symptom reduction

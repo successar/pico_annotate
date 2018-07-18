@@ -1,0 +1,23 @@
+T1	p 140 172	patients undergoing laparatomy .
+T2	p 491 563	Eighty patients ( 18 to 65 years of age ) undergoing elective laparotomy
+T3	i 21 98	preoperative oral pregabalin and perioperative intravenous lidocaine infusion
+T4	i 223 300	preoperative oral pregabalin and perioperative intravenous lidocaine infusion
+T5	i 638 697	placebo capsules and normal saline infusion perioperatively
+T6	i 722 849	placebo capsules and lidocaine 1 mg?kg intravenous bolus dose followed by 2 mg?kg?h infusion until skin closure ; group P , 150
+T7	i 853 932	oral pregabalin and normal saline infusion perioperatively ; and group PL , 150
+T8	i 935 1014	nbsp ; mg oral pregabalin and lidocaine 2 mg?kg?h infusion until skin closure .
+T9	i 1602 1679	Preoperative oral pregabalin and perioperative intravenous lidocaine infusion
+T10	i 1715 1755	. Preoperative oral pregabalin decreased
+T11	i 1795 1825	intravenous lidocaine infusion
+T12	i 1966 2015	preoperative pregabalin with or without lidocaine
+T13	o 102 136	postoperative morphine requirement
+T14	o 304 424	postoperative morphine requirement , adverse effects , patients ' satisfaction , mobilization , time to first defecation
+T15	o 429 446	time to discharge
+T16	o 1005 1227	closure . Hemodynamic parameters , visual analogue scale ( VAS ) scores , analgesic consumption , side effects , time to mobilization , time to first defecation , time to discharge and patients ' satisfaction were recorded
+T17	o 1230 1251	RESULTS VAS scores of
+T18	o 1322 1351	Morphine consumption of group
+T19	o 1405 1424	Incidence of nausea
+T20	o 1475 1529	Time to first defecation and mobilization were shorter
+T21	o 1690 1729	postoperative VAS scores . Preoperative
+T22	o 1756 1794	morphine requirement and perioperative
+T23	o 1826 1917	hastened gastrointestinal motility and mobilization , and decreased the incidence of nausea

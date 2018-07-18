@@ -1,0 +1,22 @@
+T1	p 133 150	middle aged men .
+T2	p 225 352	ischaemic heart disease 31 healthy middle aged men undertook regular physical exercise for two months and 29 served as controls
+T3	p 384 402	men taking regular
+T4	p 418 429	cholesterol
+T5	p 472 476	high
+T6	p 485 521	lipoprotein subfraction two ( HDL2 )
+T7	p 1200 1227	healthy middle aged men and
+T8	i 17 39	mild physical exercise
+T9	i 175 192	physical exercise
+T10	i 294 311	physical exercise
+T11	i 403 411	exercise
+T12	i 1064 1072	exercise
+T13	i 1119 1127	exercise
+T14	o 395 444	regular exercise serum cholesterol concentrations
+T15	o 472 521	high density lipoprotein subfraction two ( HDL2 )
+T16	o 600 632	low density lipoprotein fraction
+T17	o 690 789	plasma 6-keto-prostaglandin F1 alpha concentration and decreased serum thromboxane B2 concentration
+T18	o 844 875	prostaglandin E2 concentrations
+T19	o 913 963	plasma 6-keto-prostaglandin F1 alpha concentration
+T20	o 999 1035	serum HDL2 cholesterol concentration
+T21	o 1150 1174	cholesterol distribution
+T22	o 1178 1196	serum lipoproteins

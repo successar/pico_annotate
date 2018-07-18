@@ -1,0 +1,9 @@
+T1	p 32 52	adults with autism .
+T2	p 296 328	children to adults with autism .
+T3	p 379 397	adults with autism
+T4	i 489 517	target-distractor similarity
+T5	o 205 236	visual discrimination ability .
+T6	o 427 450	searching for targets .
+T7	o 489 554	target-distractor similarity slowed the visual search performance
+T8	o 673 713	superior visual discrimination ability .
+T9	o 812 833	unique item detection

@@ -1,0 +1,21 @@
+T1	p 191 238	herpes zoster ( HZ ) and postherpetic neuralgia
+T2	p 262 297	individuals > or =60 years of age .
+T3	p 476 548	subjects > or =50 years of age . Subjects with a negative history for HZ
+T4	p 639 660	1:2 by age ( 50 to 59
+T5	i 133 143	Zostavax .
+T6	i 148 164	vaccine Zostavax
+T7	i 357 414	refrigerator-stable formulation ( Zostavax refrigerated )
+T8	i 433 472	current formulation ( Zostavax frozen )
+T9	i 546 548	HZ
+T10	i 599 612	formulation .
+T11	i 1905 1913	Zostavax
+T12	o 690 696	Safety
+T13	o 766 790	VZV ) antibody responses
+T14	o 902 943	VZV antibody geometric mean titer ( GMT ;
+T15	o 959 997	VZV antibody geometric mean rise ( GMR
+T16	o 1025 1089	incidence of vaccine-related serious adverse experiences ( AEs )
+T17	o 1259 1268	GMT ratio
+T18	o 1424 1451	vaccine-related serious AEs
+T19	o 1492 1498	safety
+T20	o 1557 1590	frequencies of injection-site AEs
+T21	o 1747 1759	systemic AEs

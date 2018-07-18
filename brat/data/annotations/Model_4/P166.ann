@@ -1,0 +1,11 @@
+T1	p 51 105	elective appendectomy in renal transplant recipients .
+T2	p 168 191	75 children after renal
+T3	p 841 849	patients
+T4	i 24 72	Bacteroides fragilis after elective appendectomy
+T5	i 363 375	appendectomy
+T6	i 446 461	lymphocytopenia
+T7	i 497 508	antibiotics
+T8	i 717 725	fragilis
+T9	o 127 147	Bacteroides fragilis
+T10	o 269 304	bacteremia . Bacteroides bacteremia
+T11	o 339 375	performance of elective appendectomy

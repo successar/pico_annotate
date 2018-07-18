@@ -1,0 +1,21 @@
+T1	p 335 357	healthy young subjects
+T2	p 431 461	Five groups of 8 subjects each
+T3	p 1598 1619	subjects with low HDL
+T4	p 1669 1672	the
+T5	p 1678 1706	of CETP in atherosclerosis .
+T6	i 188 222	cholesteryl ester transfer protein
+T7	i 232 253	inhibitor torcetrapib
+T8	i 481 519	placebo ( n=2 ) or torcetrapib ( n=6 )
+T9	i 1616 1619	HDL
+T10	o 14 38	high-density lipoprotein
+T11	o 278 324	high-density lipoprotein cholesterol ( HDL-C )
+T12	o 613 622	tolerated
+T13	o 690 711	of plasma drug levels
+T14	o 717 727	inhibition
+T15	o 974 976	of
+T16	o 1001 1025	Total plasma cholesterol
+T17	o 1129 1164	low-density lipoprotein cholesterol
+T18	o 1187 1205	Apolipoprotein A-I
+T19	o 1345 1361	and triglyceride
+T20	o 1379 1401	nonHDL plasma fraction
+T21	o 1442 1447	HDL .

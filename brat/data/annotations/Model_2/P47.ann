@@ -1,0 +1,31 @@
+T1	p 77 106	anemic patients with cancer .
+T2	p 222 262	patients with cancer-associated anemia .
+T3	p 272 275	AND
+T4	p 284 306	Eligible patients were
+T5	p 325 327	at
+T6	p 571 659	Three hundred sixty-five patients were enrolled . One hundred eighty-three patients were
+T7	p 780 802	requiring transfusions
+T8	p 1034 1037	a >
+T9	p 1043 1052	2 or > or
+T10	i 59 73	erythropoietin
+T11	i 138 150	epoetin alfa
+T12	i 198 217	weekly epoetin alfa
+T13	i 372 465	epoetin alfa 40,000 U subcutaneously ( SC ) , followed by either standard weekly epoetin alfa
+T14	i 468 471	40K
+T15	i 481 488	120,000
+T16	i 494 506	epoetin alfa
+T17	i 509 513	120K
+T18	i 518 522	) SC
+T19	i 529 530	3
+T20	i 1544 1565	epoetin alfa 40,000 U
+T21	i 1626 1633	3 weeks
+T22	i 1744 1763	weekly epoetin alfa
+T23	o 771 779	patients
+T24	o 1075 1089	Hb ) increment
+T25	o 1150 1152	Hb
+T26	o 1170 1261	mean end-of-study Hb levels . Toxicities , including thromboembolism , and overall survival
+T27	o 1307 1344	higher global quality of life ( QOL )
+T28	o 1426 1448	global QOL improvement
+T29	o 1484 1487	QOL
+T30	o 1686 1689	QOL
+T31	o 1696 1708	Hb increment

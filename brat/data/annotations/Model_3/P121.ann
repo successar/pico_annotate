@@ -1,0 +1,9 @@
+T1	p 43 121	early-stage diabetic nephropathy patients on thiamine and pyridoxine therapy .
+T2	p 320 354	Type 2 diabetic patients ( N.=57 )
+T3	i 101 119	pyridoxine therapy
+T4	i 248 311	thiamine ( vitamin B1 ) and pyridoxine ( vitamin B6 ) therapy .
+T5	i 505 553	B6 ( N.=12 ) ( 250 mg/day ) or B1+B6 ( N.=15 ) (
+T6	o 653 766	glucose , HbA1c , triglyceride , cholesterol , insulin , C-peptide , thiamine pyrophosphate , pyridoxal phosphate
+T7	o 1205 1219	in C-peptide (
+T8	o 1285 1304	plasma AGE-peptides
+T9	o 1608 1619	C-peptide .

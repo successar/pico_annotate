@@ -1,0 +1,45 @@
+T1	p 33 54	an emergency extended
+T2	p 102 112	hospital :
+T3	p 203 230	emergency departments ( EDs
+T4	p 233 266	and emergency extended care units
+T5	p 351 357	home .
+T6	p 497 503	visits
+T7	p 507 550	community healthcare practitioners , return
+T8	p 753 808	sample comprised 186 patients ( mean age 70 years , 123
+T9	p 816 835	) female patients ,
+T10	p 849 893	trauma ) who were referred for physiotherapy
+T11	p 967 973	' EECU
+T12	p 984 985	.
+T13	p 1527 1531	EECU
+T14	p 1609 1613	EECU
+T15	p 1737 1740	use
+T16	i 8 21	physiotherapy
+T17	i 36 59	emergency extended care
+T18	i 237 276	emergency extended care units ( EECUs )
+T19	i 356 357	.
+T20	i 387 400	physiotherapy
+T21	i 492 494	ED
+T22	i 560 588	work/home/leisure activities
+T23	i 894 919	assessment/intervention .
+T24	i 984 985	.
+T25	i 1012 1032	medical/nursing care
+T26	i 1085 1124	physiotherapy assessment/intervention .
+T27	i 1431 1441	healthcare
+T28	i 1470 1498	work/home/leisure activities
+T29	i 1527 1531	EECU
+T30	i 1583 1596	physiotherapy
+T31	i 1754 1774	healthcare resources
+T32	i 1816 1844	work/home/leisure activities
+T33	o 83 98	admission rates
+T34	o 299 300	'
+T35	o 329 333	safe
+T36	o 432 484	rate of hospital admission , rate of re-presentation
+T37	o 589 613	and patient satisfaction
+T38	o 918 928	. Referral
+T39	o 1123 1124	.
+T40	o 1198 1215	rate of admission
+T41	o 1293 1316	rate of re-presentation
+T42	o 1499 1515	and satisfaction
+T43	o 1672 1724	rate of hospital admission , rate of re-presentation
+T44	o 1792 1806	rate of return
+T45	o 1845 1868	or patient satisfaction

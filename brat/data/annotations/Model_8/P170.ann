@@ -1,0 +1,35 @@
+T1	p 97 105	mastitis
+T2	p 229 261	mastitis , 37 Holstein cows were
+T3	p 399 410	( 20 cows )
+T4	p 563 574	( 17 cows )
+T5	p 852 855	any
+T6	p 891 896	off .
+T7	p 986 992	frozen
+T8	p 1218 1222	cows
+T9	i 18 50	intramuscular oxytetracycline as
+T10	i 53 60	dry cow
+T11	i 137 169	intramuscular oxytetracycline as
+T12	i 185 192	dry cow
+T13	i 306 398	intracisternal infusion with a commercial preparation of cephapirin benzathine at drying off
+T14	i 415 504	infusion with cephapirin benzathine at drying off and intramuscular oxytetracycline at 11
+T15	i 516 521	daily
+T16	i 552 562	drying off
+T17	i 629 636	calving
+T18	i 831 837	frozen
+T19	i 884 894	drying off
+T20	i 986 1000	frozen culture
+T21	i 1038 1045	calving
+T22	i 1079 1086	calving
+T23	i 1091 1117	systemic oxytetracycline (
+T24	i 1121 1132	combination
+T25	i 1138 1158	cephapirin treatment
+T26	i 1280 1290	cephapirin
+T27	i 1402 1444	combination therapy and cephapirin therapy
+T28	i 1450 1478	. Systemic oxytetracycline ,
+T29	i 1499 1519	intramammary dry cow
+T30	o 90 105	aureus mastitis
+T31	o 222 237	aureus mastitis
+T32	o 1052 1064	rate of cure
+T33	o 1552 1564	rate of cure
+T34	o 1569 1571	S.
+T35	o 1579 1589	mastitis .

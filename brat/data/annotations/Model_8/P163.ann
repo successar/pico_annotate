@@ -1,0 +1,11 @@
+T1	p 25 43	prostatic cancer .
+T2	p 153 216	Group in previously untreated patients with prostatic cancer in
+T3	p 623 653	patients with advanced disease
+T4	i 136 152	EORTC Urological
+T5	i 243 317	Stilboestrol versus Cyproterone acetate versus Medroxyprogesterone acetate
+T6	i 343 371	Stilboestrol versus Estracyt
+T7	i 473 485	Stilboestrol
+T8	i 716 751	either Adriamycin or Procarbazine .
+T9	i 807 819	Procarbazine
+T10	o 550 574	significant side effects
+T11	o 752 776	Toxicity and early death

@@ -1,0 +1,8 @@
+T1	p 37 60	children with malaria .
+T2	p 103 124	children with malaria
+T3	i 16 33	antipyretic drugs
+T4	i 87 99	antipyretics
+T5	i 150 158	naproxen
+T6	i 172 181	metamizol
+T7	o 191 229	reduction of fever peaks . Antipyretic
+T8	o 247 276	effect on fever clearance and

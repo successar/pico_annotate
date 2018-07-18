@@ -1,0 +1,46 @@
+T1	p 27 72	disease in people at high cardiovascular risk
+T2	p 117 139	people with diabetes ,
+T3	p 218 242	to renal insufficiency .
+T4	p 286 310	nondiabetic population .
+T5	p 370 384	over 4.5 yr in
+T6	p 496 577	9297 participants , including 3577 with diabetes and 1956 with microalbuminuria .
+T7	p 607 641	7674 participants with albuminuria
+T8	p 688 741	criteria were known vascular disease or diabetes plus
+T9	p 781 845	exclusion criteria included heart failure or known impaired left
+T10	p 899 902	( >
+T11	p 931 942	> 2.3 mg/dl
+T12	p 1155 1189	participants without diabetes ( OR
+T13	p 1232 1263	participants with diabetes ( OR
+T14	p 1412 1426	participants ;
+T15	p 1465 1468	and
+T16	p 1626 1662	without and with diabetes who are at
+T17	p 1668 1672	risk
+T18	p 1814 1850	nondiabetic and in diabetic people .
+T19	i 462 470	ramipril
+T20	i 485 492	placebo
+T21	i 737 741	plus
+T22	i 1519 1527	Ramipril
+T23	i 1851 1859	Ramipril
+T24	o 21 26	renal
+T25	o 68 72	risk
+T26	o 197 217	clinical proteinuria
+T27	o 355 369	of proteinuria
+T28	o 415 425	Prevention
+T29	o 767 771	risk
+T30	o 809 814	heart
+T31	o 846 898	ventricular function , dipstick-positive proteinuria
+T32	o 910 930	and serum creatinine
+T33	o 969 985	microalbuminuria
+T34	o 1007 1027	clinical proteinuria
+T35	o 1065 1073	adjusted
+T36	o 1304 1330	progression of albuminuria
+T37	o 1368 1394	new clinical proteinuria )
+T38	o 1446 1462	microalbuminuria
+T39	o 1496 1518	clinical proteinuria .
+T40	o 1540 1544	risk
+T41	o 1553 1566	progression (
+T42	o 1735 1739	rise
+T43	o 1743 1756	albuminuria .
+T44	o 1799 1810	proteinuria
+T45	o 1883 1894	progression
+T46	o 1898 1909	albuminuria

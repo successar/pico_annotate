@@ -1,0 +1,14 @@
+T1	p 66 97	adults with autistic disorder .
+T2	p 374 400	some persons with autism .
+T3	p 508 544	Thirty adults with autistic disorder
+T4	p 1562 1591	autistic disorder in adults .
+T5	p 1703 1741	children and adolescents with autism .
+T6	i 23 41	placebo-controlled
+T7	i 580 598	placebo-controlled
+T8	i 907 914	placebo
+T9	i 964 971	placebo
+T10	i 1472 1483	Fluvoxamine
+T11	i 1507 1514	placebo
+T12	o 975 1016	reducing repetitive thoughts and behavior
+T13	o 1260 1334	autistic behavior , or full-scale IQ . Other than mild sedation and nausea
+T14	o 1376 1459	tolerated . No dyskinesias , adverse cardiovascular events , or seizures occurred .

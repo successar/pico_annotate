@@ -1,0 +1,7 @@
+T1	p 218 278	patients with recently diagnosed rheumatoid arthritis ( RA )
+T2	p 333 413	Twenty-two patients with a history of recently diagnosed RA of less than 2 years
+T3	i 618 654	standard outpatient clinic treatment
+T4	o 106 132	illness perceptions , pain
+T5	o 796 806	depression
+T6	o 865 905	depression , disability , pain , beliefs
+T7	o 1069 1081	independence

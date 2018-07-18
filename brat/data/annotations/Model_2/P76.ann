@@ -1,0 +1,58 @@
+T1	p 23 42	conditioning before
+T2	p 122 176	salvage in patients with acute myocardial infarction :
+T3	p 268 291	at elective surgery and
+T4	p 353 416	conditioning during evolving ST-elevation myocardial infarction
+T5	p 443 464	percutaneous coronary
+T6	p 509 510	.
+T7	p 519 600	333 consecutive adult patients with a suspected first acute myocardial infarction
+T8	p 686 728	primary percutaneous coronary intervention
+T9	p 736 750	n=166 patients
+T10	p 813 816	arm
+T11	p 1016 1025	transport
+T12	p 1029 1037	hospital
+T13	p 1040 1086	and primary percutaneous coronary intervention
+T14	p 1090 1100	hospital .
+T15	p 1176 1197	percutaneous coronary
+T16	p 1425 1461	82 patients were excluded on arrival
+T17	p 1465 1473	hospital
+T18	p 1510 1523	criteria , 32
+T19	p 1615 1616	.
+T20	p 1827 1831	mean
+T21	p 2066 2067	(
+T22	p 2118 2137	conditioning before
+T23	p 2157 2166	increases
+T24	i 6 22	Remote ischaemic
+T25	i 209 241	Remote ischaemic preconditioning
+T26	i 280 287	surgery
+T27	i 292 305	angioplasty .
+T28	i 336 352	remote ischaemic
+T29	i 443 477	percutaneous coronary intervention
+T30	i 642 660	computerised block
+T31	i 686 728	primary percutaneous coronary intervention
+T32	i 760 767	without
+T33	i 770 797	n=167 ) remote conditioning
+T34	i 850 855	5-min
+T35	i 866 888	and 5-min deflation of
+T36	i 891 912	blood-pressure cuff )
+T37	i 989 995	remote
+T38	i 1052 1086	percutaneous coronary intervention
+T39	i 1176 1210	percutaneous coronary intervention
+T40	i 1225 1245	myocardial perfusion
+T41	i 1679 1685	remote
+T42	i 2086 2117	INTERPRETATION Remote ischaemic
+T43	i 2287 2293	remote
+T44	o 406 416	infarction
+T45	o 490 500	myocardial
+T46	o 633 638	ratio
+T47	o 1126 1150	myocardial salvage index
+T48	o 1261 1283	proportion of the area
+T49	o 1454 1464	arrival at
+T50	o 1601 1608	salvage
+T51	o 1617 1637	Median salvage index
+T52	o 1827 1845	mean salvage index
+T53	o 1954 1983	Major adverse coronary events
+T54	o 1989 1994	death
+T55	o 2013 2027	, reinfarction
+T56	o 2048 2065	and heart failure
+T57	o 2167 2185	myocardial salvage
+T58	o 2209 2223	safety profile

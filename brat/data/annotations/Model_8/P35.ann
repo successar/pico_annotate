@@ -1,0 +1,41 @@
+T1	p 104 115	hypertrophy
+T2	p 242 243	)
+T3	p 283 308	ventricular hypertrophy (
+T4	p 330 382	continuous ambulatory peritoneal dialysis ( CAPD ) .
+T5	p 409 441	24 CAPD patients with LVH [ left
+T6	p 480 494	g/m2 for women
+T7	p 499 503	LVMi
+T8	p 510 524	g/m2 for men ]
+T9	p 589 600	valsartan (
+T10	p 603 607	= 14
+T11	p 627 628	=
+T12	p 1276 1285	diastolic
+T13	p 1319 1337	treated with ARB .
+T14	p 1385 1403	treated with ARB (
+T15	p 1581 1582	.
+T16	p 1586 1608	CAPD patients with LVH
+T17	i 18 49	angiotensin receptor antagonist
+T18	i 52 61	Valsartan
+T19	i 194 243	selective angiotensin II receptor blocker ( ARB )
+T20	i 341 362	ambulatory peritoneal
+T21	i 467 473	LVMi )
+T22	i 585 598	ARB valsartan
+T23	i 613 624	a placebo (
+T24	i 840 853	reflections [
+T25	i 910 935	) application tonometry ]
+T26	i 948 966	echocardiography .
+T27	i 1008 1039	BP ( mercury sphygmomanometer )
+T28	i 1332 1337	ARB .
+T29	i 1398 1401	ARB
+T30	i 1461 1470	placebo (
+T31	i 1611 1614	ARB
+T32	o 73 83	regression
+T33	o 144 165	of arterial stiffness
+T34	o 442 458	ventricular mass
+T35	o 640 668	target blood pressure ( BP )
+T36	o 798 911	large-artery compliance and arterial wave reflections [ pulse wave velocity ( PWV ) and augmentation index ( AI )
+T37	o 994 1020	body weight , BP ( mercury
+T38	o 1038 1171	) , serum creatinine , electrolytes , complete blood cell counts , urine volume , drainage volume , and weekly creatinine clearance .
+T39	o 1263 1288	Systolic and diastolic BP
+T40	o 1570 1580	PWV and AI
+T41	o 1663 1684	arterial hemodynamics

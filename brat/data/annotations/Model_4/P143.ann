@@ -1,0 +1,43 @@
+T1	p 350 356	( FOBT
+T2	p 594 598	FOBT
+T3	p 784 905	invited 25,511 people aged 50-74 years to complete an eligibility questionnaire . Eligible respondents ( n = 3,408 ) were
+T4	p 1439 1443	FOBT
+T5	p 2571 2577	people
+T6	i 39 78	personalised decision support delivered
+T7	i 87 95	internet
+T8	i 352 358	FOBT )
+T9	i 483 573	tailored computerised decision support to non-tailored computer or paper information . The
+T10	i 594 598	FOBT
+T11	i 915 1014	to Tailored Personalised Decision Support ( TPDS ) , Non-Tailored PDS ( NTPDS ) , or Control ( CG )
+T12	i 1158 1162	TPDS
+T13	i 1193 1216	tailored intervention .
+T14	i 1251 1258	BS only
+T15	i 1282 1284	BS
+T16	i 1313 1317	FOBT
+T17	i 1439 1443	FOBT
+T18	i 1632 1636	FOBT
+T19	i 1797 1801	FOBT
+T20	i 1997 1999	BS
+T21	i 2085 2099	TPDS and NTPDS
+T22	i 2165 2169	FOBT
+T23	i 2202 2206	FOBT
+T24	i 2494 2512	Online information
+T25	o 100 112	bowel cancer
+T26	o 322 349	faecal occult blood testing
+T27	o 707 730	psychological variables
+T28	o 1375 1414	re-measured BS variables ( per-protocol
+T29	o 1417 1419	PP
+T30	o 1427 1430	) .
+T31	o 1439 1450	FOBT return
+T32	o 1620 1622	PP
+T33	o 1630 1643	, FOBT return
+T34	o 1651 1659	internet
+T35	o 1795 1812	. FOBT completion
+T36	o 1931 1939	Decision
+T37	o 2202 2213	FOBT return
+T38	o 2300 2325	psychosocial predictors :
+T39	o 2338 2344	change
+T40	o 2360 2413	salience and coherence of screening and self-efficacy
+T41	o 2428 2447	and faecal aversion
+T42	o 2627 2636	attitudes
+T43	o 2639 2664	perceptions and behaviour

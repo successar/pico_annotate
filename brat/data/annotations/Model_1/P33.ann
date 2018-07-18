@@ -1,0 +1,26 @@
+T1	p 93 132	advanced epithelial ovarian carcinoma .
+T2	p 189 394	patients randomised in a previously reported multicentre phase III study of topotecan versus paclitaxel in patients with advanced epithelial ovarian cancer who had failed one prior platinum-based regimen .
+T3	p 416 480	Patients with bidimensionally measurable disease were randomised
+T4	p 980 1003	A total of 226 patients
+T5	p 1892 1929	group of patients receiving topotecan
+T6	p 1933 1960	relapse of ovarian cancer .
+T7	i 62 71	topotecan
+T8	i 79 89	paclitaxel
+T9	i 265 274	topotecan
+T10	i 282 292	paclitaxel
+T11	i 484 493	topotecan
+T12	i 532 542	paclitaxel
+T13	i 1162 1171	topotecan
+T14	i 1279 1289	paclitaxel
+T15	i 1420 1429	topotecan
+T16	i 1509 1519	paclitaxel
+T17	i 1605 1614	Topotecan
+T18	i 1676 1686	paclitaxel
+T19	i 1920 1929	topotecan
+T20	o 685 792	European Organisation for Research and Treatment of Cancer Quality of Life ( EORTC QOL ) -C30 questionnaire
+T21	o 868 969	( pain , anorexia , diarrhoea , fatigue , nausea and vomiting , dyspnea , constipation and insomnia )
+T22	o 1180 1206	median time to progression
+T23	o 1397 1412	median survival
+T24	o 1651 1659	efficacy
+T25	o 1664 1672	survival
+T26	o 1722 1775	haematological toxicity . Non-haematological toxicity

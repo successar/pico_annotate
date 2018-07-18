@@ -1,0 +1,15 @@
+T1	p 73 106	anaesthesia in elderly patients .
+T2	p 207 228	60 elderly patients .
+T3	i 26 43	rates of infusion
+T4	i 47 55	propofol
+T5	i 134 150	rate of infusion
+T6	i 154 162	propofol
+T7	i 229 237	Propofol
+T8	o 60 84	induction of anaesthesia
+T9	o 167 191	induction of anaesthesia
+T10	o 289 310	loss of consciousness
+T11	o 326 367	loss of verbal contact with the patient )
+T12	o 392 413	duration of induction
+T13	o 524 539	total dose used
+T14	o 666 706	systolic and diastolic arterial pressure
+T15	o 837 856	incidence of apnoea

@@ -1,0 +1,14 @@
+T1	p 114 127	fertilization
+T2	p 281 321	in vitro fertilization ( IVF ) program .
+T3	p 451 517	Unit . PATIENTS Forty-eight patients having IVF for the first time
+T4	p 968 993	patients undergoing IVF .
+T5	i 37 98	ultrashort regimens of gonadotropin-releasing hormone agonist
+T6	i 114 127	fertilization
+T7	i 180 251	ultrashort regimen of gonadotropin-releasing hormone agonist ( GnRH-a )
+T8	i 306 309	IVF
+T9	i 380 399	ultrashort regimens
+T10	i 403 411	GnRH-a .
+T11	i 894 904	ultrashort
+T12	o 584 689	Response to ovarian stimulation and occurrence of spontaneous luteinizing hormone ( LH ) surges . RESULTS
+T13	o 693 765	ovulation induction , fertilization , and pregnancy rates the ultrashort
+T14	o 868 878	LH surge .

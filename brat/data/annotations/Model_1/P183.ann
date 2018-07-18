@@ -1,0 +1,25 @@
+T1	p 6 74	Prevention of spinal anesthesia-induced hypotension in the elderly :
+T2	p 178 345	practice of routinely prehydrating patients by infusing a crystalloid or colloid solution ( up to 1.0 L/70 kg ) for prevention of spinal anesthesia-induced hypotension
+T3	p 583 733	crystalloid and colloid prehydration in elderly patients . Eighty-five ASA grade I or II patients ( aged 60-89 yr ) for elective total hip replacement
+T4	p 1156 1169	colloid group
+T5	p 1435 1485	in elderly patients undergoing elective procedures
+T6	i 126 173	crystalloids , colloids , and no prehydration .
+T7	i 225 267	infusing a crystalloid or colloid solution
+T8	i 562 577	no prehydration
+T9	i 583 619	crystalloid and colloid prehydration
+T10	i 768 788	crystalloid solution
+T11	i 821 840	colloid ( Haemaccel
+T12	i 854 872	or no prehydration
+T13	i 1156 1163	colloid
+T14	i 1616 1653	crystalloid or colloid prehydration .
+T15	o 20 57	spinal anesthesia-induced hypotension
+T16	o 308 345	spinal anesthesia-induced hypotension
+T17	o 471 533	incidence and frequency of hypotension and vasopressor therapy
+T18	o 925 936	Hypotension
+T19	o 982 1005	systolic blood pressure
+T20	o 1093 1122	absolute systolic BP readings
+T21	o 1210 1234	incidence of hypotension
+T22	o 1292 1349	incidence of ephedrine use , incidence of nausea/vomiting
+T23	o 1356 1386	median total dose of ephedrine
+T24	o 1558 1569	hypotension
+T25	o 1573 1601	need for vasopressor therapy

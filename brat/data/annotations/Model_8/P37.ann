@@ -1,0 +1,35 @@
+T1	p 115 127	implantation
+T2	p 139 140	.
+T3	p 765 802	Thirty-four consecutive patients were
+T4	p 834 847	18 patients )
+T5	p 855 870	( 16 patients )
+T6	i 76 138	sinus cannulation during biventricular implantation procedures
+T7	i 154 194	Biventricular pacing system implantation
+T8	i 231 242	procedure .
+T9	i 262 298	biventricular pacemaker implantation
+T10	i 319 352	CS ) cannulation . CS cannulation
+T11	i 412 463	guiding catheter alone positioning strategy , GCA )
+T12	i 486 512	electrophysiology catheter
+T13	i 550 584	( electrophysiology catheter aided
+T14	i 608 611	EPA
+T15	i 657 660	EPA
+T16	i 694 708	CS cannulation
+T17	i 728 754	conventional GCA technique
+T18	i 828 831	GCA
+T19	i 851 854	EPA
+T20	i 871 894	CS cannulation strategy
+T21	i 943 945	CS
+T22	i 1193 1202	CS ostium
+T23	i 1295 1312	Cannulation of CS
+T24	i 1336 1362	electrophysiology catheter
+T25	i 1488 1500	conventional
+T26	o 311 316	sinus
+T27	o 324 337	cannulation .
+T28	o 606 611	, EPA
+T29	o 694 713	CS cannulation time
+T30	o 851 854	EPA
+T31	o 905 945	Time to successful catheterization of CS
+T32	o 1036 1052	Fluoroscopy time
+T33	o 1142 1167	Total contrast dye volume
+T34	o 1182 1202	engage the CS ostium
+T35	o 1415 1473	procedural time , fluoroscopy time and contrast dye volume

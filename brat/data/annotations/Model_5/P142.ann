@@ -1,0 +1,38 @@
+T1	p 115 146	rheumatoid arthritis patients .
+T2	p 395 438	patients with rheumatoid arthritis ( RA ) ,
+T3	p 445 446	b
+T4	p 484 492	patients
+T5	p 616 684	the GT3X for seven days before completing the IPAQ and VO2max test .
+T6	p 1016 1154	Sixty-eight RA patients ( age=55?13 years , body mass index : 27.8?5.4 kg/m2 , median of disease duration=5 ( 2-8 ) yrs ) were recruited .
+T7	i 662 666	IPAQ
+T8	i 883 885	PA
+T9	i 1405 1407	PA
+T10	i 1700 1702	PA
+T11	o 31 37	levels
+T12	o 41 58	physical activity
+T13	o 86 111	cardiorespiratory fitness
+T14	o 266 391	International Physical Activity Questionnaire ; IPAQ ) and objective ( accelerometry ; GT3X ) physical activity ( PA ) levels
+T15	o 510 522	objective PA
+T16	o 532 538	scores
+T17	o 542 585	the maximal oxygen uptake test ( VO2max ) .
+T18	o 689 706	Bland-Altman plot
+T19	o 770 783	subjective PA
+T20	o 795 812	the Wilcoxon test
+T21	o 883 885	PA
+T22	o 1202 1211	objective
+T23	o 1237 1239	PA
+T24	o 1269 1285	level . Wilcoxon
+T25	o 1324 1371	less time spent engaged in sedentary behaviours
+T26	o 1399 1407	light PA
+T27	o 1440 1451	moderate PA
+T28	o 1580 1589	PA levels
+T29	o 1700 1702	PA
+T30	o 1730 1731	)
+T31	o 1734 1793	and a negative association to sedentary time ( ST ) emerged
+T32	o 1813 1842	) . IPAQ-reported moderate PA
+T33	o 2012 2032	max and GT3X-VO2 max
+T34	o 2059 2061	ST
+T35	o 2203 2215	intensity PA
+T36	o 2305 2311	levels
+T37	o 2319 2329	subjective
+T38	o 2409 2418	PA and ST

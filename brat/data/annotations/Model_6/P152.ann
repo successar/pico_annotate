@@ -1,0 +1,11 @@
+T1	p 62 126	Fifty-one patients with raised intraocular pressure ( IOP ) were
+T2	p 145 155	four years
+T3	i 32 41	timolol :
+T4	i 244 251	timolol
+T5	i 398 405	timolol
+T6	i 590 597	timolol
+T7	o 93 121	intraocular pressure ( IOP )
+T8	o 441 470	overall mean IOP ; reductions
+T9	o 568 572	safe
+T10	o 577 586	effective
+T11	o 633 638	IOP .

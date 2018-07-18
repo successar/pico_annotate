@@ -1,0 +1,48 @@
+T1	p 70 159	postoperative rectal cancer patients treated with adjuvant concurrent chemoradiotherapy ]
+T2	p 345 367	rectal cancer patients
+T3	p 372 431	received capecitabine-based postoperative chemoradiotherapy
+T4	p 438 439	)
+T5	p 450 613	Four hundred patients with stage II and III rectal cancer received postoperative CRT of capecitabine with or without oxaliplatin were accumulated and prostectively
+T6	p 630 637	study .
+T7	p 642 650	patients
+T8	p 691 728	Two hundred and twenty-eight patients
+T9	p 1373 1408	136 patients presented severe AEs .
+T10	p 2558 2580	rectal cancer patients
+T11	i 18 42	CCND1 A870G polymorphism
+T12	i 120 161	adjuvant concurrent chemoradiotherapy ] .
+T13	i 241 279	single nucleotide polymorphism ( SNP )
+T14	i 313 327	events ( AEs )
+T15	i 381 439	capecitabine-based postoperative chemoradiotherapy ( CRT )
+T16	i 531 613	CRT of capecitabine with or without oxaliplatin were accumulated and prostectively
+T17	i 747 799	concurrent capecitabine and radiotherapy ( Cap-CRT )
+T18	i 832 901	with capecitabine and oxaliplatin plus radiotherapy ( Cap-Oxa-CRT ) .
+T19	i 922 928	graded
+T20	i 946 964	Common Terminology
+T21	i 995 1009	v. 3.0 ( CTCAE
+T22	i 1079 1162	polymerase chain reaction-based restriction fragment length polymorphism ( PCR-RFLP
+T23	i 1205 1208	SNP
+T24	i 2085 2087	GG
+T25	i 2091 2093	GA
+T26	i 2306 2308	GG
+T27	i 2312 2314	GA
+T28	i 2440 2452	polymorphism
+T29	i 2594 2665	adjuvant concurrent chemoradiotherapy of capecitabine and oxaliplatin .
+T30	o 46 66	acute adverse events
+T31	o 902 916	Adverse events
+T32	o 953 973	Terminology Criteria
+T33	o 978 992	Adverse Events
+T34	o 1090 1175	chain reaction-based restriction fragment length polymorphism ( PCR-RFLP ) analysis .
+T35	o 1213 1222	acute AEs
+T36	o 1246 1252	ratios
+T37	o 1255 1258	ORs
+T38	o 1396 1406	severe AEs
+T39	o 1449 1461	genotypes GG
+T40	o 1464 1473	GA and AA
+T41	o 1606 1614	Diarrhea
+T42	o 1640 1659	and severe diarrhea
+T43	o 1691 1705	frequencies of
+T44	o 1710 1740	three genotypes GG , GA and AA
+T45	o 1884 1892	diarrhea
+T46	o 1966 1990	risk for severe diarrhea
+T47	o 2220 2244	risk for severe diarrhea
+T48	o 2398 2415	severe diarrhea .

@@ -1,0 +1,14 @@
+T1	p 77 194	treated hypertensive patients . Collaborative Group of the Primary Prevention Project ( PPP ) -- Hypertension study .
+T2	p 785 1017	people with one or more cardiovascular risk factors . Fifteen Italian hypertension units studied 142 hypertensive patients ( 76 men , 66 women ; mean age 59 +/- 5.9 years ) treated with different antihypertensive drugs : 71 patients
+T3	i 17 33	low-dose aspirin
+T4	i 351 367	low-dose aspirin
+T5	i 452 459	aspirin
+T6	i 761 781	aspirin or vitamin E
+T7	i 1226 1233	aspirin
+T8	i 1414 1421	aspirin
+T9	i 1906 1922	low-dose aspirin
+T10	o 37 73	clinic and ambulatory blood pressure
+T11	o 242 271	blood pressure ( BP ) control
+T12	o 478 541	clinic and ambulatory systolic ( SBP ) and diastolic ( DBP ) BP
+T13	o 1285 1303	clinic SBP and DBP
+T14	o 1373 1395	Ambulatory SBP and DBP

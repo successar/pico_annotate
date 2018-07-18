@@ -1,0 +1,19 @@
+T1	p 43 66	myocardial infarction ]
+T2	p 111 269	acute myocardial infarction ( MI ) on systolic function of the left ventricle , arrhythmia and clinical symptoms in patients on thrombolytic therapy ( TLT ) .
+T3	p 291 330	106 males with Q-MI entered the study .
+T4	i 6 39	[ Neoton and thrombolytic therapy
+T5	i 85 99	neoton therapy
+T6	i 239 269	thrombolytic therapy ( TLT ) .
+T7	i 343 375	treatment without TLT and neoton
+T8	i 399 434	TLT with streptokinase preparations
+T9	i 460 499	streptokinase preparations and neoton .
+T10	i 791 797	neoton
+T11	i 976 982	neoton
+T12	i 1019 1025	Neoton
+T13	o 149 223	systolic function of the left ventricle , arrhythmia and clinical symptoms
+T14	o 500 534	Left ventricular systolic function
+T15	o 604 614	arrhythmia
+T16	o 701 741	progression of left ventricular dilation
+T17	o 843 899	end systolic and diastolic volumes of the left ventricle
+T18	o 951 972	Antiarrhythmic action
+T19	o 1085 1122	left ventricular systolic dysfunction

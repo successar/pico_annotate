@@ -1,0 +1,13 @@
+T1	p 9 29	school-aged children
+T2	p 346 368	school-aged children .
+T3	p 429 450	30 healthy children .
+T4	p 1382 1392	children .
+T5	i 47 117	galacto-oligosaccharides and Lactobacillus GG increases bifidobacteria
+T6	i 128 144	Lactobacillus GG
+T7	i 212 236	Lactobacillus GG ( LGG )
+T8	i 608 611	LGG
+T9	i 644 647	LGG
+T10	o 226 273	GG ( LGG ) and galacto-oligosaccharides ( GOS )
+T11	o 848 862	bifidobacteria
+T12	o 916 921	+ GOS
+T13	o 1065 1206	amount of lactobacilli or LGG , nor did gastrointestinal symptoms , defecation frequency , consistency of stools or ease of defecation differ

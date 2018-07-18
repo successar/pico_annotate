@@ -1,0 +1,13 @@
+T1	p 62 253	Fifty-one patients with raised intraocular pressure ( IOP ) were treated for up to four years with one of three ophthalmic solutions : 0.5 % levobunolol , 1 % levobunolol , or 0.5 % timolol .
+T2	p 626 638	raised IOP .
+T3	i 6 17	Levobunolol
+T4	i 32 41	timolol :
+T5	i 203 214	levobunolol
+T6	i 221 232	levobunolol
+T7	i 244 253	timolol .
+T8	i 382 393	Levobunolol
+T9	i 398 405	timolol
+T10	i 547 558	levobunolol
+T11	i 590 597	timolol
+T12	o 441 459	overall mean IOP ;
+T13	o 633 638	IOP .

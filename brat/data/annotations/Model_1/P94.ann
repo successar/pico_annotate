@@ -1,0 +1,51 @@
+T1	p 39 81	endometriosis-related infertility patients
+T2	p 264 317	endometriosis ( EMs ) -related infertility patients .
+T3	p 326 456	130 EMs-related infertility patients of blood stasis and toxin accumulation syndrome diagnosed and treated by laparoscopic surgery
+T4	p 621 649	after laparoscopic surgery .
+T5	i 85 143	laparoscopic surgery in combination of quyu jiedu recipe ]
+T6	i 194 260	laparoscopic surgery in combination of Quyu Jiedu Recipe ( QYJDR )
+T7	i 436 456	laparoscopic surgery
+T8	i 507 517	test group
+T9	i 539 552	control group
+T10	i 598 655	progesterone treatment after laparoscopic surgery . QYJDR
+T11	i 702 722	laparoscopic surgery
+T12	i 794 814	laparoscopic surgery
+T13	i 858 874	Chinese medicine
+T14	i 1001 1013	drug therapy
+T15	i 1037 1051	drug therapy .
+T16	i 1101 1121	laparoscopic surgery
+T17	i 1140 1150	test group
+T18	i 1163 1176	control group
+T19	i 1272 1288	Chinese medicine
+T20	i 1390 1402	drug therapy
+T21	i 1410 1420	test group
+T22	i 1497 1512	control group .
+T23	i 1517 1533	Chinese medicine
+T24	i 1558 1570	drug therapy
+T25	i 1598 1610	drug therapy
+T26	i 1690 1702	drug therapy
+T27	i 1721 1731	test group
+T28	i 1744 1757	control group
+T29	i 1964 1974	test group
+T30	i 1987 2000	control group
+T31	i 2130 2142	drug therapy
+T32	i 2191 2203	drug therapy
+T33	i 2311 2326	control group .
+T34	i 2348 2360	drug therapy
+T35	i 2487 2499	drug therapy
+T36	i 2531 2575	laparoscopic surgery in combination of QYJDR
+T37	i 2793 2798	QYJDR
+T38	o 169 186	clinical efficacy
+T39	o 757 771	pregnancy rate
+T40	o 858 971	Chinese medicine syndrome integrals , serum endometrium antibody ( EMAb ) and cancer antigen 125 ( CA125 ) levels
+T41	o 1064 1078	pregnancy rate
+T42	o 1272 1306	Chinese medicine syndrome integral
+T43	o 1517 1551	Chinese medicine syndrome integral
+T44	o 1900 1935	serum EMAb negative conversion rate
+T45	o 2076 2093	serum CA125 level
+T46	o 2639 2651	blood stasis
+T47	o 2656 2683	toxin accumulation syndrome
+T48	o 2694 2721	negative conversion of EMAb
+T49	o 2730 2748	serum CA125 levels
+T50	o 2767 2792	clinical pregnancy rate .
+T51	o 2839 2864	EMs-related infertility .

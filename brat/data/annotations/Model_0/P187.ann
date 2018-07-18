@@ -1,0 +1,7 @@
+T1	p 128 187	patients with hemodynamically decompensated heart failure .
+T2	p 427 448	human heart failure .
+T3	i 625 643	placebo-controlled
+T4	i 1425 1432	placebo
+T5	o 1207 1235	systemic vascular resistance
+T6	o 1450 1508	plasma norepinephrine and aldosterone . Renal hemodynamics
+T7	o 1681 1860	cardiac preload and systemic vascular resistance . 2 ) hBNP also improved cardiac output without increasing heart rate . 3 ) Plasma norepinephrine and aldosterone levels decreased

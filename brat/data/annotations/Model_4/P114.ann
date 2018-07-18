@@ -1,0 +1,31 @@
+T1	p 98 191	lipoprotein subfraction profile in patients with mixed dyslipidaemia and metabolic syndrome .
+T2	p 601 645	patients with mixed dyslipidaemia and MetS .
+T3	p 668 848	randomised patients with low-density lipoprotein cholesterol ( LDL-C ) > 160 and TG > 200 mg/dl to rosuvastatin monotherapy 40 mg/day ( R group , n = 30 ) or rosuvastatin 10 mg/day
+T4	p 858 878	with fenofibrate 200
+T5	p 891 905	group , n = 30
+T6	i 16 43	rosuvastatin monotherapy or
+T7	i 47 94	combination with fenofibrate or ?-3 fatty acids
+T8	i 98 121	lipoprotein subfraction
+T9	i 468 492	rosuvastatin monotherapy
+T10	i 514 558	combined with fenofibrate or ?-3 fatty acids
+T11	i 705 716	lipoprotein
+T12	i 767 801	rosuvastatin monotherapy 40 mg/day
+T13	i 804 805	R
+T14	i 823 945	or rosuvastatin 10 mg/day combined with fenofibrate 200 mg/day ( RF group , n = 30 ) or ?-3 fatty acids 2 g/day ( R? group
+T15	i 1048 1050	RF
+T16	i 1182 1196	polyacrylamide
+T17	i 1201 1222	gel electrophoresis .
+T18	i 1448 1450	R?
+T19	o 98 129	lipoprotein subfraction profile
+T20	o 210 230	triglycerides ( TG )
+T21	o 233 296	decreased high-density lipoprotein cholesterol ( HDL-C ) levels
+T22	o 717 728	cholesterol
+T23	o 1132 1163	lipoprotein subfraction profile
+T24	o 1235 1248	mean LDL size
+T25	o 1314 1331	prominent with RF
+T26	o 1388 1416	hypotriglyceridemic capacity
+T27	o 1466 1493	in insulin resistance by RF
+T28	o 1516 1554	RF significantly raised HDL-C levels (
+T29	o 1595 1672	cholesterol of small HDL particles . The cholesterol of larger HDL subclasses
+T30	o 1750 1768	mean LDL size ; RF
+T31	o 1851 1872	subfraction profile .

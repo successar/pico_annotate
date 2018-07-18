@@ -1,0 +1,10 @@
+T1	p 691 709	adult asthmatics .
+T2	p 718 736	Sixty-six subjects
+T3	i 6 44	Salmeterol plus fluticasone propionate
+T4	i 52 93	fluticasone propionate plus montelukast :
+T5	i 433 451	placebo-controlled
+T6	i 504 601	salmeterol plus fluticasone propionate ( FP ) ( Seretide ; SFC ) and FP plus montelukast ( FP/M )
+T7	o 605 687	sputum inflammatory markers , airway responsiveness , lung function , and symptoms
+T8	o 818 1067	neutrophil , eosinophil , macrophage , lymphocyte , and epithelial cell levels in induced sputum . Additional outcomes included the change in other sputum markers of airway inflammation , airway responsiveness , symptom control , and lung function .
+T9	o 1121 1154	induced sputum inflammatory cells
+T10	o 1190 1221	reduction in sputum eosinophils

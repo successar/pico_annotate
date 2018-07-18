@@ -1,0 +1,34 @@
+T1	p 109 117	Autism .
+T2	p 172 178	autism
+T3	p 188 196	disorder
+T4	p 199 202	ASD
+T5	p 612 673	Age-matched boys with ADHD ( 15 ) , ASD ( 18 ) , and controls
+T6	p 679 680	)
+T7	p 947 955	patients
+T8	p 965 994	drug effects . Patients under
+T9	p 1121 1125	boys
+T10	p 1208 1212	boys
+T11	p 1349 1353	boys
+T12	i 24 34	Fluoxetine
+T13	i 327 356	serotonin reuptake inhibitors
+T14	i 359 364	SSRIs
+T15	i 700 746	functional magnetic resonance imaging ( fMRI )
+T16	i 765 769	task
+T17	i 818 853	acute dose of Fluoxetine or placebo
+T18	i 874 892	placebo-controlled
+T19	i 1077 1081	fMRI
+T20	i 1107 1114	placebo
+T21	i 1281 1291	Fluoxetine
+T22	i 1421 1428	placebo
+T23	i 1491 1501	Fluoxetine
+T24	o 45 73	Prefrontal Cortex Activation
+T25	o 116 158	. Attention deficit hyperactivity disorder
+T26	o 211 239	brain function abnormalities
+T27	o 247 268	cognitive flexibility
+T28	o 1126 1176	underactivated medial prefrontal cortex ( mPFC ) ,
+T29	o 1252 1330	precuneus activation . Under Fluoxetine , mPFC activation was up-regulated and
+T30	o 1469 1480	performance
+T31	o 1535 1550	mPFC activation
+T32	o 1554 1566	ASD and ADHD
+T33	o 1574 1591	reversal learning
+T34	o 1605 1616	dissociated

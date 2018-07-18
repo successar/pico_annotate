@@ -1,0 +1,27 @@
+T1	p 121 141	in type 1 diabetes .
+T2	p 252 282	with type 1 diabetes ( T1D ) ,
+T3	p 559 619	in 24 patients , 8-18 years old , with newly diagnosed T1D .
+T4	i 6 26	Insulin pump therapy
+T5	i 311 340	starting insulin pump therapy
+T6	i 354 412	with standard multiple daily insulin injections ( MDIs ) .
+T7	i 475 558	comparing MDI therapy with continuous subcutaneous insulin therapy ( pump therapy )
+T8	i 1038 1050	with therapy
+T9	i 1115 1130	of pump therapy
+T10	i 1383 1406	in insulin pump-treated
+T11	i 1477 1493	and pump-treated
+T12	i 1611 1634	of insulin pump therapy
+T13	i 1805 1820	of pump therapy
+T14	o 73 89	glycemic control
+T15	o 94 120	pancreatic ?-cell function
+T16	o 295 307	the efficacy
+T17	o 725 760	Preservation of insulin secretion ,
+T18	o 770 816	by mixed-meal-stimulated C-peptide secretion ,
+T19	o 893 1037	in glycosylated hemoglobin ( HbA1c ) , continuous glucose sensor data , insulin utilization , anthropometric measures , and patient satisfaction
+T20	o 1184 1244	higher mixed-meal tolerance test-stimulated C-peptide values
+T21	o 1344 1369	improved glycemic control
+T22	o 1434 1476	with normoglycemia , better mean HbA1c ) ,
+T23	o 1526 1546	greater satisfaction
+T24	o 1648 1675	improved glycemic control ,
+T25	o 1680 1696	well tolerated ,
+T26	o 1716 1745	improved patient satisfaction
+T27	o 1835 1870	preserve residual ?-cell function ,

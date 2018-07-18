@@ -1,0 +1,7 @@
+T1	p 222 258	patients with spotty calcification .
+T2	p 629 825	A total of 1,347 stable patients with angiographic coronary artery disease underwent serial evaluation of atheroma burden with intravascular ultrasound imaging . Patients with spotty calcification
+T3	i 756 790	intravascular ultrasound imaging .
+T4	o 477 522	incidence of ischemic cardiovascular events .
+T5	o 1403 1459	on-treatment high-density lipoprotein cholesterol levels
+T6	o 1568 1599	percent atheroma volume ( PAV )
+T7	o 1650 1671	total atheroma volume

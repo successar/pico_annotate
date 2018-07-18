@@ -1,0 +1,9 @@
+T1	p 32 52	adults with autism .
+T2	p 88 108	children with autism
+T3	p 296 328	children to adults with autism .
+T4	p 379 397	adults with autism
+T5	p 780 802	children with autism .
+T6	p 837 855	adults with autism
+T7	o 489 517	target-distractor similarity
+T8	o 529 554	visual search performance
+T9	o 957 980	processing disturbances

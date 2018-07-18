@@ -1,0 +1,10 @@
+T1	i 90 115	methotrexate or placebo .
+T2	i 164 176	methotrexate
+T3	i 286 304	placebo-controlled
+T4	i 553 560	placebo
+T5	i 840 852	methotrexate
+T6	i 878 895	oral methotrexate
+T7	o 327 389	Mean change of quantitative muscle strength testing sum scores
+T8	o 443 477	muscle strength testing sum scores
+T9	o 660 747	manual muscle testing sum scores , activity scale scores and patients ' own assessments
+T10	o 778 808	Serum creatine kinase activity

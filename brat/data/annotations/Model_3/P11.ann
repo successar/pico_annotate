@@ -1,0 +1,28 @@
+T1	p 94 116	diarrhea in children .
+T2	p 190 200	children .
+T3	p 726 748	infants and children .
+T4	p 770 959	From July 1996 through December 1997 , 201 evaluable children ages 6 months to 10 years ( 35 % < 1 year ; 70 % < 3 years ) presenting with acute invasive diarrhea at the Pediatric Emergency
+T5	p 1462 1500	patients : 73 ( 57 % ) Shigella ; 23 (
+T6	p 2434 2462	pediatric patients requiring
+T7	i 6 54	Oral ciprofloxacin vs. intramuscular ceftriaxone
+T8	i 281 320	antibiotics , intramuscular ceftriaxone
+T9	i 665 678	ciprofloxacin
+T10	i 999 1023	ciprofloxacin suspension
+T11	i 1043 1061	day + im placebo ;
+T12	i 1071 1124	or im ceftriaxone ( 50 mg/kg/day + placebo suspension
+T13	i 1803 1816	ciprofloxacin
+T14	i 1821 1832	ceftriaxone
+T15	i 2138 2149	ceftriaxone
+T16	i 2298 2311	ciprofloxacin
+T17	i 2355 2366	ceftriaxone
+T18	o 79 102	acute invasive diarrhea
+T19	o 227 258	resistance of enteric pathogens
+T20	o 614 633	efficacy and safety
+T21	o 714 722	diarrhea
+T22	o 1325 1353	Clinical response and safety
+T23	o 1421 1443	isolated 127 pathogens
+T24	o 1575 1608	Overall bacteriologic eradication
+T25	o 1738 1766	Clinical cure or improvement
+T26	o 1857 1883	Serum ciprofloxacin values
+T27	o 2056 2083	drug-related adverse events
+T28	o 2396 2419	acute invasive diarrhea

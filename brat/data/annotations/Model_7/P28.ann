@@ -1,0 +1,22 @@
+T1	p 38 74	people at high cardiovascular risk :
+T2	p 117 153	people with diabetes , renal disease
+T3	p 221 240	renal insufficiency
+T4	p 298 308	population
+T5	p 496 577	9297 participants , including 3577 with diabetes and 1956 with microalbuminuria .
+T6	p 607 985	7674 participants with albuminuria data at baseline and at follow-up . Inclusion criteria were known vascular disease or diabetes plus one other cardiovascular risk factor , exclusion criteria included heart failure or known impaired left ventricular function , dipstick-positive proteinuria ( > 1+ ) , and serum creatinine > 2.3 mg/dl ( 200 microM ) . Baseline microalbuminuria
+T7	p 1833 1848	diabetic people
+T8	i 462 470	ramipril
+T9	i 485 492	placebo
+T10	i 559 575	microalbuminuria
+T11	i 737 741	plus
+T12	i 1519 1527	Ramipril
+T13	i 1851 1859	Ramipril
+T14	o 21 34	renal disease
+T15	o 358 369	proteinuria
+T16	o 1007 1027	clinical proteinuria
+T17	o 1304 1332	progression of albuminuria (
+T18	o 1344 1394	new microalbuminuria or new clinical proteinuria )
+T19	o 1446 1462	microalbuminuria
+T20	o 1496 1518	clinical proteinuria .
+T21	o 1540 1544	risk
+T22	o 1549 1564	any progression

@@ -1,0 +1,22 @@
+T1	p 54 144	previously untreated advanced breast cancer -- a cancer and leukemia group B study ( CALGB
+T2	p 540 575	Cancer and Leukemia Group B ( CALGB
+T3	p 627 697	8642 randomizes previously untreated metastatic breast cancer patients
+T4	p 1279 1329	histologically documented measurable breast cancer
+T5	p 2305 2327	breast cancer patients
+T6	i 6 17	Amonafide :
+T7	i 193 210	naphthalic acid .
+T8	i 874 928	standard cyclophosphamide-doxorubicin-5-fluorouracil .
+T9	i 1072 1102	precedes standard chemotherapy
+T10	i 1451 1463	chemotherapy
+T11	o 988 1030	survival , toxicity , and overall response
+T12	o 1504 1521	visceral crisis .
+T13	o 1701 1742	hematotoxicity or lack thereof . Toxicity
+T14	o 1757 1770	hematological
+T15	o 1807 1817	leukopenia
+T16	o 1875 1885	leukopenia
+T17	o 1902 1938	thrombocytopenia . The response rate
+T18	o 1964 1983	complete response .
+T19	o 2014 2036	hematological toxicity
+T20	o 2083 2103	leukopenia grade 3/4
+T21	o 2176 2202	thrombocytopenia grade 3/4
+T22	o 2418 2468	myelosuppression and response . Rates of responses

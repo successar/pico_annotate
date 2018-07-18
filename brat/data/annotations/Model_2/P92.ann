@@ -1,0 +1,38 @@
+T1	p 104 124	electrocardiograms .
+T2	p 144 148	body
+T3	p 923 945	subjects who used open
+T4	p 1118 1153	70 control women 38-84 years of age
+T5	p 1156 1179	and 55 control subjects
+T6	i 6 21	Intervention to
+T7	i 61 70	Guatemala
+T8	i 180 191	particulate
+T9	i 378 383	fuels
+T10	i 521 538	chimney woodstove
+T11	i 572 573	.
+T12	i 619 637	stove intervention
+T13	i 946 951	fires
+T14	i 982 996	chimney stoves
+T15	i 1015 1032	Electrocardiogram
+T16	i 1215 1223	stoves .
+T17	i 1417 1418	]
+T18	i 1483 1484	.
+T19	i 1580 1592	intervention
+T20	i 1640 1658	stove intervention
+T21	i 1916 1934	stove intervention
+T22	o 79 100	ST-segment depression
+T23	o 249 256	disease
+T24	o 303 317	cardiovascular
+T25	o 365 371	use of
+T26	o 378 383	fuels
+T27	o 471 490	Respiratory Effects
+T28	o 683 746	ST-segment depression and increase heart rate variability ( HRV
+T29	o 1224 1249	HRV and ST-segment values
+T30	o 1289 1310	ST-segment depression
+T31	o 1391 1399	diameter
+T32	o 1417 1428	] exposures
+T33	o 1493 1507	PM?.? exposure
+T34	o 1746 1769	ST-segment depression .
+T35	o 1977 1988	nonspecific
+T36	o 2067 2093	ventricular repolarization
+T37	o 2098 2124	potentially cardiovascular
+T38	o 2132 2133	.

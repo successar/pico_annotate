@@ -1,0 +1,38 @@
+T1	p 85 86	.
+T2	p 145 154	specimens
+T3	p 223 243	biopsy with cytology
+T4	p 385 393	stenosis
+T5	p 490 500	patients .
+T6	p 665 690	296 patients with visible
+T7	p 709 716	lesions
+T8	p 731 733	in
+T9	p 751 795	bronchoscopy unit of a university hospital .
+T10	p 1832 1833	.
+T11	i 6 22	Cryoprobe biopsy
+T12	i 105 111	biopsy
+T13	i 309 318	cryoprobe
+T14	i 427 439	cryobiopsies
+T15	i 600 631	cryobiopsy and forceps biopsy .
+T16	i 862 876	forceps biopsy
+T17	i 881 891	cryobiopsy
+T18	i 1119 1131	cryobiopsy .
+T19	i 1293 1307	forceps biopsy
+T20	i 1501 1508	forceps
+T21	i 1747 1757	Cryobiopsy
+T22	o 37 53	diagnostic yield
+T23	o 268 284	diagnostic yield
+T24	o 569 599	diagnostic yield and safety of
+T25	o 703 708	tumor
+T26	o 881 891	cryobiopsy
+T27	o 998 1017	size and quality of
+T28	o 1060 1087	safety and diagnostic yield
+T29	o 1119 1129	cryobiopsy
+T30	o 1247 1263	diagnostic yield
+T31	o 1268 1278	cryobiopsy
+T32	o 1438 1441	and
+T33	o 1536 1574	overall diagnostic yield of cryobiopsy
+T34	o 1588 1601	Mild bleeding
+T35	o 1635 1652	moderate bleeding
+T36	o 1689 1704	severe bleeding
+T37	o 1761 1765	safe
+T38	o 1784 1800	diagnostic yield

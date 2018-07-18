@@ -1,0 +1,11 @@
+T1	p 29 166	parents of children with autistic spectrum disorder . Parents of children who receive the diagnosis of autistic spectrum disorder ( ASD )
+T2	p 349 472	randomized trial ( n = 31 ) that was conducted at a regional diagnostic center of a large metropolitan children 's hospital
+T3	p 525 553	parents of children with ASD
+T4	p 800 835	child is newly diagnosed with ASD .
+T5	i 6 24	Intervention pilot
+T6	i 491 511	nursing intervention
+T7	i 671 706	post-diagnosis nursing intervention
+T8	i 836 1306	The intervention consisted of usual care plus 3 hours contact with a pediatric nurse practitioner ( PNP ) for counseling , instruction , and assistance with implementation of the recommended treatment plan . The control group received only the usual care post-diagnosis , which consisted of a 1-hour consultation session to receive the results of diagnostic tests and a written copy of the recommended treatment plan provided by a developmental pediatrician and/or PNP .
+T9	o 710 769	parents ' reports of stress , impact of event ( diagnosis )
+T10	o 776 791	use of services
+T11	o 1348 1384	impact of event and perceived stress

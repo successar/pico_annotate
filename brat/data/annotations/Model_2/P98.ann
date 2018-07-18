@@ -1,0 +1,36 @@
+T1	p 86 116	atrial fibrillation patients :
+T2	p 254 255	(
+T3	p 260 261	)
+T4	p 402 413	individuals
+T5	p 461 465	In a
+T6	p 527 548	cases with stroke and
+T7	p 555 568	with bleeding
+T8	p 585 608	matched with controls .
+T9	p 715 763	32 cases with ischemic stroke and 234 cases with
+T10	p 981 991	respective
+T11	p 1501 1527	AF patients with stroke or
+T12	p 1559 1567	controls
+T13	i 28 39	INR control
+T14	i 260 261	)
+T15	i 312 319	control
+T16	i 683 706	time-dependent manner .
+T17	o 17 39	individual INR control
+T18	o 48 82	risk of stroke and bleeding events
+T19	o 193 261	therapeutic range ( TTR ) for international normalized ratio ( INR )
+T20	o 379 398	stroke and bleeding
+T21	o 617 649	anticoagulation quality measures
+T22	o 764 772	bleeding
+T23	o 868 876	duration
+T24	o 1013 1029	mean TTR of both
+T25	o 1090 1104	bleeding cases
+T26	o 1173 1178	range
+T27	o 1183 1189	stroke
+T28	o 1205 1210	range
+T29	o 1215 1223	bleeding
+T30	o 1368 1395	cases spent more time below
+T31	o 1473 1476	TTR
+T32	o 1525 1536	or bleeding
+T33	o 1571 1577	ACTIVE
+T34	o 1595 1599	high
+T35	o 1641 1649	and high
+T36	o 1719 1740	stroke and bleeding .

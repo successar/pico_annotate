@@ -1,0 +1,17 @@
+T1	i 28 57	household wood smoke exposure
+T2	i 61 70	Guatemala
+T3	i 521 538	chimney woodstove
+T4	i 619 637	stove intervention
+T5	i 654 663	open fire
+T6	i 877 895	) before-and-after
+T7	i 941 951	open fires
+T8	i 982 996	chimney stoves
+T9	i 1015 1041	Electrocardiogram sessions
+T10	i 1215 1223	stoves .
+T11	i 1916 1934	stove intervention
+T12	o 683 746	ST-segment depression and increase heart rate variability ( HRV
+T13	o 1224 1249	HRV and ST-segment values
+T14	o 1289 1310	ST-segment depression
+T15	o 1746 1769	ST-segment depression .
+T16	o 1989 2010	ST-segment depression
+T17	o 2067 2133	ventricular repolarization and potentially cardiovascular health .

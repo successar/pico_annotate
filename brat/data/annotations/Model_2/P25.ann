@@ -1,0 +1,20 @@
+T1	p 403 439	Thirty-five university students were
+T2	p 857 867	displaying
+T3	p 1180 1195	population with
+T4	i 34 48	Reichert AT550
+T5	i 57 68	non-contact
+T6	i 166 189	intra-ocular pressure (
+T7	i 194 195	)
+T8	i 216 227	non-contact
+T9	i 326 356	Reichert Xpert Plus , Goldmann
+T10	i 463 473	tonometers
+T11	i 503 514	non-contact
+T12	i 813 834	applanation tonometry
+T13	o 15 26	performance
+T14	o 128 145	level of accuracy
+T15	o 166 195	intra-ocular pressure ( IOP )
+T16	o 357 378	applanation tonometer
+T17	o 641 647	of IOP
+T18	o 880 898	level of agreement
+T19	o 954 974	narrowest confidence
+T20	o 1070 1085	readings of IOP

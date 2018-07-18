@@ -1,0 +1,35 @@
+T1	p 77 108	treated hypertensive patients .
+T2	p 275 339	hypertensive patients receiving drug treatment , but data on the
+T3	p 348 350	of
+T4	p 360 367	aspirin
+T5	p 439 442	low
+T6	p 545 605	hypertensives on chronic , stable antihypertensive therapy .
+T7	p 785 1058	people with one or more cardiovascular risk factors . Fifteen Italian hypertension units studied 142 hypertensive patients ( 76 men , 66 women ; mean age 59 +/- 5.9 years ) treated with different antihypertensive drugs : 71 patients were randomized to aspirin and 71 served
+T8	p 1062 1085	controls . All patients
+T9	p 1160 1189	24-h ambulatory BP monitoring
+T10	p 1208 1215	after 3
+T11	p 1223 1245	of aspirin treatment .
+T12	p 1940 1971	hypertensives under treatment .
+T13	i 17 33	low-dose aspirin
+T14	i 109 122	Collaborative
+T15	i 136 162	Primary Prevention Project
+T16	i 165 173	PPP ) --
+T17	i 193 230	. Nonsteroidal antiinflammatory drugs
+T18	i 360 367	aspirin
+T19	i 449 474	of aspirin ( 100 mg/day )
+T20	i 761 781	aspirin or vitamin E
+T21	i 1037 1058	aspirin and 71 served
+T22	i 1062 1072	controls .
+T23	i 1098 1107	clinic BP
+T24	i 1124 1245	an automatic sphygmomanometer and a 24-h ambulatory BP monitoring , at baseline and after 3 months of aspirin treatment .
+T25	i 1414 1421	aspirin
+T26	i 1681 1688	aspirin
+T27	i 1769 1779	inhibitors
+T28	i 1784 1791	calcium
+T29	i 1915 1922	aspirin
+T30	o 37 73	clinic and ambulatory blood pressure
+T31	o 242 263	blood pressure ( BP )
+T32	o 478 541	clinic and ambulatory systolic ( SBP ) and diastolic ( DBP ) BP
+T33	o 1282 1303	in clinic SBP and DBP
+T34	o 1373 1395	Ambulatory SBP and DBP
+T35	o 1926 1936	BP control

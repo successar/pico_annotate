@@ -1,0 +1,9 @@
+T1	p 605 666	20 patients undergoing lateral thoracotomy for lung resection
+T2	p 1842 1905	patients undergoing lateral thoracotomy who receive 0.5 mg SM .
+T3	i 75 121	adjuvant to subarachnoid administered morphine
+T4	i 266 323	nerve blocks ( INB ) and subarachnoid morphine ( SM ) act
+T5	i 723 821	INB with bupivacaine ( INB+ ) prior to wound closure or 0.5 mg SM with INB using saline ( INB- ) .
+T6	o 822 853	Visual analog scale pain scores
+T7	o 927 1001	expiratory volume in 1 second ( FEV1 ) , and forced vital capacity ( FVC )
+T8	o 1456 1467	pain scores
+T9	o 1669 1696	pain and pulmonary function

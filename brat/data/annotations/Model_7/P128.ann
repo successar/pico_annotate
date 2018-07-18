@@ -1,0 +1,21 @@
+T1	p 45 107	patients with isolated hypertriglyceridemia . BACKGROUNDS/AIMS
+T2	p 356 401	patients with isolated hypertriglyceridemia .
+T3	p 420 568	included 39 patients with elevated triglyceride levels and peripheral artery sclerosis , treated for 90 days with either simvastatin ( 40 mg daily )
+T4	i 16 27	simvastatin
+T5	i 294 315	simvastatin treatment
+T6	i 541 557	simvastatin ( 40
+T7	i 561 581	daily ) or placebo .
+T8	i 707 718	Simvastatin
+T9	i 729 736	placebo
+T10	i 1194 1200	statin
+T11	o 117 136	triglyceride levels
+T12	o 183 239	and accelerated progression of coronary artery disease .
+T13	o 324 352	coagulation and fibrinolysis
+T14	o 468 474	levels
+T15	o 582 650	Plasma lipids , glucose homeostasis markers and hemostasic variables
+T16	o 778 816	plasma levels/activity of fibrinogen (
+T17	o 864 876	factor VII (
+T18	o 926 965	and plasminogen activator inhibitor-1 (
+T19	o 1041 1088	reduction in von Willebrand factor levels , and
+T20	o 1107 1157	the prothrombin and partial thromboplastin times .
+T21	o 1249 1277	coagulation and fibrinolysis

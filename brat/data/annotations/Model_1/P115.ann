@@ -1,0 +1,33 @@
+T1	p 141 192	following adjuvant chemotherapy for breast cancer .
+T2	p 503 520	for breast cancer
+T3	p 827 879	chemotherapy-na?ve patients with breast cancer . All
+T4	p 1108 1276	. Median age of the 94 women was 51 years ( range 27-76 ) : 79 received fluorouracil/epirubicin/cyclophosphamide and 15 received doxorubicin/cyclophosphamide . Thirteen
+T5	i 32 50	placebo-controlled
+T6	i 115 128	dexamethasone
+T7	i 141 172	following adjuvant chemotherapy
+T8	i 294 321	after adjuvant chemotherapy
+T9	i 356 377	receive dexamethasone
+T10	i 480 502	receiving chemotherapy
+T11	i 538 567	with dexamethasone or placebo
+T12	i 757 775	oral dexamethasone
+T13	i 808 826	versus placebo for
+T14	i 898 960	intravenous granisetron and dexamethasone pre-chemotherapy and
+T15	i 966 980	granisetron on
+T16	i 1171 1224	received fluorouracil/epirubicin/cyclophosphamide and
+T17	i 1228 1276	received doxorubicin/cyclophosphamide . Thirteen
+T18	i 1374 1396	preferred placebo ( 39
+T19	i 1457 1492	preferred dexamethasone ; 12 had no
+T20	i 1667 1712	received dexamethasone . No other symptom/QOL
+T21	i 1854 1890	whether dexamethasone or placebo was
+T22	i 1896 1923	after adjuvant chemotherapy
+T23	o 85 100	quality of life
+T24	o 266 293	delayed nausea and vomiting
+T25	o 391 442	of insomnia , anxiety/agitation , and indigestion .
+T26	o 592 621	delayed nausea and vomiting ,
+T27	o 629 660	compare quality of life ( QOL )
+T28	o 1020 1045	patient preference ; ( ii
+T29	o 1067 1090	cycles in change of QOL
+T30	o 1532 1598	in intensity of vomiting , nausea , or time to onset of vomiting .
+T31	o 1629 1639	global QOL
+T32	o 1690 1729	. No other symptom/QOL domains differed
+T33	o 1801 1839	patient preference , QOL , or symptoms

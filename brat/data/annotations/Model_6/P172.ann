@@ -1,0 +1,18 @@
+T1	p 695 699	TLCO
+T2	p 712 752	) in 100 consecutive patients . Patients
+T3	p 1008 1024	severe pulmonary
+T4	p 1039 1047	patients
+T5	p 1058 1059	<
+T6	p 1094 1095	(
+T7	p 1101 1102	)
+T8	i 109 124	carbon monoxide
+T9	i 226 234	monoxide
+T10	i 241 250	inert gas
+T11	i 403 414	inspiration
+T12	i 419 433	breath holding
+T13	i 641 657	standard ( Jones
+T14	i 662 667	Meade
+T15	i 680 713	breath holding TLCO ( TLCO , bh )
+T16	i 1384 1401	holding technique
+T17	o 481 505	prolonged breath holding
+T18	o 1259 1263	TLCO

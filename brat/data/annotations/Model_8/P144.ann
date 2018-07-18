@@ -1,0 +1,58 @@
+T1	p 33 70	retrograde cholangiopancreatography :
+T2	p 104 122	patient-controlled
+T3	p 261 296	cholangiopancreatography ( ERCP ) .
+T4	p 383 394	experiences
+T5	p 420 441	sedation ( PCS ) with
+T6	p 497 498	)
+T7	p 508 530	department 's standard
+T8	p 620 656	The study included 281 adults in 301
+T9	p 668 669	.
+T10	p 678 685	group (
+T11	p 688 689	=
+T12	p 785 792	group (
+T13	p 795 800	= 100
+T14	p 807 810	2-8
+T15	p 1058 1069	PCS and ACS
+T16	p 1183 1202	ACS n = 0 ; PCS n =
+T17	p 1219 1220	=
+T18	p 1258 1276	sedated patients (
+T19	p 1333 1341	than the
+T20	p 1346 1359	and midazolam
+T21	p 1435 1440	PCS .
+T22	p 1517 1543	preference for PCS and ACS
+T23	p 1579 1587	propofol
+T24	p 1631 1636	ACS .
+T25	i 104 140	patient-controlled propofol sedation
+T26	i 159 180	a nurse anesthetist .
+T27	i 261 285	cholangiopancreatography
+T28	i 288 296	ERCP ) .
+T29	i 401 436	patient-controlled sedation ( PCS )
+T30	i 442 492	propofol , nurse anesthetist-controlled sedation (
+T31	i 534 550	care , midazolam
+T32	i 581 588	control
+T33	i 674 677	PCS
+T34	i 726 737	of propofol
+T35	i 819 838	of propofol infused
+T36	i 917 943	Alertness/Sedation ( OAA/S
+T37	i 992 1001	midazolam
+T38	i 1162 1182	midazolam sedation (
+T39	i 1207 1216	midazolam
+T40	i 1350 1359	midazolam
+T41	i 1570 1573	PCS
+T42	i 1579 1587	propofol
+T43	i 1603 1612	midazolam
+T44	o 328 354	safety , ease of treatment
+T45	o 357 365	recovery
+T46	o 861 869	sedation
+T47	o 876 881	level
+T48	o 917 935	Alertness/Sedation
+T49	o 938 953	OAA/S ) scale .
+T50	o 1058 1061	PCS
+T51	o 1084 1088	ease
+T52	o 1122 1149	number of sedation failures
+T53	o 1277 1292	OAA/S level 2 )
+T54	o 1295 1313	desaturation , and
+T55	o 1374 1411	to full recovery ( Aldrete score ?9 )
+T56	o 1461 1483	least fatigue and pain
+T57	o 1517 1527	preference
+T58	o 1661 1702	recovery , fewer respiratory events , and

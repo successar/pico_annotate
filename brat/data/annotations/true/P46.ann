@@ -1,0 +1,15 @@
+T1	p 53 58	human
+T2	i 36 45	melatonin
+T3	i 202 211	melatonin
+T4	i 398 407	Melatonin
+T5	i 418 425	placebo
+T6	i 668 677	melatonin
+T7	i 790 799	melatonin
+T8	i 942 951	melatonin
+T9	i 1196 1205	melatonin
+T10	o 25 32	effects
+T11	o 436 457	task-related activity
+T12	o 617 651	subjective measurements of fatigue
+T13	o 691 729	activation in the left parahippocampus
+T14	o 810 824	brain activity
+T15	o 915 922	fatigue

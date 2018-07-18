@@ -1,0 +1,57 @@
+T1	p 103 145	and vomiting after breast cancer surgery :
+T2	p 218 270	Japanese patients . BACKGROUND Breast cancer surgery
+T3	p 290 311	patient under general
+T4	p 449 457	patients
+T5	p 470 496	mastectomy ( with axillary
+T6	p 654 682	women who undergo mastectomy
+T7	p 888 902	cancer surgery
+T8	p 906 925	Japanese patients .
+T9	p 1011 1030	Japanese women were
+T10	p 1691 1822	total of 100 women ( mean [ SD ] age , 52 [ 7 ] years ; height , 154 [ 6 ] cm ; weight , 54 [ 7 ] kg ) were included in the study .
+T11	p 1834 1863	group comprised 25 patients .
+T12	p 2753 2803	Japanese women who underwent breast cancer surgery
+T13	i 20 62	propofol , droperidol , and metoclopramide
+T14	i 190 208	placebo-controlled
+T15	i 312 322	anesthesia
+T16	i 470 480	mastectomy
+T17	i 488 496	axillary
+T18	i 556 564	propofol
+T19	i 570 581	subhypnotic
+T20	i 624 631	placebo
+T21	i 754 770	subhypnotic dose
+T22	i 774 782	propofol
+T23	i 792 846	conventional antiemetics droperidol and metoclopramide
+T24	i 984 1002	placebo-controlled
+T25	i 1073 1309	administration of propofol 0.5 mg/kg , droperidol 20 microg/kg , metoclopramide 0.2 mg/kg , or placebo ( isotonic saline ) immediately after skin suture . A standard general anesthetic technique , including sevoflurane and air in oxygen
+T26	i 2070 2078	propofol
+T27	i 2105 2115	droperidol
+T28	i 2146 2160	metoclopramide
+T29	i 2188 2195	placebo
+T30	i 2296 2304	propofol
+T31	i 2325 2335	droperidol
+T32	i 2342 2350	propofol
+T33	i 2355 2365	droperidol
+T34	i 2441 2455	metoclopramide
+T35	i 2643 2651	propofol
+T36	i 2666 2679	droperidol 20
+T37	i 2710 2720	anesthesia
+T38	i 2860 2883	propofol and droperidol
+T39	i 2898 2936	metoclopramide 0.2 mg/kg and placebo .
+T40	o 82 115	postoperative nausea and vomiting
+T41	o 393 399	nausea
+T42	o 404 412	vomiting
+T43	o 415 419	PONV
+T44	o 1296 1299	air
+T45	o 1303 1309	oxygen
+T46	o 1339 1343	PONV
+T47	o 1549 1574	extrapyramidal symptoms .
+T48	o 1591 1600	integrity
+T49	o 1942 1962	patient demographics
+T50	o 1965 1999	surgery type , or awakening time .
+T51	o 2004 2025	prevalences of PONV 0
+T52	o 2240 2258	prevalence of PONV
+T53	o 2407 2418	prevalences
+T54	o 2422 2426	PONV
+T55	o 2501 2524	Extrapyramidal symptoms
+T56	o 2597 2601	PONV
+T57	o 2825 2829	PONV

@@ -1,0 +1,20 @@
+T1	p 94 117	chronic periodontitis :
+T2	p 388 490	Twenty-four patients presenting with ?12 teeth with probing depth ( PD ) ?5 mm and bleeding on probing
+T3	p 796 798	PD
+T4	p 1967 1980	periodontitis
+T5	i 68 81	chlorhexidine
+T6	i 231 258	chlorhexidine ( CHX ) chips
+T7	i 362 369	planing
+T8	i 539 600	prophylaxis , CHX chips ( test ) or placebo chips ( control )
+T9	i 629 639	PD ?5 mm .
+T10	i 657 660	SRP
+T11	i 714 725	appointment
+T12	i 746 749	SRP
+T13	i 1642 1649	placebo
+T14	i 1692 1695	CHX
+T15	i 1821 1824	CHX
+T16	o 1184 1265	Serum levels of high sensitive C-reactive and lipopolysaccharide-binding proteins
+T17	o 1297 1311	the parameters
+T18	o 1404 1437	clinical and serologic parameters
+T19	o 1512 1555	clinical attachment level ( CAL ) gain from
+T20	o 1736 1769	microorganisms of the red complex

@@ -1,0 +1,8 @@
+T1	p 733 770	patients with OCD with poor insight .
+T2	i 6 66	Inference-Based Approach versus Cognitive Behavioral Therapy
+T3	i 471 503	inference-based approach ( IBA )
+T4	i 694 728	cognitive behavior therapy ( CBT )
+T5	i 881 924	either 24 CBT sessions or 24 IBA sessions .
+T6	i 1744 1759	CBT and the IBA
+T7	i 1850 1853	CBT
+T8	o 1043 1138	level of insight , anxiety and depressive symptoms , and quality of life . Mixed-effects models

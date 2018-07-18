@@ -1,0 +1,59 @@
+T1	p 22 70	endoscopic retrograde cholangiopancreatography :
+T2	p 167 180	anesthetist .
+T3	p 239 296	endoscopic retrograde cholangiopancreatography ( ERCP ) .
+T4	p 381 394	' experiences
+T5	p 420 441	sedation ( PCS ) with
+T6	p 497 498	)
+T7	p 501 530	or the department 's standard
+T8	p 620 656	The study included 281 adults in 301
+T9	p 668 669	.
+T10	p 674 685	PCS group (
+T11	p 785 792	group (
+T12	p 797 800	100
+T13	p 1058 1069	PCS and ACS
+T14	p 1181 1202	( ACS n = 0 ; PCS n =
+T15	p 1246 1276	more deeply sedated patients (
+T16	p 1308 1309	,
+T17	p 1333 1337	than
+T18	p 1346 1359	and midazolam
+T19	p 1435 1444	PCS . PCS
+T20	p 1517 1543	preference for PCS and ACS
+T21	p 1570 1587	PCS with propofol
+T22	p 1631 1636	ACS .
+T23	i 6 14	Sedation
+T24	i 22 68	endoscopic retrograde cholangiopancreatography
+T25	i 104 140	patient-controlled propofol sedation
+T26	i 156 180	by a nurse anesthetist .
+T27	i 239 292	endoscopic retrograde cholangiopancreatography ( ERCP
+T28	i 401 419	patient-controlled
+T29	i 442 492	propofol , nurse anesthetist-controlled sedation (
+T30	i 534 550	care , midazolam
+T31	i 589 594	group
+T32	i 723 737	mg of propofol
+T33	i 819 830	of propofol
+T34	i 917 943	Alertness/Sedation ( OAA/S
+T35	i 992 1001	midazolam
+T36	i 1162 1182	midazolam sedation (
+T37	i 1207 1218	midazolam n
+T38	i 1350 1359	midazolam
+T39	i 1579 1587	propofol
+T40	i 1603 1612	midazolam
+T41	o 6 14	Sedation
+T42	o 223 231	sedation
+T43	o 250 294	retrograde cholangiopancreatography ( ERCP )
+T44	o 328 354	safety , ease of treatment
+T45	o 357 365	recovery
+T46	o 459 481	anesthetist-controlled
+T47	o 766 774	sedation
+T48	o 861 869	sedation
+T49	o 876 881	level
+T50	o 891 899	Observer
+T51	o 917 935	Alertness/Sedation
+T52	o 938 953	OAA/S ) scale .
+T53	o 1084 1095	ease of the
+T54	o 1122 1149	number of sedation failures
+T55	o 1277 1292	OAA/S level 2 )
+T56	o 1295 1309	desaturation ,
+T57	o 1377 1411	full recovery ( Aldrete score ?9 )
+T58	o 1461 1483	least fatigue and pain
+T59	o 1672 1702	fewer respiratory events , and

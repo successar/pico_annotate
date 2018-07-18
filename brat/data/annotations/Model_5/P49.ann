@@ -1,0 +1,22 @@
+T1	p 70 116	cows immunized against Clostridium difficile .
+T2	p 208 229	Clostridium difficile
+T3	p 608 735	cows versus that from non-immunized cows , and the composition of anti-CD WPC versus that of regular whey protein concentrate .
+T4	p 797 821	77 patients with CDAD to
+T5	p 1105 1111	CDAD .
+T6	p 1207 1236	individuals with CDAD , under
+T7	i 20 44	whey protein concentrate
+T8	i 119 152	whey protein concentrate prepared
+T9	i 162 166	milk
+T10	i 264 269	toxin
+T11	i 272 285	and toxin B ,
+T12	i 464 522	anti-C. difficile whey protein concentrate ( anti-CD WPC )
+T13	i 709 735	whey protein concentrate .
+T14	i 848 869	consuming anti-CD WPC
+T15	i 1057 1064	anti-CD
+T16	i 1176 1187	anti-CD WPC
+T17	o 472 481	difficile
+T18	o 838 844	safety
+T19	o 881 888	relapse
+T20	o 896 905	infection
+T21	o 1001 1014	hematological
+T22	o 1019 1030	biochemical

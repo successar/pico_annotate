@@ -1,0 +1,24 @@
+T1	p 136 192	ten normotensive and seven hypertensive subjects induced
+T2	p 262 269	studied
+T3	p 368 408	hypertensive and normotensive subjects ,
+T4	p 592 600	pressure
+T5	i 17 31	cuff inflation
+T6	i 35 48	self-recorded
+T7	i 99 110	'Finapres '
+T8	i 218 256	cuff or just wearing the inflated cuff
+T9	i 272 281	Inflating
+T10	i 286 290	cuff
+T11	i 426 451	Wearing the inflated cuff
+T12	i 565 576	inflation .
+T13	i 696 697	.
+T14	o 35 65	self-recorded blood pressure .
+T15	o 109 132	' finger blood pressure
+T16	o 315 346	rise in systolic blood pressure
+T17	o 467 483	blood pressure .
+T18	o 493 509	rise in pressure
+T19	o 529 546	muscular activity
+T20	o 560 574	cuff inflation
+T21	o 577 600	Systolic blood pressure
+T22	o 651 665	baseline level
+T23	o 802 839	self-recorded systolic blood pressure
+T24	o 896 900	cuff

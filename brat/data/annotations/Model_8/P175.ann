@@ -1,0 +1,35 @@
+T1	p 605 647	20 patients undergoing lateral thoracotomy
+T2	p 652 666	lung resection
+T3	p 1842 1893	patients undergoing lateral thoracotomy who receive
+T4	i 56 68	nerve blocks
+T5	i 113 121	morphine
+T6	i 181 192	Thoracotomy
+T7	i 266 286	nerve blocks ( INB )
+T8	i 304 319	morphine ( SM )
+T9	i 628 651	lateral thoracotomy for
+T10	i 694 718	0.5 mg SM preoperatively
+T11	i 723 752	INB with bupivacaine ( INB+ )
+T12	i 779 821	0.5 mg SM with INB using saline ( INB- ) .
+T13	i 1167 1171	INB+
+T14	i 1556 1557	,
+T15	i 1570 1574	INB+
+T16	i 1713 1721	adjuvant
+T17	i 1725 1734	0.5 mg SM
+T18	i 1834 1837	INB
+T19	i 1870 1900	thoracotomy who receive 0.5 mg
+T20	o 212 216	pain
+T21	o 221 232	compromised
+T22	o 243 253	function .
+T23	o 353 357	pain
+T24	o 390 420	post-thoracotomy pain relief .
+T25	o 464 533	relieving post-thoracotomy pain and improving postoperative pulmonary
+T26	o 818 856	) . Visual analog scale pain scores at
+T27	o 869 874	cough
+T28	o 877 880	and
+T29	o 920 944	forced expiratory volume
+T30	o 972 1001	forced vital capacity ( FVC )
+T31	o 1075 1078	use
+T32	o 1245 1261	) and FVC values
+T33	o 1315 1337	resting and cough pain
+T34	o 1456 1467	pain scores
+T35	o 1653 1696	improvements in pain and pulmonary function

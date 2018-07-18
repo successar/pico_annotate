@@ -1,0 +1,35 @@
+T1	p 70 159	postoperative rectal cancer patients treated with adjuvant concurrent chemoradiotherapy ]
+T2	p 345 367	rectal cancer patients
+T3	p 381 399	capecitabine-based
+T4	p 450 566	Four hundred patients with stage II and III rectal cancer received postoperative CRT of capecitabine with or without
+T5	p 691 728	Two hundred and twenty-eight patients
+T6	p 742 746	with
+T7	p 806 809	172
+T8	p 1373 1408	136 patients presented severe AEs .
+T9	p 2554 2580	III rectal cancer patients
+T10	i 24 42	A870G polymorphism
+T11	i 120 161	adjuvant concurrent chemoradiotherapy ] .
+T12	i 241 294	single nucleotide polymorphism ( SNP ) of CCND1 A870G
+T13	i 305 327	adverse events ( AEs )
+T14	i 381 441	capecitabine-based postoperative chemoradiotherapy ( CRT ) .
+T15	i 517 613	postoperative CRT of capecitabine with or without oxaliplatin were accumulated and prostectively
+T16	i 747 799	concurrent capecitabine and radiotherapy ( Cap-CRT )
+T17	i 832 901	with capecitabine and oxaliplatin plus radiotherapy ( Cap-Oxa-CRT ) .
+T18	i 1205 1208	SNP
+T19	i 2440 2452	polymorphism
+T20	i 2594 2665	adjuvant concurrent chemoradiotherapy of capecitabine and oxaliplatin .
+T21	o 46 66	acute adverse events
+T22	o 902 916	Adverse events
+T23	o 978 992	Adverse Events
+T24	o 1096 1110	reaction-based
+T25	o 1123 1164	fragment length polymorphism ( PCR-RFLP )
+T26	o 1213 1218	acute
+T27	o 1464 1473	GA and AA
+T28	o 1606 1614	Diarrhea
+T29	o 1644 1659	severe diarrhea
+T30	o 1691 1702	frequencies
+T31	o 1716 1740	genotypes GG , GA and AA
+T32	o 1884 1892	diarrhea
+T33	o 1966 1990	risk for severe diarrhea
+T34	o 2225 2244	for severe diarrhea
+T35	o 2398 2415	severe diarrhea .

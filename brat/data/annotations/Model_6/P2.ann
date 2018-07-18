@@ -1,0 +1,42 @@
+T1	p 90 154	healthy volunteers and in patients with primary hypothyroidism .
+T2	p 385 398	man has never
+T3	p 474 572	8 healthy volunteers , and 6 women with untreated primary hypothyroidism , a disease state that is
+T4	p 622 633	melatonin .
+T5	p 812 830	healthy volunteers
+T6	p 1916 1973	subjects and in patients with primary hypothyroidism , it
+T7	p 2087 2092	man .
+T8	i 15 45	of somatostatin ( octreotide )
+T9	i 67 76	melatonin
+T10	i 155 167	Somatostatin
+T11	i 321 333	somatostatin
+T12	i 451 460	melatonin
+T13	i 622 631	melatonin
+T14	i 675 685	injections
+T15	i 719 755	saline or octreotide ( Sandostatin ;
+T16	i 781 782	)
+T17	i 842 852	octreotide
+T18	i 855 864	melatonin
+T19	i 1126 1136	octreotide
+T20	i 1139 1141	GH
+T21	i 1173 1183	octreotide
+T22	i 1329 1339	octreotide
+T23	i 1510 1520	octreotide
+T24	i 1557 1567	octreotide
+T25	i 1655 1665	octreotide
+T26	i 1756 1768	somatostatin
+T27	i 1777 1802	exogenous somatostatin --
+T28	i 1818 1831	octreotide --
+T29	i 1896 1905	melatonin
+T30	i 2014 2026	somatostatin
+T31	o 599 608	nocturnal
+T32	o 865 874	secretion
+T33	o 947 977	urinary excretion of melatonin
+T34	o 1046 1058	GH secretion
+T35	o 1142 1145	AUC
+T36	o 1157 1163	mU/l x
+T37	o 1292 1321	nocturnal melatonin secretion
+T38	o 1353 1370	Urinary excretion
+T39	o 1420 1431	secretion .
+T40	o 1436 1468	total nocturnal secretion of TSH
+T41	o 1510 1520	octreotide
+T42	o 1523 1547	TSH AUC 562+/-136 mU/l x

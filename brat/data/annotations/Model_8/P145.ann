@@ -1,0 +1,17 @@
+T1	p 22 41	Dental Environments
+T2	p 67 108	Children with Autism Spectrum Disorders :
+T3	p 342 390	children with autism spectrum disorder ( ASD ) .
+T4	p 404 439	were 44 children ages 6-12 ( n = 22
+T5	p 448 449	,
+T6	p 452 464	= 22 ASD ) .
+T7	p 530 546	two professional
+T8	p 583 589	dental
+T9	i 22 41	Dental Environments
+T10	i 205 212	sensory
+T11	i 228 248	environment ( SADE )
+T12	i 534 563	professional dental cleanings
+T13	i 583 609	dental environment ( RDE )
+T14	i 623 627	SADE
+T15	o 259 313	distress , sensory discomfort , and perception of pain
+T16	o 731 819	of physiological anxiety , behavioral distress , pain intensity , and sensory discomfort
+T17	o 844 922	decreased physiological anxiety and reported lower pain and sensory discomfort

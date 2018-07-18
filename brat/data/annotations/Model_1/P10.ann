@@ -1,0 +1,50 @@
+T1	p 72 137	dogs and cats presented as veterinary patients in North America .
+T2	p 300 313	dogs and cats
+T3	p 364 370	dogs .
+T4	p 460 524	dogs and cats showing signs of flea allergy dermatitis ( FAD ) .
+T5	p 651 758	Dogs and cats with naturally occurring flea infestations , some of which also had signs associated with FAD
+T6	p 845 868	( 220 dogs , 189 cats )
+T7	p 1787 1832	dogs and cats diagnosed clinically with FAD .
+T8	p 1844 1931	397 dogs free of adult heartworm infection from four heartworm-endemic areas of the USA
+T9	p 2234 2255	673 dogs and 347 cats
+T10	p 2320 2410	animals included 19 purebred or crossbred Collies ( Bearded , Border , and unspecified ) .
+T11	p 2561 2574	dogs and cats
+T12	p 2849 2864	dogs and cats .
+T13	i 29 39	selamectin
+T14	i 248 258	selamectin
+T15	i 436 446	selamectin
+T16	i 540 550	selamectin
+T17	i 795 844	three months of topical treatment with selamectin
+T18	i 874 898	positive-control product
+T19	i 908 916	fenthion
+T20	i 933 943	pyrethrins
+T21	i 955 965	Selamectin
+T22	i 1277 1295	selamectin-treated
+T23	i 1732 1742	Selamectin
+T24	i 1988 1998	selamectin
+T25	i 2012 2022	ivermectin
+T26	i 2034 2044	Selamectin
+T27	i 2192 2202	Selamectin
+T28	i 2490 2500	selamectin
+T29	i 2730 2740	Selamectin
+T30	o 6 14	Efficacy
+T31	o 19 25	safety
+T32	o 225 233	efficacy
+T33	o 238 244	safety
+T34	o 279 296	flea infestations
+T35	o 341 360	heartworm infection
+T36	o 1081 1093	Flea burdens
+T37	o 1111 1127	flea comb counts
+T38	o 1132 1159	clinical evaluations of FAD
+T39	o 1257 1273	mean flea counts
+T40	o 1348 1364	mean flea counts
+T41	o 1511 1527	mean flea counts
+T42	o 1602 1618	mean flea counts
+T43	o 2056 2081	heartworm prevention rate
+T44	o 2425 2449	serious adverse events .
+T45	o 2505 2521	highly effective
+T46	o 2529 2557	control of flea infestations
+T47	o 2676 2729	beneficial in alleviating signs associated with FAD .
+T48	o 2769 2816	preventing the development of canine heartworms
+T49	o 2825 2829	safe
+T50	o 2834 2845	topical use

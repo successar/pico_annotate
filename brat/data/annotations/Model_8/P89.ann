@@ -1,0 +1,45 @@
+T1	p 159 197	atherosclerosis in diabetic patients :
+T2	p 279 311	Sonographic Coronary Obstruction
+T3	p 550 558	coronary
+T4	p 678 733	360 diabetic patients with coronary artery disease were
+T5	p 859 891	Sonographic Coronary Obstruction
+T6	p 2449 2468	diabetic patients .
+T7	p 2543 2607	dyslipidemia in diabetic patients with coronary artery disease .
+T8	i 119 131	pioglitazone
+T9	i 216 225	PERISCOPE
+T10	i 228 240	Pioglitazone
+T11	i 451 463	pioglitazone
+T12	i 628 639	glimepiride
+T13	i 747 774	pioglitazone or glimepiride
+T14	i 796 805	PERISCOPE
+T15	i 808 820	Pioglitazone
+T16	i 993 1005	ultrasound .
+T17	i 1568 1580	pioglitazone
+T18	i 1709 1723	apolipoprotein
+T19	i 1758 1769	glimepiride
+T20	i 2356 2368	pioglitazone
+T21	o 19 74	triglyceride/high-density lipoprotein cholesterol ratio
+T22	o 150 158	coronary
+T23	o 550 567	coronary atheroma
+T24	o 582 594	Pioglitazone
+T25	o 602 613	progression
+T26	o 925 954	Coronary atheroma progression
+T27	o 1042 1118	biochemical parameters , percent atheroma volume , and total atheroma volume
+T28	o 1197 1335	increases in high-density lipoprotein cholesterol ( HDL-C ) and reductions in glycated hemoglobin , triglycerides , and C-reactive protein
+T29	o 1396 1439	percent atheroma volume and triglycerides (
+T30	o 1464 1488	triglyceride/HDL-C ratio
+T31	o 1515 1540	and glycated hemoglobin (
+T32	o 1587 1594	changes
+T33	o 1598 1633	low-density lipoprotein cholesterol
+T34	o 1661 1677	apolipoprotein B
+T35	o 1709 1727	apolipoprotein A-I
+T36	o 1784 1803	atheroma regression
+T37	o 1818 1829	progression
+T38	o 1869 1889	increases in HDL-C (
+T39	o 1944 1957	triglycerides
+T40	o 1995 2019	triglyceride/HDL-C ratio
+T41	o 2058 2089	decrease in glycated hemoglobin
+T42	o 2245 2268	percent atheroma volume
+T43	o 2286 2307	total atheroma volume
+T44	o 2376 2411	triglyceride/HDL-C ratio correlated
+T45	o 2417 2445	delayed atheroma progression

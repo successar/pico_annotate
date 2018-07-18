@@ -1,0 +1,6 @@
+T1	p 102 107	human
+T2	p 862 867	human
+T3	p 1646 1652	humans
+T4	i 765 799	perturbations to treadmill walking
+T5	o 862 894	human step frequency adjustments
+T6	o 1138 1147	amplitude

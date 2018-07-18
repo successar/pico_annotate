@@ -1,0 +1,25 @@
+T1	p 15 68	during endoscopic retrograde cholangiopancreatography
+T2	p 624 667	study included 281 adults in 301 procedures
+T3	i 123 131	propofol
+T4	i 401 428	patient-controlled sedation
+T5	i 442 450	propofol
+T6	i 459 490	anesthetist-controlled sedation
+T7	i 522 538	standard of care
+T8	i 541 550	midazolam
+T9	i 729 737	propofol
+T10	i 822 830	propofol
+T11	i 992 1001	midazolam
+T12	i 1162 1171	midazolam
+T13	i 1207 1216	midazolam
+T14	i 1350 1359	midazolam
+T15	i 1579 1587	propofol
+T16	i 1603 1612	midazolam
+T17	o 328 365	safety , ease of treatment , recovery
+T18	o 372 394	patients ' experiences
+T19	o 1084 1105	ease of the procedure
+T20	o 1122 1149	number of sedation failures
+T21	o 1369 1406	Time to full recovery ( Aldrete score
+T22	o 1467 1483	fatigue and pain
+T23	o 1515 1527	' preference
+T24	o 1661 1669	recovery
+T25	o 1678 1696	respiratory events

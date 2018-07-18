@@ -1,0 +1,55 @@
+T1	p 304 332	patients with chronic immune
+T2	p 452 482	adults with previously treated
+T3	p 799 817	computer-generated
+T4	p 972 980	status .
+T5	p 1494 1519	FINDINGS Between Nov 22 ,
+T6	p 1536 1538	31
+T7	p 1548 1565	197 patients were
+T8	p 1605 1608	and
+T9	p 1753 1762	treatment
+T10	p 2075 2083	patients
+T11	p 2209 2217	patients
+T12	p 2345 2379	patients receiving eltrombopag had
+T13	p 2479 2487	patients
+T14	p 2731 2738	placebo
+T15	p 2787 2788	(
+T16	p 2965 2986	patients who have not
+T17	p 3000 3023	splenectomy or previous
+T18	i 6 17	Eltrombopag
+T19	i 132 143	Eltrombopag
+T20	i 155 186	thrombopoietin receptor agonist
+T21	i 274 300	eltrombopag versus placebo
+T22	i 424 442	placebo-controlled
+T23	i 662 732	with local standard of care plus 50 mg eltrombopag or matching placebo
+T24	i 1288 1289	4
+T25	i 1358 1386	eltrombopag versus placebo .
+T26	i 1678 1692	62 placebo ) .
+T27	i 1838 1845	placebo
+T28	i 1909 1920	eltrombopag
+T29	i 1954 1961	placebo
+T30	i 2094 2105	eltrombopag
+T31	i 2175 2182	placebo
+T32	i 2309 2316	placebo
+T33	i 2436 2445	placebo .
+T34	i 2511 2518	placebo
+T35	i 2657 2666	placebo )
+T36	i 2731 2738	placebo
+T37	i 2818 2829	eltrombopag
+T38	i 2847 2858	Eltrombopag
+T39	o 51 69	thrombocytopenia (
+T40	o 208 226	thrombocytopenia .
+T41	o 333 349	thrombocytopenia
+T42	o 490 509	thrombocytopenia of
+T43	o 557 572	platelet counts
+T44	o 872 886	platelet count
+T45	o 937 971	thrombocytopenia , and splenectomy
+T46	o 1115 1123	response
+T47	o 1190 1204	platelet count
+T48	o 1492 1493	.
+T49	o 2247 2263	rescue treatment
+T50	o 2380 2401	thromboembolic events
+T51	o 2534 2543	increases
+T52	o 2547 2591	alanine aminotransferase concentration , and
+T53	o 2681 2701	in total bilirubin .
+T54	o 2743 2766	serious bleeding events
+T55	o 2905 2923	thrombocytopenia ,

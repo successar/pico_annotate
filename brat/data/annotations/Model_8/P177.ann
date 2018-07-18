@@ -1,0 +1,30 @@
+T1	p 231 252	heart valve surgery .
+T2	p 623 624	.
+T3	p 652 678	90 patients who had aortic
+T4	p 713 744	replacement with Sorin Bicarbon
+T5	p 770 782	prostheses .
+T6	p 816 820	each
+T7	p 1236 1244	patients
+T8	p 1379 1387	patients
+T9	p 2025 2039	dysfunction is
+T10	i 87 133	intraoperative valve orientation . Fluoroscopy
+T11	i 237 242	valve
+T12	i 251 252	.
+T13	i 490 510	intraoperative valve
+T14	i 725 759	with Sorin Bicarbon or CarboMedics
+T15	i 861 880	prostheses oriented
+T16	i 1454 1472	angulated , uneasy
+T17	i 1512 1519	correct
+T18	i 1539 1540	.
+T19	i 1632 1678	orientation . Prosthesis orientation crucially
+T20	i 1862 1873	fluoroscopy
+T21	o 150 154	easy
+T22	o 213 224	functioning
+T23	o 533 557	feasibility and accuracy
+T24	o 679 680	,
+T25	o 688 689	,
+T26	o 1080 1112	valve 's hemodynamic performance
+T27	o 1588 1611	hemodynamic performance
+T28	o 1691 1706	rate of success
+T29	o 1820 1873	postoperative feasibility and accuracy of fluoroscopy
+T30	o 1909 1943	valve 's hemodynamic performance .

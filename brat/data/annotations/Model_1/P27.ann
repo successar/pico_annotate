@@ -1,0 +1,28 @@
+T1	p 84 119	advanced nasopharyngeal carcinoma :
+T2	p 187 266	Nasopharyngeal carcinoma ( NPC ) is a radiosensitive and chemosensitive tumor .
+T3	p 382 410	patients with advanced NPC .
+T4	p 432 575	From December 1993 to April 1999 , 284 patients with 1992 American Joint Committee on Cancer stage III to IV ( M0 ) NPC were randomly allocated
+T5	p 1845 1871	patients with advanced NPC
+T6	i 25 53	concurrent chemoradiotherapy
+T7	i 61 79	radiotherapy alone
+T8	i 308 372	concurrent chemoradiotherapy ( CCRT ) versus radiotherapy ( RT )
+T9	i 710 748	concurrent chemotherapy with cisplatin
+T10	i 771 783	fluorouracil
+T11	i 1162 1166	CCRT
+T12	i 1171 1179	RT-alone
+T13	i 1258 1262	CCRT
+T14	i 1286 1293	RT-only
+T15	i 1376 1380	CCRT
+T16	i 1416 1423	RT-only
+T17	i 1499 1503	CCRT
+T18	i 1812 1816	CCRT
+T19	i 1832 1834	RT
+T20	o 139 178	overall and progression-free survival .
+T21	o 866 883	Survival analysis
+T22	o 1141 1154	tumor relapse
+T23	o 1208 1237	5-year overall survival rates
+T24	o 1317 1355	5-year progression-free survival rates
+T25	o 1473 1481	toxicity
+T26	o 1520 1530	leukopenia
+T27	o 1535 1554	emesis , compliance
+T28	o 1743 1767	treatment-related deaths

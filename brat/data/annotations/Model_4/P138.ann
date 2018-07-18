@@ -1,0 +1,12 @@
+T1	p 94 115	in healthy children :
+T2	p 642 665	4-5-year-old children .
+T3	p 1008 1030	children and infants .
+T4	i 47 83	Cuban pneumococcal conjugate vaccine
+T5	i 160 201	heptavalent conjugate vaccine ( PCV7-TT )
+T6	i 319 360	one conjugated to tetanus toxoid ( TT ) .
+T7	i 366 373	vaccine
+T8	i 768 779	vaccination
+T9	o 540 554	immunogenicity
+T10	o 683 692	tolerated
+T11	o 700 704	safe
+T12	o 870 894	of IgG GMC and OPA GMT .

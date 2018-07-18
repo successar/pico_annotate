@@ -1,0 +1,17 @@
+T1	p 79 131	anxiety in children with autism spectrum disorders :
+T2	p 304 405	children with high-functioning autism spectrum disorders ( ASD ) and clinically significant anxiety .
+T3	p 415 518	total of 45 children ( 7-11 years of age ) with high-functioning ASD and clinically significant anxiety
+T4	p 1129 1160	youth with high-functioning ASD
+T5	p 1315 1342	anxiety in youth with ASD .
+T6	i 20 65	cognitive-behavioral therapy versus treatment
+T7	i 69 74	usual
+T8	i 203 297	a modular cognitive-behavioral therapy ( CBT ) protocol relative to treatment as usual ( TAU )
+T9	i 546 582	16 sessions of weekly CBT or TAU for
+T10	i 586 607	equivalent duration .
+T11	i 775 778	CBT
+T12	i 889 892	CBT
+T13	i 1092 1116	usual care , CBT adapted
+T14	i 1279 1301	adapted CBT approaches
+T15	o 798 855	improvement relative to TAU on primary anxiety outcomes .
+T16	o 992 999	. Gains
+T17	o 1200 1218	anxiety symptoms .

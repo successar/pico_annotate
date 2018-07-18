@@ -1,0 +1,18 @@
+T1	p 57 76	premenopausal women
+T2	p 436 441	women
+T3	p 542 585	36 premenopausal women , 20 of whom used OC
+T4	p 1438 1454	premenopausal OC
+T5	p 1458 1470	non-OC users
+T6	i 17 20	soy
+T7	i 118 121	soy
+T8	i 243 246	soy
+T9	i 535 538	soy
+T10	i 661 673	soy beverage
+T11	i 971 974	soy
+T12	i 1310 1313	soy
+T13	o 31 53	sex hormone metabolism
+T14	o 300 322	sex hormone metabolism
+T15	o 831 965	serum estrone , estradiol , sex hormone-binding globulin , dehydroepiandrosterone sulfate , prolactin , or progesterone concentrations
+T16	o 1029 1139	menstrual cycle length or the urinary estrogen metabolite ratio of 2-hydroxyestrone to 16 alpha-hydroxyestrone
+T17	o 1209 1237	urinary estrogen metabolites
+T18	o 1359 1434	menstrual cycle , serum sex hormones , or urinary estrogen metabolite ratio

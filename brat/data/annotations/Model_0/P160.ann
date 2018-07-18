@@ -1,0 +1,9 @@
+T1	p 230 257	31 adult asthmatic patients
+T2	i 46 87	sodium cromoglycate pressurized aerosol :
+T3	i 205 212	placebo
+T4	i 347 354	placebo
+T5	i 811 869	bronchodilators ( theophylline and aerosol beta-stimulants
+T6	i 975 984	placebo .
+T7	i 1053 1105	sodium cromoglycate delivered by pressurized aerosol
+T8	i 1136 1143	placebo
+T9	o 538 577	morning peak expiratory flow rate value

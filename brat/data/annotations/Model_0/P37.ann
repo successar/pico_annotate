@@ -1,0 +1,7 @@
+T1	p 765 870	Thirty-four consecutive patients were randomly assigned to the GCA ( 18 patients ) or EPA ( 16 patients )
+T2	i 319 352	CS ) cannulation . CS cannulation
+T3	i 382 463	dedicated guiding catheters ( guiding catheter alone positioning strategy , GCA )
+T4	i 728 756	conventional GCA technique .
+T5	i 871 896	CS cannulation strategy .
+T6	o 905 945	Time to successful catheterization of CS
+T7	o 1415 1473	procedural time , fluoroscopy time and contrast dye volume

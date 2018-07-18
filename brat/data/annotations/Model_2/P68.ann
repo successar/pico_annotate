@@ -1,0 +1,44 @@
+T1	p 154 193	after total knee arthroplasty ( TKA ) .
+T2	p 570 571	.
+T3	p 895 1011	61 ASA physical status I-III patients scheduled for elective unilateral total knee arthroplasty ( TKA ) under spinal
+T4	p 1043 1048	. The
+T5	p 1726 1738	the hospital
+T6	i 22 102	continuous femoral nerve block ( CFNB ) and continuous epidural infusion ( CEI )
+T7	i 134 138	knee
+T8	i 205 276	Postoperative epidural analgesia ( EA ) and femoral nerve block ( FNB )
+T9	i 318 320	EA
+T10	i 492 493	.
+T11	i 614 684	epidural infusion ( CEI ) with continuous femoral nerve block ( CFNB )
+T12	i 895 901	61 ASA
+T13	i 1005 1029	spinal anesthesia ( SA )
+T14	i 1125 1132	( CEI )
+T15	i 1152 1162	continuous
+T16	i 1175 1198	0.125 % levobupivacaine
+T17	i 1204 1225	morphine 0.0125 mg/ml
+T18	i 1236 1237	)
+T19	i 1249 1257	( CFNB )
+T20	i 1277 1300	0.125 % levobupivacaine
+T21	i 1303 1304	8
+T22	i 1339 1343	CFNB
+T23	i 1384 1392	tramadol
+T24	i 1444 1447	CEI
+T25	i 1668 1672	CFNB
+T26	i 1775 1779	CFNB
+T27	o 47 59	block ( CFNB
+T28	o 106 129	postoperative analgesia
+T29	o 249 270	femoral nerve block (
+T30	o 286 307	effective pain relief
+T31	o 353 413	nausea , vomiting , pruritus , dizziness , and hypotension .
+T32	o 456 463	effects
+T33	o 477 480	FNB
+T34	o 670 677	block (
+T35	o 699 748	postoperative analgesic efficacy , side effects ,
+T36	o 789 822	hospital length of stay ( LOS ) .
+T37	o 1356 1369	VAS scores at
+T38	o 1460 1461	:
+T39	o 1553 1584	dizziness , pruritus , and PONV
+T40	o 1626 1646	Patient satisfaction
+T41	o 1730 1742	hospital LOS
+T42	o 1824 1836	side effects
+T43	o 1849 1873	patient , satisfaction .
+T44	o 1905 1930	duration of hospital stay

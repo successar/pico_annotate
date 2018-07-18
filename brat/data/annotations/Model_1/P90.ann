@@ -1,0 +1,9 @@
+T1	p 70 117	preferred step frequency during human walking .
+T2	p 782 799	treadmill walking
+T3	p 862 904	human step frequency adjustments ( n = 7 )
+T4	p 1646 1656	humans may
+T5	i 765 799	perturbations to treadmill walking
+T6	i 831 847	step frequency .
+T7	i 1389 1427	unusual closed-loop perturbations that
+T8	o 862 894	human step frequency adjustments
+T9	o 1130 1152	smaller amplitude ( 35

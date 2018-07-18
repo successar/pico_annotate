@@ -1,0 +1,15 @@
+T1	p 75 90	the 60-year-old
+T2	p 245 308	older adults ( 60 ( SE 1 ) years ; BMI 26 ( SE 1 ) kg/m ( 2 ) )
+T3	p 1414 1434	60-year-old subjects
+T4	i 6 33	Antioxidant supplementation
+T5	i 106 116	antipyrine
+T6	i 159 186	antioxidant supplementation
+T7	i 395 422	dl-alpha-tocopheryl acetate
+T8	i 432 445	ascorbic acid
+T9	i 457 470	beta-carotene
+T10	i 477 484	placebo
+T11	i 637 647	Antipyrine
+T12	i 1435 1462	antioxidant supplementation
+T13	o 1215 1262	para- and ortho-hydroxyantipyrine to antipyrine
+T14	o 1343 1392	thiobarbituric acid reactive substances in plasma
+T15	o 1545 1580	free radical products of antipyrine

@@ -1,0 +1,40 @@
+T1	p 38 109	cardiac transplantation in infants with single-ventricle lesions : risk
+T2	p 265 305	infants undergoing the Norwood procedure
+T3	p 521 536	transplantation
+T4	p 539 562	cardiac transplantation
+T5	p 711 765	Data from 549 subjects ( follow-up , 2.7 ? 0.9 years )
+T6	p 1464 1471	preterm
+T7	p 1926 1953	infants with aortic atresia
+T8	p 1964 2111	from a right ventricle-to-pulmonary artery shunt , and preterm infants with a patent aortic valve benefited from a modified Blalock-Taussig shunt .
+T9	i 288 295	Norwood
+T10	i 381 402	Blalock-Taussig shunt
+T11	i 414 436	ventricle-to-pulmonary
+T12	i 586 603	transplantation .
+T13	i 615 655	time-to-event modeling and bootstrapping
+T14	i 1240 1262	ventricle-to-pulmonary
+T15	i 1396 1411	Blalock-Taussig
+T16	i 2088 2109	Blalock-Taussig shunt
+T17	o 6 33	Intermediate-term mortality
+T18	o 38 45	cardiac
+T19	o 228 233	death
+T20	o 397 402	shunt
+T21	o 507 512	death
+T22	o 569 577	survival
+T23	o 782 796	Mortality risk
+T24	o 959 979	socioeconomic status
+T25	o 1005 1028	pulmonary venous return
+T26	o 1052 1067	ascending aorta
+T27	o 1103 1104	.
+T28	o 1144 1149	death
+T29	o 1159 1175	genetic syndrome
+T30	o 1199 1214	gestational age
+T31	o 1234 1304	right ventricle-to-pulmonary artery shunt demonstrated better survival
+T32	o 1387 1421	modified Blalock-Taussig shunt was
+T33	o 1514 1651	Lower pre-Norwood right ventricular fractional area change , pre-Norwood surgery , and anatomy other than hypoplastic left heart syndrome
+T34	o 1725 1735	shunt type
+T35	o 1799 1826	intermediate-term mortality
+T36	o 1835 1925	lower socioeconomic status , anatomy , genetic syndrome , and lower gestational age . Term
+T37	o 1977 1999	ventricle-to-pulmonary
+T38	o 2007 2012	shunt
+T39	o 2112 2138	Right ventricular function
+T40	o 2161 2166	shunt

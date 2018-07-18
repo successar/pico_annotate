@@ -1,0 +1,24 @@
+T1	p 82 93	cannulation
+T2	p 101 114	biventricular
+T3	p 765 896	Thirty-four consecutive patients were randomly assigned to the GCA ( 18 patients ) or EPA ( 16 patients ) CS cannulation strategy .
+T4	i 45 55	techniques
+T5	i 59 194	achieve coronary sinus cannulation during biventricular implantation procedures . INTRODUCTION Biventricular pacing system implantation
+T6	i 262 298	biventricular pacemaker implantation
+T7	i 324 352	cannulation . CS cannulation
+T8	i 400 409	catheters
+T9	i 435 455	positioning strategy
+T10	i 458 461	GCA
+T11	i 657 670	EPA technique
+T12	i 694 708	CS cannulation
+T13	i 728 754	conventional GCA technique
+T14	i 828 836	GCA ( 18
+T15	i 848 859	or EPA ( 16
+T16	i 869 896	) CS cannulation strategy .
+T17	i 1295 1306	Cannulation
+T18	i 1310 1312	CS
+T19	o 76 81	sinus
+T20	o 694 713	CS cannulation time
+T21	o 905 945	Time to successful catheterization of CS
+T22	o 1036 1052	Fluoroscopy time
+T23	o 1142 1202	Total contrast dye volume to search and engage the CS ostium
+T24	o 1415 1473	procedural time , fluoroscopy time and contrast dye volume

@@ -1,0 +1,15 @@
+T1	p 60 88	temporomandibular joint pain
+T2	p 257 292	Twenty subjects , who have TMJ pain
+T3	i 16 42	indomethacin phonophoresis
+T4	i 120 146	indomethacin phonophoresis
+T5	i 221 239	placebo-controlled
+T6	i 624 636	indomethacin
+T7	i 683 690	placebo
+T8	i 1096 1122	indomethacin phonophoresis
+T9	o 95 109	pain-relieving
+T10	o 758 790	pain levels and pain sensitivity
+T11	o 810 840	visual analogue scales ( VAS )
+T12	o 845 876	pressure pain threshold ( PPT )
+T13	o 904 922	post-treatment VAS
+T14	o 955 973	post-treatment PPT
+T15	o 1144 1148	pain

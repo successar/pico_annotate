@@ -1,0 +1,24 @@
+T1	p 203 219	mental disorders
+T2	p 223 230	primary
+T3	p 314 368	patients with Posttraumatic stress disorder ( PTSD ) .
+T4	p 490 504	primary care .
+T5	p 575 743	PTSD patients were recruited from five primary care clinics at four Veterans Affairs healthcare facilities and randomized to receive usual care or usual care plus 3CM .
+T6	p 772 1017	data at baseline and 3-month and 6-month follow-up . PARTICIPANTS Participants were 195 Veterans . Their average age was 45 years , 91 % were male , 58 % were white , 40 % served in Iraq or Afghanistan , and 42 % served in Vietnam . INTERVENTION
+T7	p 1022 1069	participants received usual care . Participants
+T8	p 1605 1621	3CM participants
+T9	i 6 43	RESPECT-PTSD : re-engineering systems
+T10	i 137 155	collaborative care
+T11	i 278 296	collaborative care
+T12	i 392 472	collaborative approach , the Three Component Model ( 3CM ) , with usual care for
+T13	i 708 741	usual care or usual care plus 3CM
+T14	i 1044 1056	usual care .
+T15	i 1082 1189	3CM also received telephone care management . Care managers received supervision from a psychiatrist . MAIN
+T16	i 1532 1559	antidepressant prescription
+T17	i 1580 1602	antidepressant refills
+T18	i 1773 1798	collaborative care models
+T19	o 1199 1220	PTSD symptom severity
+T20	o 1245 1330	. Depression , functioning , perceived quality of care , utilization , and costs were
+T21	o 1420 1428	symptoms
+T22	o 1432 1443	functioning
+T23	o 1580 1602	antidepressant refills
+T24	o 1631 1695	more mental health visits and higher outpatient pharmacy costs .

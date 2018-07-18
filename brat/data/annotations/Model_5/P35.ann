@@ -1,0 +1,25 @@
+T1	p 318 382	patients on continuous ambulatory peritoneal dialysis ( CAPD ) .
+T2	p 409 529	24 CAPD patients with LVH [ left ventricular mass index ( LVMi ) > 110 g/m2 for women and LVMi > 137 g/m2 for men ] were
+T3	p 1310 1337	patients treated with ARB .
+T4	p 1342 1346	LVMi
+T5	p 1623 1627	LVMi
+T6	i 8 61	selective angiotensin receptor antagonist , Valsartan
+T7	i 194 243	selective angiotensin II receptor blocker ( ARB )
+T8	i 467 471	LVMi
+T9	i 499 503	LVMi
+T10	i 574 624	either the ARB valsartan ( n = 14 ) or a placebo (
+T11	i 653 668	pressure ( BP )
+T12	i 1332 1335	ARB
+T13	i 1342 1346	LVMi
+T14	i 1398 1401	ARB
+T15	i 1461 1468	placebo
+T16	i 1611 1614	ARB
+T17	o 640 668	target blood pressure ( BP )
+T18	o 787 979	aortic and large-artery compliance and arterial wave reflections [ pulse wave velocity ( PWV ) and augmentation index ( AI ) application tonometry ] and cardiac echocardiography . Periodically
+T19	o 994 1171	body weight , BP ( mercury sphygmomanometer ) , serum creatinine , electrolytes , complete blood cell counts , urine volume , drainage volume , and weekly creatinine clearance .
+T20	o 1263 1288	Systolic and diastolic BP
+T21	o 1342 1346	LVMi
+T22	o 1530 1534	LVMi
+T23	o 1570 1582	PWV and AI .
+T24	o 1623 1627	LVMi
+T25	o 1672 1684	hemodynamics

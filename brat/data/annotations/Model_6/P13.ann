@@ -1,0 +1,13 @@
+T1	p 206 227	10 healthy subjects .
+T2	i 38 54	garlic and onion
+T3	i 106 122	garlic and onion
+T4	i 177 183	butter
+T5	i 250 255	juice
+T6	i 259 261	50
+T7	i 267 284	garlic or onion ,
+T8	i 745 751	garlic
+T9	i 756 761	onion
+T10	i 823 829	garlic
+T11	o 482 488	action
+T12	o 497 508	fat-induced
+T13	o 519 623	in serum cholesterol and plasma fibrinogen and decreases in coagulation time and fibrinolytic activity .

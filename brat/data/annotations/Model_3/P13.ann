@@ -1,0 +1,10 @@
+T1	p 206 227	10 healthy subjects .
+T2	i 38 54	garlic and onion
+T3	i 106 122	garlic and onion
+T4	i 163 183	feeding 100 g butter
+T5	i 267 284	garlic or onion ,
+T6	i 435 451	Garlic and onion
+T7	i 745 751	garlic
+T8	i 823 839	garlic and onion
+T9	o 522 561	serum cholesterol and plasma fibrinogen
+T10	o 579 623	coagulation time and fibrinolytic activity .

@@ -1,0 +1,24 @@
+T1	p 81 130	children and adolescents with autistic disorder .
+T2	p 282 332	children and adolescents with autistic disorders .
+T3	p 396 511	) study , patients ( 5-17 years of age , who completed the previous fixed-dose , 6 week , double-blind [ DB ] phase
+T4	p 805 851	Fifty-six ( 71 % ) out of 79 enrolled patients
+T5	i 66 77	risperidone
+T6	i 220 231	risperidone
+T7	i 539 550	risperidone
+T8	i 724 735	risperidone
+T9	i 1584 1595	risperidone
+T10	i 1820 1841	risperidone treatment
+T11	i 2000 2011	risperidone
+T12	o 739 756	safety ; efficacy
+T13	o 953 974	adverse events ( AE )
+T14	o 1065 1073	appetite
+T15	o 1103 1122	weight and vomiting
+T16	o 1146 1204	sedation , pyrexia , and upper respiratory tract infection
+T17	o 1266 1288	somnolence and fatigue
+T18	o 1312 1330	Extrapyramidal AEs
+T19	o 1381 1392	mean weight
+T20	o 1409 1424	body mass index
+T21	o 1505 1564	potentially prolactin-related AE ( irregular menstruation )
+T22	o 1649 1674	sleep visual analog scale
+T23	o 1730 1751	efficacy scale scores
+T24	o 2119 2153	irritability and related behaviors

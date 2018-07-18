@@ -1,0 +1,37 @@
+T1	p 30 39	high risk
+T2	p 90 123	for metastatic breast cancer with
+T3	p 401 449	patients with metastatic breast cancer ( MBC ) .
+T4	p 630 639	MBC ( n =
+T5	p 777 796	ie , > or =grade II
+T6	p 865 875	documented
+T7	p 886 887	.
+T8	p 1254 1270	poor performance
+T9	p 1421 1426	age .
+T10	p 1443 1448	score
+T11	p 1454 1467	> or =25 to <
+T12	p 1593 1601	Patients
+T13	p 1607 1608	a
+T14	p 1863 1881	those MBC patients
+T15	i 124 172	doxorubicin or pegylated liposomal doxorubicin :
+T16	i 305 306	)
+T17	i 314 396	chemotherapy with doxorubicin ( DOX ) or a pegylated liposomal formulation ( PLD )
+T18	i 524 527	DOX
+T19	i 540 541	2
+T20	i 552 568	weeks ) or PLD (
+T21	i 579 580	2
+T22	i 765 776	) cells/L (
+T23	i 787 798	=grade II )
+T24	i 1138 1145	scoring
+T25	i 1325 1334	) cells/L
+T26	i 1378 1407	chemotherapy , DOX versus PLD
+T27	i 1770 1859	by targeting preventative therapies ( eg , granulocyte colony stimulating factor or PLD )
+T28	i 1918 1952	anthracycline-based chemotherapy .
+T29	o 44 55	neutropenic
+T30	o 286 299	complications
+T31	o 720 745	absolute neutrophil count
+T32	o 823 845	febrile neutropenia or
+T33	o 1259 1305	performance status , absolute neutrophil count
+T34	o 1429 1448	precycle risk score
+T35	o 1541 1552	sensitivity
+T36	o 1568 1579	specificity
+T37	o 1844 1850	factor

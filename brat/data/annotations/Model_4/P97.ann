@@ -1,0 +1,13 @@
+T1	p 371 394	Male students ( N=443 )
+T2	i 52 60	extended
+T3	i 78 83	model
+T4	i 321 343	self-examination ; TSE
+T5	i 421 503	a TC or TC +TSE information group or a no information control group , and assessed
+T6	i 525 526	.
+T7	i 592 598	TC+TSE
+T8	i 701 712	denigration
+T9	i 781 784	TSE
+T10	o 527 541	Anxiety levels
+T11	o 619 682	perceived message benefit , increased intention to self-examine
+T12	o 729 731	TC
+T13	o 809 854	acceptance of disease awareness information .

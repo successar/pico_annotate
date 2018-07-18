@@ -1,0 +1,13 @@
+T1	p 6 46	Recurrent epithelial ovarian carcinoma :
+T2	p 233 360	patients with epithelial ovarian carcinoma that recurred after or did n't respond to first-line , platinum-based chemotherapy .
+T3	p 382 429	Patients with measurable and assessable disease
+T4	p 710 826	A total of 474 patients were treated ( 239 PLD and 235 topotecan ) . They comprised the intent-to-treat population .
+T5	i 79 110	pegylated liposomal doxorubicin
+T6	i 176 207	pegylated liposomal doxorubicin
+T7	o 153 172	efficacy and safety
+T8	o 831 870	overall progression-free survival rates
+T9	o 923 945	overall response rates
+T10	o 1020 1049	Median overall survival times
+T11	o 1210 1235	progression-free survival
+T12	o 1317 1339	overall survival , PLD
+T13	o 1576 1596	hematologic toxicity

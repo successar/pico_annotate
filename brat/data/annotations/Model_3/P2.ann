@@ -1,0 +1,21 @@
+T1	p 90 154	healthy volunteers and in patients with primary hypothyroidism .
+T2	p 385 388	man
+T3	p 474 564	8 healthy volunteers , and 6 women with untreated primary hypothyroidism , a disease state
+T4	p 1932 1953	patients with primary
+T5	i 18 45	somatostatin ( octreotide )
+T6	i 155 167	Somatostatin
+T7	i 321 333	somatostatin
+T8	i 719 753	saline or octreotide ( Sandostatin
+T9	i 842 852	octreotide
+T10	i 1126 1136	octreotide
+T11	i 1173 1183	octreotide
+T12	i 1510 1520	octreotide
+T13	i 1557 1567	octreotide
+T14	i 1655 1665	octreotide
+T15	i 1787 1799	somatostatin
+T16	i 1818 1828	octreotide
+T17	i 2014 2026	somatostatin
+T18	o 947 964	urinary excretion
+T19	o 1046 1058	GH secretion
+T20	o 1353 1370	Urinary excretion
+T21	o 1436 1468	total nocturnal secretion of TSH

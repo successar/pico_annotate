@@ -1,0 +1,9 @@
+T1	p 51 105	elective appendectomy in renal transplant recipients .
+T2	p 160 207	four of 75 children after renal transplantation
+T3	p 823 849	immunocompromised patients
+T4	i 354 375	elective appendectomy
+T5	i 497 508	antibiotics
+T6	o 783 819	occurrence of bacteroides bacteremia
+T7	o 883 894	Lymphocytes
+T8	o 963 978	lymphocytopenia
+T9	o 1020 1049	deficiency in host defenses .

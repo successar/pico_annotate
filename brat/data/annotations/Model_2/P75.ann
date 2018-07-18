@@ -1,0 +1,22 @@
+T1	p 90 153	chemo-na?ve patients with advanced non-small cell lung cancer .
+T2	p 293 345	in chemo-na?ve non-small cell lung cancer patients .
+T3	p 354 425	Patients with chemo-na?ve stage IIIB/IV non-small cell lung cancer were
+T4	p 685 720	of 80 patients were entered in this
+T5	p 1311 1348	advanced non-small cell lung cancer .
+T6	i 49 86	schedules of gemcitabine and oral S-1
+T7	i 250 283	schedules of gemcitabine combined
+T8	i 289 292	S-1
+T9	i 483 491	oral S-1
+T10	i 497 503	mg/m/d
+T11	i 535 570	14 with gemcitabine ( 1000 mg/m/d )
+T12	i 595 599	) or
+T13	i 1228 1254	combination of gemcitabine
+T14	o 208 227	efficacy and safety
+T15	o 769 784	response rate .
+T16	o 789 803	response rates
+T17	o 875 899	Median time to treatment
+T18	o 958 984	Median time to progression
+T19	o 1035 1055	Median survival time
+T20	o 1128 1144	toxicity profile
+T21	o 1284 1292	feasible
+T22	o 1409 1440	response rate and survival data

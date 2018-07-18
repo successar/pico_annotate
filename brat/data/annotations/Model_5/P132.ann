@@ -1,0 +1,21 @@
+T1	p 25 62	childhood autism spectrum disorders .
+T2	p 110 142	autism spectrum disorder ( ASD )
+T3	p 490 576	caregiver time in children aged 3 to 17 years , with and without parent-reported ASD .
+T4	p 687 827	age , race/ethnicity , insurance status , household income , country region and urban/rural classification , and non-ASD-related illnesses .
+T5	p 836 873	Children with parent-reported ASD had
+T6	i 427 446	ASD-related therapy
+T7	i 1055 1066	educational
+T8	o 110 116	autism
+T9	o 126 134	disorder
+T10	o 143 207	diagnoses and service use , caregiver time , and cost outcomes .
+T11	o 378 389	utilization
+T12	o 394 399	costs
+T13	o 635 726	diagnosis and cost , controlling for child gender , age , race/ethnicity , insurance status
+T14	o 729 827	household income , country region and urban/rural classification , and non-ASD-related illnesses .
+T15	o 874 942	higher levels of health care office visits and prescription drug use
+T16	o 1002 1012	proportion
+T17	o 1055 1075	educational services
+T18	o 1306 1323	health care costs
+T19	o 1385 1406	non-health care costs
+T20	o 1471 1478	costs .
+T21	o 1575 1645	higher out-of-pocket costs or spend more time on caregiving activities

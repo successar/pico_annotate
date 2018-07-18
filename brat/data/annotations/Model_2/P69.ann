@@ -1,0 +1,20 @@
+T1	p 133 134	.
+T2	p 205 243	patients with atrial fibrillation ( AF
+T3	p 689 711	( 44 countries ) trial
+T4	p 715 763	patients with nonvalvular AF and at least 1 risk
+T5	p 813 857	total of 18,113 patients . Patients who were
+T6	p 1374 1383	and naive
+T7	i 63 105	long-term anticoagulant therapy , warfarin
+T8	i 122 165	dabigatran . Vitamin K antagonists ( VKAs )
+T9	i 273 296	Dabigatran etexilate is
+T10	i 373 385	dabigatran .
+T11	i 416 439	dose without laboratory
+T12	i 478 488	warfarin (
+T13	i 560 572	dabigatran (
+T14	i 616 621	RE-LY
+T15	i 1430 1440	dabigatran
+T16	o 239 243	( AF
+T17	o 965 1017	hemorrhagic ) or systemic embolism . Safety outcomes
+T18	o 1022 1090	bleeding , liver function abnormalities , and other adverse events .
+T19	o 1358 1373	VKA-experienced
+T20	o 1560 1571	stroke risk

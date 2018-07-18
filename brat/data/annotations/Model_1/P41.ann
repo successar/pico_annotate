@@ -1,0 +1,16 @@
+T1	p 41 64	flexible nasendoscopy :
+T2	p 137 150	across the UK
+T3	p 272 362	98 patients to receive cophenylcaine or placebo nasal spray before flexible nasendoscopy .
+T4	p 1020 1050	before flexible nasendoscopy .
+T5	i 6 19	Cophenylcaine
+T6	i 30 37	placebo
+T7	i 295 331	cophenylcaine or placebo nasal spray
+T8	i 744 757	cophenylcaine
+T9	i 967 980	cophenylcaine
+T10	o 416 483	pain , unpleasantness of taste and overall discomfort experienced .
+T11	o 536 555	pain and discomfort
+T12	o 612 638	pain or overall discomfort
+T13	o 690 712	sensation of bad taste
+T14	o 816 838	overall unpleasantness
+T15	o 872 888	pain experienced
+T16	o 905 930	unpleasantness of taste .

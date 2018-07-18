@@ -1,0 +1,20 @@
+T1	p 557 563	3D-CTA
+T2	i 25 40	contrast agents
+T3	i 54 60	iodine
+T4	i 223 225	CT
+T5	i 275 294	computed tomography
+T6	i 297 301	CT )
+T7	i 540 554	CT angiography
+T8	i 574 611	multidetector-row CT ( MDCT ) scanner
+T9	i 644 791	100 ml of iopamidol 300 at an injection rate of 3.0 ml/s , 100 ml of iopamidol 300 at an injection rate of 3.7 ml/s , and 80 ml of iopamidol 370 at
+T10	i 795 804	injection
+T11	i 813 823	3.0 ml/s .
+T12	i 1292 1298	iodine
+T13	i 1340 1351	concentrate
+T14	o 174 187	arteriovenous
+T15	o 863 884	Attenuation values of
+T16	o 889 931	bilateral internal carotid arteries ( ICAs
+T17	o 936 956	basilar artery trunk
+T18	o 1185 1242	iodine-delivery rate achieved good arteriovenous contrast
+T19	o 1375 1380	value
+T20	o 1475 1530	ICA attenuation without intracavernous attenuation gain

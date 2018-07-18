@@ -1,0 +1,11 @@
+T1	p 61 107	outpatients with a major depressive disorder .
+T2	i 33 57	doxepin versus bupropion
+T3	i 165 185	bupropion to doxepin
+T4	i 698 714	bupropion mainly
+T5	i 824 843	bupropion . Doxepin
+T6	i 990 1001	bupropion .
+T7	i 1096 1107	bupropion .
+T8	o 251 282	efficacy and safety differences
+T9	o 461 616	Hamilton Depression and Anxiety Scales , Clinical Global Severity and Improvement Ratings , and the Zung Self-Rating Depression Scale . Comparable efficacy
+T10	o 863 954	incidence of anticholinergic side effects , including dry mouth , constipation , sleepiness
+T11	o 1019 1043	appetite and weight gain

@@ -1,0 +1,20 @@
+T1	p 231 252	heart valve surgery .
+T2	p 652 826	90 patients who had aortic , mitral , and/or tricuspid valve replacement with Sorin Bicarbon or CarboMedics bileaflet prostheses . Fifty percent of the patients in each group
+T3	i 54 64	prostheses
+T4	i 77 133	different intraoperative valve orientation . Fluoroscopy
+T5	i 267 278	orientation
+T6	i 292 302	prosthesis
+T7	i 490 522	intraoperative valve orientation
+T8	i 602 624	bileaflet prostheses .
+T9	i 707 712	valve
+T10	i 730 782	Sorin Bicarbon or CarboMedics bileaflet prostheses .
+T11	i 861 883	prostheses oriented in
+T12	i 1646 1668	Prosthesis orientation
+T13	o 533 544	feasibility
+T14	o 549 557	accuracy
+T15	o 1086 1112	's hemodynamic performance
+T16	o 1163 1175	fluoroscopic
+T17	o 1588 1611	hemodynamic performance
+T18	o 1691 1706	rate of success
+T19	o 1714 1739	fluoroscopic evaluation .
+T20	o 1820 1858	postoperative feasibility and accuracy

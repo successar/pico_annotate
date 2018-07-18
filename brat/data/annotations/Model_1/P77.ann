@@ -1,0 +1,27 @@
+T1	p 57 86	endobronchial tumor lesions .
+T2	p 665 795	296 patients with visible endoluminal tumor lesions were included in the study at the bronchoscopy unit of a university hospital .
+T3	i 6 22	Cryoprobe biopsy
+T4	i 97 111	Forceps biopsy
+T5	i 215 251	forceps biopsy with cytology methods
+T6	i 309 318	cryoprobe
+T7	i 600 610	cryobiopsy
+T8	i 615 631	forceps biopsy .
+T9	i 862 891	forceps biopsy and cryobiopsy
+T10	i 1119 1131	cryobiopsy .
+T11	i 1268 1278	cryobiopsy
+T12	i 1293 1307	forceps biopsy
+T13	i 1476 1486	cryobiopsy
+T14	i 1501 1515	forceps biopsy
+T15	i 1564 1574	cryobiopsy
+T16	i 1747 1757	Cryobiopsy
+T17	o 1060 1087	safety and diagnostic yield
+T18	o 1247 1263	diagnostic yield
+T19	o 1268 1278	cryobiopsy
+T20	o 1433 1471	size and artifact-free tissue sections
+T21	o 1544 1560	diagnostic yield
+T22	o 1588 1601	Mild bleeding
+T23	o 1635 1652	moderate bleeding
+T24	o 1689 1704	severe bleeding
+T25	o 1761 1765	safe
+T26	o 1784 1800	diagnostic yield
+T27	o 1853 1861	feasible

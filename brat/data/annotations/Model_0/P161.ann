@@ -1,0 +1,8 @@
+T1	p 133 150	middle aged men .
+T2	p 225 275	ischaemic heart disease 31 healthy middle aged men
+T3	p 1200 1223	healthy middle aged men
+T4	i 17 39	mild physical exercise
+T5	i 175 192	physical exercise
+T6	o 663 789	tendency towards increased plasma 6-keto-prostaglandin F1 alpha concentration and decreased serum thromboxane B2 concentration
+T7	o 913 963	plasma 6-keto-prostaglandin F1 alpha concentration
+T8	o 999 1035	serum HDL2 cholesterol concentration

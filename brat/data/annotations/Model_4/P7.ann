@@ -1,0 +1,27 @@
+T1	p 75 82	surgery
+T2	p 177 250	patients who underwent hysterectomy . METHODS Forty patients were divided
+T3	p 256 276	four groups of ten .
+T4	p 444 459	patients served
+T5	i 6 26	Intrathecal morphine
+T6	i 108 116	morphine
+T7	i 200 212	hysterectomy
+T8	i 297 372	intrathecal 0.5 mg morphine ( Group IT0.5 ) , intrathecal 0.1 mg morphine (
+T9	i 393 410	mg morphine i.v .
+T10	i 485 526	inhalation anesthesia alone ( Group C ) .
+T11	i 677 685	chromium
+T12	i 1519 1530	intrathecal
+T13	i 1538 1546	morphine
+T14	o 6 54	Intrathecal morphine suppresses NK cell activity
+T15	o 120 155	natural killer ( NK ) cell activity
+T16	o 527 532	Blood
+T17	o 646 674	blood NK cell activity using
+T18	o 677 693	chromium release
+T19	o 729 818	plasma catecholamines and cortisol levels . The postoperative pain score and side effects
+T20	o 882 898	NK cell activity
+T21	o 912 925	postoperative
+T22	o 1078 1100	the NK cell activities
+T23	o 1162 1220	plasma adrenaline nor noradrenaline concentrations changed
+T24	o 1248 1270	plasma cortisol levels
+T25	o 1329 1343	The pain score
+T26	o 1498 1515	analgesic effects
+T27	o 1560 1575	immune response

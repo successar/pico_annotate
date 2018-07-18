@@ -1,0 +1,16 @@
+T1	p 59 67	myositis
+T2	p 216 259	44 patients with inclusion body myositis in
+T3	i 90 115	methotrexate or placebo .
+T4	i 154 182	week oral methotrexate could
+T5	i 286 304	placebo-controlled
+T6	i 525 537	methotrexate
+T7	i 553 560	placebo
+T8	i 840 852	methotrexate
+T9	i 883 895	methotrexate
+T10	o 20 28	weakness
+T11	o 339 389	of quantitative muscle strength testing sum scores
+T12	o 430 477	Quantitative muscle strength testing sum scores
+T13	o 660 747	manual muscle testing sum scores , activity scale scores and patients ' own assessments
+T14	o 778 808	Serum creatine kinase activity
+T15	o 929 944	muscle weakness
+T16	o 959 991	serum creatine kinase activity .

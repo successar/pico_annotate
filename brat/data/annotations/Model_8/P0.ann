@@ -1,0 +1,30 @@
+T1	p 83 111	seasonal allergic rhinitis .
+T2	p 264 300	seasonal allergic rhinitis ( SAR ) .
+T3	p 504 661	Private practices and hospital clinics in Ontario , Quebec and Manitoba . POPULATION Two hundred and eighty-four out-patients with SAR , who were symptomatic
+T4	p 681 715	season , volunteered for enrolment
+T5	p 718 721	243
+T6	p 918 922	more
+T7	p 1594 1599	SAR .
+T8	i 20 62	budesonide Turbuhaler with budesonide aqua
+T9	i 171 181	budesonide
+T10	i 297 298	)
+T11	i 987 997	budesonide
+T12	i 1172 1182	unpleasant
+T13	i 1238 1243	spray
+T14	i 1289 1299	Turbuhaler
+T15	i 1307 1317	aqua spray
+T16	i 1486 1508	of budesonide aqua and
+T17	i 1516 1540	of budesonide Turbuhaler
+T18	i 1594 1597	SAR
+T19	i 1623 1652	budesonide powder formulation
+T20	i 1667 1677	Turbuhaler
+T21	o 83 100	seasonal allergic
+T22	o 264 281	seasonal allergic
+T23	o 389 404	quality of life
+T24	o 745 776	Mean daily nasal symptom scores
+T25	o 1026 1050	non-nasal adverse events
+T26	o 1072 1085	epistaxis and
+T27	o 1172 1182	unpleasant
+T28	o 1202 1223	less nasal irritation
+T29	o 1341 1371	Improvement in quality of life
+T30	o 1553 1573	safe and efficacious

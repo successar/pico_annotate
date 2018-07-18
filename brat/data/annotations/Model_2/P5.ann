@@ -1,0 +1,29 @@
+T1	p 66 102	patients with rheumatoid arthritis :
+T2	p 138 146	nomogram
+T3	p 236 275	patients with rheumatoid arthritis ( RA
+T4	p 487 499	nomogram for
+T5	p 556 591	38 patients with RA and 20 controls
+T6	p 681 694	RA patients (
+T7	p 754 758	RA .
+T8	p 830 843	140 - age ) x
+T9	p 877 895	0.85 for females ]
+T10	i 117 120	six
+T11	i 350 351	)
+T12	i 518 522	Clcr
+T13	i 545 552	( Scr )
+T14	i 807 816	Cockcroft
+T15	i 862 874	72 x Scr ) ,
+T16	i 947 948	.
+T17	i 959 975	Cockroft formula
+T18	i 1008 1012	Clcr
+T19	i 1018 1023	Scr .
+T20	o 20 51	creatinine clearance from serum
+T21	o 138 146	nomogram
+T22	o 167 193	glomerular filtration rate
+T23	o 322 349	creatinine clearance ( Clcr
+T24	o 453 461	accuracy
+T25	o 487 495	nomogram
+T26	o 518 546	Clcr from serum creatinine (
+T27	o 817 818	[
+T28	o 844 848	body
+T29	o 947 948	.

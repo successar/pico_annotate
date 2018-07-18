@@ -1,0 +1,21 @@
+T1	p 121 131	melanoma .
+T2	p 140 323	Nearly 2000 patients with stage IIB and III melanoma have participated in four multicenter , randomized trials , conducted by the Eastern Cooperative Oncology Group and the Intergroup
+T3	p 709 756	patients in E1684 , E1690 , E1694 , and E2696 .
+T4	p 837 860	713 patients randomized
+T5	p 1776 1817	patients with high-risk resected melanoma
+T6	i 87 116	adjuvant high-dose interferon
+T7	i 340 381	adjuvant high-dose IFN-alpha 2b therapy .
+T8	i 864 901	high-dose IFN-alpha 2b ( HDI ) or Obs
+T9	i 1353 1356	HDI
+T10	i 1364 1369	Obs .
+T11	i 1669 1672	HDI
+T12	i 1680 1683	Obs
+T13	i 1820 1823	HDI
+T14	o 1196 1230	relapse-free survival ( RFS ) -but
+T15	o 1235 1263	overall survival ( OS ) -was
+T16	o 1449 1452	RFS
+T17	o 1457 1459	OS
+T18	o 1654 1657	RFS
+T19	o 1722 1724	OS
+T20	o 1888 1891	RFS
+T21	o 1933 1935	OS

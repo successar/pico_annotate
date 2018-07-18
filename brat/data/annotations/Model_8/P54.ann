@@ -1,0 +1,40 @@
+T1	p 262 297	individuals > or =60 years of age .
+T2	p 413 414	)
+T3	p 464 533	frozen ) in subjects > or =50 years of age . Subjects with a negative
+T4	p 565 568	1:1
+T5	p 639 687	1:2 by age ( 50 to 59 years and > or =60 years )
+T6	p 1124 1127	n =
+T7	p 1138 1150	frozen ( n =
+T8	i 98 129	refrigerator-stable formulation
+T9	i 133 143	Zostavax .
+T10	i 148 164	vaccine Zostavax
+T11	i 357 414	refrigerator-stable formulation ( Zostavax refrigerated )
+T12	i 441 472	formulation ( Zostavax frozen )
+T13	i 739 765	. Varicella-zoster virus (
+T14	i 810 856	glycoprotein enzyme-linked immunosorbent assay
+T15	i 859 866	gpELISA
+T16	i 998 999	;
+T17	i 1109 1121	refrigerated
+T18	i 1138 1144	frozen
+T19	i 1284 1314	formulation/frozen formulation
+T20	i 1905 1913	Zostavax
+T21	o 72 86	immunogenicity
+T22	o 210 211	)
+T23	o 322 328	safety
+T24	o 337 351	immunogenicity
+T25	o 690 696	Safety
+T26	o 723 763	postvaccination . Varicella-zoster virus
+T27	o 766 790	VZV ) antibody responses
+T28	o 810 850	glycoprotein enzyme-linked immunosorbent
+T29	o 902 943	VZV antibody geometric mean titer ( GMT ;
+T30	o 959 997	VZV antibody geometric mean rise ( GMR
+T31	o 1025 1089	incidence of vaccine-related serious adverse experiences ( AEs )
+T32	o 1178 1198	similar GMTs ( 727.4
+T33	o 1249 1270	estimated GMT ratio (
+T34	o 1424 1451	vaccine-related serious AEs
+T35	o 1492 1498	safety
+T36	o 1572 1590	injection-site AEs
+T37	o 1747 1759	systemic AEs
+T38	o 1806 1825	vaccine-related AEs
+T39	o 1932 1938	safety
+T40	o 1957 1968	immunogenic

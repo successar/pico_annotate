@@ -1,0 +1,11 @@
+T1	p 136 210	ten normotensive and seven hypertensive subjects induced by self-inflation
+T2	p 218 271	cuff or just wearing the inflated cuff were studied .
+T3	p 368 380	hypertensive
+T4	p 385 406	normotensive subjects
+T5	i 17 31	cuff inflation
+T6	i 243 251	inflated
+T7	o 35 65	self-recorded blood pressure .
+T8	o 323 346	systolic blood pressure
+T9	o 467 481	blood pressure
+T10	o 577 600	Systolic blood pressure
+T11	o 816 839	systolic blood pressure

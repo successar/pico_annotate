@@ -1,0 +1,48 @@
+T1	p 133 191	patients with mixed dyslipidaemia and metabolic syndrome .
+T2	p 403 418	syndrome ( MetS
+T3	p 481 492	monotherapy
+T4	p 498 506	moderate
+T5	p 601 638	patients with mixed dyslipidaemia and
+T6	p 657 716	previously randomised patients with low-density lipoprotein
+T7	p 731 740	LDL-C ) >
+T8	p 745 748	and
+T9	p 752 779	> 200 mg/dl to rosuvastatin
+T10	p 818 820	30
+T11	p 823 825	or
+T12	p 903 905	30
+T13	p 987 1021	patients with MetS were included (
+T14	i 16 43	rosuvastatin monotherapy or
+T15	i 47 94	combination with fenofibrate or ?-3 fatty acids
+T16	i 210 223	triglycerides
+T17	i 458 492	high-dose rosuvastatin monotherapy
+T18	i 514 558	combined with fenofibrate or ?-3 fatty acids
+T19	i 767 794	rosuvastatin monotherapy 40
+T20	i 804 805	R
+T21	i 823 896	or rosuvastatin 10 mg/day combined with fenofibrate 200 mg/day ( RF group
+T22	i 911 945	?-3 fatty acids 2 g/day ( R? group
+T23	i 1048 1054	RF and
+T24	i 1197 1200	3 %
+T25	i 1205 1222	electrophoresis .
+T26	i 1451 1452	)
+T27	i 1491 1493	RF
+T28	i 1516 1518	RF
+T29	o 98 129	lipoprotein subfraction profile
+T30	o 210 296	triglycerides ( TG ) , decreased high-density lipoprotein cholesterol ( HDL-C ) levels
+T31	o 335 342	density
+T32	o 403 411	syndrome
+T33	o 566 597	lipoprotein subfraction profile
+T34	o 705 736	lipoprotein cholesterol ( LDL-C
+T35	o 741 744	160
+T36	o 1046 1050	, RF
+T37	o 1132 1163	lipoprotein subfraction profile
+T38	o 1235 1248	mean LDL size
+T39	o 1388 1416	hypotriglyceridemic capacity
+T40	o 1448 1450	R?
+T41	o 1469 1493	insulin resistance by RF
+T42	o 1516 1554	RF significantly raised HDL-C levels (
+T43	o 1610 1615	small
+T44	o 1636 1647	cholesterol
+T45	o 1651 1672	larger HDL subclasses
+T46	o 1710 1714	R? .
+T47	o 1750 1768	mean LDL size ; RF
+T48	o 1847 1870	HDL subfraction profile

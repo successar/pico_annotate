@@ -1,0 +1,12 @@
+T1	i 40 142	remifentanil and propofol versus total intravenous anesthesia with fentanyl , midazolam , and propofol
+T2	i 265 290	remifentanil and propofol
+T3	i 373 410	midazolam , fentanyl , and propofol .
+T4	i 485 578	either conscious analgesia/sedation ( Sedation group ) or total intravenous anesthesia ( TIVA
+T5	i 636 648	remifentanil
+T6	i 763 771	fentanyl
+T7	i 1898 1939	remifentanil and propofol for colonoscopy
+T8	o 979 1068	Numerical Pain Rating Scale ( NRS ) ; recovery level and return of psychomotor efficiency
+T9	o 1437 1465	average pain intensity score
+T10	o 1616 1635	maximum MPADS score
+T11	o 1753 1826	mean arterial pressure and heart rate and signs of respiratory depression
+T12	o 1972 2058	satisfactory hemodynamic stability , minor respiratory depression , and rapid recovery

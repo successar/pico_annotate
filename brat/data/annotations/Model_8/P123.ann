@@ -1,0 +1,58 @@
+T1	p 74 82	patients
+T2	p 88 140	chemotherapy-induced painful peripheral neuropathy :
+T3	p 277 278	.
+T4	p 468 497	8 National Cancer Institute (
+T5	p 547 609	enrolled 231 patients who were 25 years or older being treated
+T6	p 613 622	community
+T7	p 627 680	academic settings between April 2008 and March 2011 .
+T8	p 701 722	completed July 2012 .
+T9	p 763 781	comorbid pain risk
+T10	p 784 792	patients
+T11	p 934 939	grade
+T12	p 1046 1053	least 4
+T13	p 1567 1573	pain .
+T14	p 1668 1680	representing
+T15	p 1745 1777	Individuals receiving duloxetine
+T16	p 1923 1928	those
+T17	p 2108 2129	Fifty-nine percent of
+T18	p 2283 2325	patients with painful chemotherapy-induced
+T19	i 16 26	duloxetine
+T20	i 88 108	chemotherapy-induced
+T21	i 316 331	duloxetine , 60
+T22	i 430 448	placebo-controlled
+T23	i 498 503	NCI )
+T24	i 737 753	chemotherapeutic
+T25	i 820 893	either duloxetine followed by placebo or placebo followed by duloxetine .
+T26	i 988 1019	NCI Common Terminology Criteria
+T27	i 1133 1187	paclitaxel , other taxane , or oxaliplatin treatment .
+T28	i 1244 1245	1
+T29	i 1273 1300	mg of duloxetine or placebo
+T30	i 1348 1381	mg of duloxetine or placebo daily
+T31	i 1461 1471	duloxetine
+T32	i 1501 1508	placebo
+T33	i 1767 1777	duloxetine
+T34	i 1942 1949	placebo
+T35	i 2050 2072	duloxetine and placebo
+T36	i 2156 2166	duloxetine
+T37	i 2204 2211	placebo
+T38	i 2305 2325	chemotherapy-induced
+T39	i 2361 2371	duloxetine
+T40	i 2386 2393	placebo
+T41	o 30 67	pain , function , and quality of life
+T42	o 346 369	average pain severity .
+T43	o 502 503	)
+T44	o 763 781	comorbid pain risk
+T45	o 940 944	1 or
+T46	o 952 970	sensory neuropathy
+T47	o 988 1042	NCI Common Terminology Criteria for Adverse Events and
+T48	o 1099 1124	chemotherapy-induced pain
+T49	o 1544 1554	peripheral
+T50	o 1567 1587	pain . Pain severity
+T51	o 1617 1660	Pain Inventory-Short Form average pain item
+T52	o 1684 1688	pain
+T53	o 1837 1855	in average pain of
+T54	o 2005 2015	difference
+T55	o 2023 2049	average pain score between
+T56	o 2231 2251	pain of any amount .
+T57	o 2337 2349	neuropathy ,
+T58	o 2428 2445	reduction in pain

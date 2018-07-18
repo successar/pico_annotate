@@ -1,0 +1,64 @@
+T1	p 116 145	after breast cancer surgery :
+T2	p 218 237	Japanese patients .
+T3	p 249 280	Breast cancer surgery performed
+T4	p 290 297	patient
+T5	p 304 311	general
+T6	p 415 421	PONV )
+T7	p 449 507	patients who undergo mastectomy ( with axillary dissection
+T8	p 521 527	PONV .
+T9	p 651 684	in women who undergo mastectomy .
+T10	p 870 925	PONV after breast cancer surgery in Japanese patients .
+T11	p 1011 1041	Japanese women were randomized
+T12	p 1339 1343	PONV
+T13	p 1691 1716	total of 100 women ( mean
+T14	p 1719 1727	SD ] age
+T15	p 1730 1732	52
+T16	p 1735 1738	7 ]
+T17	p 1747 1753	height
+T18	p 1792 1814	) were included in the
+T19	p 1840 1863	comprised 25 patients .
+T20	p 1963 1972	, surgery
+T21	p 2019 2023	PONV
+T22	p 2597 2601	PONV
+T23	p 2750 2805	of Japanese women who underwent breast cancer surgery .
+T24	i 20 62	propofol , droperidol , and metoclopramide
+T25	i 190 208	placebo-controlled
+T26	i 312 322	anesthesia
+T27	i 462 509	undergo mastectomy ( with axillary dissection )
+T28	i 556 567	propofol at
+T29	i 570 581	subhypnotic
+T30	i 624 631	placebo
+T31	i 672 684	mastectomy .
+T32	i 754 765	subhypnotic
+T33	i 771 846	of propofol with the conventional antiemetics droperidol and metoclopramide
+T34	i 984 1002	placebo-controlled
+T35	i 1091 1195	propofol 0.5 mg/kg , droperidol 20 microg/kg , metoclopramide 0.2 mg/kg , or placebo ( isotonic saline )
+T36	i 1219 1299	suture . A standard general anesthetic technique , including sevoflurane and air
+T37	i 1654 1678	preanesthetic medication
+T38	i 2070 2078	propofol
+T39	i 2105 2115	droperidol
+T40	i 2146 2160	metoclopramide
+T41	i 2188 2195	placebo
+T42	i 2296 2308	propofol and
+T43	i 2325 2365	droperidol , and propofol and droperidol
+T44	i 2441 2455	metoclopramide
+T45	i 2643 2689	propofol 0.5 mg/kg and droperidol 20 microg/kg
+T46	i 2860 2883	propofol and droperidol
+T47	i 2898 2936	metoclopramide 0.2 mg/kg and placebo .
+T48	o 82 115	postoperative nausea and vomiting
+T49	o 376 421	of postoperative nausea and vomiting ( PONV )
+T50	o 521 525	PONV
+T51	o 1303 1309	oxygen
+T52	o 1339 1343	PONV
+T53	o 1481 1493	investigator
+T54	o 1549 1572	extrapyramidal symptoms
+T55	o 1747 1753	height
+T56	o 1771 1777	weight
+T57	o 1980 1999	or awakening time .
+T58	o 2004 2015	prevalences
+T59	o 2019 2023	PONV
+T60	o 2240 2258	prevalence of PONV
+T61	o 2407 2426	prevalences of PONV
+T62	o 2501 2524	Extrapyramidal symptoms
+T63	o 2594 2601	of PONV
+T64	o 2810 2829	prevalences of PONV

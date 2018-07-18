@@ -1,0 +1,16 @@
+T1	p 124 141	type 1 diabetes .
+T2	p 562 628	24 patients , 8-18 years old , with newly diagnosed T1D . Subjects
+T3	p 723 724	.
+T4	i 6 18	Insulin pump
+T5	i 320 340	insulin pump therapy
+T6	i 485 556	MDI therapy with continuous subcutaneous insulin therapy ( pump therapy
+T7	i 1614 1626	insulin pump
+T8	o 73 89	glycemic control
+T9	o 183 218	residual insulin secretory capacity
+T10	o 738 758	of insulin secretion
+T11	o 773 814	mixed-meal-stimulated C-peptide secretion
+T12	o 896 1037	glycosylated hemoglobin ( HbA1c ) , continuous glucose sensor data , insulin utilization , anthropometric measures , and patient satisfaction
+T13	o 1191 1244	mixed-meal tolerance test-stimulated C-peptide values
+T14	o 1353 1369	glycemic control
+T15	o 1657 1673	glycemic control
+T16	o 1725 1745	patient satisfaction

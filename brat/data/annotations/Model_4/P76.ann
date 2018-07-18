@@ -1,0 +1,29 @@
+T1	p 133 176	patients with acute myocardial infarction :
+T2	p 271 287	elective surgery
+T3	p 519 605	333 consecutive adult patients with a suspected first acute myocardial infarction were
+T4	p 629 632	1:1
+T5	p 686 816	primary percutaneous coronary intervention with ( n=166 patients ) versus without ( n=167 ) remote conditioning ( intermittent arm
+T6	p 1425 1528	82 patients were excluded on arrival at hospital because they did not meet inclusion criteria , 32 were
+T7	i 6 22	Remote ischaemic
+T8	i 83 94	angioplasty
+T9	i 209 241	Remote ischaemic preconditioning
+T10	i 336 352	remote ischaemic
+T11	i 456 464	coronary
+T12	i 642 674	computerised block randomisation
+T13	i 686 741	primary percutaneous coronary intervention with ( n=166
+T14	i 751 797	) versus without ( n=167 ) remote conditioning
+T15	i 800 812	intermittent
+T16	i 891 912	blood-pressure cuff )
+T17	i 1052 1073	percutaneous coronary
+T18	i 1176 1197	percutaneous coronary
+T19	i 2101 2117	Remote ischaemic
+T20	o 1126 1150	myocardial salvage index
+T21	o 1236 1253	perfusion imaging
+T22	o 1279 1283	area
+T23	o 1454 1461	arrival
+T24	o 1609 1637	index . Median salvage index
+T25	o 1827 1845	mean salvage index
+T26	o 1954 1994	Major adverse coronary events were death
+T27	o 2015 2027	reinfarction
+T28	o 2052 2065	heart failure
+T29	o 2209 2223	safety profile

@@ -1,0 +1,42 @@
+T1	p 30 43	high risk for
+T2	p 94 123	metastatic breast cancer with
+T3	p 286 301	complications (
+T4	p 401 449	patients with metastatic breast cancer ( MBC ) .
+T5	p 630 637	MBC ( n
+T6	p 644 647	) (
+T7	p 656 658	et
+T8	p 777 786	ie , > or
+T9	p 865 887	documented infection .
+T10	p 1254 1270	poor performance
+T11	p 1421 1426	age .
+T12	p 1443 1453	score from
+T13	p 1459 1465	=25 to
+T14	p 1593 1601	Patients
+T15	p 1607 1608	a
+T16	p 1825 1843	colony stimulating
+T17	p 1863 1868	those
+T18	i 124 172	doxorubicin or pegylated liposomal doxorubicin :
+T19	i 305 306	)
+T20	i 314 396	chemotherapy with doxorubicin ( DOX ) or a pegylated liposomal formulation ( PLD )
+T21	i 524 527	DOX
+T22	i 540 543	2 )
+T23	i 552 571	weeks ) or PLD ( 50
+T24	i 579 582	2 )
+T25	i 765 776	) cells/L (
+T26	i 787 796	=grade II
+T27	i 1133 1145	risk scoring
+T28	i 1327 1334	cells/L
+T29	i 1378 1407	chemotherapy , DOX versus PLD
+T30	i 1773 1805	targeting preventative therapies
+T31	i 1808 1859	eg , granulocyte colony stimulating factor or PLD )
+T32	i 1908 1910	NC
+T33	i 1918 1952	anthracycline-based chemotherapy .
+T34	o 44 69	neutropenic complications
+T35	o 274 299	neutropenic complications
+T36	o 720 739	absolute neutrophil
+T37	o 823 857	febrile neutropenia or neutropenia
+T38	o 1259 1299	performance status , absolute neutrophil
+T39	o 1429 1448	precycle risk score
+T40	o 1541 1552	sensitivity
+T41	o 1568 1579	specificity
+T42	o 1897 1907	experience

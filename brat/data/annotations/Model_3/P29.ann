@@ -1,0 +1,22 @@
+T1	p 457 588	100 adult patients received either conscious analgesia/sedation ( Sedation group ) or total intravenous anesthesia ( TIVA group ) .
+T2	p 1215 1226	50 patients
+T3	i 16 65	analgesia/sedation with remifentanil and propofol
+T4	i 79 127	intravenous anesthesia with fentanyl , midazolam
+T5	i 134 142	propofol
+T6	i 265 290	remifentanil and propofol
+T7	i 373 393	midazolam , fentanyl
+T8	i 400 408	propofol
+T9	i 502 607	analgesia/sedation ( Sedation group ) or total intravenous anesthesia ( TIVA group ) . Analgesia/sedation
+T10	i 636 717	remifentanil ( 0.20 to 0.25 microg/kg/min ) and propofol in titrated doses . TIVA
+T11	i 763 849	fentanyl ( 2 microg/kg ) , midazolam ( 0.05 mg/kg ) and propofol ( dosage titrated ) .
+T12	i 1898 1923	remifentanil and propofol
+T13	o 850 899	Cardiorespiratory parameters and bispectral index
+T14	o 934 958	quality of the analgesia
+T15	o 979 1068	Numerical Pain Rating Scale ( NRS ) ; recovery level and return of psychomotor efficiency
+T16	o 1110 1172	Aldrete scale and a Modified Post Anesthesia Discharge Scoring
+T17	o 1303 1328	duration of colonoscopy .
+T18	o 1370 1402	colonoscopy painless ( NRS score
+T19	o 1437 1465	average pain intensity score
+T20	o 1616 1635	maximum MPADS score
+T21	o 1753 1826	mean arterial pressure and heart rate and signs of respiratory depression
+T22	o 1960 2037	analgesia , satisfactory hemodynamic stability , minor respiratory depression

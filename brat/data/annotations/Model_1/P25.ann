@@ -1,0 +1,15 @@
+T1	p 403 448	Thirty-five university students were assessed
+T2	i 34 50	Reichert AT550 :
+T3	i 57 80	non-contact tonometer .
+T4	i 216 266	non-contact tonometer ( NCT ) the Reichert AT550 .
+T5	i 326 402	Reichert Xpert Plus , Goldmann applanation tonometer and Perkins tonometer .
+T6	i 790 799	AT550 NCT
+T7	i 805 841	contact applanation tonometry ( AT )
+T8	i 995 1013	Goldmann tonometer
+T9	i 1095 1104	AT550 NCT
+T10	i 1156 1174	Goldmann tonometry
+T11	o 6 26	Clinical performance
+T12	o 128 162	level of accuracy for measurements
+T13	o 880 898	level of agreement
+T14	o 923 985	lowest mean difference and the narrowest confidence interval )
+T15	o 1070 1085	readings of IOP

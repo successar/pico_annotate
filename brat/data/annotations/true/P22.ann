@@ -1,0 +1,15 @@
+T1	p 79 107	patients after stoma surgery
+T2	p 110 159	Eighteen patients who had undergone stoma surgery
+T3	p 1460 1490	patients after stoma surgery .
+T4	i 37 75	progressive muscle relaxation training
+T5	i 505 552	progressive muscle relaxation training ( PMRT )
+T6	i 1395 1399	PMRT
+T7	o 196 251	anxiety level and self-reported quality of life ( QoL )
+T8	o 662 870	Chinese State-Trait Anxiety Inventory ( C-STAI ) , the Quality of Life Index for Colostomy ( QoL-Colostomy ) and the Hong Kong Chinese version of the World Health Organisation Quality of Life Scale ( WHOQoL )
+T9	o 941 953	C-STAI score
+T10	o 986 998	WHOQoL score
+T11	o 1072 1078	WHOQoL
+T12	o 1174 1177	QoL
+T13	o 1251 1264	QoL-Colostomy
+T14	o 1414 1429	quality of life
+T15	o 1449 1456	anxiety

@@ -1,0 +1,10 @@
+T1	p 100 151	82 patients having postoperative epidural analgesia
+T2	i 20 30	tunnelling
+T3	i 43 51	catheter
+T4	i 62 63	.
+T5	i 208 225	epidural catheter
+T6	o 241 263	migration . Tunnelling
+T7	o 301 309	distance
+T8	o 330 359	incidence of inward migration
+T9	o 365 367	cm
+T10	o 799 825	Outward catheter migration

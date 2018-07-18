@@ -1,0 +1,19 @@
+T1	p 84 119	advanced nasopharyngeal carcinoma :
+T2	p 187 219	Nasopharyngeal carcinoma ( NPC )
+T3	p 382 419	patients with advanced NPC . PATIENTS
+T4	p 432 551	From December 1993 to April 1999 , 284 patients with 1992 American Joint Committee on Cancer stage III to IV ( M0 ) NPC
+T5	p 1845 1890	patients with advanced NPC in endemic areas .
+T6	i 25 79	concurrent chemoradiotherapy versus radiotherapy alone
+T7	i 308 378	concurrent chemoradiotherapy ( CCRT ) versus radiotherapy ( RT ) alone
+T8	i 628 630	RT
+T9	i 710 832	concurrent chemotherapy with cisplatin 20 mg/m ( 2 ) /d plus fluorouracil 400 mg/m ( 2 ) /d by 96-hour continuous infusion
+T10	i 856 865	5 of RT .
+T11	i 1625 1637	chemotherapy
+T12	o 151 178	progression-free survival .
+T13	o 866 883	Survival analysis
+T14	o 1141 1154	tumor relapse
+T15	o 1208 1237	5-year overall survival rates
+T16	o 1317 1355	5-year progression-free survival rates
+T17	o 1473 1481	toxicity
+T18	o 1520 1554	leukopenia and emesis , compliance
+T19	o 1761 1767	deaths

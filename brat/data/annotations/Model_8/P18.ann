@@ -1,0 +1,38 @@
+T1	p 87 115	nonsmokers . Women who smoke
+T2	p 426 446	users who smoke have
+T3	p 559 576	cigarette smoking
+T4	p 661 706	. Sixty healthy women , half of whom had been
+T5	p 724 742	least the previous
+T6	p 745 751	months
+T7	p 767 773	in the
+T8	p 812 823	smokers and
+T9	p 874 882	nicotine
+T10	p 946 956	nonsmokers
+T11	p 1259 1266	users ,
+T12	p 1512 1517	women
+T13	p 1535 1557	among nonsmoking women
+T14	i 6 24	Oral contraceptive
+T15	i 125 152	oral contraceptives ( OCs )
+T16	i 423 431	OC users
+T17	i 585 593	nicotine
+T18	i 615 617	OC
+T19	i 713 716	OCs
+T20	i 868 912	12-hr nicotine deprivation or administration
+T21	i 916 930	nicotine gum .
+T22	i 1038 1060	videotaped speech task
+T23	i 1185 1208	nicotine administration
+T24	i 1394 1402	nicotine
+T25	i 1435 1443	nicotine
+T26	i 1485 1497	lipid stress
+T27	o 48 83	increased cardiovascular reactivity
+T28	o 182 204	risk of cardiovascular
+T29	o 278 320	Cardiovascular reactivity to psychological
+T30	o 387 393	number
+T31	o 615 617	OC
+T32	o 625 662	cardiovascular and lipid reactivity .
+T33	o 959 1007	Heart rate , blood pressure , and lipid measures
+T34	o 1167 1181	smoking status
+T35	o 1212 1239	cardiovascular reactivity .
+T36	o 1296 1364	greater heart rate and diastolic blood pressure reactivity to stress
+T37	o 1467 1508	cardiovascular or lipid stress reactivity
+T38	o 1577 1613	greater cardiovascular reactivity to

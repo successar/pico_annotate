@@ -1,0 +1,27 @@
+T1	p 36 44	fragilis
+T2	p 51 105	elective appendectomy in renal transplant recipients .
+T3	p 165 207	of 75 children after renal transplantation
+T4	p 351 362	of elective
+T5	p 619 627	isolated
+T6	p 823 840	immunocompromised
+T7	i 24 72	Bacteroides fragilis after elective appendectomy
+T8	i 127 147	Bacteroides fragilis
+T9	i 217 225	fragilis
+T10	i 354 375	elective appendectomy
+T11	i 437 445	profound
+T12	i 497 508	antibiotics
+T13	i 717 725	fragilis
+T14	i 963 978	lymphocytopenia
+T15	o 24 35	Bacteroides
+T16	o 106 116	Bacteremia
+T17	o 127 147	Bacteroides fragilis
+T18	o 217 225	fragilis
+T19	o 269 279	bacteremia
+T20	o 282 304	Bacteroides bacteremia
+T21	o 391 406	transplantation
+T22	o 563 568	blood
+T23	o 633 652	blood and abscesses
+T24	o 771 808	unexplained occurrence of bacteroides
+T25	o 883 905	Lymphocytes themselves
+T26	o 1020 1033	deficiency in
+T27	o 1039 1047	defenses

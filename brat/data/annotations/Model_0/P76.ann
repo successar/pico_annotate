@@ -1,0 +1,6 @@
+T1	p 133 176	patients with acute myocardial infarction :
+T2	p 519 600	333 consecutive adult patients with a suspected first acute myocardial infarction
+T3	i 6 35	Remote ischaemic conditioning
+T4	i 209 241	Remote ischaemic preconditioning
+T5	o 1601 1637	salvage index . Median salvage index
+T6	o 1954 1994	Major adverse coronary events were death

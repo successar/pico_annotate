@@ -1,0 +1,10 @@
+T1	p 102 135	patients with untreated anxiety .
+T2	p 270 383	patients with previously undetected anxiety and a physician intervention to inform physicians of their patients '
+T3	p 756 979	110,000 enrollees in central Colorado . PATIENTS/PARTICIPANTS 573 patients who had unrecognized and untreated anxiety identified from the approximately 8,000 patients who completed the waiting room screening questionnaire .
+T4	i 51 73	screening and feedback
+T5	i 320 342	physician intervention
+T6	i 941 1100	waiting room screening questionnaire . INTERVENTIONS A physician intervention served the dual function of 1 ) providing an educational demonstration of anxiety
+T7	i 1149 1165	reporting system
+T8	o 249 263	anxiety levels
+T9	o 1336 1447	changes in global anxiety scores , functioning and well-being , and patients ' reports of global improvements .
+T10	o 1699 1738	's severity of psychological distress .

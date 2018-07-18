@@ -1,0 +1,48 @@
+T1	p 81 136	postmenopausal breast cancer survivors with bone loss :
+T2	p 381 425	223 postmenopausal breast cancer survivors .
+T3	p 584 645	postmenopausal breast cancer survivors ( BCS ) with bone loss
+T4	p 1111 1137	Postmenopausal BCS ( 223 )
+T5	i 20 35	weight training
+T6	i 227 252	weight training exercises
+T7	i 283 304	risedronate , calcium
+T8	i 311 320	vitamin D
+T9	i 467 475	exercise
+T10	i 666 703	risedronate , calcium , and vitamin D
+T11	i 896 937	strength/weight training ( ST ) exercises
+T12	i 1036 1045	exercised
+T13	i 1164 1188	exercise plus medication
+T14	i 1192 1207	medication only
+T15	i 1263 1270	calcium
+T16	i 1285 1294	vitamin D
+T17	i 1314 1325	risedronate
+T18	i 1343 1351	exercise
+T19	i 1375 1387	ST exercises
+T20	i 1444 1474	medications without exercising
+T21	i 1656 1665	exercised
+T22	i 2002 2010	exercise
+T23	i 2165 2199	Strength/weight training exercises
+T24	o 39 59	bone mineral density
+T25	o 64 77	bone turnover
+T26	o 349 377	bone mineral density ( BMD )
+T27	o 498 501	BMD
+T28	o 531 536	BMD .
+T29	o 718 746	bone mineral density ( BMD )
+T30	o 840 855	bone turnover ;
+T31	o 963 966	BMD
+T32	o 992 1007	bone turnover ;
+T33	o 1097 1102	BMD .
+T34	o 1507 1527	BMD at the total hip
+T35	o 1544 1549	spine
+T36	o 1591 1601	Alkphase B
+T37	o 1617 1626	serum NTx
+T38	o 1694 1717	BMD at the femoral neck
+T39	o 1732 1741	total hip
+T40	o 1756 1761	spine
+T41	o 1776 1788	total radius
+T42	o 1831 1841	Alkphase B
+T43	o 1857 1866	Serum NTx
+T44	o 1902 1923	BMD and bone turnover
+T45	o 2036 2039	BMD
+T46	o 2047 2056	total hip
+T47	o 2100 2112	femoral neck
+T48	o 2220 2223	BMD

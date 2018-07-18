@@ -1,0 +1,29 @@
+T1	p 46 109	transplantation in infants with single-ventricle lesions : risk
+T2	p 151 155	type
+T3	p 265 287	infants undergoing the
+T4	p 539 562	cardiac transplantation
+T5	p 716 765	from 549 subjects ( follow-up , 2.7 ? 0.9 years )
+T6	p 1926 1945	infants with aortic
+T7	p 2019 2039	preterm infants with
+T8	p 2049 2055	aortic
+T9	i 288 295	Norwood
+T10	i 381 396	Blalock-Taussig
+T11	i 586 655	transplantation . Parametric time-to-event modeling and bootstrapping
+T12	o 24 33	mortality
+T13	o 38 45	cardiac
+T14	o 228 233	death
+T15	o 507 512	death
+T16	o 569 577	survival
+T17	o 782 796	Mortality risk
+T18	o 959 972	socioeconomic
+T19	o 1005 1028	pulmonary venous return
+T20	o 1159 1175	genetic syndrome
+T21	o 1199 1214	gestational age
+T22	o 1234 1304	right ventricle-to-pulmonary artery shunt demonstrated better survival
+T23	o 1387 1417	modified Blalock-Taussig shunt
+T24	o 1520 1651	pre-Norwood right ventricular fractional area change , pre-Norwood surgery , and anatomy other than hypoplastic left heart syndrome
+T25	o 1725 1735	shunt type
+T26	o 1799 1826	intermediate-term mortality
+T27	o 1835 1925	lower socioeconomic status , anatomy , genetic syndrome , and lower gestational age . Term
+T28	o 2112 2138	Right ventricular function
+T29	o 2161 2166	shunt

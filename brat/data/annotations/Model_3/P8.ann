@@ -1,0 +1,21 @@
+T1	p 77 108	treated hypertensive patients .
+T2	p 275 321	hypertensive patients receiving drug treatment
+T3	p 785 1085	people with one or more cardiovascular risk factors . Fifteen Italian hypertension units studied 142 hypertensive patients ( 76 men , 66 women ; mean age 59 +/- 5.9 years ) treated with different antihypertensive drugs : 71 patients were randomized to aspirin and 71 served as controls . All patients
+T4	i 17 33	low-dose aspirin
+T5	i 195 230	Nonsteroidal antiinflammatory drugs
+T6	i 360 367	aspirin
+T7	i 452 474	aspirin ( 100 mg/day )
+T8	i 761 781	aspirin or vitamin E
+T9	i 1037 1051	aspirin and 71
+T10	i 1160 1189	24-h ambulatory BP monitoring
+T11	i 1226 1245	aspirin treatment .
+T12	i 1414 1421	aspirin
+T13	i 1681 1688	aspirin
+T14	i 1762 1803	enzyme inhibitors and calcium antagonists
+T15	i 1915 1922	aspirin
+T16	o 37 73	clinic and ambulatory blood pressure
+T17	o 242 261	blood pressure ( BP
+T18	o 478 541	clinic and ambulatory systolic ( SBP ) and diastolic ( DBP ) BP
+T19	o 1285 1303	clinic SBP and DBP
+T20	o 1373 1395	Ambulatory SBP and DBP
+T21	o 1926 1936	BP control

@@ -1,0 +1,24 @@
+T1	p 53 66	human brain .
+T2	p 119 131	pineal gland
+T3	p 168 186	sleep-wake cycle .
+T4	p 296 397	randomized , double-blind , placebo controlled functional magnetic resonance imaging ( fMRI ) study .
+T5	p 810 815	brain
+T6	p 870 878	subjects
+T7	p 955 960	brain
+T8	p 1217 1259	sleep-associated brain activation patterns
+T9	i 36 45	melatonin
+T10	i 67 76	Melatonin
+T11	i 202 211	melatonin
+T12	i 324 331	placebo
+T13	i 398 407	Melatonin
+T14	i 418 425	placebo
+T15	i 668 677	melatonin
+T16	i 790 799	melatonin
+T17	i 942 951	melatonin
+T18	i 1196 1205	melatonin
+T19	o 6 32	Sleep-anticipating effects
+T20	o 436 457	task-related activity
+T21	o 617 653	subjective measurements of fatigue .
+T22	o 691 729	activation in the left parahippocampus
+T23	o 800 824	modulates brain activity
+T24	o 915 922	fatigue

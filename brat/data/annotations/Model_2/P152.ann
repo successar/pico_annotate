@@ -1,0 +1,15 @@
+T1	p 40 41	:
+T2	p 44 104	four-year study . Fifty-one patients with raised intraocular
+T3	p 145 164	four years with one
+T4	i 6 17	Levobunolol
+T5	i 32 41	timolol :
+T6	i 93 104	intraocular
+T7	i 221 232	levobunolol
+T8	i 238 253	0.5 % timolol .
+T9	i 382 405	Levobunolol and timolol
+T10	i 590 597	timolol
+T11	o 93 121	intraocular pressure ( IOP )
+T12	o 441 470	overall mean IOP ; reductions
+T13	o 568 572	safe
+T14	o 577 586	effective
+T15	o 633 638	IOP .

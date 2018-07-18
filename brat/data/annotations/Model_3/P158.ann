@@ -1,0 +1,10 @@
+T1	p 99 136	insulin dependent diabetes mellitus :
+T2	p 259 302	diabetics without proliferative retinopathy
+T3	i 337 478	continuous subcutaneous insulin infusion , multiple insulin injections , or conventional insulin treatment ( controls ) . Near normoglycaemia
+T4	i 497 540	continuous infusion and multiple injections
+T5	i 554 578	conventional treatment .
+T6	i 599 621	fluorescein angiograms
+T7	o 668 679	retinopathy
+T8	o 1150 1199	glycosylated haemoglobin and blood glucose values
+T9	o 1216 1241	episodes of hypoglycaemia
+T10	o 1285 1303	severe retinopathy

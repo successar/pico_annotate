@@ -1,0 +1,10 @@
+T1	p 202 321	gonadotropin-releasing hormone agonist ( GnRH-a ) in ovulation induction in an in vitro fertilization ( IVF ) program .
+T2	p 467 533	Forty-eight patients having IVF for the first time were randomized
+T3	p 968 993	patients undergoing IVF .
+T4	i 60 98	gonadotropin-releasing hormone agonist
+T5	i 202 251	gonadotropin-releasing hormone agonist ( GnRH-a )
+T6	i 403 411	GnRH-a .
+T7	o 162 172	usefulness
+T8	o 584 681	Response to ovarian stimulation and occurrence of spontaneous luteinizing hormone ( LH ) surges .
+T9	o 693 750	ovulation induction , fertilization , and pregnancy rates
+T10	o 868 878	LH surge .

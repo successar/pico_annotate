@@ -1,0 +1,24 @@
+T1	p 42 48	humans
+T2	p 335 357	healthy young subjects
+T3	p 431 461	Five groups of 8 subjects each
+T4	p 1607 1615	with low
+T5	p 1689 1704	atherosclerosis
+T6	i 83 88	ester
+T7	i 181 222	potent cholesteryl ester transfer protein
+T8	i 232 255	inhibitor torcetrapib (
+T9	i 278 302	high-density lipoprotein
+T10	i 481 519	placebo ( n=2 ) or torcetrapib ( n=6 )
+T11	i 542 554	120 mg daily
+T12	i 559 565	120 mg
+T13	i 592 603	Torcetrapib
+T14	o 27 38	lipoprotein
+T15	o 278 331	high-density lipoprotein cholesterol ( HDL-C ) levels
+T16	o 613 622	tolerated
+T17	o 690 727	of plasma drug levels with inhibition
+T18	o 963 982	elevations of HDL-C
+T19	o 1001 1025	Total plasma cholesterol
+T20	o 1129 1164	low-density lipoprotein cholesterol
+T21	o 1187 1211	Apolipoprotein A-I and E
+T22	o 1345 1361	and triglyceride
+T23	o 1379 1401	nonHDL plasma fraction
+T24	o 1442 1445	HDL

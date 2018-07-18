@@ -1,0 +1,20 @@
+T1	p 715 812	PARTICIPANTS A total of 403 adult , daily smokers without contraindications to bupropion SR use .
+T2	i 33 60	bupropion sustained-release
+T3	i 174 208	bupropion sustained-release ( SR )
+T4	i 455 464	bupropion
+T5	i 550 568	placebo-controlled
+T6	i 587 599	bupropion SR
+T7	i 794 806	bupropion SR
+T8	i 889 920	of bupropion SR or placebo pill
+T9	i 942 997	brief individual counseling sessions or no counseling .
+T10	i 1237 1249	bupropion SR
+T11	i 1487 1496	Bupropion
+T12	i 1696 1708	bupropion SR
+T13	i 1799 1808	bupropion
+T14	o 315 411	withdrawal distress , cigarette craving , positive affect and subjective reactions to cigarettes
+T15	o 455 475	bupropion SR effects
+T16	o 1022 1093	momentary assessment ratings of smoking behavior and putative mediators
+T17	o 1303 1325	withdrawal distress or
+T18	o 1428 1445	cigarette craving
+T19	o 1487 1507	Bupropion SR effects
+T20	o 1511 1538	point-prevalence abstinence

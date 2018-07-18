@@ -1,0 +1,8 @@
+T1	p 360 402	16 patients with ischaemic heart disease .
+T2	i 22 55	ionic and nonionic x-ray contrast
+T3	i 145 172	Amidotrizoate and Iopromide
+T4	i 182 195	left coronary
+T5	i 540 552	dipyridamole
+T6	o 213 233	myocardial perfusion
+T7	o 238 246	function
+T8	o 447 467	myocardial perfusion

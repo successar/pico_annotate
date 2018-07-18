@@ -1,0 +1,11 @@
+T1	p 797 872	Participants were 236 heavy drinking smokers in a randomized clinical trial
+T2	i 6 37	Time-varying smoking abstinence
+T3	i 212 223	exacerbates
+T4	i 911 960	brief alcohol intervention into smoking cessation
+T5	o 973 1030	Depressive symptoms and biochemically verified abstinence
+T6	o 1153 1172	depressive symptoms
+T7	o 1313 1341	level of depressive symptoms
+T8	o 1453 1474	depressive symptoms .
+T9	o 1642 1663	depressive symptoms .
+T10	o 1728 1778	smoking abstinence exacerbates depressive symptoms
+T11	o 1940 1954	quit smoking .

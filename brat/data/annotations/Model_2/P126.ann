@@ -1,0 +1,63 @@
+T1	p 70 114	postoperative rectal cancer patients treated
+T2	p 259 279	polymorphism ( SNP )
+T3	p 331 380	postoperative rectal cancer patients who received
+T4	p 450 507	Four hundred patients with stage II and III rectal cancer
+T5	p 559 566	without
+T6	p 642 650	patients
+T7	p 691 733	Two hundred and twenty-eight patients were
+T8	p 806 823	172 patients were
+T9	p 1370 1385	of 136 patients
+T10	p 1576 1584	patients
+T11	p 1676 1686	patients .
+T12	p 1860 1883	patients without severe
+T13	p 1994 2019	patients with AA genotype
+T14	p 2165 2181	patients with AA
+T15	p 2390 2394	risk
+T16	p 2541 2588	stage II and III rectal cancer patients treated
+T17	i 24 42	A870G polymorphism
+T18	i 120 159	adjuvant concurrent chemoradiotherapy ]
+T19	i 248 279	nucleotide polymorphism ( SNP )
+T20	i 381 437	capecitabine-based postoperative chemoradiotherapy ( CRT
+T21	i 531 534	CRT
+T22	i 538 578	capecitabine with or without oxaliplatin
+T23	i 584 595	accumulated
+T24	i 747 799	concurrent capecitabine and radiotherapy ( Cap-CRT )
+T25	i 837 897	capecitabine and oxaliplatin plus radiotherapy ( Cap-Oxa-CRT
+T26	i 946 952	Common
+T27	i 1004 1014	CTCAE v3.0
+T28	i 1090 1151	chain reaction-based restriction fragment length polymorphism
+T29	i 1154 1162	PCR-RFLP
+T30	i 1259 1260	)
+T31	i 1312 1320	computed
+T32	i 1326 1334	logistic
+T33	i 1449 1466	genotypes GG , GA
+T34	i 1716 1733	genotypes GG , GA
+T35	i 2085 2103	GG or GA genotypes
+T36	i 2145 2156	Cap-Oxa-CRT
+T37	i 2306 2314	GG or GA
+T38	i 2338 2345	Cap-CRT
+T39	i 2358 2361	SNP
+T40	i 2456 2461	CCND1
+T41	i 2594 2665	adjuvant concurrent chemoradiotherapy of capecitabine and oxaliplatin .
+T42	o 46 66	acute adverse events
+T43	o 299 327	acute adverse events ( AEs )
+T44	o 798 799	)
+T45	o 898 899	)
+T46	o 902 916	Adverse events
+T47	o 953 985	Terminology Criteria for Adverse
+T48	o 1111 1153	restriction fragment length polymorphism (
+T49	o 1219 1222	AEs
+T50	o 1246 1260	ratios ( ORs )
+T51	o 1293 1296	CIs
+T52	o 1467 1473	and AA
+T53	o 1604 1614	. Diarrhea
+T54	o 1640 1659	and severe diarrhea
+T55	o 1734 1740	and AA
+T56	o 1884 1894	diarrhea .
+T57	o 1946 1955	1.66-fold
+T58	o 1975 1990	severe diarrhea
+T59	o 2200 2209	2.34-fold
+T60	o 2229 2244	severe diarrhea
+T61	o 2312 2324	GA genotypes
+T62	o 2398 2415	severe diarrhea .
+T63	o 2514 2523	acute AEs

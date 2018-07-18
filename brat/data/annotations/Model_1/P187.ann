@@ -1,0 +1,34 @@
+T1	p 128 187	patients with hemodynamically decompensated heart failure .
+T2	p 540 651	16 decompensated heart failure patients in an invasive , randomized , double-blind , placebo-controlled study .
+T3	i 68 124	steady-state infusion of human brain natriuretic peptide
+T4	i 199 239	Human brain natriuretic peptide ( hBNP )
+T5	i 388 392	hBNP
+T6	i 516 520	hBNP
+T7	i 625 643	placebo-controlled
+T8	i 733 742	( placebo
+T9	i 760 764	hBNP
+T10	i 928 934	hBNP .
+T11	i 955 959	hBNP
+T12	i 1026 1030	hBNP
+T13	i 1175 1179	hBNP
+T14	i 1323 1327	hBNP
+T15	i 1425 1439	placebo , hBNP
+T16	i 1528 1534	hBNP ;
+T17	i 1657 1661	hBNP
+T18	i 1736 1740	hBNP
+T19	i 1868 1872	hBNP
+T20	i 1888 1892	hBNP
+T21	o 6 62	Systemic hemodynamic , neurohormonal , and renal effects
+T22	o 328 384	systemic hemodynamic , neurohormonal , and renal effects
+T23	o 1009 1025	adverse events .
+T24	o 1066 1126	right atrial pressure and pulmonary capillary wedge pressure
+T25	o 1207 1235	systemic vascular resistance
+T26	o 1356 1369	cardiac index
+T27	o 1400 1412	heart rate .
+T28	o 1450 1508	plasma norepinephrine and aldosterone . Renal hemodynamics
+T29	o 1581 1601	natriuretic effect .
+T30	o 1634 1653	hemodynamic effects
+T31	o 1681 1731	cardiac preload and systemic vascular resistance .
+T32	o 1755 1769	cardiac output
+T33	o 1789 1801	heart rate .
+T34	o 1806 1850	Plasma norepinephrine and aldosterone levels

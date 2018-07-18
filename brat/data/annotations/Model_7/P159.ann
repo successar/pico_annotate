@@ -1,0 +1,9 @@
+T1	p 17 96	of man from natural infection with influenza A2 Hong Kong virus by amantadine :
+T2	p 314 437	391 medical student volunteers during the influenza A2 Hong Kong epidemic in Helsinki in the winter of 1969 . Serologically
+T3	i 84 94	amantadine
+T4	i 155 165	amantadine
+T5	i 574 584	amantadine
+T6	i 620 627	placebo
+T7	o 264 273	infection
+T8	o 501 529	haemagglutination inhibition
+T9	o 656 660	rate

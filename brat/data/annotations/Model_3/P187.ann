@@ -1,0 +1,18 @@
+T1	p 128 187	patients with hemodynamically decompensated heart failure .
+T2	p 282 313	decompensated cardiac failure .
+T3	p 427 438	human heart
+T4	p 540 594	16 decompensated heart failure patients in an invasive
+T5	i 388 392	hBNP
+T6	i 625 643	placebo-controlled
+T7	i 723 744	treatment ( placebo [
+T8	i 760 797	hBNP 0.025 or 0.05 microgram/kg/min [
+T9	i 815 831	post-treatment .
+T10	i 1425 1432	placebo
+T11	o 6 26	Systemic hemodynamic
+T12	o 832 853	Urinary volume losses
+T13	o 1066 1126	right atrial pressure and pulmonary capillary wedge pressure
+T14	o 1207 1235	systemic vascular resistance
+T15	o 1356 1369	cardiac index
+T16	o 1400 1412	heart rate .
+T17	o 1450 1508	plasma norepinephrine and aldosterone . Renal hemodynamics
+T18	o 1755 1850	cardiac output without increasing heart rate . 3 ) Plasma norepinephrine and aldosterone levels

@@ -1,0 +1,16 @@
+T1	i 52 68	Huso huso ( L. )
+T2	i 92 100	sampling
+T3	i 107 128	clove powder solution
+T4	i 178 188	anesthesia
+T5	i 242 255	blood-sampled
+T6	i 276 286	anesthesia
+T7	i 325 345	anesthesia procedure
+T8	i 348 350	40
+T9	i 353 356	120
+T10	i 363 441	240 s exposure to 3,000 , 700 , and 500 mg l?? clove solution , respectively .
+T11	o 220 229	Huso huso
+T12	o 442 455	Blood samples
+T13	o 570 597	cortisol and glucose levels
+T14	o 686 706	Serum lactate levels
+T15	o 779 793	Lactate levels
+T16	o 917 1070	serum levels of cholesterol , total protein , lactate dehydrogenase , aspartate aminotransferase , alanine aminotransferase , Na? , Cl? , K? , and Ca?? .

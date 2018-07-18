@@ -1,0 +1,60 @@
+T1	p 115 146	rheumatoid arthritis patients .
+T2	p 395 434	patients with rheumatoid arthritis ( RA
+T3	p 481 494	RA patients '
+T4	p 594 610	The participants
+T5	p 616 624	the GT3X
+T6	p 1016 1064	Sixty-eight RA patients ( age=55?13 years , body
+T7	p 1070 1075	index
+T8	p 1105 1112	disease
+T9	p 1126 1154	2-8 ) yrs ) were recruited .
+T10	p 1564 1575	VO2max with
+T11	p 1657 1659	PA
+T12	p 1840 1842	PA
+T13	p 2125 2127	RA
+T14	p 2166 2175	sedentary
+T15	p 2457 2475	people with RA and
+T16	p 2611 2629	5 September 2012 .
+T17	i 298 318	Questionnaire ; IPAQ
+T18	i 369 382	activity ( PA
+T19	i 1399 1409	light PA (
+T20	i 1625 1627	PA
+T21	i 1700 1706	PA , (
+T22	i 1712 1713	)
+T23	i 1817 1830	IPAQ-reported
+T24	i 1840 1846	PA and
+T25	i 2409 2411	PA
+T26	i 2416 2418	ST
+T27	o 21 58	objective levels of physical activity
+T28	o 86 103	cardiorespiratory
+T29	o 218 227	agreement
+T30	o 236 246	subjective
+T31	o 280 318	Physical Activity Questionnaire ; IPAQ
+T32	o 360 391	physical activity ( PA ) levels
+T33	o 495 509	subjective and
+T34	o 542 572	the maximal oxygen uptake test
+T35	o 689 706	Bland-Altman plot
+T36	o 770 788	subjective PA data
+T37	o 799 807	Wilcoxon
+T38	o 883 885	PA
+T39	o 902 908	VO2max
+T40	o 995 997	's
+T41	o 1060 1075	body mass index
+T42	o 1237 1239	PA
+T43	o 1275 1285	. Wilcoxon
+T44	o 1329 1347	time spent engaged
+T45	o 1351 1371	sedentary behaviours
+T46	o 1399 1407	light PA
+T47	o 1440 1451	moderate PA
+T48	o 1580 1597	PA levels derived
+T49	o 1619 1635	light PA rho=.35
+T50	o 1657 1659	PA
+T51	o 1700 1702	PA
+T52	o 1764 1785	sedentary time ( ST )
+T53	o 2003 2032	IPAQ-VO2 max and GT3X-VO2 max
+T54	o 2059 2061	ST
+T55	o 2196 2215	higher intensity PA
+T56	o 2253 2266	Accelerometry
+T57	o 2302 2313	PA levels .
+T58	o 2319 2329	subjective
+T59	o 2339 2342	and
+T60	o 2395 2415	self-reported PA and

@@ -1,0 +1,66 @@
+T1	p 116 145	after breast cancer surgery :
+T2	p 218 237	Japanese patients .
+T3	p 249 270	Breast cancer surgery
+T4	p 290 322	patient under general anesthesia
+T5	p 415 419	PONV
+T6	p 449 487	patients who undergo mastectomy ( with
+T7	p 497 527	dissection ) experience PONV .
+T8	p 654 684	women who undergo mastectomy .
+T9	p 870 874	PONV
+T10	p 881 925	breast cancer surgery in Japanese patients .
+T11	p 1011 1041	Japanese women were randomized
+T12	p 1697 1727	of 100 women ( mean [ SD ] age
+T13	p 1730 1732	52
+T14	p 1735 1753	7 ] years ; height
+T15	p 1792 1798	) were
+T16	p 1808 1814	in the
+T17	p 1834 1863	group comprised 25 patients .
+T18	p 1950 1977	demographics , surgery type
+T19	p 2277 2308	patients receiving propofol and
+T20	p 2744 2805	group of Japanese women who underwent breast cancer surgery .
+T21	i 20 28	propofol
+T22	i 31 62	droperidol , and metoclopramide
+T23	i 190 208	placebo-controlled
+T24	i 312 322	anesthesia
+T25	i 470 509	mastectomy ( with axillary dissection )
+T26	i 556 564	propofol
+T27	i 570 581	subhypnotic
+T28	i 624 631	placebo
+T29	i 672 684	mastectomy .
+T30	i 754 770	subhypnotic dose
+T31	i 774 787	propofol with
+T32	i 817 846	droperidol and metoclopramide
+T33	i 984 1002	placebo-controlled
+T34	i 1073 1087	administration
+T35	i 1091 1109	propofol 0.5 mg/kg
+T36	i 1112 1195	droperidol 20 microg/kg , metoclopramide 0.2 mg/kg , or placebo ( isotonic saline )
+T37	i 1226 1227	.
+T38	i 1230 1257	standard general anesthetic
+T39	i 1268 1299	, including sevoflurane and air
+T40	i 2070 2078	propofol
+T41	i 2105 2115	droperidol
+T42	i 2146 2160	metoclopramide
+T43	i 2188 2195	placebo
+T44	i 2296 2304	propofol
+T45	i 2325 2350	droperidol , and propofol
+T46	i 2355 2365	droperidol
+T47	i 2441 2455	metoclopramide
+T48	i 2643 2661	propofol 0.5 mg/kg
+T49	i 2666 2689	droperidol 20 microg/kg
+T50	i 2860 2868	propofol
+T51	i 2873 2883	droperidol
+T52	i 2898 2936	metoclopramide 0.2 mg/kg and placebo .
+T53	o 82 115	postoperative nausea and vomiting
+T54	o 379 423	postoperative nausea and vomiting ( PONV ) .
+T55	o 521 525	PONV
+T56	o 740 748	efficacy
+T57	o 1303 1309	oxygen
+T58	o 1339 1343	PONV
+T59	o 1549 1572	extrapyramidal symptoms
+T60	o 1980 1999	or awakening time .
+T61	o 2019 2023	PONV
+T62	o 2251 2258	of PONV
+T63	o 2422 2426	PONV
+T64	o 2501 2524	Extrapyramidal symptoms
+T65	o 2594 2601	of PONV
+T66	o 2822 2829	of PONV

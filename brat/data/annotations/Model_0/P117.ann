@@ -1,0 +1,5 @@
+T1	p 237 298	patients with refractory monosymptomatic nocturnal enuresis .
+T2	i 530 537	placebo
+T3	i 1598 1632	Posterior tibial nerve stimulation
+T4	o 1148 1176	average number of wet nights
+T5	o 1325 1371	number of wet nights and urodynamic parameters

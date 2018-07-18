@@ -1,0 +1,20 @@
+T1	p 72 137	dogs and cats presented as veterinary patients in North America .
+T2	p 460 524	dogs and cats showing signs of flea allergy dermatitis ( FAD ) .
+T3	p 811 932	topical treatment with selamectin ( 220 dogs , 189 cats ) or a positive-control product ( dogs : fenthion , n=81 ; cats :
+T4	p 1787 1931	dogs and cats diagnosed clinically with FAD . A total of 397 dogs free of adult heartworm infection from four heartworm-endemic areas of the USA
+T5	p 2234 2315	673 dogs and 347 cats having an age range of 6 weeks to 19 years ( 3954 doses ) .
+T6	p 2849 2864	dogs and cats .
+T7	i 29 39	selamectin
+T8	i 248 258	selamectin
+T9	i 436 456	selamectin treatment
+T10	i 834 844	selamectin
+T11	i 1988 2044	selamectin ( n=298 ) or ivermectin ( n=99 ) . Selamectin
+T12	i 2490 2500	selamectin
+T13	i 2724 2740	FAD . Selamectin
+T14	o 6 25	Efficacy and safety
+T15	o 225 244	efficacy and safety
+T16	o 1257 1273	mean flea counts
+T17	o 1348 1364	mean flea counts
+T18	o 1511 1527	mean flea counts
+T19	o 1602 1618	mean flea counts
+T20	o 2425 2449	serious adverse events .

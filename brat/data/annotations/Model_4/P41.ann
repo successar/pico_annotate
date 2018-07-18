@@ -1,0 +1,16 @@
+T1	p 272 283	98 patients
+T2	p 332 362	before flexible nasendoscopy .
+T3	i 6 37	Cophenylcaine spray vs. placebo
+T4	i 41 49	flexible
+T5	i 165 184	topical preparation
+T6	i 194 226	flexible fibreoptic nasendoscopy
+T7	i 295 362	cophenylcaine or placebo nasal spray before flexible nasendoscopy .
+T8	i 967 980	cophenylcaine
+T9	o 365 386	visual analogue scale
+T10	o 409 469	record pain , unpleasantness of taste and overall discomfort
+T11	o 528 555	minimal pain and discomfort
+T12	o 612 650	pain or overall discomfort experienced
+T13	o 690 712	sensation of bad taste
+T14	o 816 841	overall unpleasantness of
+T15	o 846 856	experience
+T16	o 872 930	pain experienced and secondarily unpleasantness of taste .

@@ -1,0 +1,17 @@
+T1	p 717 784	100 consecutive patients . Patients did not practise the exhalation
+T2	p 1008 1014	severe
+T3	p 1039 1059	patients with FEV1 <
+T4	i 109 131	carbon monoxide ( TLCO
+T5	i 219 234	carbon monoxide
+T6	i 241 250	inert gas
+T7	i 333 342	technique
+T8	i 403 414	inspiration
+T9	i 426 433	holding
+T10	i 641 649	standard
+T11	i 652 657	Jones
+T12	i 662 667	Meade
+T13	i 687 713	holding TLCO ( TLCO , bh )
+T14	i 1384 1401	holding technique
+T15	o 481 505	prolonged breath holding
+T16	o 902 911	deviation
+T17	o 914 923	precision

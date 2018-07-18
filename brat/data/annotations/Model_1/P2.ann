@@ -1,0 +1,36 @@
+T1	p 90 154	healthy volunteers and in patients with primary hypothyroidism .
+T2	p 474 633	8 healthy volunteers , and 6 women with untreated primary hypothyroidism , a disease state that is associated with increased nocturnal secretion of melatonin .
+T3	p 812 830	healthy volunteers
+T4	p 1243 1271	patients with hypothyroidism
+T5	p 1909 1968	normal subjects and in patients with primary hypothyroidism
+T6	i 18 45	somatostatin ( octreotide )
+T7	i 155 167	Somatostatin
+T8	i 321 333	somatostatin
+T9	i 719 755	saline or octreotide ( Sandostatin ;
+T10	i 842 852	octreotide
+T11	i 929 937	saline .
+T12	i 1126 1136	octreotide
+T13	i 1173 1183	octreotide
+T14	i 1217 1225	saline ;
+T15	i 1329 1339	octreotide
+T16	i 1344 1352	saline .
+T17	i 1510 1520	octreotide
+T18	i 1557 1567	octreotide
+T19	i 1598 1606	saline ;
+T20	i 1655 1665	octreotide
+T21	i 1756 1770	somatostatin .
+T22	i 1787 1805	somatostatin -- in
+T23	i 1818 1837	octreotide -- fails
+T24	i 2014 2026	somatostatin
+T25	o 67 86	melatonin secretion
+T26	o 291 312	melatonin secretion .
+T27	o 362 381	melatonin secretion
+T28	o 441 470	nocturnal melatonin secretion
+T29	o 855 874	melatonin secretion
+T30	o 947 977	urinary excretion of melatonin
+T31	o 1046 1058	GH secretion
+T32	o 1292 1321	nocturnal melatonin secretion
+T33	o 1353 1383	Urinary excretion of melatonin
+T34	o 1417 1431	GH secretion .
+T35	o 1436 1468	total nocturnal secretion of TSH
+T36	o 1851 1905	nocturnal secretion and urinary excretion of melatonin

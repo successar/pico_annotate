@@ -1,0 +1,8 @@
+T1	i 19 28	ketazolam
+T2	i 59 77	placebo-controlled
+T3	i 162 171	ketazolam
+T4	i 194 201	placebo
+T5	i 433 440	placebo
+T6	i 1565 1572	placebo
+T7	o 545 580	total Hamilton Anxiety Rating Scale
+T8	o 1619 1636	severe headache .

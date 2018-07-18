@@ -1,0 +1,16 @@
+T1	p 36 51	transplantation
+T2	p 55 81	treatment of pterygium ] .
+T3	p 304 363	208 patients ( 229 eyes ) with initial pterygium , and they
+T4	p 393 394	:
+T5	p 1133 1140	injured
+T6	i 26 35	autograft
+T7	i 130 196	limbal epithelial autograft transplantation and pterygium excision
+T8	i 217 228	pterygium .
+T9	i 395 475	excision of pterygium with limbal epithelial autograft transplantation surgery (
+T10	i 509 510	)
+T11	i 515 544	simple pterygium excision ( B
+T12	i 576 579	) .
+T13	o 597 605	recovery
+T14	o 611 631	corneal transparency
+T15	o 670 692	abnormal proliferation
+T16	o 696 710	pterygium-like

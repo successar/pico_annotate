@@ -1,0 +1,19 @@
+T1	p 65 88	severe bronchiectasis .
+T2	p 433 484	Twenty-four patients ( 12 female ; mean age 51 yr )
+T3	i 14 25	fluticasone
+T4	i 98 120	corticosteroid therapy
+T5	i 316 334	placebo-controlled
+T6	i 401 412	fluticasone
+T7	i 523 544	inhaled fluticasone (
+T8	i 571 597	) via the Accuhaler device
+T9	i 612 621	placebo .
+T10	i 1007 1018	fluticasone
+T11	i 1041 1048	placebo
+T12	i 1247 1258	fluticasone
+T13	i 1419 1434	steroid therapy
+T14	o 34 61	sputum inflammatory indices
+T15	o 638 819	spirometry , 24-h sputum volume , sputum leukocyte density , bacterial densities , and concentrations of interleukin ( IL ) -1beta , IL-8 , tumor necrosis factor-alpha ( TNF-alpha )
+T16	o 917 941	sputum leukocyte density
+T17	o 1125 1135	spirometry
+T18	o 1165 1182	adverse reactions
+T19	o 1288 1315	sputum inflammatory indices

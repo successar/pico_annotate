@@ -1,0 +1,13 @@
+T1	p 205 249	patients with atrial fibrillation ( AF ) but
+T2	p 689 795	( 44 countries ) trial of patients with nonvalvular AF and at least 1 risk factor for stroke . Recruitment
+T3	p 811 871	a total of 18,113 patients . Patients who were VKA-naive and
+T4	i 30 35	RE-LY
+T5	i 73 107	anticoagulant therapy , warfarin ,
+T6	i 117 165	with dabigatran . Vitamin K antagonists ( VKAs )
+T7	i 273 293	Dabigatran etexilate
+T8	i 299 306	prodrug
+T9	i 363 385	inhibitor dabigatran .
+T10	i 478 486	warfarin
+T11	i 560 570	dabigatran
+T12	i 1430 1440	dabigatran
+T13	o 946 1103	stroke ( including hemorrhagic ) or systemic embolism . Safety outcomes are bleeding , liver function abnormalities , and other adverse events . Adjudication

@@ -1,0 +1,22 @@
+T1	p 137 170	after major gynecologic surgery .
+T2	p 353 437	ASA physical status I-III patients undergoing total abdominal hysterectomy ( TAH ) .
+T3	i 22 95	prophylactic ondansetron , droperidol , perphenazine , and metoclopramide
+T4	i 233 293	ondansetron , droperidol , perphenazine , and metoclopramide
+T5	i 405 437	abdominal hysterectomy ( TAH ) .
+T6	i 488 581	ondansetron 4 mg , droperidol 1.25 mg , perphenazine 5 mg , metoclopramide 10 mg , or placebo
+T7	i 665 679	metoclopramide
+T8	i 733 744	ondansetron
+T9	i 1150 1161	ondansetron
+T10	i 1173 1183	droperidol
+T11	i 1199 1211	perphenazine
+T12	i 1234 1237	SES
+T13	i 1255 1262	placebo
+T14	i 1285 1299	Metoclopramide
+T15	i 1327 1338	ondansetron
+T16	i 1341 1351	droperidol
+T17	i 1358 1370	perphenazine
+T18	i 1435 1447	perphenazine
+T19	i 1500 1512	perphenazine
+T20	o 117 136	nausea and vomiting
+T21	o 764 784	systolic hypotension
+T22	o 921 959	severe nausea , retching , or vomiting

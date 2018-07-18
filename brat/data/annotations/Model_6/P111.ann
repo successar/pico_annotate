@@ -1,0 +1,11 @@
+T1	p 50 110	with preschool children who have intellectual disabilities .
+T2	p 295 468	preschool children with intellectual disabilities ( IDs ) , including children with Down syndrome and children with autism spectrum disorders . METHOD Seventy-seven children
+T3	p 1344 1418	with preschool children who have ID and significant language impairments .
+T4	i 6 49	Parent-implemented enhanced milieu teaching
+T5	i 55 64	preschool
+T6	i 172 268	of enhanced milieu teaching ( EMT ) implemented by parents and therapists versus therapists only
+T7	i 276 291	language skills
+T8	i 295 304	preschool
+T9	i 495 596	2 treatments ( parent + therapist EMT or therapist-only EMT ) and received 36 intervention sessions .
+T10	i 1298 1332	naturalistic language intervention
+T11	o 889 892	EMT

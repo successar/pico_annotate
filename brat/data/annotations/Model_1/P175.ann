@@ -1,0 +1,29 @@
+T1	p 126 154	post-thoracotomy analgesia .
+T2	p 605 821	20 patients undergoing lateral thoracotomy for lung resection were randomized to receive 0.5 mg SM preoperatively and INB with bupivacaine ( INB+ ) prior to wound closure or 0.5 mg SM with INB using saline ( INB- ) .
+T3	i 44 68	intercostal nerve blocks
+T4	i 113 121	morphine
+T5	i 254 286	Intercostal nerve blocks ( INB )
+T6	i 291 319	subarachnoid morphine ( SM )
+T7	i 636 647	thoracotomy
+T8	i 694 821	0.5 mg SM preoperatively and INB with bupivacaine ( INB+ ) prior to wound closure or 0.5 mg SM with INB using saline ( INB- ) .
+T9	i 1167 1171	INB+
+T10	i 1395 1399	INB+
+T11	i 1436 1440	INB-
+T12	i 1549 1555	( INB-
+T13	i 1570 1574	INB+
+T14	i 1633 1636	INB
+T15	i 1732 1734	SM
+T16	i 1834 1837	INB
+T17	i 1901 1905	SM .
+T18	o 407 411	pain
+T19	o 474 495	post-thoracotomy pain
+T20	o 510 542	postoperative pulmonary function
+T21	o 822 853	Visual analog scale pain scores
+T22	o 864 965	with cough , and with movement of the ipsilateral arm , forced expiratory volume in 1 second ( FEV1 )
+T23	o 972 1001	forced vital capacity ( FVC )
+T24	o 1068 1078	Opioid use
+T25	o 1198 1202	FEV1
+T26	o 1251 1254	FVC
+T27	o 1362 1366	FEV1
+T28	o 1456 1467	pain scores
+T29	o 1498 1510	Opioid usage

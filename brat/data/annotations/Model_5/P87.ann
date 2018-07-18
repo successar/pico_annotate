@@ -1,0 +1,21 @@
+T1	p 797 880	Participants were 236 heavy drinking smokers in a randomized clinical trial testing
+T2	p 894 972	of incorporating brief alcohol intervention into smoking cessation treatment .
+T3	i 6 26	Time-varying smoking
+T4	i 150 160	abstinence
+T5	i 199 226	quit attempt exacerbates or
+T6	i 911 937	brief alcohol intervention
+T7	i 943 960	smoking cessation
+T8	o 19 37	smoking abstinence
+T9	o 53 72	depressive symptoms
+T10	o 397 404	symptom
+T11	o 544 554	depression
+T12	o 660 670	depressive
+T13	o 984 992	symptoms
+T14	o 1020 1030	abstinence
+T15	o 1153 1182	depressive symptoms over time
+T16	o 1258 1281	time-varying abstinence
+T17	o 1313 1341	level of depressive symptoms
+T18	o 1453 1474	depressive symptoms .
+T19	o 1621 1663	levels of concurrent depressive symptoms .
+T20	o 1728 1780	smoking abstinence exacerbates depressive symptoms .
+T21	o 1940 1954	quit smoking .

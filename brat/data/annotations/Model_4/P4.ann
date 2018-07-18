@@ -1,0 +1,20 @@
+T1	p 980 991	40 subjects
+T2	p 1128 1151	. 20 subjects served as
+T3	i 31 120	instrumentation using conventional steel or non-tooth substance removing plastic curettes
+T4	i 128 158	supportive periodontal therapy
+T5	i 481 508	non-root substance removing
+T6	i 756 771	instrumentation
+T7	i 778 909	plastic curettes ( Universal Perio Soft Scaler , Hawe-Neos Dental , Bioggio , TI , Switzerland ) versus conventional steel curettes
+T8	i 917 928	periodontal
+T9	i 958 977	periodontal therapy
+T10	i 1102 1132	active peridontal therapy . 20
+T11	i 1154 1161	control
+T12	i 1185 1268	with conventional steel curettes during a supportive periodontal care visit ( SPT )
+T13	i 2018 2026	non-root
+T14	o 1385 1477	Clinical parameters , such as bleeding on probing ( BOP ) and probing pocket depth ( PPD ) ,
+T15	o 1575 1589	BOP percentage
+T16	o 1734 1766	modalities regarding BOP and PPD
+T17	o 1786 1790	time
+T18	o 1836 1860	the BOP percentage which
+T19	o 1928 1931	BOP
+T20	o 1955 1958	BOP

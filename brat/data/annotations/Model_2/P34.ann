@@ -1,0 +1,39 @@
+T1	p 335 357	healthy young subjects
+T2	p 443 461	of 8 subjects each
+T3	p 634 641	treated
+T4	p 651 665	completing the
+T5	p 1544 1545	.
+T6	p 1598 1606	subjects
+T7	i 71 88	cholesteryl ester
+T8	i 98 105	protein
+T9	i 138 149	torcetrapib
+T10	i 215 222	protein
+T11	i 230 266	) inhibitor torcetrapib ( CP-529,414
+T12	i 481 488	placebo
+T13	i 491 513	n=2 ) or torcetrapib (
+T14	i 559 565	120 mg
+T15	i 572 577	daily
+T16	i 738 742	nM )
+T17	i 812 813	)
+T18	i 1187 1201	Apolipoprotein
+T19	i 1292 1294	mg
+T20	i 1307 1320	. Cholesteryl
+T21	o 6 38	Raising high-density lipoprotein
+T22	o 272 331	raise high-density lipoprotein cholesterol ( HDL-C ) levels
+T23	o 592 603	Torcetrapib
+T24	o 608 622	well tolerated
+T25	o 693 711	plasma drug levels
+T26	o 833 837	CETP
+T27	o 903 918	CETP inhibition
+T28	o 974 982	of HDL-C
+T29	o 1001 1025	Total plasma cholesterol
+T30	o 1081 1089	nonHDL-C
+T31	o 1129 1164	low-density lipoprotein cholesterol
+T32	o 1187 1205	Apolipoprotein A-I
+T33	o 1210 1211	E
+T34	o 1261 1265	apoB
+T35	o 1345 1361	and triglyceride
+T36	o 1379 1401	nonHDL plasma fraction
+T37	o 1442 1447	HDL .
+T38	o 1551 1555	work
+T39	o 1689 1704	atherosclerosis

@@ -1,0 +1,16 @@
+T1	p 35 72	children with high-functioning autism
+T2	p 686 719	children and adolescents with HFA
+T3	i 462 515	Social Skills Training Group-based Program ( SST-GP )
+T4	i 522 570	Leisure Activities Group-based Program ( LA-GP )
+T5	i 758 761	SST
+T6	i 765 767	LA
+T7	i 948 951	SST
+T8	i 1038 1040	LA
+T9	i 1115 1118	SST
+T10	i 1218 1221	SST
+T11	i 1377 1383	SST-GP
+T12	i 1413 1418	LA-GP
+T13	o 841 891	error rates for facial emotion labeling ( DANVA2 )
+T14	o 1081 1107	ability to recognize anger
+T15	o 1197 1200	QoL
+T16	o 1395 1403	efficacy

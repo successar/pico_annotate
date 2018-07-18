@@ -1,0 +1,43 @@
+T1	p 451 480	St. Louis University Core ECG
+T2	p 584 638	patients with multivessel coronary artery disease were
+T3	p 668 715	coronary artery bypass grafting or percutaneous
+T4	p 756 784	St. Louis University program
+T5	p 1161 1174	referred to a
+T6	p 1382 1392	randomized
+T7	p 1425 1444	with follow-up ECGs
+T8	p 1481 1499	as of March 1995 ,
+T9	p 1549 1561	participants
+T10	p 1640 1667	St. Louis University coding
+T11	p 1798 1826	St. Louis University program
+T12	p 1922 1935	sample of 812
+T13	i 181 182	)
+T14	i 407 410	ECG
+T15	i 668 751	coronary artery bypass grafting or percutaneous transluminal coronary angioplasty .
+T16	i 793 796	and
+T17	i 870 890	code ( MC ) criteria
+T18	i 899 916	modified NOVACODE
+T19	i 975 986	seven-power
+T20	i 1005 1010	loupe
+T21	i 1036 1073	MC from a customized software program
+T22	i 1185 1190	coder
+T23	i 1228 1240	coding rules
+T24	i 1282 1308	standard MC classification
+T25	i 1579 1596	MC criteria alone
+T26	i 1650 1673	University coding rules
+T27	o 28 31	ECG
+T28	o 87 115	Q wave myocardial infarction
+T29	o 185 220	Serial electrocardiographic ( ECG )
+T30	o 304 330	myocardial ischemic events
+T31	o 481 495	Laboratory for
+T32	o 803 817	serial changes
+T33	o 821 846	Q , ST , and T wave items
+T34	o 1088 1096	minor or
+T35	o 1331 1342	instability
+T36	o 1461 1480	Core ECG Laboratory
+T37	o 1510 1512	MC
+T38	o 1515 1531	wave progression
+T39	o 1693 1705	incidence of
+T40	o 1714 1716	MC
+T41	o 1724 1736	progressions
+T42	o 1855 1866	variability
+T43	o 1871 1903	grade 2 Q wave progression codes

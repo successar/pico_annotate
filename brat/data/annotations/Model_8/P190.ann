@@ -1,0 +1,45 @@
+T1	p 54 130	previously untreated advanced breast cancer -- a cancer and leukemia group B
+T2	p 536 567	the Cancer and Leukemia Group B
+T3	p 576 620	) master metastatic breast cancer protocol .
+T4	p 627 704	8642 randomizes previously untreated metastatic breast cancer patients either
+T5	p 1271 1333	to have histologically documented measurable breast cancer and
+T6	p 1358 1361	0-1
+T7	p 1388 1435	had prior chemotherapy for metastatic disease .
+T8	p 1800 1801	3
+T9	p 1837 1838	3
+T10	p 2163 2171	patients
+T11	p 2176 2192	thrombocytopenia
+T12	p 2284 2329	previously untreated breast cancer patients .
+T13	p 2472 2491	patients adequately
+T14	p 2524 2538	hematotoxicity
+T15	p 2541 2562	with amonafide ranged
+T16	i 6 17	Amonafide :
+T17	i 154 163	Amonafide
+T18	i 173 178	imide
+T19	i 193 208	naphthalic acid
+T20	i 496 507	. Amonafide
+T21	i 568 569	(
+T22	i 776 842	followed by standard cyclophosphamide-doxorubicin-5-fluorouracil ,
+T23	i 1065 1104	agents precedes standard chemotherapy .
+T24	i 1133 1142	amonafide
+T25	i 1442 1463	adjuvant chemotherapy
+T26	i 1522 1531	Amonafide
+T27	i 2252 2261	amonafide
+T28	o 371 389	plasma and urine .
+T29	o 464 474	metabolite
+T30	o 477 497	N-acetyl-amonafide .
+T31	o 988 1030	survival , toxicity , and overall response
+T32	o 1336 1354	performance status
+T33	o 1520 1521	.
+T34	o 1724 1742	thereof . Toxicity
+T35	o 1800 1817	3 or 4 leukopenia
+T36	o 1837 1841	3 or
+T37	o 1844 1860	thrombocytopenia
+T38	o 1875 1885	leukopenia
+T39	o 1902 1938	thrombocytopenia . The response rate
+T40	o 1973 1983	response .
+T41	o 2014 2038	hematological toxicity ,
+T42	o 2083 2103	leukopenia grade 3/4
+T43	o 2176 2202	thrombocytopenia grade 3/4
+T44	o 2351 2370	dose-response curve
+T45	o 2398 2468	correlation between myelosuppression and response . Rates of responses

@@ -1,0 +1,45 @@
+T1	p 94 116	diarrhea in children .
+T2	p 190 200	children .
+T3	p 369 402	acute invasive diarrhea requiring
+T4	p 425 442	southern Israel .
+T5	p 714 757	diarrhea in infants and children . PATIENTS
+T6	p 770 964	From July 1996 through December 1997 , 201 evaluable children ages 6 months to 10 years ( 35 % < 1 year ; 70 % < 3 years ) presenting with acute invasive diarrhea at the Pediatric Emergency Room
+T7	p 1194 1215	Shigella , Salmonella
+T8	p 1218 1235	Campylobacter spp
+T9	p 1458 1472	% ) patients :
+T10	p 1483 1495	) Shigella ;
+T11	p 1499 1500	(
+T12	p 1504 1518	% ) Salmonella
+T13	p 1531 1532	)
+T14	p 1555 1574	% ) Campylobacter .
+T15	p 2423 2488	ambulatory pediatric patients requiring an emergency room visit .
+T16	i 6 75	Oral ciprofloxacin vs. intramuscular ceftriaxone as empiric treatment
+T17	i 281 320	antibiotics , intramuscular ceftriaxone
+T18	i 665 678	ciprofloxacin
+T19	i 999 1025	ciprofloxacin suspension (
+T20	i 1043 1061	day + im placebo ;
+T21	i 1074 1124	im ceftriaxone ( 50 mg/kg/day + placebo suspension
+T22	i 1485 1493	Shigella
+T23	i 1803 1816	ciprofloxacin
+T24	i 1821 1832	ceftriaxone
+T25	i 2006 2014	Shigella
+T26	i 2110 2123	ciprofloxacin
+T27	i 2138 2149	ceftriaxone
+T28	i 2293 2311	Oral ciprofloxacin
+T29	i 2355 2366	ceftriaxone
+T30	o 79 102	acute invasive diarrhea
+T31	o 143 151	diarrhea
+T32	o 227 258	resistance of enteric pathogens
+T33	o 576 584	diarrhea
+T34	o 614 633	efficacy and safety
+T35	o 714 722	diarrhea
+T36	o 1325 1353	Clinical response and safety
+T37	o 1430 1443	127 pathogens
+T38	o 1575 1608	Overall bacteriologic eradication
+T39	o 1738 1766	Clinical cure or improvement
+T40	o 1857 1883	Serum ciprofloxacin values
+T41	o 2056 2083	drug-related adverse events
+T42	o 2184 2213	transient . Joint examination
+T43	o 2319 2323	safe
+T44	o 2328 2337	effective
+T45	o 2383 2433	treatment of acute invasive diarrhea in ambulatory

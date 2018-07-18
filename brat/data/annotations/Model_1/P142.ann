@@ -1,0 +1,32 @@
+T1	p 115 146	rheumatoid arthritis patients .
+T2	p 395 442	patients with rheumatoid arthritis ( RA ) , and
+T3	p 1016 1154	Sixty-eight RA patients ( age=55?13 years , body mass index : 27.8?5.4 kg/m2 , median of disease duration=5 ( 2-8 ) yrs ) were recruited .
+T4	i 266 313	International Physical Activity Questionnaire ;
+T5	i 620 624	GT3X
+T6	i 662 684	IPAQ and VO2max test .
+T7	i 883 897	PA measurement
+T8	i 2489 2512	with accelerometry when
+T9	o 266 320	International Physical Activity Questionnaire ; IPAQ )
+T10	o 353 384	GT3X ) physical activity ( PA )
+T11	o 546 583	maximal oxygen uptake test ( VO2max )
+T12	o 662 666	IPAQ
+T13	o 671 677	VO2max
+T14	o 781 783	PA
+T15	o 883 897	PA measurement
+T16	o 902 908	VO2max
+T17	o 1232 1243	when PA was
+T18	o 1324 1373	less time spent engaged in sedentary behaviours (
+T19	o 1395 1409	and light PA (
+T20	o 1556 1597	between VO2max with all PA levels derived
+T21	o 1642 1667	.01 ; moderate PA rho=.34
+T22	o 1670 1704	P=.01 ; moderate and vigorous PA ,
+T23	o 1764 1780	sedentary time (
+T24	o 1807 1862	P=.04 ) . IPAQ-reported moderate PA and MVPA positively
+T25	o 1874 1887	with maxV02 (
+T26	o 1999 2037	the IPAQ-VO2 max and GT3X-VO2 max were
+T27	o 2114 2124	the IPAQ ,
+T28	o 2161 2179	less sedentary and
+T29	o 2191 2220	more higher intensity PA than
+T30	o 2283 2311	with VO2max at all PA levels
+T31	o 2339 2372	and MPVA correlated with VO2max .
+T32	o 2395 2425	self-reported PA and ST should

@@ -1,0 +1,21 @@
+T1	p 352 356	FOBT
+T2	p 784 900	invited 25,511 people aged 50-74 years to complete an eligibility questionnaire . Eligible respondents ( n = 3,408 )
+T3	p 1439 1443	FOBT
+T4	i 39 68	personalised decision support
+T5	i 352 358	FOBT )
+T6	i 483 581	tailored computerised decision support to non-tailored computer or paper information . The primary
+T7	i 918 1012	Tailored Personalised Decision Support ( TPDS ) , Non-Tailored PDS ( NTPDS ) , or Control ( CG
+T8	i 1313 1317	FOBT
+T9	i 2165 2169	FOBT
+T10	o 594 598	FOBT
+T11	o 1313 1317	FOBT
+T12	o 1375 1414	re-measured BS variables ( per-protocol
+T13	o 1439 1443	FOBT
+T14	o 1620 1643	PP sample , FOBT return
+T15	o 1797 1812	FOBT completion
+T16	o 2155 2169	return an FOBT
+T17	o 2202 2206	FOBT
+T18	o 2300 2323	psychosocial predictors
+T19	o 2360 2413	salience and coherence of screening and self-efficacy
+T20	o 2432 2447	faecal aversion
+T21	o 2627 2664	attitudes , perceptions and behaviour

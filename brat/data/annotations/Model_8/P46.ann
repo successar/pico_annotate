@@ -1,0 +1,26 @@
+T1	p 53 66	human brain .
+T2	p 119 125	pineal
+T3	p 267 277	sleepiness
+T4	p 751 757	memory
+T5	i 36 45	melatonin
+T6	i 67 76	Melatonin
+T7	i 202 211	melatonin
+T8	i 324 389	placebo controlled functional magnetic resonance imaging ( fMRI )
+T9	i 398 407	Melatonin
+T10	i 418 427	placebo ,
+T11	i 519 537	visual-search task
+T12	i 574 584	music task
+T13	i 668 677	melatonin
+T14	i 714 729	parahippocampus
+T15	i 790 799	melatonin
+T16	i 942 951	melatonin
+T17	i 1008 1013	sleep
+T18	i 1196 1205	melatonin
+T19	o 119 125	pineal
+T20	o 436 457	task-related activity
+T21	o 493 509	occipital cortex
+T22	o 617 653	subjective measurements of fatigue .
+T23	o 758 764	task .
+T24	o 915 931	fatigue inducing
+T25	o 1136 1158	homeostatic sleep need
+T26	o 1240 1259	activation patterns

@@ -1,0 +1,21 @@
+T1	p 349 437	360 ASA physical status I-III patients undergoing total abdominal hysterectomy ( TAH ) .
+T2	p 814 844	Twenty-two percent of patients
+T3	i 35 95	ondansetron , droperidol , perphenazine , and metoclopramide
+T4	i 211 293	intravenous ( i.v . ) ondansetron , droperidol , perphenazine , and metoclopramide
+T5	i 488 499	ondansetron
+T6	i 507 517	droperidol
+T7	i 528 540	perphenazine
+T8	i 548 562	metoclopramide
+T9	i 571 581	or placebo
+T10	i 665 679	metoclopramide
+T11	o 117 136	nausea and vomiting
+T12	o 617 628	Hypotension
+T13	o 873 882	sedated .
+T14	o 921 959	severe nausea , retching , or vomiting
+T15	o 973 1003	severe emetic sequelae ( SES )
+T16	o 1234 1237	SES
+T17	o 1304 1317	ineffective .
+T18	o 1376 1385	effective
+T19	o 1399 1421	antiemetic prophylaxis
+T20	o 1452 1474	free of side effects .
+T21	o 1520 1558	best choice for antiemetic prophylaxis

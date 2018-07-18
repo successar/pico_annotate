@@ -1,0 +1,17 @@
+T1	p 177 212	patients who underwent hysterectomy
+T2	p 223 274	Forty patients were divided into four groups of ten
+T3	i 18 26	morphine
+T4	i 108 116	morphine
+T5	i 316 324	morphine
+T6	i 362 370	morphine
+T7	i 396 404	morphine
+T8	i 1538 1546	morphine
+T9	o 38 54	NK cell activity
+T10	o 120 155	natural killer ( NK ) cell activity
+T11	o 777 818	postoperative pain score and side effects
+T12	o 882 898	NK cell activity
+T13	o 1082 1100	NK cell activities
+T14	o 1162 1179	plasma adrenaline
+T15	o 1184 1212	noradrenaline concentrations
+T16	o 1248 1270	plasma cortisol levels
+T17	o 1333 1343	pain score

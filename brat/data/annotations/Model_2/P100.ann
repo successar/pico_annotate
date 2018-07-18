@@ -1,0 +1,44 @@
+T1	p 173 238	patients with chronic heart failure after myocardial infarction .
+T2	p 373 409	patients with heart failure ( HF ) .
+T3	p 575 600	patients with class II to
+T4	p 604 630	HF and ejection fraction <
+T5	p 757 763	Living
+T6	p 769 771	HF
+T7	p 833 837	, 23
+T8	p 897 906	financial
+T9	p 915 916	.
+T10	p 1132 1159	myoblast-treated patients :
+T11	p 1442 1448	Living
+T12	p 1481 1551	HF patients with chronic postinfarction cardiomyopathy , transcatheter
+T13	p 1849 1880	HF patients with postinfarction
+T14	i 136 160	implantation by catheter
+T15	i 312 341	transcatheter intramyocardial
+T16	i 360 369	myoblasts
+T17	i 418 424	MARVEL
+T18	i 441 459	placebo-controlled
+T19	i 469 481	image-guided
+T20	i 484 550	catheter-based intramyocardial injection of placebo or myoblasts (
+T21	i 738 742	test
+T22	i 990 1003	8 ( placebo )
+T23	i 1100 1110	amiodarone
+T24	i 1160 1173	1 ( placebo )
+T25	i 1304 1313	?6-minute
+T26	i 1354 1361	placebo
+T27	i 1521 1535	cardiomyopathy
+T28	i 1538 1551	transcatheter
+T29	i 1570 1579	myoblasts
+T30	i 1718 1726	myoblast
+T31	i 1822 1830	myoblast
+T32	i 1881 1895	cardiomyopathy
+T33	o 81 114	safety and cardiovascular effects
+T34	o 152 160	catheter
+T35	o 277 283	safety
+T36	o 620 628	fraction
+T37	o 662 708	frequency of serious adverse events ( safety )
+T38	o 713 788	changes in 6-minute walk test and Minnesota Living With HF score ( efficacy
+T39	o 947 964	numbers of events
+T40	o 1053 1085	deaths . Ventricular tachycardia
+T41	o 1245 1264	functional capacity
+T42	o 1304 1323	?6-minute walk test
+T43	o 1429 1465	in Minnesota Living With HF scores .
+T44	o 1687 1698	tachycardia

@@ -1,0 +1,39 @@
+T1	p 105 117	and Autism .
+T2	p 136 204	hyperactivity disorder ( ADHD ) and autism spectrum disorder ( ASD )
+T3	p 531 532	2
+T4	p 610 640	. Age-matched boys with ADHD (
+T5	p 648 653	ASD (
+T6	p 676 678	21
+T7	p 989 999	under each
+T8	p 1115 1140	, ASD boys underactivated
+T9	p 1199 1214	and ADHD boys .
+T10	p 1345 1362	ASD boys relative
+T11	p 1399 1408	ADHD boys
+T12	p 1558 1561	and
+T13	i 24 34	Fluoxetine
+T14	i 327 366	serotonin reuptake inhibitors ( SSRIs )
+T15	i 711 746	magnetic resonance imaging ( fMRI )
+T16	i 786 801	scanned twice ,
+T17	i 832 853	Fluoxetine or placebo
+T18	i 874 892	placebo-controlled
+T19	i 1077 1081	fMRI
+T20	i 1107 1114	placebo
+T21	i 1173 1174	)
+T22	i 1281 1293	Fluoxetine ,
+T23	i 1421 1428	placebo
+T24	i 1491 1501	Fluoxetine
+T25	i 1594 1616	suggesting dissociated
+T26	o 45 73	Prefrontal Cortex Activation
+T27	o 116 158	. Attention deficit hyperactivity disorder
+T28	o 166 167	)
+T29	o 211 239	brain function abnormalities
+T30	o 390 422	flexibility and improve behavior
+T31	o 485 502	disorder-specific
+T32	o 1159 1165	cortex
+T33	o 1242 1272	decreased precuneus activation
+T34	o 1294 1309	mPFC activation
+T35	o 1314 1326	up-regulated
+T36	o 1469 1480	performance
+T37	o 1535 1550	mPFC activation
+T38	o 1592 1593	,
+T39	o 1605 1637	dissociated underlying serotonin

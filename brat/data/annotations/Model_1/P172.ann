@@ -1,0 +1,16 @@
+T1	p 560 580	dyspnoeic patients .
+T2	p 589 813	Exhalation TLCO ( TLCO , ex ) was compared with the standard ( Jones and Meade ) 10 second breath holding TLCO ( TLCO , bh ) in 100 consecutive patients . Patients did not practise the exhalation manoeuvre prior to testing .
+T3	p 994 1034	patients with severe pulmonary disease ;
+T4	i 44 65	constant exhalation .
+T5	i 296 317	constant exhalation .
+T6	i 589 618	Exhalation TLCO ( TLCO , ex )
+T7	i 641 713	standard ( Jones and Meade ) 10 second breath holding TLCO ( TLCO , bh )
+T8	i 1271 1285	breath holding
+T9	i 1290 1331	constant exhalation . Constant exhalation
+T10	i 1377 1391	breath holding
+T11	o 21 36	transfer factor
+T12	o 77 133	Transfer factor of the lung for carbon monoxide ( TLCO )
+T13	o 589 618	Exhalation TLCO ( TLCO , ex )
+T14	o 641 713	standard ( Jones and Meade ) 10 second breath holding TLCO ( TLCO , bh )
+T15	o 963 971	relation
+T16	o 1214 1251	comparable pathophysiological factors

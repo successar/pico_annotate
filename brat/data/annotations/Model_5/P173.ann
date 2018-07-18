@@ -1,0 +1,11 @@
+T1	p 85 86	:
+T2	p 384 391	teacher
+T3	i 33 49	teacher training
+T4	i 71 86	Smart Choices :
+T5	i 89 107	tobacco prevention
+T6	i 263 322	Smart Choices , a school-based tobacco prevention program .
+T7	i 392 400	training
+T8	i 459 513	a live workshop training or video training condition .
+T9	i 628 641	video-trained
+T10	o 684 735	overall completeness and fidelity of implementation
+T11	o 880 924	brainstorming and student presentations/role

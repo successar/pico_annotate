@@ -1,0 +1,14 @@
+T1	p 64 95	peers ' perceptions of autism .
+T2	p 180 326	peers ' perceptions and behavioral intentions toward an unfamiliar child with autism . Children ( N = 576 ; M age = 10.06 ) were randomly assigned
+T3	p 500 508	Children
+T4	p 632 640	Children
+T5	p 1236 1247	children 's
+T6	i 330 499	view two videotapes of a boy engaging in typical and autistic behaviors receiving either descriptive ( AUT-D ) or descriptive and explanatory information ( AUT-D + E ) .
+T7	i 594 629	( Shared Activities Questionnaire )
+T8	i 1146 1185	descriptive and explanatory information
+T9	o 64 95	peers ' perceptions of autism .
+T10	o 180 225	peers ' perceptions and behavioral intentions
+T11	o 544 567	( Adjective Checklist )
+T12	o 594 629	( Shared Activities Questionnaire )
+T13	o 1048 1073	responsive to information
+T14	o 1236 1285	children 's attitudes and behavioral intentions .

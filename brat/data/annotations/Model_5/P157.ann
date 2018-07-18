@@ -1,0 +1,16 @@
+T1	p 6 13	Ascaris
+T2	p 67 119	Three hundred forty-one Tanzanian preschool children
+T3	p 318 330	273 children
+T4	p 523 531	children
+T5	p 541 552	be infected
+T6	i 146 177	levamisole or placebo treatment
+T7	i 252 263	tri-monthly
+T8	i 458 468	levamisole
+T9	i 478 493	placebo-treated
+T10	i 653 663	levamisole
+T11	i 688 695	placebo
+T12	i 769 776	placebo
+T13	o 211 230	Weights and heights
+T14	o 395 414	rate of weight gain
+T15	o 584 603	rate of weight gain
+T16	o 714 733	rate of height gain

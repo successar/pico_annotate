@@ -1,0 +1,12 @@
+T1	p 70 116	cows immunized against Clostridium difficile .
+T2	p 368 409	C. difficile-associated diarrhea ( CDAD )
+T3	p 797 818	77 patients with CDAD
+T4	p 1207 1228	individuals with CDAD
+T5	i 20 44	whey protein concentrate
+T6	i 119 157	whey protein concentrate prepared from
+T7	i 276 281	toxin
+T8	i 464 522	anti-C. difficile whey protein concentrate ( anti-CD WPC )
+T9	i 709 735	whey protein concentrate .
+T10	i 858 869	anti-CD WPC
+T11	i 1176 1187	anti-CD WPC
+T12	o 1001 1030	hematological and biochemical

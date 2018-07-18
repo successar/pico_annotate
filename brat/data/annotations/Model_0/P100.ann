@@ -1,0 +1,12 @@
+T1	p 173 238	patients with chronic heart failure after myocardial infarction .
+T2	p 373 409	patients with heart failure ( HF ) .
+T3	p 575 637	patients with class II to IV HF and ejection fraction < 35 % .
+T4	p 1132 1159	myoblast-treated patients :
+T5	p 1849 1895	HF patients with postinfarction cardiomyopathy
+T6	i 441 459	placebo-controlled
+T7	i 528 535	placebo
+T8	o 81 114	safety and cardiovascular effects
+T9	o 662 777	frequency of serious adverse events ( safety ) and changes in 6-minute walk test and Minnesota Living With HF score
+T10	o 947 973	numbers of events occurred
+T11	o 1053 1110	deaths . Ventricular tachycardia responsive to amiodarone
+T12	o 1245 1264	functional capacity

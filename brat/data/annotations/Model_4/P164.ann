@@ -1,0 +1,8 @@
+T1	p 104 187	One hundred and twenty patients presenting at Macquarie Hospital for admission were
+T2	p 212 224	two groups .
+T3	p 243 251	patients
+T4	i 261 283	standard hospital care
+T5	i 298 299	.
+T6	i 497 506	assertive
+T7	i 531 547	treatment backed
+T8	o 945 954	satisfied

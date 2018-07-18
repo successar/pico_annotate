@@ -1,0 +1,29 @@
+T1	p 87 105	nonsmokers . Women
+T2	p 663 781	Sixty healthy women , half of whom had been using OCs for at least the previous 6 months , participated in the study .
+T3	p 812 819	smokers
+T4	p 1512 1517	women
+T5	p 1541 1557	nonsmoking women
+T6	i 6 24	Oral contraceptive
+T7	i 130 152	contraceptives ( OCs )
+T8	i 423 425	OC
+T9	i 585 608	nicotine administration
+T10	i 611 617	and OC
+T11	i 713 716	OCs
+T12	i 868 934	12-hr nicotine deprivation or administration of nicotine gum . One
+T13	i 1049 1060	speech task
+T14	i 1185 1193	nicotine
+T15	i 1394 1402	nicotine
+T16	i 1435 1447	nicotine gum
+T17	o 58 83	cardiovascular reactivity
+T18	o 182 212	risk of cardiovascular disease
+T19	o 278 303	Cardiovascular reactivity
+T20	o 307 327	psychological stress
+T21	o 625 639	cardiovascular
+T22	o 644 660	lipid reactivity
+T23	o 959 1007	Heart rate , blood pressure , and lipid measures
+T24	o 1013 1018	taken
+T25	o 1164 1193	of smoking status or nicotine
+T26	o 1209 1239	on cardiovascular reactivity .
+T27	o 1296 1366	greater heart rate and diastolic blood pressure reactivity to stress .
+T28	o 1467 1508	cardiovascular or lipid stress reactivity
+T29	o 1585 1620	cardiovascular reactivity to stress

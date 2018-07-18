@@ -1,0 +1,19 @@
+T1	p 6 90	Antioxidant supplementation and exercise-induced oxidative stress in the 60-year-old
+T2	p 245 310	older adults ( 60 ( SE 1 ) years ; BMI 26 ( SE 1 ) kg/m ( 2 ) ) .
+T3	p 1414 1434	60-year-old subjects
+T4	i 6 33	Antioxidant supplementation
+T5	i 106 116	antipyrine
+T6	i 159 186	antioxidant supplementation
+T7	i 358 373	supplementation
+T8	i 395 422	dl-alpha-tocopheryl acetate
+T9	i 432 445	ascorbic acid
+T10	i 457 484	beta-carotene , and placebo
+T11	i 637 647	Antipyrine
+T12	i 888 903	supplementation
+T13	i 1279 1294	supplementation
+T14	i 1435 1462	antioxidant supplementation
+T15	o 928 987	plasma concentrations of alpha-tocopherol and beta-carotene
+T16	o 1175 1264	exercise-induced increase in the ratios para- and ortho-hydroxyantipyrine to antipyrine .
+T17	o 1314 1394	exercise-induced increase in thiobarbituric acid reactive substances in plasma .
+T18	o 1463 1529	had no effect on the exercise-induced increase in oxidative stress
+T19	o 1545 1582	free radical products of antipyrine .

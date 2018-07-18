@@ -1,0 +1,25 @@
+T1	p 67 127	coronary sinus cannulation during biventricular implantation
+T2	p 302 337	coronary sinus ( CS ) cannulation .
+T3	p 765 896	Thirty-four consecutive patients were randomly assigned to the GCA ( 18 patients ) or EPA ( 16 patients ) CS cannulation strategy .
+T4	p 1295 1312	Cannulation of CS
+T5	i 154 167	Biventricular
+T6	i 382 463	dedicated guiding catheters ( guiding catheter alone positioning strategy , GCA )
+T7	i 486 615	electrophysiology catheter advanced inside the guiding catheter ( electrophysiology catheter aided positioning strategy , EPA ) .
+T8	i 657 670	EPA technique
+T9	i 741 756	GCA technique .
+T10	i 828 831	GCA
+T11	i 851 854	EPA
+T12	i 871 894	CS cannulation strategy
+T13	i 973 976	EPA
+T14	i 1014 1017	GCA
+T15	i 1080 1083	EPA
+T16	i 1120 1123	GCA
+T17	i 1221 1224	EPA
+T18	i 1261 1264	GCA
+T19	i 1336 1362	electrophysiology catheter
+T20	o 694 713	CS cannulation time
+T21	o 905 945	Time to successful catheterization of CS
+T22	o 1036 1052	Fluoroscopy time
+T23	o 1142 1202	Total contrast dye volume to search and engage the CS ostium
+T24	o 1415 1449	procedural time , fluoroscopy time
+T25	o 1454 1473	contrast dye volume

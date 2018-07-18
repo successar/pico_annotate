@@ -1,0 +1,12 @@
+T1	p 112 150	postoperative deep venous thrombosis .
+T2	p 167 211	postoperative deep venous thrombosis ( DVT )
+T3	p 928 941	United States
+T4	p 1097 1267	General surgical patients including those undergoing noncardiac thoracic and pelvic operations who were identified at moderate to high risk for postop DVT were included .
+T5	p 1456 1563	Eight hundred and eighty eight patients were entered into this trial and 744 ( 85 % ) completed the study .
+T6	i 547 584	dihydroergotamine ( DHE ) and heparin
+T7	i 982 1062	DHE 0.5 mg plus heparin 5000 U , DHE 0.5 mg plus heparin 2500 U , heparin 5000 U
+T8	i 1069 1079	DHE 0.5 mg
+T9	i 1087 1096	placebo .
+T10	i 1620 1627	DHE/Hep
+T11	i 1645 1652	placebo
+T12	o 1564 1732	Results showed a statistically significant benefit from DHE/Hep 5000 compared to placebo ( p less than 0.01 ) and compared to other active agents ( p less than 0.05 ) .

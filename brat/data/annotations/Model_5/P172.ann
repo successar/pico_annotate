@@ -1,0 +1,17 @@
+T1	p 717 752	100 consecutive patients . Patients
+T2	p 774 794	exhalation manoeuvre
+T3	p 1008 1032	severe pulmonary disease
+T4	p 1039 1052	patients with
+T5	p 1058 1059	<
+T6	p 1094 1117	( 0.80 ) mmol/min/kPa .
+T7	i 109 124	carbon monoxide
+T8	i 226 234	monoxide
+T9	i 403 414	inspiration
+T10	i 426 433	holding
+T11	i 641 657	standard ( Jones
+T12	i 662 667	Meade
+T13	i 687 713	holding TLCO ( TLCO , bh )
+T14	i 1384 1401	holding technique
+T15	o 481 497	prolonged breath
+T16	o 869 888	difference ( bias )
+T17	o 893 925	standard deviation ( precision )

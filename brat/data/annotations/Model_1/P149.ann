@@ -1,0 +1,9 @@
+T1	p 360 402	16 patients with ischaemic heart disease .
+T2	i 22 61	ionic and nonionic x-ray contrast media
+T3	i 145 172	Amidotrizoate and Iopromide
+T4	i 493 502	xenon-133
+T5	i 562 567	ionic
+T6	i 572 598	non-ionic contrast media .
+T7	o 90 100	myocardial
+T8	o 206 246	global myocardial perfusion and function
+T9	o 447 467	myocardial perfusion

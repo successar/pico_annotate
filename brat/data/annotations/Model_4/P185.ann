@@ -1,0 +1,22 @@
+T1	p 61 101	patients with alcoholic liver disease --
+T2	p 438 571	patients with alcoholic liver disease . Fifty patients with alcoholic liver disease ( 27 with cirrhosis , 23 without cirrhosis ) were
+T3	p 896 915	15 healthy controls
+T4	p 1688 1727	patients with alcoholic liver disease .
+T5	i 26 42	with paromomycin
+T6	i 119 137	placebo-controlled
+T7	i 223 245	gut-derived endotoxins
+T8	i 378 419	nonabsorbable , broad-spectrum antibiotic
+T9	i 601 654	either paromomycin sulfate ( 3 x 1 g/day ) or placebo
+T10	i 935 957	paromomycin or placebo
+T11	i 1318 1329	paromomycin
+T12	i 1352 1359	placebo
+T13	i 1396 1407	paromomycin
+T14	i 1547 1558	paromomycin
+T15	o 730 810	Endotoxin concentration , liver function tests , and other laboratory parameters
+T16	o 847 872	. Endotoxin concentration
+T17	o 1032 1064	initial endotoxin concentrations
+T18	o 1245 1273	mean endotoxin concentration
+T19	o 1447 1494	endotoxin concentration or liver function tests
+T20	o 1526 1543	beneficial effect
+T21	o 1572 1583	endotoxemia
+T22	o 1587 1597	cirrhotics

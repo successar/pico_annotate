@@ -1,0 +1,10 @@
+T1	p 147 210	2000 patients with stage IIB and III melanoma have participated
+T2	p 837 901	713 patients randomized to high-dose IFN-alpha 2b ( HDI ) or Obs
+T3	p 1776 1817	patients with high-risk resected melanoma
+T4	i 96 116	high-dose interferon
+T5	i 349 379	high-dose IFN-alpha 2b therapy
+T6	i 864 901	high-dose IFN-alpha 2b ( HDI ) or Obs
+T7	o 563 590	Survival and disease status
+T8	o 1196 1263	relapse-free survival ( RFS ) -but not overall survival ( OS ) -was
+T9	o 1469 1499	ulceration , recurrent disease
+T10	o 1722 1732	OS benefit

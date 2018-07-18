@@ -1,0 +1,19 @@
+T1	p 140 172	patients undergoing laparatomy .
+T2	p 450 482	patients undergoing laparotomy .
+T3	p 491 563	Eighty patients ( 18 to 65 years of age ) undergoing elective laparotomy
+T4	p 1921 1953	patients undergoing laparotomy .
+T5	p 2049 2081	patients undergoing laparatomy .
+T6	i 21 98	preoperative oral pregabalin and perioperative intravenous lidocaine infusion
+T7	i 223 300	preoperative oral pregabalin and perioperative intravenous lidocaine infusion
+T8	i 470 482	laparotomy .
+T9	i 638 886	placebo capsules and normal saline infusion perioperatively ( control ) ; group L , placebo capsules and lidocaine 1 mg?kg intravenous bolus dose followed by 2 mg?kg?h infusion until skin closure ; group P , 150 mg oral pregabalin and normal saline
+T10	i 945 974	oral pregabalin and lidocaine
+T11	i 1602 1670	Preoperative oral pregabalin and perioperative intravenous lidocaine
+T12	i 1807 1816	lidocaine
+T13	i 1941 2015	laparotomy . Therefore , preoperative pregabalin with or without lidocaine
+T14	o 102 136	postoperative morphine requirement
+T15	o 304 446	postoperative morphine requirement , adverse effects , patients ' satisfaction , mobilization , time to first defecation and time to discharge
+T16	o 1000 1213	skin closure . Hemodynamic parameters , visual analogue scale ( VAS ) scores , analgesic consumption , side effects , time to mobilization , time to first defecation , time to discharge and patients ' satisfaction
+T17	o 1238 1248	VAS scores
+T18	o 1690 1776	postoperative VAS scores . Preoperative oral pregabalin decreased morphine requirement
+T19	o 1898 1917	incidence of nausea

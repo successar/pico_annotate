@@ -1,0 +1,13 @@
+T1	p 314 368	patients with Posttraumatic stress disorder ( PTSD ) .
+T2	p 580 681	patients were recruited from five primary care clinics at four Veterans Affairs healthcare facilities
+T3	p 838 925	Participants were 195 Veterans . Their average age was 45 years , 91 % were male , 58 %
+T4	p 995 1004	Vietnam .
+T5	i 137 155	collaborative care
+T6	i 278 309	collaborative care specifically
+T7	i 392 468	collaborative approach , the Three Component Model ( 3CM ) , with usual care
+T8	i 708 743	usual care or usual care plus 3CM .
+T9	i 1044 1056	usual care .
+T10	i 1100 1184	telephone care management . Care managers received supervision from a psychiatrist .
+T11	i 1773 1798	collaborative care models
+T12	o 1229 1325	primary outcome . Depression , functioning , perceived quality of care , utilization , and costs
+T13	o 1631 1695	more mental health visits and higher outpatient pharmacy costs .

@@ -1,0 +1,9 @@
+T1	i 6 43	Vibrotactile -- auditory interactions
+T2	i 48 65	post-perceptual .
+T3	i 440 460	auditory stimulation
+T4	o 109 128	auditory sensations
+T5	o 466 470	tone
+T6	o 473 477	tone
+T7	o 481 507	detection threshold , tone
+T8	o 639 675	perceived loudness of auditory tones
+T9	o 972 983	performance

@@ -1,0 +1,27 @@
+T1	p 100 135	patients with early breast cancer :
+T2	p 314 347	patients with early breast cancer
+T3	i 25 48	dose-dense FEC regimens
+T4	i 54 75	growth factor support
+T5	i 243 278	epirubicin to adjuvant chemotherapy
+T6	i 517 522	FEC )
+T7	i 551 554	FEC
+T8	i 618 621	FEC
+T9	i 709 723	dose-dense FEC
+T10	i 777 780	FEC
+T11	i 791 794	FEC
+T12	i 886 901	pegfilgrastim 6
+T13	i 917 939	subcutaneous injection
+T14	i 1124 1127	FEC
+T15	i 1139 1142	FEC
+T16	i 1179 1182	FEC
+T17	i 1242 1245	FEC
+T18	i 1524 1527	FEC
+T19	i 1856 1870	dose-dense FEC
+T20	i 1882 1885	FEC
+T21	o 1317 1363	adverse events and personal/logistical reasons
+T22	o 1439 1486	diarrhoea . Grade 3-4 haematological toxicities
+T23	o 1555 1588	incidences of febrile neutropenia
+T24	o 1624 1638	adverse events
+T25	o 1657 1700	liver enzymes and gastrointestinal events ;
+T26	o 1784 1839	serious adverse events ( vomiting and throat oedema ) .
+T27	o 1989 2009	Grade 3-4 toxicity .

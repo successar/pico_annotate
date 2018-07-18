@@ -1,0 +1,12 @@
+T1	p 28 52	advanced breast cancer .
+T2	p 285 308	advanced breast cancers
+T3	p 352 441	in cooperation with the departments of medicine in eight French anticancer centres . They
+T4	i 12 24	chemotherapy
+T5	i 698 710	chemotherapy
+T6	i 730 741	vincristine
+T7	i 775 791	cyclophosphamide
+T8	i 839 878	doxorubicine or/and with methotrexate .
+T9	i 945 957	doxorubicine
+T10	i 1368 1380	chemotherapy
+T11	o 981 990	frequency
+T12	o 1079 1086	quality

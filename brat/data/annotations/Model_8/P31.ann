@@ -1,0 +1,36 @@
+T1	p 29 58	infants with gastrointestinal
+T2	p 91 102	impedance .
+T3	p 737 752	control infants
+T4	p 767 806	infants with different gastrointestinal
+T5	p 862 863	.
+T6	p 871 899	21 patients ( age 0-2 months
+T7	p 902 941	and 40 healthy infants ( age 0-2 months
+T8	p 986 1103	from partial or total intestinal obstruction , necrotizing enterocolitis or pyloric stenosis.All infants were fasting
+T9	p 1298 1299	.
+T10	p 1363 1371	patients
+T11	p 1418 1420	21
+T12	p 1493 1513	the normal infants (
+T13	p 1577 1629	infants with partial or total intestinal obstruction
+T14	p 1634 1641	gastric
+T15	p 1687 1704	control infants .
+T16	i 240 250	electrical
+T17	i 721 733	gastrography
+T18	i 1807 1814	control
+T19	o 14 25	dysrhythmia
+T20	o 77 90	by epigastric
+T21	o 179 192	myoelectrical
+T22	o 297 343	gastric myoelectrical activity and dysrhythmia
+T23	o 412 432	Epigastric impedance
+T24	o 480 523	emptying time and gastric phasic activity .
+T25	o 547 566	gastric dysrhythmia
+T26	o 578 593	with epigastric
+T27	o 711 733	impedance gastrography
+T28	o 1002 1044	total intestinal obstruction , necrotizing
+T29	o 1246 1256	pathologic
+T30	o 1313 1336	phasic activity pattern
+T31	o 1379 1404	frequency phasic activity
+T32	o 1443 1458	phasic activity
+T33	o 1542 1562	epigastric impedance
+T34	o 1601 1629	total intestinal obstruction
+T35	o 1634 1657	gastric phasic activity
+T36	o 1723 1746	gastric phasic activity

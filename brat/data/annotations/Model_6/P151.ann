@@ -1,0 +1,21 @@
+T1	p 32 39	anxiety
+T2	p 248 345	92 outpatients affected by generalized anxiety disorders for at least 1 month , was carried out .
+T3	p 888 924	Seventy-eight patients completed the
+T4	p 1485 1493	patients
+T5	i 19 28	ketazolam
+T6	i 59 77	placebo-controlled
+T7	i 159 203	of ketazolam ( 15 and 30 mg ) with placebo ,
+T8	i 405 414	ketazolam
+T9	i 433 440	placebo
+T10	i 1148 1155	placebo
+T11	i 1565 1572	placebo
+T12	o 287 294	anxiety
+T13	o 541 593	the total Hamilton Anxiety Rating Scale ( HAM-A ) of
+T14	o 768 775	Anxiety
+T15	o 815 838	Italian HAM-A scale and
+T16	o 1005 1015	responders
+T17	o 1179 1184	HAM-A
+T18	o 1206 1215	ketazolam
+T19	o 1392 1405	4-point scale
+T20	o 1518 1530	Tolerability
+T21	o 1626 1636	headache .

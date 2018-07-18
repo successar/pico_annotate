@@ -1,0 +1,23 @@
+T1	p 59 78	stroke patients ] .
+T2	p 111 131	hemiparetic patients
+T3	p 244 307	PATIENTS Twenty-six patients within 3 months of onset of stroke
+T4	p 450 477	groups with left hemiplegia
+T5	p 559 576	Thirteen patients
+T6	i 6 55	[ Postural biofeedback and locomotion reeducation
+T7	i 157 243	conventional physical therapy alone or with a specialised balance retraining program .
+T8	i 327 418	receive physical therapy ( control group ) or therapy and retraining ( experimental group )
+T9	i 586 711	early conventional therapy , and 13 received therapy combined with standing balance training by biofeedback ( BPM Monitor ) .
+T10	i 791 834	walk ( JM ) and 30 days later ( JM + 30 ) .
+T11	i 895 907	Vicon system
+T12	i 1693 1741	visual biofeedback by forceplate system training
+T13	o 835 865	Gait spatiotemporal parameters
+T14	o 980 995	clinical scores
+T15	o 1055 1120	spasticity . The time between stroke and the beginning of walking
+T16	o 1175 1188	Gait velocity
+T17	o 1293 1308	walking pattern
+T18	o 1368 1419	of the duration of the paretic limb single stance .
+T19	o 1470 1509	duration of the reception double stance
+T20	o 1513 1529	the paretic limb
+T21	o 1538 1540	JM
+T22	o 1681 1711	benefits of visual biofeedback
+T23	o 1776 1800	anticipation equilibrium

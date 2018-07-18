@@ -1,0 +1,66 @@
+T1	p 74 140	patients with chemotherapy-induced painful peripheral neuropathy :
+T2	p 277 278	.
+T3	p 468 511	8 National Cancer Institute ( NCI ) -funded
+T4	p 547 626	enrolled 231 patients who were 25 years or older being treated at community and
+T5	p 636 680	settings between April 2008 and March 2011 .
+T6	p 711 722	July 2012 .
+T7	p 759 792	and comorbid pain risk , patients
+T8	p 934 939	grade
+T9	p 981 987	to the
+T10	p 1073 1090	10 , representing
+T11	p 1099 1119	chemotherapy-induced
+T12	p 1555 1573	neuropathic pain .
+T13	p 1668 1683	representing no
+T14	p 1689 1711	and 10 representing as
+T15	p 1745 1756	Individuals
+T16	p 1767 1780	duloxetine as
+T17	p 1923 1928	those
+T18	p 2108 2129	Fifty-nine percent of
+T19	p 2283 2325	patients with painful chemotherapy-induced
+T20	i 16 26	duloxetine
+T21	i 88 108	chemotherapy-induced
+T22	i 234 254	chemotherapy-induced
+T23	i 316 326	duloxetine
+T24	i 335 340	daily
+T25	i 430 448	placebo-controlled
+T26	i 737 753	chemotherapeutic
+T27	i 827 877	duloxetine followed by placebo or placebo followed
+T28	i 881 893	duloxetine .
+T29	i 1133 1187	paclitaxel , other taxane , or oxaliplatin treatment .
+T30	i 1244 1259	1 capsule daily
+T31	i 1270 1272	30
+T32	i 1279 1300	duloxetine or placebo
+T33	i 1326 1334	capsules
+T34	i 1345 1347	30
+T35	i 1354 1381	duloxetine or placebo daily
+T36	i 1386 1387	4
+T37	i 1461 1471	duloxetine
+T38	i 1501 1508	placebo
+T39	i 1767 1777	duloxetine
+T40	i 1942 1949	placebo
+T41	i 2050 2060	duloxetine
+T42	i 2065 2072	placebo
+T43	i 2156 2166	duloxetine
+T44	i 2204 2211	placebo
+T45	i 2305 2325	chemotherapy-induced
+T46	i 2361 2371	duloxetine
+T47	i 2386 2393	placebo
+T48	o 30 67	pain , function , and quality of life
+T49	o 109 116	painful
+T50	o 234 254	chemotherapy-induced
+T51	o 346 369	average pain severity .
+T52	o 772 776	pain
+T53	o 940 970	1 or higher sensory neuropathy
+T54	o 1011 1038	Criteria for Adverse Events
+T55	o 1099 1124	chemotherapy-induced pain
+T56	o 1523 1554	chemotherapy-induced peripheral
+T57	o 1567 1587	pain . Pain severity
+T58	o 1617 1660	Pain Inventory-Short Form average pain item
+T59	o 1684 1688	pain
+T60	o 1840 1855	average pain of
+T61	o 2023 2041	average pain score
+T62	o 2231 2238	pain of
+T63	o 2243 2251	amount .
+T64	o 2305 2353	chemotherapy-induced peripheral neuropathy , the
+T65	o 2428 2437	reduction
+T66	o 2441 2445	pain

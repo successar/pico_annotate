@@ -1,0 +1,41 @@
+T1	p 81 134	postmenopausal breast cancer survivors with bone loss
+T2	p 381 423	223 postmenopausal breast cancer survivors
+T3	p 584 645	postmenopausal breast cancer survivors ( BCS ) with bone loss
+T4	p 1111 1137	Postmenopausal BCS ( 223 )
+T5	i 20 35	weight training
+T6	i 227 252	weight training exercises
+T7	i 666 677	risedronate
+T8	i 680 687	calcium
+T9	i 694 703	vitamin D
+T10	i 896 937	strength/weight training ( ST ) exercises
+T11	i 1164 1188	exercise plus medication
+T12	i 1192 1202	medication
+T13	i 1263 1270	calcium
+T14	i 1285 1294	vitamin D
+T15	i 1314 1325	risedronate
+T16	i 1343 1351	exercise
+T17	i 1375 1387	ST exercises
+T18	i 1444 1455	medications
+T19	i 1464 1474	exercising
+T20	i 1656 1665	exercised
+T21	i 2002 2010	exercise
+T22	i 2165 2199	Strength/weight training exercises
+T23	o 39 59	bone mineral density
+T24	o 64 77	bone turnover
+T25	o 349 377	bone mineral density ( BMD )
+T26	o 498 501	BMD
+T27	o 531 534	BMD
+T28	o 718 746	bone mineral density ( BMD )
+T29	o 840 853	bone turnover
+T30	o 963 966	BMD
+T31	o 992 1005	bone turnover
+T32	o 1097 1100	BMD
+T33	o 1507 1510	BMD
+T34	o 1591 1601	Alkphase B
+T35	o 1617 1626	serum NTx
+T36	o 1694 1697	BMD
+T37	o 1831 1841	Alkphase B
+T38	o 1857 1866	Serum NTx
+T39	o 1902 1923	BMD and bone turnover
+T40	o 2036 2039	BMD
+T41	o 2220 2223	BMD

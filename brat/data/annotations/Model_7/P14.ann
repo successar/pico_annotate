@@ -1,0 +1,27 @@
+T1	p 50 79	persons with osteoarthritis .
+T2	p 485 629	Recruited 249 adults from Washington State aged 55 to 75 with a doctor-confirmed diagnosis of osteoarthritis to participate in aquatic classes .
+T3	i 29 45	aquatic exercise
+T4	i 419 428	cost/QALY
+T5	i 664 667	QWB
+T6	i 774 792	arthritis-specific
+T7	i 1058 1059	.
+T8	i 1067 1089	health care facilities
+T9	i 1108 1130	diaries/questionnaires
+T10	i 1478 1488	Costs/QALY
+T11	i 1592 1600	exercise
+T12	i 1867 1875	exercise
+T13	o 103 107	cost
+T14	o 257 310	. Cost per quality-adjusted life year ( QALY ) gained
+T15	o 634 717	Quality of Well-Being Scale ( QWB ) and Current Health Desirability Rating ( CHDR )
+T16	o 732 766	economic evaluation , supplemented
+T17	o 770 941	the arthritis-specific Health Assessment Questionnaire ( HAQ ) , Center for Epidemiologic Studies-Depression Scale ( CES-D ) , and Perceived Quality of Life Scale ( PQOL )
+T18	o 1007 1022	life expectancy
+T19	o 1052 1078	QALYs . Use of health care
+T20	o 1135 1163	Medicare reimbursement rates
+T21	o 1172 1212	estimate costs . Nonparametric bootstrap
+T22	o 1225 1242	costs/QALY ratios
+T23	o 1326 1411	equal ( QWB ) or better ( CHDR , HAQ , PQOL ) health-related quality of life compared
+T24	o 1451 1506	regular class attendance . Costs/QALY gained discounted
+T25	o 1623 1634	QALY gained
+T26	o 1766 1776	Confidence
+T27	o 1837 1855	cost effectiveness

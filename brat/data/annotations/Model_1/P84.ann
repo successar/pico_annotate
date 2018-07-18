@@ -1,0 +1,15 @@
+T1	p 71 105	localized juvenile periodontitis .
+T2	p 323 374	16 patients with localized juvenile periodontitis .
+T3	p 1240 1288	patients with localized juvenile periodontitis .
+T4	i 32 54	adjunctive doxycycline
+T5	i 136 154	placebo-controlled
+T6	i 219 230	doxycycline
+T7	i 1152 1180	mechanical debridement alone
+T8	i 1225 1236	doxycycline
+T9	o 10 28	immediate efficacy
+T10	o 168 215	immediate clinical and microbiological efficacy
+T11	o 391 465	gingival fluid flow , probing depths , bleeding on probing and suppuration
+T12	o 582 611	Subgingival bacterial samples
+T13	o 659 671	Spirochaetes
+T14	o 693 716	dark-field microscopy .
+T15	o 1076 1124	short-term clinical nor microbiological efficacy

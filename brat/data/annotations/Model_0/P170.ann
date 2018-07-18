@@ -1,0 +1,5 @@
+T1	i 363 384	cephapirin benzathine
+T2	i 429 498	cephapirin benzathine at drying off and intramuscular oxytetracycline
+T3	i 1280 1307	cephapirin treatment only .
+T4	i 1426 1519	cephapirin therapy only . Systemic oxytetracycline , in combination with intramammary dry cow
+T5	o 1552 1589	rate of cure for S. aureus mastitis .

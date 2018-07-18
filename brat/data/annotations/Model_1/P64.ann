@@ -1,0 +1,19 @@
+T1	p 99 146	intracranial three-dimensional CT angiography :
+T2	p 835 862	10 patients in each group .
+T3	i 25 40	contrast agents
+T4	i 416 431	( higher iodine
+T5	i 449 469	higher concentration
+T6	i 574 613	multidetector-row CT ( MDCT ) scanner .
+T7	i 644 788	100 ml of iopamidol 300 at an injection rate of 3.0 ml/s , 100 ml of iopamidol 300 at an injection rate of 3.7 ml/s , and 80 ml of iopamidol 370
+T8	i 1143 1170	high-concentration contrast
+T9	i 1178 1200	higher iodine-delivery
+T10	i 1292 1298	iodine
+T11	i 1327 1357	intermediate concentrate agent
+T12	i 1432 1459	High-concentration contrast
+T13	o 147 196	evaluation of intracranial arteriovenous contrast
+T14	o 261 368	difference in computed tomography ( CT ) attenuation values of the intracranial arterial and venous systems
+T15	o 863 1013	Attenuation values of the bilateral internal carotid arteries ( ICAs ) , basilar artery trunk , bilateral cavernous sinuses ( CSs ) , and Galenic vein
+T16	o 1220 1242	arteriovenous contrast
+T17	o 1372 1380	CT value
+T18	o 1475 1490	ICA attenuation
+T19	o 1499 1525	intracavernous attenuation

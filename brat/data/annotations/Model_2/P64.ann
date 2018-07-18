@@ -1,0 +1,41 @@
+T1	p 145 146	:
+T2	p 226 233	scanner
+T3	p 604 611	scanner
+T4	p 835 854	10 patients in each
+T5	p 889 924	bilateral internal carotid arteries
+T6	p 936 958	basilar artery trunk ,
+T7	p 1050 1055	axial
+T8	i 6 11	Bolus
+T9	i 25 33	contrast
+T10	i 54 60	iodine
+T11	i 130 146	CT angiography :
+T12	i 205 235	multidetector-row CT scanner .
+T13	i 284 301	tomography ( CT )
+T14	i 540 554	CT angiography
+T15	i 574 613	multidetector-row CT ( MDCT ) scanner .
+T16	i 648 670	ml of iopamidol 300 at
+T17	i 707 729	ml of iopamidol 300 at
+T18	i 769 791	ml of iopamidol 370 at
+T19	i 927 933	ICAs )
+T20	i 936 950	basilar artery
+T21	i 957 958	,
+T22	i 1001 1008	Galenic
+T23	i 1111 1117	MDCT .
+T24	i 1292 1309	iodine delivery ,
+T25	i 1323 1357	the intermediate concentrate agent
+T26	i 1432 1459	High-concentration contrast
+T27	i 1475 1478	ICA
+T28	o 80 94	delivery rates
+T29	o 161 173	intracranial
+T30	o 341 349	arterial
+T31	o 441 469	rate or higher concentration
+T32	o 684 688	rate
+T33	o 743 747	rate
+T34	o 805 809	rate
+T35	o 863 881	Attenuation values
+T36	o 932 956	) , basilar artery trunk
+T37	o 1009 1013	vein
+T38	o 1143 1161	high-concentration
+T39	o 1185 1233	iodine-delivery rate achieved good arteriovenous
+T40	o 1475 1490	ICA attenuation
+T41	o 1514 1530	attenuation gain

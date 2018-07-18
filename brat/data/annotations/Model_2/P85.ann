@@ -1,0 +1,67 @@
+T1	p 97 104	walking
+T2	p 120 150	patients with chronic stroke .
+T3	p 414 441	of a Department of Physical
+T4	p 450 508	. SUBJECTS Fifteen subjects with post-stroke hemiparesis .
+T5	p 527 536	locomotor
+T6	p 721 732	kinesthetic
+T7	p 1430 1432	of
+T8	p 1678 1681	the
+T9	p 2167 2176	locomotor
+T10	p 2269 2308	patients with post-stroke hemiparesis .
+T11	i 6 92	Visual and kinesthetic locomotor imagery training integrated with auditory step rhythm
+T12	i 186 192	visual
+T13	i 197 235	kinesthetic locomotor imagery training
+T14	i 318 326	auditory
+T15	i 348 356	training
+T16	i 442 451	Therapy .
+T17	i 527 554	locomotor imagery trainings
+T18	i 587 716	locomotor imagery training , kinesthetic locomotor imagery training , visual locomotor imagery training with auditory step rhythm
+T19	i 721 773	kinesthetic locomotor imagery training with auditory
+T20	i 779 785	rhythm
+T21	i 839 870	electromyographic and kinematic
+T22	i 1055 1081	locomotor imagery training
+T23	i 1125 1189	kinesthetic locomotor imagery training with auditory step rhythm
+T24	i 1250 1255	swing
+T25	i 1280 1318	kinesthetic locomotor imagery training
+T26	i 1484 1510	locomotor imagery training
+T27	i 1610 1638	locomotor imagery training .
+T28	i 1682 1687	swing
+T29	i 1694 1697	and
+T30	i 1702 1715	gastrocnemius
+T31	i 1856 1886	locomotor imagery training and
+T32	i 1891 1948	kinesthetic locomotor imagery training with auditory step
+T33	i 2037 2075	kinesthetic locomotor imagery training
+T34	i 2095 2123	locomotor imagery training .
+T35	i 2167 2193	locomotor imagery training
+T36	o 13 28	and kinesthetic
+T37	o 86 116	rhythm for walking performance
+T38	o 186 208	visual and kinesthetic
+T39	o 239 258	walking performance
+T40	o 558 586	walking performance : visual
+T41	o 616 627	kinesthetic
+T42	o 710 732	rhythm and kinesthetic
+T43	o 814 879	timed up-and-go test and electromyographic and kinematic analyses
+T44	o 1007 1027	timed up-and-go test
+T45	o 1048 1054	visual
+T46	o 1125 1136	kinesthetic
+T47	o 1183 1189	rhythm
+T48	o 1250 1273	swing and stance phases
+T49	o 1280 1291	kinesthetic
+T50	o 1353 1363	activation
+T51	o 1377 1398	number of muscles and
+T52	o 1409 1429	angular displacement
+T53	o 1437 1458	knee and ankle joints
+T54	o 1570 1576	rhythm
+T55	o 1643 1653	activation
+T56	o 1727 1739	stance phase
+T57	o 1745 1749	well
+T58	o 1753 1770	kinematic data of
+T59	o 1830 1836	values
+T60	o 1849 1855	visual
+T61	o 1891 1902	kinesthetic
+T62	o 1949 1955	rhythm
+T63	o 2037 2048	kinesthetic
+T64	o 2088 2094	visual
+T65	o 2128 2136	auditory
+T66	o 2222 2228	effect
+T67	o 2246 2265	walking performance

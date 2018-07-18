@@ -1,0 +1,24 @@
+T1	p 131 141	children .
+T2	p 241 259	tonsillectomy with
+T3	p 263 298	without adenoidectomy in children .
+T4	p 352 477	90 paediatric patients , ASA I , aged 4-10 years , received granisetron 40 mg kg-1 or perphenazine 70 mg kg-1 ( n = 45 each )
+T5	p 1139 1198	children undergoing general anaesthesia for tonsillectomy .
+T6	i 30 54	prophylactic granisetron
+T7	i 69 81	perphenazine
+T8	i 175 204	granisetron with perphenazine
+T9	i 271 284	adenoidectomy
+T10	i 412 463	granisetron 40 mg kg-1 or perphenazine 70 mg kg-1 (
+T11	i 537 550	anaesthesia .
+T12	i 768 779	granisetron
+T13	i 794 806	perphenazine
+T14	i 1026 1037	granisetron
+T15	i 1067 1079	perphenazine
+T16	o 104 127	post-operative vomiting
+T17	o 226 234	vomiting
+T18	o 629 637	response
+T19	o 651 665	no emesis with
+T20	o 669 673	need
+T21	o 678 705	another rescue antiemetic ,
+T22	o 841 850	incidence
+T23	o 938 971	clinically serious adverse events
+T24	o 1112 1135	post-operative vomiting

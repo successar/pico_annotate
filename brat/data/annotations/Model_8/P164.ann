@@ -1,0 +1,20 @@
+T1	p 25 55	of psychiatric hospital versus
+T2	p 102 159	. One hundred and twenty patients presenting at Macquarie
+T3	p 173 182	admission
+T4	p 261 278	standard hospital
+T5	p 312 344	group patients were not admitted
+T6	p 433 441	team who
+T7	p 451 455	them
+T8	p 466 475	relatives
+T9	p 869 880	relatives .
+T10	p 906 911	group
+T11	p 1042 1053	psychiatric
+T12	p 1063 1069	in the
+T13	p 1113 1118	their
+T14	i 261 278	standard hospital
+T15	i 456 475	and their relatives
+T16	i 481 494	comprehensive
+T17	i 863 890	group relatives . Relatives
+T18	i 979 986	control
+T19	i 993 1002	relatives
+T20	o 945 954	satisfied

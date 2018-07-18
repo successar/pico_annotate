@@ -1,0 +1,16 @@
+T1	p 282 289	at high
+T2	p 414 420	stroke
+T3	p 450 451	,
+T4	p 460 476	arrest and heart
+T5	i 206 216	ramipril -
+T6	i 220 269	angiotensin-converting enzyme ( ACE ) inhibitor -
+T7	i 338 346	ramipril
+T8	i 581 603	therapy with vitamin E
+T9	i 683 704	ACE inhibitor therapy
+T10	o 60 72	Evaluation (
+T11	o 132 144	Evaluation (
+T12	o 150 151	)
+T13	o 299 322	cardiovascular events .
+T14	o 373 484	rates of death , myocardial infarction , stroke , coronary revascularization , cardiac arrest and heart failure
+T15	o 507 540	of diabetes-related complications
+T16	o 793 809	blood pressure .

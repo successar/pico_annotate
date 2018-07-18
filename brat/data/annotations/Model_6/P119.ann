@@ -1,0 +1,22 @@
+T1	p 49 60	sickle cell
+T2	p 108 119	sickle cell
+T3	p 599 616	children with SCA
+T4	p 645 678	the 113 children with SCA studied
+T5	p 682 695	two hospitals
+T6	p 761 768	painful
+T7	p 778 782	than
+T8	p 1477 1496	children with SCA .
+T9	i 19 29	lime juice
+T10	i 386 396	lime juice
+T11	i 533 543	lime juice
+T12	i 1414 1419	juice
+T13	o 61 67	anemia
+T14	o 433 454	recurrent bone pain .
+T15	o 740 745	rates
+T16	o 761 777	painful episodes
+T17	o 878 887	rates per
+T18	o 966 982	painful episodes
+T19	o 1010 1025	febrile illness
+T20	o 1055 1069	admission rate
+T21	o 1114 1132	mean hematocrit of
+T22	o 1227 1300	transfusion rate , presence of hepatomegaly , splenomegaly , and jaundice

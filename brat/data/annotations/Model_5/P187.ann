@@ -1,0 +1,32 @@
+T1	p 117 187	peptide in patients with hemodynamically decompensated heart failure .
+T2	p 282 313	decompensated cardiac failure .
+T3	p 427 448	human heart failure .
+T4	p 540 596	16 decompensated heart failure patients in an invasive ,
+T5	p 939 947	patients
+T6	p 951 965	the hBNP group
+T7	p 1958 1987	decompensated heart failure .
+T8	i 211 230	natriuretic peptide
+T9	i 233 237	hBNP
+T10	i 516 520	hBNP
+T11	i 625 643	placebo-controlled
+T12	i 723 744	treatment ( placebo [
+T13	i 760 797	hBNP 0.025 or 0.05 microgram/kg/min [
+T14	i 807 808	)
+T15	i 815 829	post-treatment
+T16	i 1425 1432	placebo
+T17	o 15 26	hemodynamic
+T18	o 29 42	neurohormonal
+T19	o 49 62	renal effects
+T20	o 371 376	renal
+T21	o 832 853	Urinary volume losses
+T22	o 1017 1023	events
+T23	o 1026 1030	hBNP
+T24	o 1066 1126	right atrial pressure and pulmonary capillary wedge pressure
+T25	o 1199 1235	lowered systemic vascular resistance
+T26	o 1302 1319	unloading effects
+T27	o 1356 1369	cardiac index
+T28	o 1400 1412	heart rate .
+T29	o 1450 1508	plasma norepinephrine and aldosterone . Renal hemodynamics
+T30	o 1634 1645	hemodynamic
+T31	o 1755 1769	cardiac output
+T32	o 1789 1850	heart rate . 3 ) Plasma norepinephrine and aldosterone levels

@@ -1,0 +1,21 @@
+T1	p 584 751	patients with multivessel coronary artery disease were randomized to receive either coronary artery bypass grafting or percutaneous transluminal coronary angioplasty .
+T2	i 130 141	Angioplasty
+T3	i 176 184	BARI ) .
+T4	i 407 410	ECG
+T5	i 668 784	coronary artery bypass grafting or percutaneous transluminal coronary angioplasty . The St. Louis University program
+T6	i 860 869	Minnesota
+T7	i 875 881	( MC )
+T8	i 899 929	modified NOVACODE hierarchical
+T9	i 998 1010	coding loupe
+T10	i 1036 1043	MC from
+T11	i 1046 1073	customized software program
+T12	i 1228 1240	coding rules
+T13	i 1291 1293	MC
+T14	i 1579 1581	MC
+T15	o 94 115	myocardial infarction
+T16	o 192 212	electrocardiographic
+T17	o 215 218	ECG
+T18	o 825 827	ST
+T19	o 1515 1531	wave progression
+T20	o 1706 1736	grade 1 MC Q wave progressions
+T21	o 1871 1903	grade 2 Q wave progression codes

@@ -1,0 +1,5 @@
+T1	p 792 900	25,511 people aged 50-74 years to complete an eligibility questionnaire . Eligible respondents ( n = 3,408 )
+T2	i 492 569	computerised decision support to non-tailored computer or paper information .
+T3	i 918 1014	Tailored Personalised Decision Support ( TPDS ) , Non-Tailored PDS ( NTPDS ) , or Control ( CG )
+T4	i 1245 1260	paper BS only .
+T5	o 2627 2664	attitudes , perceptions and behaviour

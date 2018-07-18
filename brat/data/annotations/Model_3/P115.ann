@@ -1,0 +1,23 @@
+T1	p 490 513	chemotherapy for breast
+T2	p 827 875	chemotherapy-na?ve patients with breast cancer .
+T3	p 1128 1167	94 women was 51 years ( range 27-76 ) :
+T4	i 32 50	placebo-controlled
+T5	i 115 128	dexamethasone
+T6	i 151 172	adjuvant chemotherapy
+T7	i 364 377	dexamethasone
+T8	i 543 567	dexamethasone or placebo
+T9	i 757 779	oral dexamethasone ( 4
+T10	i 815 822	placebo
+T11	i 910 977	granisetron and dexamethasone pre-chemotherapy and oral granisetron
+T12	i 1384 1391	placebo
+T13	i 1467 1480	dexamethasone
+T14	i 1676 1689	dexamethasone
+T15	i 1862 1886	dexamethasone or placebo
+T16	i 1911 1923	chemotherapy
+T17	o 85 100	quality of life
+T18	o 592 660	delayed nausea and vomiting , and to compare quality of life ( QOL )
+T19	o 1084 1090	of QOL
+T20	o 1535 1598	intensity of vomiting , nausea , or time to onset of vomiting .
+T21	o 1629 1639	global QOL
+T22	o 1695 1720	other symptom/QOL domains
+T23	o 1801 1839	patient preference , QOL , or symptoms

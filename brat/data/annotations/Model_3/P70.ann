@@ -1,0 +1,14 @@
+T1	p 119 168	Eighty-three patients with small cell lung cancer
+T2	p 358 369	74 patients
+T3	i 18 66	liu wei di huang or jin gui shen qi decoction as
+T4	i 209 357	traditional Chinese Kidney-tonifying decoction ( Liu Wei Di Huang or Jin Gui Shen Qi medicinal decoction ) in chemotherapy or radiotherapy courses .
+T5	i 778 812	Chinese Kidney-tonifying decoction
+T6	i 1000 1012	Chinese herb
+T7	i 1390 1410	medicinal decoctions
+T8	i 1520 1554	Chinese Kidney-tonifying decoction
+T9	o 542 579	response rate and the median survival
+T10	o 605 636	overall response rate ( CR+PR )
+T11	o 728 743	median survival
+T12	o 880 894	Survival curve
+T13	o 1157 1174	disease-free life
+T14	o 1199 1221	Hematologic toxicities

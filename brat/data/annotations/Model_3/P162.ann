@@ -1,0 +1,16 @@
+T1	p 51 69	premature monkey :
+T2	i 81 106	antenatal dexamethasone .
+T3	i 137 171	antenatal glucocorticoid treatment
+T4	i 300 330	dexamethasone ( 2 mg/dose ) 72
+T5	i 438 444	saline
+T6	i 1512 1525	dexamethasone
+T7	i 1633 1646	dexamethasone
+T8	o 509 531	incidence and severity
+T9	o 707 731	volume-pressure behavior
+T10	o 762 784	greater distensibility
+T11	o 952 1009	Accelerated production of surface active material ( SAM )
+T12	o 1097 1120	total lung phospholipid
+T13	o 1203 1228	lavage fluid phospholipid
+T14	o 1307 1360	alveolar lavage fluid disaturated phosphatidylcholine
+T15	o 1443 1489	Incorporation of 14C-palmitate into lung lipid
+T16	o 1837 1862	fetal pulmonary functions

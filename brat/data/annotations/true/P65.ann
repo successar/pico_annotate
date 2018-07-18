@@ -1,0 +1,11 @@
+T1	p 79 126	children with pervasive developmental disorders
+T2	i 45 55	medication
+T3	i 60 75	parent training
+T4	i 221 232	risperidone
+T5	i 238 264	structured parent training
+T6	i 286 297	risperidone
+T7	o 318 371	noncompliance , irritability and adaptive functioning
+T8	o 409 446	tantrums , aggression and self-injury
+T9	o 489 527	noncompliance and adaptive functioning
+T10	o 799 806	symptom
+T11	o 821 831	functional

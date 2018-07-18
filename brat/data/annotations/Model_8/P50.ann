@@ -1,0 +1,34 @@
+T1	p 114 205	patients with acute myeloid leukemia and myelodysplastic syndromes : a Japanese multicenter
+T2	p 354 355	=
+T3	p 383 384	=
+T4	p 394 482	patients with acute myeloid leukemia ( AML ) or myelodysplastic syndromes ( MDS ) during
+T5	p 521 531	cases with
+T6	p 734 757	patients with MDS or in
+T7	p 832 840	probable
+T8	p 967 987	patients with AML or
+T9	p 1174 1187	of 9 patients
+T10	p 1250 1254	of 7
+T11	p 1337 1387	patients with AML or MDS who received chemotherapy
+T12	i 33 79	itraconazole capsules and fluconazole capsules
+T13	i 338 349	fluconazole
+T14	i 366 378	itraconazole
+T15	i 574 586	itraconazole
+T16	i 649 660	fluconazole
+T17	i 791 803	chemotherapy
+T18	i 882 894	itraconazole
+T19	i 913 924	fluconazole
+T20	i 1152 1163	fluconazole
+T21	i 1227 1239	itraconazole
+T22	i 1375 1387	chemotherapy
+T23	i 1413 1425	itraconazole
+T24	i 1501 1514	fluconazole .
+T25	o 84 110	systemic fungal infections
+T26	o 474 475	)
+T27	o 550 566	fungal infection
+T28	o 669 683	Adverse events
+T29	o 810 817	numbers
+T30	o 853 863	infections
+T31	o 1056 1062	counts
+T32	o 1122 1144	frequency of infection
+T33	o 1324 1333	tolerated
+T34	o 1450 1465	systemic fungal

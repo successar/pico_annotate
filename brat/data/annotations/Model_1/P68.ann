@@ -1,0 +1,36 @@
+T1	p 106 153	postoperative analgesia and knee rehabilitation
+T2	p 160 193	total knee arthroplasty ( TKA ) .
+T3	p 895 1044	61 ASA physical status I-III patients scheduled for elective unilateral total knee arthroplasty ( TKA ) under spinal anesthesia ( SA ) participated .
+T4	p 1105 1132	patients in Group I ( CEI )
+T5	p 1240 1257	Group II ( CFNB )
+T6	i 22 61	continuous femoral nerve block ( CFNB )
+T7	i 66 102	continuous epidural infusion ( CEI )
+T8	i 219 244	epidural analgesia ( EA )
+T9	i 249 276	femoral nerve block ( FNB )
+T10	i 477 480	FNB
+T11	i 489 493	EA .
+T12	i 603 639	continuous epidural infusion ( CEI )
+T13	i 645 684	continuous femoral nerve block ( CFNB )
+T14	i 1125 1132	( CEI )
+T15	i 1152 1212	continuous infusion of 0.125 % levobupivacaine with morphine
+T16	i 1249 1257	( CFNB )
+T17	i 1277 1300	0.125 % levobupivacaine
+T18	i 1339 1343	CFNB
+T19	i 1444 1447	CEI
+T20	i 1531 1534	CEI
+T21	i 1599 1603	CFNB
+T22	i 1668 1672	CFNB
+T23	i 1775 1779	CFNB
+T24	o 106 129	postoperative analgesia
+T25	o 134 153	knee rehabilitation
+T26	o 699 822	postoperative analgesic efficacy , side effects , postoperative knee rehabilitation , and hospital length of stay ( LOS ) .
+T27	o 1356 1366	VAS scores
+T28	o 1384 1407	tramadol IV requirement
+T29	o 1553 1584	dizziness , pruritus , and PONV
+T30	o 1626 1646	Patient satisfaction
+T31	o 1688 1721	postoperative knee rehabilitation
+T32	o 1730 1742	hospital LOS
+T33	o 1824 1836	side effects
+T34	o 1849 1873	patient , satisfaction .
+T35	o 1878 1900	rehabilitation indices
+T36	o 1905 1930	duration of hospital stay

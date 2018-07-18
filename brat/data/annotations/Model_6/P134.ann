@@ -1,0 +1,19 @@
+T1	p 92 114	stable COPD patients .
+T2	p 129 144	COPD patients ,
+T3	p 596 630	60 COPD patients underwent dyspnea
+T4	p 642 669	( VAS score ) and pulmonary
+T5	p 679 686	testing
+T6	i 718 725	placebo
+T7	i 735 746	indacaterol
+T8	i 762 763	.
+T9	i 1352 1367	bronchodilators
+T10	o 371 385	hyperinflation
+T11	o 388 400	gas trapping
+T12	o 416 423	dyspnea
+T13	o 644 653	VAS score
+T14	o 789 800	?sRAW-based
+T15	o 901 938	of intrathoracic gas volume ( ?ITGV )
+T16	o 964 987	residual volume ( ?RV )
+T17	o 1045 1049	?VAS
+T18	o 1169 1218	of ?ITGV ( p=0.002 ) , ?RV ( p=0.023 ) , and ?VAS
+T19	o 1504 1508	lung

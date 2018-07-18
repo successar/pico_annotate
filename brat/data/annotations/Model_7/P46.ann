@@ -1,0 +1,25 @@
+T1	p 53 66	human brain .
+T2	p 837 860	resembling actual sleep
+T3	p 870 878	subjects
+T4	p 883 894	fully awake
+T5	i 36 45	melatonin
+T6	i 67 76	Melatonin
+T7	i 202 211	melatonin
+T8	i 324 331	placebo
+T9	i 354 380	magnetic resonance imaging
+T10	i 383 387	fMRI
+T11	i 398 407	Melatonin
+T12	i 418 425	placebo
+T13	i 668 677	melatonin
+T14	i 790 799	melatonin
+T15	i 942 951	melatonin
+T16	i 1196 1205	melatonin
+T17	o 436 457	task-related activity
+T18	o 493 509	occipital cortex
+T19	o 628 653	measurements of fatigue .
+T20	o 691 701	activation
+T21	o 751 757	memory
+T22	o 810 824	brain activity
+T23	o 1136 1158	homeostatic sleep need
+T24	o 1240 1250	activation
+T25	o 1279 1284	sleep

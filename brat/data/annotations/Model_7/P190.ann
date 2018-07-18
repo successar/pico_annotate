@@ -1,0 +1,31 @@
+T1	p 51 153	of previously untreated advanced breast cancer -- a cancer and leukemia group B study ( CALGB 8642 ) .
+T2	p 536 731	the Cancer and Leukemia Group B ( CALGB ) master metastatic breast cancer protocol . CALGB 8642 randomizes previously untreated metastatic breast cancer patients either to one of several Phase II
+T3	p 1279 1333	histologically documented measurable breast cancer and
+T4	p 1355 1382	of 0-1 . Patients could not
+T5	p 1392 1435	prior chemotherapy for metastatic disease .
+T6	p 2305 2329	breast cancer patients .
+T7	i 6 17	Amonafide :
+T8	i 21 27	active
+T9	i 193 208	naphthalic acid
+T10	i 788 796	standard
+T11	i 849 868	immediate treatment
+T12	i 874 926	standard cyclophosphamide-doxorubicin-5-fluorouracil
+T13	i 1072 1102	precedes standard chemotherapy
+T14	i 1451 1463	chemotherapy
+T15	i 2252 2261	amonafide
+T16	o 988 1030	survival , toxicity , and overall response
+T17	o 1504 1521	visceral crisis .
+T18	o 1657 1666	reduction
+T19	o 1716 1742	or lack thereof . Toxicity
+T20	o 1757 1770	hematological
+T21	o 1805 1817	4 leukopenia
+T22	o 1842 1860	4 thrombocytopenia
+T23	o 1875 1885	leukopenia
+T24	o 1902 1938	thrombocytopenia . The response rate
+T25	o 1964 1983	complete response .
+T26	o 1989 1997	response
+T27	o 2014 2036	hematological toxicity
+T28	o 2083 2103	leukopenia grade 3/4
+T29	o 2176 2202	thrombocytopenia grade 3/4
+T30	o 2351 2364	dose-response
+T31	o 2418 2468	myelosuppression and response . Rates of responses

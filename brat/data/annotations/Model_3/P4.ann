@@ -1,0 +1,12 @@
+T1	p 980 991	40 subjects
+T2	i 53 120	conventional steel or non-tooth substance removing plastic curettes
+T3	i 837 909	Dental , Bioggio , TI , Switzerland ) versus conventional steel curettes
+T4	i 1102 1129	active peridontal therapy .
+T5	i 1154 1161	control
+T6	i 1185 1266	with conventional steel curettes during a supportive periodontal care visit ( SPT
+T7	o 1385 1404	Clinical parameters
+T8	o 1415 1477	bleeding on probing ( BOP ) and probing pocket depth ( PPD ) ,
+T9	o 1575 1589	BOP percentage
+T10	o 1755 1766	BOP and PPD
+T11	o 1836 1854	the BOP percentage
+T12	o 1950 1958	mean BOP

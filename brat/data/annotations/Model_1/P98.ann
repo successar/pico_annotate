@@ -1,0 +1,20 @@
+T1	p 86 116	atrial fibrillation patients :
+T2	p 501 608	ACTIVE W study patients , cases with stroke and cases with bleeding were separately matched with controls .
+T3	p 715 788	32 cases with ischemic stroke and 234 cases with bleeding in the analysis
+T4	p 1490 1545	individual AF patients with stroke or bleeding compared
+T5	i 185 218	Time in therapeutic range ( TTR )
+T6	i 223 261	international normalized ratio ( INR )
+T7	i 897 907	the stroke
+T8	i 937 958	the bleeding analysis
+T9	i 1013 1044	mean TTR of both stroke cases (
+T10	i 1099 1111	cases ( 56.2
+T11	i 1179 1198	for stroke and time
+T12	i 1359 1373	bleeding cases
+T13	i 1407 1422	controls ( 26.8
+T14	i 1461 1480	CONCLUSIONS TTR was
+T15	i 1581 1610	Maintaining a high TTR , with
+T16	i 1650 1659	INRs , is
+T17	o 185 218	Time in therapeutic range ( TTR )
+T18	o 1007 1024	study mean TTR of
+T19	o 1162 1228	Time below range for stroke and time above range for bleeding were
+T20	o 1461 1480	CONCLUSIONS TTR was

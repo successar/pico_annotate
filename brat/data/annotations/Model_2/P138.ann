@@ -1,0 +1,18 @@
+T1	p 76 115	vaccine candidate in healthy children :
+T2	p 642 665	4-5-year-old children .
+T3	p 935 942	PCV7-TT
+T4	p 946 958	children and
+T5	p 1008 1030	children and infants .
+T6	p 1118 1122	code
+T7	i 47 93	Cuban pneumococcal conjugate vaccine candidate
+T8	i 156 199	new heptavalent conjugate vaccine ( PCV7-TT
+T9	i 303 305	?g
+T10	i 309 311	6B
+T11	i 334 356	to tetanus toxoid ( TT
+T12	i 723 743	as control vaccine .
+T13	i 768 781	vaccination ,
+T14	o 516 522	safety
+T15	o 540 554	immunogenicity
+T16	o 683 696	tolerated and
+T17	o 700 704	safe
+T18	o 861 894	increase of IgG GMC and OPA GMT .

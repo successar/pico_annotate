@@ -1,0 +1,5 @@
+T1	p 205 262	47 healthy women undergoing elective ambulatory surgery .
+T2	i 21 47	sevoflurane and isoflurane
+T3	i 307 449	sevoflurane or isoflurane in 60 % nitrous oxide-oxygen . Induction with thiopental 3-6 mg/kg was followed by vecuronium 0.1 mg/kg and fentanyl
+T4	o 469 542	Duration of anesthesia , time to emergence , orientation , length of stay
+T5	o 609 657	emergence , length of stay , and discharge times

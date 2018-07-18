@@ -1,0 +1,21 @@
+T1	p 33 39	adults
+T2	p 230 260	31 adult asthmatic patients in
+T3	i 46 87	sodium cromoglycate pressurized aerosol :
+T4	i 122 212	Sodium cromoglycate formulated as a pressurized aerosol ( 2 mg 4-times daily ) and placebo
+T5	i 311 330	Sodium cromoglycate
+T6	i 347 354	placebo
+T7	i 769 790	sodium cromoglycate .
+T8	i 811 880	bronchodilators ( theophylline and aerosol beta-stimulants combined )
+T9	i 933 962	sodium cromoglycate treatment
+T10	i 975 984	placebo .
+T11	i 1053 1105	sodium cromoglycate delivered by pressurized aerosol
+T12	i 1136 1143	placebo
+T13	o 358 390	improving breathlessness at rest
+T14	o 415 443	breathlessness on exertion (
+T15	o 471 489	quality of sleep (
+T16	o 538 579	morning peak expiratory flow rate value (
+T17	o 619 620	'
+T18	o 650 662	clinicians '
+T19	o 988 1000	side-effects
+T20	o 1168 1186	asthmatic symptoms
+T21	o 1214 1220	amount

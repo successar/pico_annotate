@@ -1,0 +1,37 @@
+T1	p 93 132	advanced epithelial ovarian carcinoma .
+T2	p 214 224	previously
+T3	p 234 245	multicentre
+T4	p 296 407	patients with advanced epithelial ovarian cancer who had failed one prior platinum-based regimen . PATIENTS AND
+T5	p 416 469	Patients with bidimensionally measurable disease were
+T6	p 601 609	Patients
+T7	p 615 623	eligible
+T8	p 638 642	with
+T9	p 647 656	alternate
+T10	p 668 673	third
+T11	p 679 680	.
+T12	p 982 1045	total of 226 patients were evaluable for response . Demographic
+T13	p 1901 1960	patients receiving topotecan at relapse of ovarian cancer .
+T14	i 62 89	topotecan versus paclitaxel
+T15	i 265 292	topotecan versus paclitaxel
+T16	i 484 499	topotecan ( 1.5
+T17	i 511 515	/day
+T18	i 520 564	5 days ) or paclitaxel ( 175 mg/m ( 2 ) /day
+T19	i 570 584	3-h infusion )
+T20	i 657 664	therapy
+T21	i 1162 1171	topotecan
+T22	i 1279 1289	paclitaxel
+T23	i 1420 1429	topotecan
+T24	i 1509 1519	paclitaxel
+T25	i 1676 1686	paclitaxel
+T26	o 16 24	survival
+T27	o 177 185	survival
+T28	o 685 792	European Organisation for Research and Treatment of Cancer Quality of Life ( EORTC QOL ) -C30 questionnaire
+T29	o 824 832	symptoms
+T30	o 870 971	pain , anorexia , diarrhoea , fatigue , nausea and vomiting , dyspnea , constipation and insomnia ) .
+T31	o 1125 1153	EORTC QOL-30 questionnaire .
+T32	o 1180 1206	median time to progression
+T33	o 1397 1412	median survival
+T34	o 1651 1672	efficacy and survival
+T35	o 1707 1775	non-cumulative haematological toxicity . Non-haematological toxicity
+T36	o 1817 1840	long-term survival rate
+T37	o 1863 1874	therapeutic

@@ -1,0 +1,21 @@
+T1	p 29 102	infants with gastrointestinal diseases measured by epigastric impedance .
+T2	p 745 943	infants , compared to infants with different gastrointestinal diseases , before and after treatment of their disease . METHOD 21 patients ( age 0-2 months ) and 40 healthy infants ( age 0-2 months )
+T3	p 962 963	.
+T4	p 1002 1090	total intestinal obstruction , necrotizing enterocolitis or pyloric stenosis.All infants
+T5	p 1607 1617	intestinal
+T6	i 721 733	gastrography
+T7	o 6 25	Gastric dysrhythmia
+T8	o 332 343	dysrhythmia
+T9	o 412 432	Epigastric impedance
+T10	o 555 566	dysrhythmia
+T11	o 583 603	epigastric impedance
+T12	o 1008 1030	intestinal obstruction
+T13	o 1033 1058	necrotizing enterocolitis
+T14	o 1188 1193	acute
+T15	o 1302 1336	persistent phasic activity pattern
+T16	o 1379 1404	frequency phasic activity
+T17	o 1432 1458	Short-term phasic activity
+T18	o 1542 1562	epigastric impedance
+T19	o 1618 1629	obstruction
+T20	o 1634 1657	gastric phasic activity
+T21	o 1723 1755	gastric phasic activity patterns

@@ -1,0 +1,11 @@
+T1	p 77 106	anemic patients with cancer .
+T2	p 284 301	Eligible patients
+T3	p 571 654	Three hundred sixty-five patients were enrolled . One hundred eighty-three patients
+T4	i 126 217	maintenance epoetin alfa administered once every 3 weeks with continued weekly epoetin alfa
+T5	i 372 465	epoetin alfa 40,000 U subcutaneously ( SC ) , followed by either standard weekly epoetin alfa
+T6	i 494 506	epoetin alfa
+T7	i 1544 1565	epoetin alfa 40,000 U
+T8	i 1734 1765	continued weekly epoetin alfa .
+T9	o 1170 1261	mean end-of-study Hb levels . Toxicities , including thromboembolism , and overall survival
+T10	o 1314 1344	global quality of life ( QOL )
+T11	o 1426 1448	global QOL improvement

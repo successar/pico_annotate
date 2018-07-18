@@ -1,0 +1,41 @@
+T1	p 46 51	acute
+T2	p 70 161	postoperative rectal cancer patients treated with adjuvant concurrent chemoradiotherapy ] .
+T3	p 345 433	rectal cancer patients who received capecitabine-based postoperative chemoradiotherapy (
+T4	p 450 621	Four hundred patients with stage II and III rectal cancer received postoperative CRT of capecitabine with or without oxaliplatin were accumulated and prostectively studied
+T5	p 689 797	. Two hundred and twenty-eight patients were treated with concurrent capecitabine and radiotherapy ( Cap-CRT
+T6	p 806 818	172 patients
+T7	p 1373 1402	136 patients presented severe
+T8	p 2565 2580	cancer patients
+T9	i 18 42	CCND1 A870G polymorphism
+T10	i 120 159	adjuvant concurrent chemoradiotherapy ]
+T11	i 241 279	single nucleotide polymorphism ( SNP )
+T12	i 320 327	( AEs )
+T13	i 381 439	capecitabine-based postoperative chemoradiotherapy ( CRT )
+T14	i 517 613	postoperative CRT of capecitabine with or without oxaliplatin were accumulated and prostectively
+T15	i 747 799	concurrent capecitabine and radiotherapy ( Cap-CRT )
+T16	i 832 901	with capecitabine and oxaliplatin plus radiotherapy ( Cap-Oxa-CRT ) .
+T17	i 953 964	Terminology
+T18	i 1090 1164	chain reaction-based restriction fragment length polymorphism ( PCR-RFLP )
+T19	i 1205 1208	SNP
+T20	i 1459 1461	GG
+T21	i 1726 1728	GG
+T22	i 2085 2087	GG
+T23	i 2091 2093	GA
+T24	i 2306 2308	GG
+T25	i 2312 2314	GA
+T26	i 2594 2665	adjuvant concurrent chemoradiotherapy of capecitabine and oxaliplatin .
+T27	o 52 66	adverse events
+T28	o 902 916	Adverse events
+T29	o 953 992	Terminology Criteria for Adverse Events
+T30	o 1090 1175	chain reaction-based restriction fragment length polymorphism ( PCR-RFLP ) analysis .
+T31	o 1180 1192	associations
+T32	o 1209 1222	and acute AEs
+T33	o 1246 1258	ratios ( ORs
+T34	o 1464 1473	GA and AA
+T35	o 1600 1614	AEs . Diarrhea
+T36	o 1640 1659	and severe diarrhea
+T37	o 1716 1740	genotypes GG , GA and AA
+T38	o 1884 1892	diarrhea
+T39	o 1966 1990	risk for severe diarrhea
+T40	o 2220 2244	risk for severe diarrhea
+T41	o 2398 2415	severe diarrhea .

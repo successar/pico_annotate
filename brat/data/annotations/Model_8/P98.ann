@@ -1,0 +1,33 @@
+T1	p 86 125	atrial fibrillation patients : a nested
+T2	p 461 472	In a nested
+T3	p 527 548	cases with stroke and
+T4	p 555 573	with bleeding were
+T5	p 585 606	matched with controls
+T6	p 715 763	32 cases with ischemic stroke and 234 cases with
+T7	p 1504 1524	patients with stroke
+T8	p 1559 1567	controls
+T9	i 217 218	)
+T10	i 312 319	control
+T11	i 683 697	time-dependent
+T12	i 1600 1603	TTR
+T13	i 1679 1697	individual patient
+T14	o 17 27	individual
+T15	o 48 85	risk of stroke and bleeding events in
+T16	o 193 204	therapeutic
+T17	o 217 218	)
+T18	o 223 259	international normalized ratio ( INR
+T19	o 379 398	stroke and bleeding
+T20	o 560 568	bleeding
+T21	o 617 649	anticoagulation quality measures
+T22	o 764 772	bleeding
+T23	o 868 876	duration
+T24	o 1022 1024	of
+T25	o 1090 1104	bleeding cases
+T26	o 1162 1166	Time
+T27	o 1183 1198	stroke and time
+T28	o 1205 1210	range
+T29	o 1215 1223	bleeding
+T30	o 1359 1367	bleeding
+T31	o 1374 1389	spent more time
+T32	o 1525 1536	or bleeding
+T33	o 1719 1740	stroke and bleeding .

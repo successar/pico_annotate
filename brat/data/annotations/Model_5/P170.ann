@@ -1,0 +1,27 @@
+T1	p 240 261	37 Holstein cows were
+T2	p 297 320	groups : intracisternal
+T3	p 363 373	cephapirin
+T4	p 388 576	drying off ( 20 cows ) and infusion with cephapirin benzathine at drying off and intramuscular oxytetracycline at 11 mg/kg once daily on d 7 , 8 , 9 , and 10 after drying off ( 17 cows ) .
+T5	p 629 636	calving
+T6	i 32 47	oxytetracycline
+T7	i 57 60	cow
+T8	i 151 166	oxytetracycline
+T9	i 306 329	intracisternal infusion
+T10	i 335 403	a commercial preparation of cephapirin benzathine at drying off ( 20
+T11	i 415 521	infusion with cephapirin benzathine at drying off and intramuscular oxytetracycline at 11 mg/kg once daily
+T12	i 525 528	d 7
+T13	i 531 532	8
+T14	i 535 536	9
+T15	i 539 564	and 10 after drying off (
+T16	i 629 636	calving
+T17	i 642 648	plated
+T18	i 1100 1115	oxytetracycline
+T19	i 1138 1148	cephapirin
+T20	i 1414 1444	therapy and cephapirin therapy
+T21	i 1461 1476	oxytetracycline
+T22	i 1499 1519	intramammary dry cow
+T23	o 932 943	cured if S.
+T24	o 1052 1064	rate of cure
+T25	o 1330 1337	culture
+T26	o 1516 1519	cow
+T27	o 1548 1589	the rate of cure for S. aureus mastitis .

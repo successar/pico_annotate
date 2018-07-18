@@ -1,0 +1,18 @@
+T1	p 200 322	borderline hypertensive patients with IDDM-type diabetes mellitus . Twenty-nine IDDM patients with borderline hypertension
+T2	p 1483 1522	patients with borderline hypertension .
+T3	i 81 120	dihydropyridine calcium channel blocker
+T4	i 154 172	placebo-controlled
+T5	i 184 196	nitrendipine
+T6	i 350 398	placebo or nitrendipine treatment . Nitrendipine
+T7	i 431 436	20 mg
+T8	i 1015 1022	placebo
+T9	i 1214 1226	nitrendipine
+T10	i 1307 1319	nitrendipine
+T11	i 1384 1396	nitrendipine
+T12	o 14 44	platelet thromboxane formation
+T13	o 474 504	platelet thromboxane formation
+T14	o 618 671	levels of platelet factor 4 and aggregation responses
+T15	o 902 945	change of thromboxane synthesis in response
+T16	o 1056 1069	plasma levels
+T17	o 1118 1135	blood aggregation
+T18	o 1337 1359	platelet rich plasma .

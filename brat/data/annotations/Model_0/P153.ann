@@ -1,0 +1,8 @@
+T1	p 1335 1362	Type II diabetic patients .
+T2	i 150 171	captopril monotherapy
+T3	i 385 411	metabolic ward . Captopril
+T4	i 1206 1215	captopril
+T5	o 175 204	blood pressure and metabolism
+T6	o 439 476	systolic and diastolic blood pressure
+T7	o 528 602	major side effects . Mean run-in postprandial blood glucose concentrations
+T8	o 890 1055	Body mass index , fasting plasma insulin , serum electrolyte pattern , uric acid , white blood count , lipid profile as well as hepatic and renal function parameters

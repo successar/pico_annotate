@@ -1,0 +1,21 @@
+T1	p 78 82	PTSD
+T2	p 314 366	patients with Posttraumatic stress disorder ( PTSD )
+T3	p 575 681	PTSD patients were recruited from five primary care clinics at four Veterans Affairs healthcare facilities
+T4	p 838 868	Participants were 195 Veterans
+T5	p 871 1002	Their average age was 45 years , 91 % were male , 58 % were white , 40 % served in Iraq or Afghanistan , and 42 % served in Vietnam
+T6	i 421 450	Three Component Model ( 3CM )
+T7	i 458 468	usual care
+T8	i 708 718	usual care
+T9	i 722 741	usual care plus 3CM
+T10	i 1082 1085	3CM
+T11	i 1100 1125	telephone care management
+T12	i 1471 1474	3CM
+T13	i 1605 1608	3CM
+T14	o 1199 1220	PTSD symptom severity
+T15	o 1247 1325	Depression , functioning , perceived quality of care , utilization , and costs
+T16	o 1420 1428	symptoms
+T17	o 1432 1443	functioning
+T18	o 1502 1559	mental health visit , fill an antidepressant prescription
+T19	o 1571 1602	adequate antidepressant refills
+T20	o 1636 1656	mental health visits
+T21	o 1668 1693	outpatient pharmacy costs

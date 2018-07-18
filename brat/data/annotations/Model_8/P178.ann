@@ -1,0 +1,19 @@
+T1	p 97 132	of 82 patients having postoperative
+T2	p 577 578	.
+T3	p 589 596	percent
+T4	p 601 605	= 26
+T5	p 702 706	= 16
+T6	i 20 30	tunnelling
+T7	i 142 151	analgesia
+T8	i 191 201	tunnelling
+T9	i 412 467	method of fixation with a transparent adhesive dressing
+T10	i 505 522	epidural catheter
+T11	i 611 630	tunnelled catheters
+T12	i 657 662	their
+T13	i 712 735	non-tunnelled catheters
+T14	o 251 263	. Tunnelling
+T15	o 313 314	5
+T16	o 330 359	incidence of inward migration
+T17	o 572 576	area
+T18	o 621 630	catheters
+T19	o 799 825	Outward catheter migration

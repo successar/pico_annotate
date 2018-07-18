@@ -1,0 +1,8 @@
+T1	p 323 374	16 patients with localized juvenile periodontitis .
+T2	p 1240 1288	patients with localized juvenile periodontitis .
+T3	i 32 54	adjunctive doxycycline
+T4	i 136 154	placebo-controlled
+T5	i 219 230	doxycycline
+T6	i 770 833	non-pigmented Bacteroides spp. , Capnocytophaga , Fusobacterium
+T7	i 1225 1236	doxycycline
+T8	o 391 465	gingival fluid flow , probing depths , bleeding on probing and suppuration

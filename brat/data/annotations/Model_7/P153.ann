@@ -1,0 +1,19 @@
+T1	p 94 135	non-insulin dependent diabetes mellitus .
+T2	p 255 379	30 non-insulin dependent ( Type II ) diabetic subjects during a 3-week observation period ( run-in/drug ; placebo/wash-out )
+T3	p 1224 1235	II diabetes
+T4	p 1335 1362	Type II diabetic patients .
+T5	i 14 54	angiotensin-converting enzyme inhibitors
+T6	i 64 80	antihypertensive
+T7	i 150 171	captopril monotherapy
+T8	i 227 245	placebo-controlled
+T9	i 347 377	run-in/drug ; placebo/wash-out
+T10	i 402 411	Captopril
+T11	i 1206 1215	captopril
+T12	i 1238 1252	ACE inhibitors
+T13	o 181 189	pressure
+T14	o 194 204	metabolism
+T15	o 439 476	systolic and diastolic blood pressure
+T16	o 539 546	effects
+T17	o 549 602	Mean run-in postprandial blood glucose concentrations
+T18	o 765 791	blood kinin concentrations
+T19	o 890 1055	Body mass index , fasting plasma insulin , serum electrolyte pattern , uric acid , white blood count , lipid profile as well as hepatic and renal function parameters

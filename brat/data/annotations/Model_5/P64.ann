@@ -1,0 +1,23 @@
+T1	p 855 860	group
+T2	i 25 40	contrast agents
+T3	i 46 60	various iodine
+T4	i 205 225	multidetector-row CT
+T5	i 284 294	tomography
+T6	i 297 299	CT
+T7	i 540 554	CT angiography
+T8	i 574 601	multidetector-row CT ( MDCT
+T9	i 654 667	iopamidol 300
+T10	i 692 700	3.0 ml/s
+T11	i 713 726	iopamidol 300
+T12	i 755 759	ml/s
+T13	i 775 788	iopamidol 370
+T14	i 817 821	ml/s
+T15	i 1292 1298	iodine
+T16	i 1340 1351	concentrate
+T17	i 1432 1450	High-concentration
+T18	o 863 881	Attenuation values
+T19	o 908 924	carotid arteries
+T20	o 936 943	basilar
+T21	o 1201 1205	rate
+T22	o 1215 1233	good arteriovenous
+T23	o 1479 1530	attenuation without intracavernous attenuation gain

@@ -1,0 +1,25 @@
+T1	p 149 150	.
+T2	p 167 180	postoperative
+T3	p 280 281	a
+T4	p 924 952	the United States evaluating
+T5	p 1105 1211	surgical patients including those undergoing noncardiac thoracic and pelvic operations who were identified
+T6	p 1215 1231	moderate to high
+T7	p 1257 1267	included .
+T8	p 1454 1513	. Eight hundred and eighty eight patients were entered into
+T9	p 1552 1555	the
+T10	i 547 584	dihydroergotamine ( DHE ) and heparin
+T11	i 982 1012	DHE 0.5 mg plus heparin 5000 U
+T12	i 1015 1045	DHE 0.5 mg plus heparin 2500 U
+T13	i 1048 1062	heparin 5000 U
+T14	i 1069 1096	DHE 0.5 mg versus placebo .
+T15	i 1431 1437	RFUT )
+T16	i 1620 1627	DHE/Hep
+T17	i 1645 1652	placebo
+T18	i 1696 1702	active
+T19	o 126 150	deep venous thrombosis .
+T20	o 181 205	deep venous thrombosis (
+T21	o 308 326	venous endothelial
+T22	o 613 619	stasis
+T23	o 970 978	efficacy
+T24	o 1241 1247	postop
+T25	o 1431 1437	RFUT )

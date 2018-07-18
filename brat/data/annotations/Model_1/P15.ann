@@ -1,0 +1,9 @@
+T1	p 273 322	patients at high risk for cardiovascular events .
+T2	i 206 214	ramipril
+T3	i 220 267	angiotensin-converting enzyme ( ACE ) inhibitor
+T4	i 338 346	ramipril
+T5	i 594 603	vitamin E
+T6	i 683 704	ACE inhibitor therapy
+T7	o 361 565	reduced the rates of death , myocardial infarction , stroke , coronary revascularization , cardiac arrest and heart failure , as well as the risk of diabetes-related complications and of diabetes itself .
+T8	o 630 653	no statistical benefits
+T9	o 780 809	reduction in blood pressure .

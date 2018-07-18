@@ -1,0 +1,28 @@
+T1	p 341 408	patients suffering from post-operative pain after cholecystectomy .
+T2	p 491 550	. PATIENTS 99 patients with severe pain following surgery .
+T3	p 1402 1410	patients
+T4	i 21 39	placebo-controlled
+T5	i 94 136	30 mg ketorolac tromethamine suppositories
+T6	i 225 253	ketorolac tromethamine 10 mg
+T7	i 264 277	suppositories
+T8	i 295 302	placebo
+T9	i 565 582	Cholecystectomy .
+T10	i 639 667	ketorolac tromethamine 10 mg
+T11	i 678 691	suppositories
+T12	i 1305 1326	placebo suppositories
+T13	i 1471 1478	placebo
+T14	i 1490 1499	ketorolac
+T15	i 1601 1613	ketorolac 30
+T16	i 1617 1630	suppositories
+T17	o 71 83	tolerability
+T18	o 196 221	efficacy and tolerability
+T19	o 617 635	analgesia activity
+T20	o 753 789	pain intensity and pain relief using
+T21	o 800 805	scale
+T22	o 808 813	VRS )
+T23	o 851 892	overall assessment of safety and efficacy
+T24	o 1009 1023	pain intensity
+T25	o 1344 1378	rescue analgesic drug and withdrew
+T26	o 1422 1436	adverse events
+T27	o 1512 1555	systemic and local tolerability of the drug
+T28	o 1758 1766	interval

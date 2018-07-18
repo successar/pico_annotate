@@ -1,0 +1,17 @@
+T1	p 97 115	healthy children :
+T2	p 642 665	4-5-year-old children .
+T3	i 47 83	Cuban pneumococcal conjugate vaccine
+T4	i 160 201	heptavalent conjugate vaccine ( PCV7-TT )
+T5	i 233 240	PCV7-TT
+T6	i 558 572	PCV7-TT during
+T7	i 655 677	children . PCV7-TT was
+T8	i 708 722	Synflorix used
+T9	i 819 834	PCV7-TT induced
+T10	i 935 945	PCV7-TT in
+T11	o 6 12	Safety
+T12	o 17 43	preliminary immunogenicity
+T13	o 512 526	the safety and
+T14	o 536 557	the immunogenicity of
+T15	o 678 696	well tolerated and
+T16	o 700 707	safe as
+T17	o 849 894	significant increase of IgG GMC and OPA GMT .

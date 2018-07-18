@@ -1,0 +1,17 @@
+T1	p 61 114	bestatin of acute nonlymphocytic leukemia in adults .
+T2	p 419 456	adult acute nonlymphocytic leukemia (
+T3	p 632 659	eligible cases ( bestatin :
+T4	p 931 949	15-49 yr age group
+T5	p 955 971	the 50-65 yr age
+T6	p 1151 1167	elderly patients
+T7	i 37 55	chemoimmunotherapy
+T8	i 61 69	bestatin
+T9	i 121 137	immunomodulating
+T10	i 337 359	bestatin immunotherapy
+T11	i 380 414	remission maintenance chemotherapy
+T12	i 552 560	bestatin
+T13	i 587 589	po
+T14	o 731 740	remission
+T15	o 803 813	survival .
+T16	o 826 851	prolongation of remission
+T17	o 1114 1122	survival

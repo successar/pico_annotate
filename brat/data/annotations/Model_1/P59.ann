@@ -1,0 +1,21 @@
+T1	p 9 29	school-aged children
+T2	p 346 368	school-aged children .
+T3	p 429 450	30 healthy children .
+T4	p 1382 1392	children .
+T5	p 1397 1405	children
+T6	i 47 92	galacto-oligosaccharides and Lactobacillus GG
+T7	i 128 144	Lactobacillus GG
+T8	i 212 293	Lactobacillus GG ( LGG ) and galacto-oligosaccharides ( GOS ) with LGG on its own
+T9	i 567 617	milk-based fruit juice containing either LGG alone
+T10	i 644 665	LGG plus 2 g of GOS .
+T11	i 912 921	LGG + GOS
+T12	i 936 945	LGG alone
+T13	i 1091 1094	LGG
+T14	i 1252 1280	LGG combined with 2 g of GOS
+T15	i 1320 1334	LGG on its own
+T16	i 1344 1347	GOS
+T17	i 1446 1451	GOS .
+T18	o 838 862	amount of bifidobacteria
+T19	o 1065 1094	amount of lactobacilli or LGG
+T20	o 1105 1199	gastrointestinal symptoms , defecation frequency , consistency of stools or ease of defecation
+T21	o 1295 1309	bifidobacteria

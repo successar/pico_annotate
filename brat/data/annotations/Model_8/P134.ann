@@ -1,0 +1,33 @@
+T1	p 92 114	stable COPD patients .
+T2	p 129 144	COPD patients ,
+T3	p 596 630	60 COPD patients underwent dyspnea
+T4	p 789 800	?sRAW-based
+T5	p 842 844	45
+T6	p 1250 1287	patients were stratified according to
+T7	p 1424 1432	criteria
+T8	i 276 277	)
+T9	i 718 746	placebo or 300?g indacaterol
+T10	i 931 938	?ITGV )
+T11	i 982 987	?RV )
+T12	i 1013 1017	?FVC
+T13	i 1045 1049	?VAS
+T14	i 1108 1112	?FVC
+T15	i 1172 1179	?ITGV (
+T16	i 1192 1195	?RV
+T17	i 1352 1367	bronchodilators
+T18	o 63 88	airway resistance changes
+T19	o 202 229	forced expiratory volume at
+T20	o 247 275	forced vital capacity ( ?FVC
+T21	o 303 328	airway smooth muscle tone
+T22	o 363 400	dynamic hyperinflation , gas trapping
+T23	o 407 423	possibly dyspnea
+T24	o 462 498	specific airway resistance changes (
+T25	o 631 686	evaluation ( VAS score ) and pulmonary function testing
+T26	o 904 936	intrathoracic gas volume ( ?ITGV
+T27	o 964 985	residual volume ( ?RV
+T28	o 1013 1017	?FVC
+T29	o 1045 1049	?VAS
+T30	o 1192 1195	?RV
+T31	o 1214 1218	?VAS
+T32	o 1331 1341	functional
+T33	o 1488 1530	improvements of lung mechanics and dyspnea

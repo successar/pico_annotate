@@ -1,0 +1,6 @@
+T1	p 63 125	asthma due to house dust mite Dermatophagoides pteronyssinus :
+T2	i 45 59	powder extract
+T3	i 523 530	placebo
+T4	i 676 706	disodium cromoglycate ( DSCG )
+T5	o 756 826	symptoms score and in peak expiratory flow ( PEF ) -derived parameters
+T6	o 1278 1299	systemic side effects

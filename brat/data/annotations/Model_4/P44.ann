@@ -1,0 +1,16 @@
+T1	p 113 132	digestive surgery ]
+T2	p 283 301	surgery patients .
+T3	p 310 361	Forty patients who underwent digestive surgery were
+T4	p 1577 1585	patients
+T5	i 25 58	chain amino acid enriched formula
+T6	i 178 220	chain amino acid ( BCAA ) enriched formula
+T7	i 380 428	parenteral nutrition with either BCAA enriched (
+T8	i 443 481	n=20 ) or routine amino acid ( control
+T9	i 1450 1480	TPN with BCAA enriched formula
+T10	o 526 659	Nitrogen balance , serum total protein , albumin , prealbumin , transferrin , retinol binding protein and postoperative fatigue score
+T11	o 721 760	cumulative postoperative fatigue scores
+T12	o 895 927	positive nitrogen balance 2 days
+T13	o 1031 1058	cumulative nitrogen balance
+T14	o 1123 1199	elevation of serum total protein , albumin , prealbumin , transferrin at the
+T15	o 1321 1359	serum level of retinol binding protein
+T16	o 1492 1519	postoperative fatigue score

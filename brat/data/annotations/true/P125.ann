@@ -1,0 +1,8 @@
+T1	p 100 118	status epilepticus
+T2	p 362 442	720 unique patients in emergency departments and uses a Bayesian adaptive design
+T3	i 6 23	Bayesian adaptive
+T4	i 150 167	Bayesian adaptive
+T5	i 418 442	Bayesian adaptive design
+T6	o 911 923	patient care
+T7	o 933 938	power
+T8	o 953 973	expected sample size

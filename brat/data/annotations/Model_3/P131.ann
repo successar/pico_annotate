@@ -1,0 +1,18 @@
+T1	p 612 680	Age-matched boys with ADHD ( 15 ) , ASD ( 18 ) , and controls ( 21 )
+T2	i 24 34	Fluoxetine
+T3	i 596 600	SSRI
+T4	i 711 746	magnetic resonance imaging ( fMRI )
+T5	i 818 853	acute dose of Fluoxetine or placebo
+T6	i 874 892	placebo-controlled
+T7	i 1077 1081	fMRI
+T8	i 1107 1114	placebo
+T9	i 1281 1291	Fluoxetine
+T10	i 1421 1428	placebo
+T11	i 1491 1501	Fluoxetine
+T12	o 38 73	Medial Prefrontal Cortex Activation
+T13	o 136 158	hyperactivity disorder
+T14	o 211 239	brain function abnormalities
+T15	o 1126 1174	underactivated medial prefrontal cortex ( mPFC )
+T16	o 1252 1274	precuneus activation .
+T17	o 1294 1309	mPFC activation
+T18	o 1535 1550	mPFC activation

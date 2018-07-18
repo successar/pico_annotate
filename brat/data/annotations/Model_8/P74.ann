@@ -1,0 +1,58 @@
+T1	p 81 134	postmenopausal breast cancer survivors with bone loss
+T2	p 381 445	223 postmenopausal breast cancer survivors . Subjects who were >
+T3	p 582 628	) postmenopausal breast cancer survivors ( BCS
+T4	p 636 645	bone loss
+T5	p 764 773	, femoral
+T6	p 858 892	2 ) subjects who also participated
+T7	p 896 911	strength/weight
+T8	p 1016 1026	) subjects
+T9	p 1111 1129	Postmenopausal BCS
+T10	p 1136 1137	)
+T11	p 1429 1455	women who took medications
+T12	p 1518 1523	total
+T13	p 1639 1646	. Women
+T14	p 1732 1741	total hip
+T15	p 1970 1980	who were >
+T16	p 2047 2052	total
+T17	p 2227 2245	postmenopausal BCS
+T18	i 20 35	weight training
+T19	i 227 261	weight training exercises enhanced
+T20	i 283 294	risedronate
+T21	i 297 320	calcium , and vitamin D
+T22	i 666 677	risedronate
+T23	i 680 703	calcium , and vitamin D
+T24	i 896 937	strength/weight training ( ST ) exercises
+T25	i 1161 1202	to exercise plus medication or medication
+T26	i 1263 1270	calcium
+T27	i 1279 1300	IU of vitamin D daily
+T28	i 1314 1325	risedronate
+T29	i 1343 1351	exercise
+T30	i 1375 1400	ST exercises twice weekly
+T31	i 1623 1626	NTx
+T32	i 1863 1866	NTx
+T33	i 2165 2199	Strength/weight training exercises
+T34	o 39 77	bone mineral density and bone turnover
+T35	o 336 377	or improving bone mineral density ( BMD )
+T36	o 483 501	improvement in BMD
+T37	o 629 645	) with bone loss
+T38	o 718 746	bone mineral density ( BMD )
+T39	o 760 765	hip ,
+T40	o 781 807	L1-L4 spine , total radius
+T41	o 826 855	and decreased bone turnover ;
+T42	o 960 970	in BMD and
+T43	o 989 1007	in bone turnover ;
+T44	o 1491 1510	improvements in BMD
+T45	o 1524 1527	hip
+T46	o 1544 1549	spine
+T47	o 1617 1626	serum NTx
+T48	o 1691 1697	in BMD
+T49	o 1732 1741	total hip
+T50	o 1756 1761	spine
+T51	o 1776 1788	total radius
+T52	o 1857 1866	Serum NTx
+T53	o 1891 1923	changes in BMD and bone turnover
+T54	o 2036 2039	BMD
+T55	o 2100 2107	femoral
+T56	o 2217 2223	of BMD
+T57	o 2227 2241	postmenopausal
+T58	o 2258 2269	bone loss .

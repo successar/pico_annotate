@@ -1,0 +1,26 @@
+T1	p 33 43	postpartum
+T2	p 173 182	pospartal
+T3	p 283 388	Department of Obstetric and Gynecology 2nd Medical Faculty Charles University and Teaching Hospital Motol
+T4	p 404 462	Department of Obstetric and Gynecology 1st Medical Faculty
+T5	p 476 492	Hospital Bulovka
+T6	p 611 633	50 women with clinical
+T7	p 1226 1236	mid-severe
+T8	i 6 19	[ Intravenous
+T9	i 56 84	trivalent ferrum preparation
+T10	i 136 144	safeness
+T11	i 148 159	intravenous
+T12	i 195 225	trivalent ferrum preparation .
+T13	i 519 556	of sacharose ferric oxide ( Venofer )
+T14	i 972 976	iron
+T15	i 1329 1374	intravenous trivalent saccharose ferric oxide
+T16	o 120 135	effectivity and
+T17	o 638 668	lab signs of postpartal anemia
+T18	o 735 770	values of red blood count recovered
+T19	o 855 913	serum values of soluble transferrin receptors and ferritin
+T20	o 931 938	markers
+T21	o 942 985	iron cell saturation and body iron reserves
+T22	o 988 991	too
+T23	o 1043 1057	adverse events
+T24	o 1159 1165	anemia
+T25	o 1211 1222	transfusion
+T26	o 1302 1323	serious adverse event

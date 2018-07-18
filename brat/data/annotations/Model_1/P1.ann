@@ -1,0 +1,24 @@
+T1	p 104 141	post-operative vomiting in children .
+T2	p 226 298	vomiting after tonsillectomy with or without adenoidectomy in children .
+T3	p 352 400	90 paediatric patients , ASA I , aged 4-10 years
+T4	p 1139 1198	children undergoing general anaesthesia for tonsillectomy .
+T5	i 30 54	prophylactic granisetron
+T6	i 69 81	perphenazine
+T7	i 175 186	granisetron
+T8	i 192 204	perphenazine
+T9	i 412 423	granisetron
+T10	i 438 450	perphenazine
+T11	i 537 550	anaesthesia .
+T12	i 768 779	granisetron
+T13	i 794 806	perphenazine
+T14	i 1026 1037	granisetron
+T15	i 1067 1079	perphenazine
+T16	o 6 26	Anti-emetic efficacy
+T17	o 90 127	prevention of post-operative vomiting
+T18	o 163 171	efficacy
+T19	o 620 753	complete response , defined as no emesis with no need for another rescue antiemetic , during the first 3 h ( 0-3 h ) after anesthesia
+T20	o 827 850	corresponding incidence
+T21	o 935 971	No clinically serious adverse events
+T22	o 1043 1061	better anti-emetic
+T23	o 1088 1108	long-term prevention
+T24	o 1112 1135	post-operative vomiting

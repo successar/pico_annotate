@@ -1,0 +1,23 @@
+T1	p 21 47	autism spectrum disorder :
+T2	p 308 349	autism spectrum disorder ( ASD ) symptoms
+T3	p 353 387	children and adolescents with both
+T4	p 439 447	ADHD ) .
+T5	p 456 516	A total of 97 patients 6-17 years of age , with ASD and ADHD
+T6	i 6 17	Atomoxetine
+T7	i 293 304	atomoxetine
+T8	i 554 565	atomoxetine
+T9	i 596 614	placebo-controlled
+T10	i 771 802	Behavior Questionnaire ( CSBQ )
+T11	i 855 866	atomoxetine
+T12	i 1127 1138	atomoxetine
+T13	i 1173 1184	atomoxetine
+T14	o 62 80	social functioning
+T15	o 110 165	stereotyped behaviors , inappropriate speech , and fear
+T16	o 341 349	symptoms
+T17	o 428 436	disorder
+T18	o 702 743	, the Aberrant Behavior Checklist ( ABC )
+T19	o 761 800	's Social Behavior Questionnaire ( CSBQ
+T20	o 935 1018	the ABC subscales Hyperactivity , Inappropriate Speech , and Stereotypic Behavior ,
+T21	o 1026 1048	the CSBQ subscale Fear
+T22	o 1142 1162	social functioning .
+T23	o 1211 1254	and stereotyped behaviors and communication

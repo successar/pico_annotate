@@ -1,0 +1,33 @@
+T1	p 81 147	postmenopausal breast cancer survivors with bone loss : a 24-month
+T2	p 381 454	223 postmenopausal breast cancer survivors . Subjects who were > or =50 %
+T3	p 584 630	postmenopausal breast cancer survivors ( BCS )
+T4	p 1111 1137	Postmenopausal BCS ( 223 )
+T5	i 27 35	training
+T6	i 227 252	weight training exercises
+T7	i 283 320	risedronate , calcium , and vitamin D
+T8	i 467 475	exercise
+T9	i 666 703	risedronate , calcium , and vitamin D
+T10	i 896 937	strength/weight training ( ST ) exercises
+T11	i 1164 1202	exercise plus medication or medication
+T12	i 1251 1357	1,200 mg of calcium and 400 IU of vitamin D daily and 35 mg of risedronate weekly , and the exercise group
+T13	i 1375 1387	ST exercises
+T14	i 2165 2199	Strength/weight training exercises
+T15	o 39 77	bone mineral density and bone turnover
+T16	o 339 377	improving bone mineral density ( BMD )
+T17	o 498 501	BMD
+T18	o 531 534	BMD
+T19	o 718 744	bone mineral density ( BMD
+T20	o 960 970	in BMD and
+T21	o 992 1007	bone turnover ;
+T22	o 1097 1100	BMD
+T23	o 1375 1377	ST
+T24	o 1504 1513	in BMD at
+T25	o 1518 1527	total hip
+T26	o 1544 1549	spine
+T27	o 1617 1622	serum
+T28	o 1691 1700	in BMD at
+T29	o 1705 1712	femoral
+T30	o 1857 1862	Serum
+T31	o 1891 1937	changes in BMD and bone turnover with exercise
+T32	o 2036 2039	BMD
+T33	o 2212 2223	loss of BMD

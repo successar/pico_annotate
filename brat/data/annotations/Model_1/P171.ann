@@ -1,0 +1,14 @@
+T1	p 22 30	stroke .
+T2	p 86 102	elderly patients
+T3	p 336 777	hypertension in older patients . Since 1991 , the results of 3 major trials -- the British Medical Research Council ( MRC ) trial of treatment in older adults , the Swedish Trial in Old Patients with Hypertension ( STOP-Hypertension ) and the Systolic Hypertension in the Elderly Program ( SHEP ) -- have conclusively established the benefits of treating older patients ( > 60 years ) with both diastolic and isolated systolic hypertension .
+T4	p 1262 1312	treatment of older individuals with hypertension .
+T5	i 45 82	preventive pharmacological strategies
+T6	i 682 690	treating
+T7	i 745 777	isolated systolic hypertension .
+T8	i 1155 1163	treating
+T9	i 1262 1271	treatment
+T10	o 22 30	stroke .
+T11	o 107 132	associated costs . Stroke
+T12	o 536 548	Hypertension
+T13	o 731 777	diastolic and isolated systolic hypertension .
+T14	o 1181 1204	Cost-effectiveness data

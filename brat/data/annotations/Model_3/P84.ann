@@ -1,0 +1,13 @@
+T1	p 71 105	localized juvenile periodontitis .
+T2	p 323 374	16 patients with localized juvenile periodontitis .
+T3	p 485 603	2 periodontal sites with and 2 without radiographic attachment loss , at weeks 0 , 1 , 3 and 8 . Subgingival bacterial
+T4	p 1240 1288	patients with localized juvenile periodontitis .
+T5	i 32 54	adjunctive doxycycline
+T6	i 136 154	placebo-controlled
+T7	i 219 232	doxycycline (
+T8	i 704 753	microscopy . Actinobacillus actinomycetemcomitans
+T9	i 770 855	non-pigmented Bacteroides spp. , Capnocytophaga , Fusobacterium and Actinomyces spp .
+T10	i 1225 1236	doxycycline
+T11	o 388 465	of gingival fluid flow , probing depths , bleeding on probing and suppuration
+T12	o 537 552	attachment loss
+T13	o 1100 1124	microbiological efficacy

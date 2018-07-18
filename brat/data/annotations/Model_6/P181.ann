@@ -1,0 +1,19 @@
+T1	p 461 471	University
+T2	p 578 751	which patients with multivessel coronary artery disease were randomized to receive either coronary artery bypass grafting or percutaneous transluminal coronary angioplasty .
+T3	p 1425 1429	with
+T4	p 1440 1444	ECGs
+T5	i 407 410	ECG
+T6	i 668 751	coronary artery bypass grafting or percutaneous transluminal coronary angioplasty .
+T7	i 756 765	St. Louis
+T8	i 877 879	MC
+T9	i 899 944	modified NOVACODE hierarchical classification
+T10	i 998 1004	coding
+T11	i 1036 1038	MC
+T12	i 1046 1073	customized software program
+T13	i 1228 1240	coding rules
+T14	i 1291 1293	MC
+T15	i 1440 1444	ECGs
+T16	i 1579 1581	MC
+T17	o 185 212	Serial electrocardiographic
+T18	o 1706 1736	grade 1 MC Q wave progressions
+T19	o 1871 1903	grade 2 Q wave progression codes

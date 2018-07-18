@@ -1,0 +1,37 @@
+T1	p 49 69	sickle cell anemia .
+T2	p 108 128	sickle cell anemia (
+T3	p 224 225	.
+T4	p 304 322	malaria parasite .
+T5	p 448 452	pain
+T6	p 596 616	of children with SCA
+T7	p 649 701	113 children with SCA studied in two hospitals , the
+T8	p 715 729	lime treatment
+T9	p 966 973	painful
+T10	p 1477 1494	children with SCA
+T11	i 19 29	lime juice
+T12	i 133 134	)
+T13	i 236 246	lime juice
+T14	i 386 390	lime
+T15	i 533 543	lime juice
+T16	i 667 670	SCA
+T17	i 715 719	lime
+T18	i 798 804	lime (
+T19	i 1330 1334	lime
+T20	i 1409 1419	lime juice
+T21	o 127 128	(
+T22	o 171 179	acidosis
+T23	o 186 191	fever
+T24	o 226 232	Intake
+T25	o 236 246	lime juice
+T26	o 287 296	clearance
+T27	o 300 322	the malaria parasite .
+T28	o 433 454	recurrent bone pain .
+T29	o 740 745	rates
+T30	o 749 777	significant painful episodes
+T31	o 878 893	rates per child
+T32	o 966 982	painful episodes
+T33	o 1010 1025	febrile illness
+T34	o 1055 1069	admission rate
+T35	o 1114 1129	mean hematocrit
+T36	o 1227 1300	transfusion rate , presence of hepatomegaly , splenomegaly , and jaundice
+T37	o 1365 1376	side-effect

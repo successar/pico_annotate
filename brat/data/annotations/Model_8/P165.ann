@@ -1,0 +1,53 @@
+T1	p 93 102	treatment
+T2	p 325 370	of 95 patients with atherosclerotic disease .
+T3	p 1985 1997	patients who
+T4	i 58 70	lipid esters
+T5	i 78 140	lipid-lowering treatment with diet , clofibrate and niceritrol
+T6	i 187 197	clofibrate
+T7	i 209 221	niceritrol .
+T8	i 263 275	lipid esters
+T9	i 419 423	diet
+T10	i 478 504	clofibrate or niceritrol ,
+T11	i 507 529	nicotinic acid ester ,
+T12	i 632 664	treatment with diet , clofibrate
+T13	i 669 679	niceritrol
+T14	i 772 784	lipid esters
+T15	i 942 979	monounsaturated fatty acids secreased
+T16	i 988 1015	polyunsaturated fatty acids
+T17	i 1079 1100	saturated fatty acids
+T18	i 1134 1140	esters
+T19	i 1145 1158	triglycerides
+T20	i 1268 1295	clofibrate while niceritrol
+T21	i 1360 1370	Clofibrate
+T22	i 1418 1445	monounsaturated fatty acids
+T23	i 1498 1504	esters
+T24	i 1597 1607	linoleic (
+T25	i 1646 1652	esters
+T26	i 1732 1744	lipid esters
+T27	i 1852 1867	saturated fatty
+T28	i 1961 1981	clofibrate treatment
+T29	i 2007 2046	diet enriched with polyunsaturated fats
+T30	i 2099 2126	monounsaturated fatty acids
+T31	i 2147 2153	esters
+T32	i 2226 2249	saturated fatty acids .
+T33	i 2283 2293	clofibrate
+T34	o 27 43	acid composition
+T35	o 58 70	lipid esters
+T36	o 141 142	.
+T37	o 160 183	proportion of linoleate
+T38	o 232 248	acid composition
+T39	o 694 730	significant serum lipid reductions .
+T40	o 741 757	acid composition
+T41	o 772 784	lipid esters
+T42	o 849 855	degree
+T43	o 859 876	dietary adherence
+T44	o 964 979	acids secreased
+T45	o 1045 1050	ratio
+T46	o 1089 1114	fatty acids ( P/S ratio )
+T47	o 1134 1160	esters and triglycerides .
+T48	o 1498 1538	esters , triglycerides and phospholipids
+T49	o 1597 1605	linoleic
+T50	o 1646 1672	esters and triglycerides .
+T51	o 1689 1696	1 ratio
+T52	o 1770 1779	P/S ratio
+T53	o 1868 1873	acids

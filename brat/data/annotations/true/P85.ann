@@ -1,0 +1,29 @@
+T1	p 120 148	patients with chronic stroke
+T2	p 461 506	Fifteen subjects with post-stroke hemiparesis
+T3	p 2269 2306	patients with post-stroke hemiparesis
+T4	i 6 55	Visual and kinesthetic locomotor imagery training
+T5	i 72 92	auditory step rhythm
+T6	i 186 235	visual and kinesthetic locomotor imagery training
+T7	i 318 338	auditory step rhythm
+T8	i 527 554	locomotor imagery trainings
+T9	i 580 613	visual locomotor imagery training
+T10	i 616 654	kinesthetic locomotor imagery training
+T11	i 657 716	visual locomotor imagery training with auditory step rhythm
+T12	i 721 785	kinesthetic locomotor imagery training with auditory step rhythm
+T13	i 1048 1081	visual locomotor imagery training
+T14	i 1125 1189	kinesthetic locomotor imagery training with auditory step rhythm
+T15	i 1280 1318	kinesthetic locomotor imagery training
+T16	i 1477 1510	visual locomotor imagery training
+T17	i 1556 1576	auditory step rhythm
+T18	i 1610 1636	locomotor imagery training
+T19	i 1849 1882	visual locomotor imagery training
+T20	i 1891 1955	kinesthetic locomotor imagery training with auditory step rhythm
+T21	i 2037 2075	kinesthetic locomotor imagery training
+T22	i 2088 2121	visual locomotor imagery training
+T23	i 2128 2148	auditory step rhythm
+T24	i 2167 2193	locomotor imagery training
+T25	o 239 258	walking performance
+T26	o 810 906	The timed up-and-go test and electromyographic and kinematic analyses of the affected lower limb
+T27	o 1007 1027	timed up-and-go test
+T28	o 1409 1458	angular displacement of the knee and ankle joints
+T29	o 2246 2265	walking performance

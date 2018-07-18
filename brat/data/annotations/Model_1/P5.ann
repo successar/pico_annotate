@@ -1,0 +1,18 @@
+T1	p 66 102	patients with rheumatoid arthritis :
+T2	p 236 279	patients with rheumatoid arthritis ( RA ) .
+T3	p 556 593	38 patients with RA and 20 controls .
+T4	i 117 129	six formulae
+T5	i 134 148	one nomogram .
+T6	i 465 478	six equations
+T7	i 483 495	one nomogram
+T8	i 807 816	Cockcroft
+T9	i 959 975	Cockroft formula
+T10	o 20 62	creatinine clearance from serum creatinine
+T11	o 167 193	glomerular filtration rate
+T12	o 311 351	endogenous creatinine clearance ( Clcr )
+T13	o 504 552	prediction of Clcr from serum creatinine ( Scr )
+T14	o 605 616	correlation
+T15	o 746 750	Clcr
+T16	o 933 948	measured Clcr .
+T17	o 980 988	reliably
+T18	o 997 1023	to predict Clcr from Scr .

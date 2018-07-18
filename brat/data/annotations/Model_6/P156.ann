@@ -1,0 +1,13 @@
+T1	p 28 52	advanced breast cancer .
+T2	p 285 308	advanced breast cancers
+T3	p 332 522	out and carried out in cooperation with the departments of medicine in eight French anticancer centres . They analyse the initial phases , which correspond to the three first years of work .
+T4	p 589 597	patients
+T5	i 12 24	chemotherapy
+T6	i 251 258	evolved
+T7	i 698 710	chemotherapy
+T8	i 730 741	vincristine
+T9	i 775 791	cyclophosphamide
+T10	i 864 878	methotrexate .
+T11	i 1368 1380	chemotherapy
+T12	o 981 990	frequency
+T13	o 1079 1086	quality

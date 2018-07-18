@@ -1,0 +1,8 @@
+T1	p 102 251	. One hundred and twenty patients presenting at Macquarie Hospital for admission were randomly allocated into two groups . The control group patients
+T2	p 270 278	hospital
+T3	p 318 326	patients
+T4	p 332 344	not admitted
+T5	i 279 283	care
+T6	i 497 506	assertive
+T7	i 531 547	treatment backed
+T8	o 945 954	satisfied

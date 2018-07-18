@@ -1,0 +1,10 @@
+T1	p 62 121	Fifty-one patients with raised intraocular pressure ( IOP )
+T2	i 6 17	Levobunolol
+T3	i 32 41	timolol :
+T4	i 238 253	0.5 % timolol .
+T5	i 398 405	timolol
+T6	i 590 597	timolol
+T7	o 93 121	intraocular pressure ( IOP )
+T8	o 441 470	overall mean IOP ; reductions
+T9	o 568 586	safe and effective
+T10	o 633 638	IOP .

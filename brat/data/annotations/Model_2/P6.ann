@@ -1,0 +1,27 @@
+T1	p 113 114	]
+T2	p 342 352	Randomized
+T3	p 436 510	. 61 inpatients with the diagnosis Rhinitis following nasal operation were
+T4	p 538 577	30 patients were treated with verum and
+T5	p 1249 1267	patients following
+T6	p 1647 1652	nasal
+T7	i 43 53	surgery by
+T8	i 78 112	of xylometazoline and dexpanthenol
+T9	i 205 221	application-form
+T10	i 233 320	combination of Xylometazoline with Dexpanthenol ( Nasic ) versus Xylometazoline alone .
+T11	i 424 435	nasal-spray
+T12	i 568 573	verum
+T13	i 578 585	placebo
+T14	i 611 637	nasal-breathing-resistance
+T15	i 871 944	Xylometazoline-Dexpanthenol nasal-spray versus Xylometazoline nasal spray
+T16	i 969 985	target-parameter
+T17	i 1530 1557	Xylometazoline-Dexpanthenol
+T18	i 1605 1614	medicinal
+T19	i 1680 1707	therapy with Xylometazoline
+T20	o 18 31	wound healing
+T21	o 173 198	efficacy and tolerability
+T22	o 611 637	nasal-breathing-resistance
+T23	o 651 657	scores
+T24	o 1094 1106	tolerability
+T25	o 1135 1139	easy
+T26	o 1237 1245	symptoms
+T27	o 1351 1363	tolerability

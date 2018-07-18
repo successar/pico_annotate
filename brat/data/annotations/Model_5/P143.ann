@@ -1,0 +1,38 @@
+T1	p 350 358	( FOBT )
+T2	p 594 623	FOBT return within 12 weeks .
+T3	p 784 900	invited 25,511 people aged 50-74 years to complete an eligibility questionnaire . Eligible respondents ( n = 3,408 )
+T4	p 1049 1057	) . TPDS
+T5	p 1062 1067	NTPDS
+T6	p 1088 1095	on-line
+T7	p 1114 1116	BS
+T8	p 1439 1452	FOBT return :
+T9	p 1632 1636	FOBT
+T10	p 2007 2031	Participants not wanting
+T11	i 39 68	personalised decision support
+T12	i 352 356	FOBT
+T13	i 492 573	computerised decision support to non-tailored computer or paper information . The
+T14	i 918 994	Tailored Personalised Decision Support ( TPDS ) , Non-Tailored PDS ( NTPDS )
+T15	i 997 1012	or Control ( CG
+T16	i 1202 1214	intervention
+T17	i 1251 1253	BS
+T18	i 1313 1317	FOBT
+T19	i 1816 1820	TPDS
+T20	i 2085 2099	TPDS and NTPDS
+T21	i 2494 2522	Online information resources
+T22	i 2554 2570	internet-enabled
+T23	o 100 105	bowel
+T24	o 594 598	FOBT
+T25	o 1313 1317	FOBT
+T26	o 1368 1419	) that re-measured BS variables ( per-protocol , PP
+T27	o 1427 1450	) . RESULTS FOBT return
+T28	o 1620 1643	PP sample , FOBT return
+T29	o 1651 1659	internet
+T30	o 1795 1812	. FOBT completion
+T31	o 2165 2169	FOBT
+T32	o 2202 2213	FOBT return
+T33	o 2300 2325	psychosocial predictors :
+T34	o 2360 2413	salience and coherence of screening and self-efficacy
+T35	o 2432 2447	faecal aversion
+T36	o 2627 2636	attitudes
+T37	o 2639 2650	perceptions
+T38	o 2655 2664	behaviour

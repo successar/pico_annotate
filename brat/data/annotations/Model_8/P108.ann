@@ -1,0 +1,38 @@
+T1	p 43 113	children with high-functioning autism spectrum disorders and anxiety :
+T2	p 146 210	Children with high-functioning autism spectrum disorders ( ASD )
+T3	p 322 326	home
+T4	p 331 355	community environments .
+T5	p 432 462	children with anxiety symptoms
+T6	p 507 524	children with ASD
+T7	p 571 623	Fifty children with high-functioning ASD and anxiety
+T8	p 784 803	( Anxiety Disorders
+T9	p 898 928	Forty-seven children completed
+T10	p 1200 1219	10 of 20 children (
+T11	p 1316 1332	of 23 children (
+T12	p 1500 1517	children with ASD
+T13	p 1690 1710	typically developing
+T14	i 12 38	cognitive behavior therapy
+T15	i 322 340	home and community
+T16	i 354 394	. Cognitive behavioral therapies ( CBT )
+T17	i 465 491	Modified CBT interventions
+T18	i 629 681	randomizedto group CBT or treatment-as-usual ( TAU )
+T19	i 832 850	Version ; ADIS-P )
+T20	i 940 960	CBT or TAU condition
+T21	i 1014 1017	CBT
+T22	i 1234 1237	CBT
+T23	i 1449 1472	agroup CBT intervention
+T24	i 1624 1641	attention control
+T25	o 104 111	anxiety
+T26	o 232 242	developing
+T27	o 255 264	anxiety .
+T28	o 294 305	functioning
+T29	o 446 464	anxiety symptoms .
+T30	o 616 623	anxiety
+T31	o 674 679	( TAU
+T32	o 786 803	Anxiety Disorders
+T33	o 823 824	?
+T34	o 832 848	Version ; ADIS-P
+T35	o 1073 1119	Clinician Severity Ratings , diagnostic status
+T36	o 1122 1167	and clinician ratings of global improvement .
+T37	o 1281 1299	treatment response
+T38	o 1549 1558	anxiety .

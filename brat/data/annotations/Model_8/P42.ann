@@ -1,0 +1,37 @@
+T1	p 44 73	children with acute diarrhoea
+T2	p 192 217	acute childhood diarrhoea
+T3	p 333 364	children with acute diarrhoea .
+T4	p 373 409	Two hundred children were randomized
+T5	p 583 585	on
+T6	p 1182 1195	Four children
+T7	p 1273 1283	persisting
+T8	p 1541 1550	diarrhoea
+T9	p 1554 1562	children
+T10	i 17 40	Saccharomyces boulardii
+T11	i 127 129	GG
+T12	i 264 289	Saccharomyces boulardii .
+T13	i 317 329	S. boulardii
+T14	i 421 433	S. boulardii
+T15	i 439 449	granulated
+T16	i 481 530	( S. boulardii group ) or placebo ( placebo group
+T17	i 757 769	S. boulardii
+T18	i 788 795	placebo
+T19	i 873 885	S. boulardii
+T20	i 910 917	placebo
+T21	i 968 980	S. boulardii
+T22	i 1106 1118	S. boulardii
+T23	i 1137 1144	placebo
+T24	i 1205 1212	placebo
+T25	i 1250 1262	S. boulardii
+T26	i 1311 1329	placebo-controlled
+T27	i 1351 1363	S. boulardii
+T28	i 1457 1466	boulardii
+T29	o 198 217	childhood diarrhoea
+T30	o 663 686	average stool frequency
+T31	o 822 843	duration of diarrhoea
+T32	o 984 1000	watery diarrhoea
+T33	o 1061 1086	duration of hospital stay
+T34	o 1273 1295	persisting diarrhoea .
+T35	o 1390 1417	duration of acute diarrhoea
+T36	o 1426 1451	duration of hospital stay
+T37	o 1541 1550	diarrhoea

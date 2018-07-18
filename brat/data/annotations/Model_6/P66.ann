@@ -1,0 +1,47 @@
+T1	p 107 145	vomiting after breast cancer surgery :
+T2	p 218 237	Japanese patients .
+T3	p 249 262	Breast cancer
+T4	p 290 297	patient
+T5	p 304 311	general
+T6	p 449 487	patients who undergo mastectomy ( with
+T7	p 654 684	women who undergo mastectomy .
+T8	p 881 925	breast cancer surgery in Japanese patients .
+T9	p 1011 1025	Japanese women
+T10	p 1691 1822	total of 100 women ( mean [ SD ] age , 52 [ 7 ] years ; height , 154 [ 6 ] cm ; weight , 54 [ 7 ] kg ) were included in the study .
+T11	p 1834 1863	group comprised 25 patients .
+T12	p 2753 2805	Japanese women who underwent breast cancer surgery .
+T13	i 20 62	propofol , droperidol , and metoclopramide
+T14	i 190 208	placebo-controlled
+T15	i 304 322	general anesthesia
+T16	i 556 564	propofol
+T17	i 624 631	placebo
+T18	i 754 846	subhypnotic dose of propofol with the conventional antiemetics droperidol and metoclopramide
+T19	i 984 1002	placebo-controlled
+T20	i 1070 1299	IV administration of propofol 0.5 mg/kg , droperidol 20 microg/kg , metoclopramide 0.2 mg/kg , or placebo ( isotonic saline ) immediately after skin suture . A standard general anesthetic technique , including sevoflurane and air
+T21	i 2070 2078	propofol
+T22	i 2105 2115	droperidol
+T23	i 2146 2160	metoclopramide
+T24	i 2188 2195	placebo
+T25	i 2325 2335	droperidol
+T26	i 2342 2350	propofol
+T27	i 2355 2365	droperidol
+T28	i 2441 2455	metoclopramide
+T29	i 2643 2651	propofol
+T30	i 2666 2689	droperidol 20 microg/kg
+T31	i 2860 2868	propofol
+T32	i 2873 2883	droperidol
+T33	i 2898 2936	metoclopramide 0.2 mg/kg and placebo .
+T34	o 96 115	nausea and vomiting
+T35	o 393 399	nausea
+T36	o 404 412	vomiting
+T37	o 740 748	efficacy
+T38	o 1280 1299	sevoflurane and air
+T39	o 1303 1309	oxygen
+T40	o 1339 1343	PONV
+T41	o 1549 1574	extrapyramidal symptoms .
+T42	o 1942 2025	patient demographics , surgery type , or awakening time . The prevalences of PONV 0
+T43	o 2240 2258	prevalence of PONV
+T44	o 2407 2426	prevalences of PONV
+T45	o 2501 2524	Extrapyramidal symptoms
+T46	o 2597 2601	PONV
+T47	o 2825 2829	PONV

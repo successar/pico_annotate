@@ -1,0 +1,24 @@
+T1	p 49 60	sickle cell
+T2	p 108 126	sickle cell anemia
+T3	p 599 621	children with SCA were
+T4	p 629 630	.
+T5	p 645 695	the 113 children with SCA studied in two hospitals
+T6	p 702 824	58 receiving lime treatment had lower rates of significant painful episodes than the 55 without lime ( 37 versus 83 crises
+T7	p 830 836	months
+T8	p 884 895	per child ,
+T9	p 898 909	< 0.001 ) .
+T10	p 1477 1496	children with SCA .
+T11	i 19 29	lime juice
+T12	i 236 246	lime juice
+T13	i 386 396	lime juice
+T14	i 533 543	lime juice
+T15	i 715 719	lime
+T16	i 798 802	lime
+T17	i 1409 1419	lime juice
+T18	o 433 454	recurrent bone pain .
+T19	o 740 777	rates of significant painful episodes
+T20	o 966 982	painful episodes
+T21	o 1008 1025	; febrile illness
+T22	o 1051 1069	and admission rate
+T23	o 1114 1132	mean hematocrit of
+T24	o 1227 1300	transfusion rate , presence of hepatomegaly , splenomegaly , and jaundice

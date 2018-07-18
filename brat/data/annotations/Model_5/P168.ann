@@ -1,0 +1,20 @@
+T1	p 32 63	breast cancer risk counseling :
+T2	p 134 207	women with a family history of breast cancer have exaggerated perceptions
+T3	p 211 216	their
+T4	p 267 274	anxiety
+T5	p 389 407	breast cancer risk
+T6	p 442 484	medical centers across the United States .
+T7	p 652 732	first-degree relatives of index breast cancer patients and 2 ) to identify women
+T8	p 874 939	cancer risk counseling to general health counseling ( control ) .
+T9	p 951 1111	200 women aged 35 years and older who had a family history of breast cancer in a first-degree relative . Women with a personal history of cancer were excluded .
+T10	i 867 873	breast
+T11	i 886 896	counseling
+T12	i 900 937	general health counseling ( control )
+T13	i 1348 1358	counseling
+T14	i 1771 1781	counseling
+T15	o 1112 1130	Risk comprehension
+T16	o 1171 1219	perceived subjective lifetime breast cancer risk
+T17	o 1393 1427	improve their risk comprehension ,
+T18	o 1798 1820	improved comprehension
+T19	o 1865 1913	high levels of anxious preoccupation with breast
+T20	o 1994 2001	benefit

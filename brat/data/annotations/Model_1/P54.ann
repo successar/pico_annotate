@@ -1,0 +1,31 @@
+T1	p 191 211	herpes zoster ( HZ )
+T2	p 262 297	individuals > or =60 years of age .
+T3	p 476 548	subjects > or =50 years of age . Subjects with a negative history for HZ
+T4	p 613 689	Enrollment was stratified 1:2 by age ( 50 to 59 years and > or =60 years ) .
+T5	i 98 143	refrigerator-stable formulation of Zostavax .
+T6	i 148 164	vaccine Zostavax
+T7	i 357 414	refrigerator-stable formulation ( Zostavax refrigerated )
+T8	i 433 472	current formulation ( Zostavax frozen )
+T9	i 1109 1121	refrigerated
+T10	i 1138 1144	frozen
+T11	i 1269 1316	( refrigerated formulation/frozen formulation )
+T12	i 1638 1677	refrigerated and the frozen formulation
+T13	i 1870 1913	refrigerator-stable formulation of Zostavax
+T14	i 1976 1996	frozen formulation ;
+T15	o 322 328	safety
+T16	o 337 351	immunogenicity
+T17	o 690 696	Safety
+T18	o 741 790	Varicella-zoster virus ( VZV ) antibody responses
+T19	o 902 952	VZV antibody geometric mean titer ( GMT ; day 28 )
+T20	o 959 1014	VZV antibody geometric mean rise ( GMR ; days 1 to 28 )
+T21	o 1025 1089	incidence of vaccine-related serious adverse experiences ( AEs )
+T22	o 1186 1190	GMTs
+T23	o 1249 1316	estimated GMT ratio ( refrigerated formulation/frozen formulation )
+T24	o 1376 1380	GMRs
+T25	o 1424 1451	vaccine-related serious AEs
+T26	o 1492 1507	safety profiles
+T27	o 1557 1590	frequencies of injection-site AEs
+T28	o 1732 1759	frequencies of systemic AEs
+T29	o 1806 1825	vaccine-related AEs
+T30	o 1932 1946	safety profile
+T31	o 1957 1968	immunogenic

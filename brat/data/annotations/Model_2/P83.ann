@@ -1,0 +1,39 @@
+T1	p 76 102	autism spectrum disorder .
+T2	p 184 224	children with autism spectrum disorder .
+T3	p 290 303	50 children .
+T4	p 310 318	children
+T5	p 359 388	group with tongue acupuncture
+T6	p 446 464	tongue acupuncture
+T7	p 488 498	tongue ) .
+T8	p 826 831	score
+T9	p 887 899	Language age
+T10	p 968 978	and Mental
+T11	p 1343 1365	children with autism .
+T12	i 37 72	acupuncture versus sham acupuncture
+T13	i 145 180	acupuncture versus sham acupuncture
+T14	i 377 388	acupuncture
+T15	i 391 393	40
+T16	i 408 409	8
+T17	i 425 464	control group ( sham tongue acupuncture
+T18	i 468 480	nonacupoints
+T19	i 650 651	:
+T20	i 768 781	sensory-motor
+T21	i 784 790	social
+T22	i 793 802	affectual
+T23	i 1000 1006	Test .
+T24	i 1257 1268	acupuncture
+T25	o 488 498	tongue ) .
+T26	o 656 709	) eye-hand coordination , performance , and practical
+T27	o 733 761	Mental Developmental Scale ;
+T28	o 782 866	, social , affectual , language , and total score of Ritvo-Freeman Real Life Scale ;
+T29	o 871 872	)
+T30	o 887 899	Language age
+T31	o 907 945	Reynell Language Developmental Scale ;
+T32	o 954 967	) Total Score
+T33	o 995 999	Play
+T34	o 1116 1147	self-care and cognition domains
+T35	o 1155 1186	Functional Independence Measure
+T36	o 1273 1281	efficacy
+T37	o 1332 1339	aspects
+T38	o 1370 1388	long-term efficacy
+T39	o 1392 1407	functional gain

@@ -1,0 +1,13 @@
+T1	p 6 83	Protection of man from natural infection with influenza A2 Hong Kong virus by
+T2	p 261 273	A2 infection
+T3	p 314 387	391 medical student volunteers during the influenza A2 Hong Kong epidemic
+T4	p 551 569	of 192 students in
+T5	i 84 96	amantadine :
+T6	i 155 165	amantadine
+T7	i 178 185	100 mg.
+T8	i 501 518	haemagglutination
+T9	i 574 584	amantadine
+T10	i 620 627	placebo
+T11	o 264 273	infection
+T12	o 501 531	haemagglutination inhibition ,
+T13	o 656 660	rate

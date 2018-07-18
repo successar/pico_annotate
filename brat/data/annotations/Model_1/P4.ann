@@ -1,0 +1,19 @@
+T1	p 266 286	periodontal diseases
+T2	p 980 1004	40 subjects participated
+T3	p 1102 1270	active peridontal therapy . 20 subjects served as a control group and were treated with conventional steel curettes during a supportive periodontal care visit ( SPT ) .
+T4	p 1281 1292	20 subjects
+T5	p 1415 1475	bleeding on probing ( BOP ) and probing pocket depth ( PPD )
+T6	i 778 794	plastic curettes
+T7	i 882 909	conventional steel curettes
+T8	i 1154 1167	control group
+T9	i 1177 1217	treated with conventional steel curettes
+T10	i 1339 1355	plastic curettes
+T11	i 2018 2054	non-root substance removing curettes
+T12	o 6 22	Clinical effects
+T13	o 554 570	clinical effects
+T14	o 1415 1475	bleeding on probing ( BOP ) and probing pocket depth ( PPD )
+T15	o 1575 1589	BOP percentage
+T16	o 1755 1766	BOP and PPD
+T17	o 1840 1854	BOP percentage
+T18	o 1921 1931	( mean BOP
+T19	o 1950 1958	mean BOP

@@ -1,0 +1,10 @@
+T1	p 18 118	patients at high risk for neutropenic complications during chemotherapy for metastatic breast cancer
+T2	p 401 449	patients with metastatic breast cancer ( MBC ) .
+T3	i 124 172	doxorubicin or pegylated liposomal doxorubicin :
+T4	i 332 351	doxorubicin ( DOX )
+T5	i 357 396	pegylated liposomal formulation ( PLD )
+T6	i 558 568	) or PLD (
+T7	i 648 655	O'Brien
+T8	i 1832 1850	stimulating factor
+T9	o 823 857	febrile neutropenia or neutropenia
+T10	o 1259 1305	performance status , absolute neutrophil count

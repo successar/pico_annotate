@@ -1,0 +1,30 @@
+T1	p 147 169	outpatient colonoscopy
+T2	p 457 588	100 adult patients received either conscious analgesia/sedation ( Sedation group ) or total intravenous anesthesia ( TIVA group ) .
+T3	p 1215 1226	50 patients
+T4	i 16 129	analgesia/sedation with remifentanil and propofol versus total intravenous anesthesia with fentanyl , midazolam ,
+T5	i 134 142	propofol
+T6	i 241 290	analgesia/sedation with remifentanil and propofol
+T7	i 373 382	midazolam
+T8	i 385 393	fentanyl
+T9	i 400 408	propofol
+T10	i 492 607	conscious analgesia/sedation ( Sedation group ) or total intravenous anesthesia ( TIVA group ) . Analgesia/sedation
+T11	i 624 655	infusion of remifentanil ( 0.20
+T12	i 659 704	0.25 microg/kg/min ) and propofol in titrated
+T13	i 711 712	.
+T14	i 763 775	fentanyl ( 2
+T15	i 786 849	) , midazolam ( 0.05 mg/kg ) and propofol ( dosage titrated ) .
+T16	i 1898 1923	remifentanil and propofol
+T17	o 850 899	Cardiorespiratory parameters and bispectral index
+T18	o 934 958	quality of the analgesia
+T19	o 979 1068	Numerical Pain Rating Scale ( NRS ) ; recovery level and return of psychomotor efficiency
+T20	o 1110 1189	Aldrete scale and a Modified Post Anesthesia Discharge Scoring ( MPADS ) system
+T21	o 1278 1328	initial parameters , and duration of colonoscopy .
+T22	o 1370 1402	colonoscopy painless ( NRS score
+T23	o 1405 1406	)
+T24	o 1437 1465	average pain intensity score
+T25	o 1526 1534	Sedation
+T26	o 1571 1575	time
+T27	o 1596 1605	procedure
+T28	o 1616 1635	maximum MPADS score
+T29	o 1742 1826	changes in mean arterial pressure and heart rate and signs of respiratory depression
+T30	o 1960 2058	analgesia , satisfactory hemodynamic stability , minor respiratory depression , and rapid recovery

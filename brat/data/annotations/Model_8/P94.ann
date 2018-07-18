@@ -1,0 +1,49 @@
+T1	p 39 97	endometriosis-related infertility patients by laparoscopic
+T2	p 264 317	endometriosis ( EMs ) -related infertility patients .
+T3	p 326 365	130 EMs-related infertility patients of
+T4	p 411 424	diagnosed and
+T5	p 436 456	laparoscopic surgery
+T6	p 627 647	laparoscopic surgery
+T7	p 737 743	twelve
+T8	p 794 814	laparoscopic surgery
+T9	p 930 931	)
+T10	p 936 942	cancer
+T11	p 1289 1297	syndrome
+T12	p 1534 1542	syndrome
+T13	p 1881 1885	drug
+T14	p 2620 2638	of EMs patients of
+T15	p 2839 2864	EMs-related infertility .
+T16	i 85 105	laparoscopic surgery
+T17	i 124 134	quyu jiedu
+T18	i 194 214	laparoscopic surgery
+T19	i 233 260	Quyu Jiedu Recipe ( QYJDR )
+T20	i 436 456	laparoscopic surgery
+T21	i 539 546	control
+T22	i 590 620	routine progesterone treatment
+T23	i 627 655	laparoscopic surgery . QYJDR
+T24	i 702 714	laparoscopic
+T25	i 923 929	( EMAb
+T26	i 2135 2142	therapy
+T27	i 2531 2551	laparoscopic surgery
+T28	i 2570 2575	QYJDR
+T29	o 178 186	efficacy
+T30	o 366 378	blood stasis
+T31	o 757 778	pregnancy rate within
+T32	o 884 922	integrals , serum endometrium antibody
+T33	o 936 950	cancer antigen
+T34	o 963 971	) levels
+T35	o 1060 1085	The pregnancy rate within
+T36	o 1298 1306	integral
+T37	o 1330 1339	score and
+T38	o 1358 1363	score
+T39	o 1455 1464	score and
+T40	o 1484 1489	score
+T41	o 1645 1653	integral
+T42	o 1805 1814	score ) ]
+T43	o 1900 1935	serum EMAb negative conversion rate
+T44	o 2076 2093	serum CA125 level
+T45	o 2602 2619	clinical symptoms
+T46	o 2639 2651	blood stasis
+T47	o 2694 2721	negative conversion of EMAb
+T48	o 2730 2748	serum CA125 levels
+T49	o 2767 2798	clinical pregnancy rate . QYJDR

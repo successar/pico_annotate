@@ -1,0 +1,13 @@
+T1	p 65 85	outpatient surgery .
+T2	p 205 272	47 healthy women undergoing elective ambulatory surgery . The women
+T3	i 21 32	sevoflurane
+T4	i 37 47	isoflurane
+T5	i 174 185	sevoflurane
+T6	i 191 201	isoflurane
+T7	i 292 468	receive either sevoflurane or isoflurane in 60 % nitrous oxide-oxygen . Induction with thiopental 3-6 mg/kg was followed by vecuronium 0.1 mg/kg and fentanyl 0-200 micrograms .
+T8	i 683 694	sevoflurane
+T9	i 778 788	isoflurane
+T10	o 469 588	Duration of anesthesia , time to emergence , orientation , length of stay in the surgical unit , and hospital discharge
+T11	o 609 657	emergence , length of stay , and discharge times
+T12	o 919 940	postoperative cough .
+T13	o 1014 1024	anesthesia

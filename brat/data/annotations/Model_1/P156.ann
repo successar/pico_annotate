@@ -1,0 +1,14 @@
+T1	p 28 52	advanced breast cancer .
+T2	p 75 143	600 cases in a cooperative programme to carry out a systematic study
+T3	p 285 308	advanced breast cancers
+T4	p 376 436	departments of medicine in eight French anticancer centres .
+T5	p 585 597	603 patients
+T6	p 1126 1147	series of 240 cases .
+T7	i 12 24	chemotherapy
+T8	i 698 710	chemotherapy
+T9	i 730 811	vincristine associated for the one part with cyclophosphamide and 5-fluoro-uracil
+T10	i 839 878	doxorubicine or/and with methotrexate .
+T11	i 922 957	combined therapy using doxorubicine
+T12	i 1368 1380	chemotherapy
+T13	o 981 1016	frequency with which results better
+T14	o 1079 1086	quality

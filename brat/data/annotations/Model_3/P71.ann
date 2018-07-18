@@ -1,0 +1,9 @@
+T1	p 136 192	ten normotensive and seven hypertensive subjects induced
+T2	p 226 256	just wearing the inflated cuff
+T3	i 17 31	cuff inflation
+T4	i 218 256	cuff or just wearing the inflated cuff
+T5	o 49 65	blood pressure .
+T6	o 323 346	systolic blood pressure
+T7	o 467 483	blood pressure .
+T8	o 577 600	Systolic blood pressure
+T9	o 816 839	systolic blood pressure

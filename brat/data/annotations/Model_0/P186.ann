@@ -1,0 +1,10 @@
+T1	i 16 42	indomethacin phonophoresis
+T2	i 120 146	indomethacin phonophoresis
+T3	i 221 239	placebo-controlled
+T4	i 471 489	ultrasound massage
+T5	i 600 642	conducting medium , 1 % indomethacin cream
+T6	i 683 696	placebo cream
+T7	i 1096 1122	indomethacin phonophoresis
+T8	o 150 186	temporomandibular ( TMJ ) joint pain
+T9	o 758 790	pain levels and pain sensitivity
+T10	o 810 973	visual analogue scales ( VAS ) and pressure pain threshold ( PPT ) . Mean data indicated that post-treatment VAS was significantly decreased and post-treatment PPT

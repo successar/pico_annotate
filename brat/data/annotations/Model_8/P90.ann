@@ -1,0 +1,32 @@
+T1	p 108 117	walking .
+T2	p 899 900	=
+T3	p 1015 1016	?
+T4	p 1397 1422	closed-loop perturbations
+T5	p 1673 1687	pre-programmed
+T6	i 425 436	feedback of
+T7	i 739 751	optimization
+T8	i 779 799	to treadmill walking
+T9	i 883 894	adjustments
+T10	i 1187 1191	tens
+T11	i 1195 1202	seconds
+T12	i 1673 1687	pre-programmed
+T13	o 80 94	step frequency
+T14	o 189 200	expenditure
+T15	o 204 211	walking
+T16	o 351 358	speed .
+T17	o 444 464	expenditure . Direct
+T18	o 620 634	step frequency
+T19	o 739 751	optimization
+T20	o 803 809	elicit
+T21	o 820 827	changes
+T22	o 831 845	step frequency
+T23	o 873 894	frequency adjustments
+T24	o 961 969	response
+T25	o 985 1014	total amplitude change ; mean
+T26	o 1092 1100	change )
+T27	o 1113 1122	component
+T28	o 1130 1149	smaller amplitude (
+T29	o 1169 1177	change )
+T30	o 1297 1309	optimization
+T31	o 1335 1349	pre-programmed
+T32	o 1728 1742	step frequency

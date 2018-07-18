@@ -1,0 +1,47 @@
+T1	p 105 150	performance of patients with chronic stroke .
+T2	p 450 521	. SUBJECTS Fifteen subjects with post-stroke hemiparesis . INTERVENTION
+T3	p 558 604	walking performance : visual locomotor imagery
+T4	p 614 787	, kinesthetic locomotor imagery training , visual locomotor imagery training with auditory step rhythm and kinesthetic locomotor imagery training with auditory step rhythm .
+T5	p 2095 2123	locomotor imagery training .
+T6	p 2269 2308	patients with post-stroke hemiparesis .
+T7	i 6 85	Visual and kinesthetic locomotor imagery training integrated with auditory step
+T8	i 186 235	visual and kinesthetic locomotor imagery training
+T9	i 433 449	Physical Therapy
+T10	i 527 554	locomotor imagery trainings
+T11	i 587 787	locomotor imagery training , kinesthetic locomotor imagery training , visual locomotor imagery training with auditory step rhythm and kinesthetic locomotor imagery training with auditory step rhythm .
+T12	i 820 829	up-and-go
+T13	i 1065 1081	imagery training
+T14	i 1137 1163	locomotor imagery training
+T15	i 1302 1309	imagery
+T16	i 1620 1636	imagery training
+T17	i 1682 1687	swing
+T18	i 2059 2066	imagery
+T19	i 2177 2184	imagery
+T20	o 86 92	rhythm
+T21	o 97 116	walking performance
+T22	o 239 258	walking performance
+T23	o 289 300	feasibility
+T24	o 566 577	performance
+T25	o 580 586	visual
+T26	o 657 663	visual
+T27	o 696 750	auditory step rhythm and kinesthetic locomotor imagery
+T28	o 765 787	auditory step rhythm .
+T29	o 814 906	timed up-and-go test and electromyographic and kinematic analyses of the affected lower limb
+T30	o 1007 1027	timed up-and-go test
+T31	o 1125 1197	kinesthetic locomotor imagery training with auditory step rhythm ( 22.68
+T32	o 1217 1223	8.58 )
+T33	o 1237 1238	.
+T34	o 1246 1273	the swing and stance phases
+T35	o 1280 1301	kinesthetic locomotor
+T36	o 1343 1458	increased activation in a greater number of muscles and increased angular displacement of the knee and ankle joints
+T37	o 1477 1483	visual
+T38	o 1556 1576	auditory step rhythm
+T39	o 1643 1670	activation of the hamstring
+T40	o 1682 1687	swing
+T41	o 1753 1770	kinematic data of
+T42	o 1775 1785	knee joint
+T43	o 1891 1912	kinesthetic locomotor
+T44	o 1935 1955	auditory step rhythm
+T45	o 2137 2148	step rhythm
+T46	o 2213 2228	positive effect
+T47	o 2246 2265	walking performance

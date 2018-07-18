@@ -1,0 +1,27 @@
+T1	p 53 66	human brain .
+T2	p 736 750	autobiographic
+T3	p 758 764	task .
+T4	i 36 45	melatonin
+T5	i 67 76	Melatonin
+T6	i 202 211	melatonin
+T7	i 324 342	placebo controlled
+T8	i 354 380	magnetic resonance imaging
+T9	i 383 389	fMRI )
+T10	i 398 407	Melatonin
+T11	i 418 425	placebo
+T12	i 668 677	melatonin
+T13	i 790 799	melatonin
+T14	i 942 951	melatonin
+T15	i 1196 1205	melatonin
+T16	o 436 457	task-related activity
+T17	o 465 485	rostro-medial aspect
+T18	o 493 509	occipital cortex
+T19	o 549 557	auditory
+T20	o 641 653	of fatigue .
+T21	o 691 701	activation
+T22	o 810 824	brain activity
+T23	o 855 860	sleep
+T24	o 961 969	activity
+T25	o 1136 1160	homeostatic sleep need .
+T26	o 1251 1259	patterns
+T27	o 1279 1284	sleep

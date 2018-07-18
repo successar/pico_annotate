@@ -1,0 +1,34 @@
+T1	p 426 433	holding
+T2	p 481 497	prolonged breath
+T3	p 570 578	patients
+T4	p 673 694	second breath holding
+T5	p 717 743	100 consecutive patients .
+T6	p 753 760	did not
+T7	p 994 1059	patients with severe pulmonary disease ; for patients with FEV1 <
+T8	p 1271 1277	breath
+T9	i 109 124	carbon monoxide
+T10	i 127 133	TLCO )
+T11	i 226 234	monoxide
+T12	i 241 262	inert gas ( methane )
+T13	i 359 363	upon
+T14	i 403 433	inspiration and breath holding
+T15	i 498 505	holding
+T16	i 600 604	TLCO
+T17	i 641 713	standard ( Jones and Meade ) 10 second breath holding TLCO ( TLCO , bh )
+T18	i 924 925	)
+T19	i 944 956	mmol/min/kPa
+T20	i 1271 1298	breath holding and constant
+T21	i 1377 1405	breath holding technique for
+T22	o 30 36	factor
+T23	o 127 133	TLCO )
+T24	o 188 196	ratio of
+T25	o 201 218	concentrations of
+T26	o 253 262	methane )
+T27	o 275 279	lung
+T28	o 456 457	.
+T29	o 607 618	TLCO , ex )
+T30	o 670 672	10
+T31	o 869 879	difference
+T32	o 914 923	precision
+T33	o 1074 1084	difference
+T34	o 1259 1270	TLCO during

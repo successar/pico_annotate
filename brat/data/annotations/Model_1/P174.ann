@@ -1,0 +1,10 @@
+T1	p 89 135	primary care patients with untreated anxiety .
+T2	p 270 313	patients with previously undetected anxiety
+T3	p 404 584	Participating physicians were randomized to either the demonstration or the control arm , and patients were assigned to a study arm based on the randomization of their physicians .
+T4	p 818 979	573 patients who had unrecognized and untreated anxiety identified from the approximately 8,000 patients who completed the waiting room screening questionnaire .
+T5	i 51 73	screening and feedback
+T6	i 459 472	demonstration
+T7	i 941 979	waiting room screening questionnaire .
+T8	i 996 1018	physician intervention
+T9	i 1047 1271	1 ) providing an educational demonstration of anxiety in the primary care setting and 2 ) providing a reporting system for summarizing the anxiety symptom levels and functioning status of the patients enrolled in the study .
+T10	o 1336 1447	changes in global anxiety scores , functioning and well-being , and patients ' reports of global improvements .

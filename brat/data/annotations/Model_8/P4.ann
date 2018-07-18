@@ -1,0 +1,42 @@
+T1	p 266 277	periodontal
+T2	p 813 817	Soft
+T3	p 825 843	, Hawe-Neos Dental
+T4	p 978 1004	. 40 subjects participated
+T5	p 1128 1151	. 20 subjects served as
+T6	p 1281 1294	20 subjects ,
+T7	p 1427 1436	probing (
+T8	p 1441 1442	)
+T9	p 1928 1940	BOP baseline
+T10	p 2109 2124	patients during
+T11	i 31 46	instrumentation
+T12	i 53 103	conventional steel or non-tooth substance removing
+T13	i 128 160	supportive periodontal therapy (
+T14	i 306 322	and root planing
+T15	i 471 478	therapy
+T16	i 481 499	non-root substance
+T17	i 756 771	instrumentation
+T18	i 778 785	plastic
+T19	i 807 824	Perio Soft Scaler
+T20	i 837 843	Dental
+T21	i 846 853	Bioggio
+T22	i 861 900	Switzerland ) versus conventional steel
+T23	i 947 979	supportive periodontal therapy .
+T24	i 1102 1127	active peridontal therapy
+T25	i 1190 1208	conventional steel
+T26	i 1238 1260	periodontal care visit
+T27	i 2018 2036	non-root substance
+T28	i 2087 2100	periodontally
+T29	o 161 168	SPT ) .
+T30	o 298 305	scaling
+T31	o 359 382	loss of tooth substance
+T32	o 387 411	increased sensitivity of
+T33	o 837 843	Dental
+T34	o 1263 1270	SPT ) .
+T35	o 1383 1384	.
+T36	o 1415 1475	bleeding on probing ( BOP ) and probing pocket depth ( PPD )
+T37	o 1575 1589	BOP percentage
+T38	o 1755 1766	BOP and PPD
+T39	o 1786 1790	time
+T40	o 1836 1860	the BOP percentage which
+T41	o 1923 1940	mean BOP baseline
+T42	o 1950 1958	mean BOP

@@ -1,0 +1,19 @@
+T1	p 39 80	flosequinan in congestive heart failure .
+T2	p 239 359	patients with moderate to severe congestive heart failure . Seventeen patients on chronic digitalis and diuretic therapy
+T3	p 408 409	n
+T4	p 1169 1225	patients with moderate to severe chronic heart failure .
+T5	i 14 33	vasodilator therapy
+T6	i 39 50	flosequinan
+T7	i 143 156	flosequinan ,
+T8	i 159 212	new orally administered arterial and venous dilator ,
+T9	i 394 409	flosequinan ( n
+T10	i 412 428	9 ) or placebo (
+T11	i 853 864	flosequinan
+T12	i 1045 1056	vasodilator
+T13	i 1070 1081	flosequinan
+T14	i 1085 1112	standard digitalis-diuretic
+T15	o 476 545	symptomatology , exercise performance , and left ventricular function
+T16	o 668 712	symptom scores and functional classification
+T17	o 809 836	maximal exercise capacity .
+T18	o 920 938	resting heart rate
+T19	o 984 1018	left ventricular systolic function

@@ -1,0 +1,8 @@
+T1	i 6 30	Vibrotactile -- auditory
+T2	i 66 78	Vibrotactile
+T3	i 440 460	auditory stimulation
+T4	i 762 775	forced-choice
+T5	i 1017 1029	vibrotactile
+T6	o 109 128	auditory sensations
+T7	o 440 507	auditory stimulation ( no tone , tone at detection threshold , tone
+T8	o 635 675	the perceived loudness of auditory tones

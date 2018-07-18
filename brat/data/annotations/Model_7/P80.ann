@@ -1,0 +1,9 @@
+T1	p 97 132	in patients with depression : study
+T2	p 610 690	. Eighty depressed patients undergoing standard antidepressant treatment will be
+T3	i 23 96	hygienic-dietary recommendations as enhancers of antidepressant treatment
+T4	i 264 339	light exposure , physical activity , sleep control and a Mediterranean diet
+T5	i 502 516	antidepressant
+T6	i 649 682	standard antidepressant treatment
+T7	i 691 819	advised to follow four additional hygienic-dietary recommendations about exercise , diet , sunlight exposure and sleep . Outcome
+T8	o 370 396	prevention of depression .
+T9	o 1012 1031	depressive symptoms

@@ -1,0 +1,20 @@
+T1	p 200 346	borderline hypertensive patients with IDDM-type diabetes mellitus . Twenty-nine IDDM patients with borderline hypertension were randomly allocated
+T2	p 1474 1522	diabetic patients with borderline hypertension .
+T3	i 81 122	dihydropyridine calcium channel blocker :
+T4	i 184 196	nitrendipine
+T5	i 350 357	placebo
+T6	i 361 373	nitrendipine
+T7	i 386 398	Nitrendipine
+T8	i 1015 1022	placebo
+T9	i 1214 1226	nitrendipine
+T10	i 1307 1319	nitrendipine
+T11	i 1384 1396	nitrendipine
+T12	o 14 44	platelet thromboxane formation
+T13	o 463 504	Stimulated platelet thromboxane formation
+T14	o 611 691	plasma levels of platelet factor 4 and aggregation responses to collagen and ADP
+T15	o 733 754	thromboxane formation
+T16	o 885 933	Exercise induced change of thromboxane synthesis
+T17	o 1052 1069	PF4 plasma levels
+T18	o 1112 1162	Whole blood aggregation after collagen stimulation
+T19	o 1243 1279	ADP ( 5 microM ) induced aggregation
+T20	o 1419 1457	collagen dependent platelet activation

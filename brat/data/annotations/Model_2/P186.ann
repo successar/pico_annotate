@@ -1,0 +1,29 @@
+T1	p 60 88	temporomandibular joint pain
+T2	p 150 175	temporomandibular ( TMJ )
+T3	p 257 294	Twenty subjects , who have TMJ pain ,
+T4	p 379 380	(
+T5	p 411 412	(
+T6	p 561 594	painful temporomandibular joint .
+T7	p 1175 1185	TMJ pain .
+T8	i 16 42	indomethacin phonophoresis
+T9	i 120 146	indomethacin phonophoresis
+T10	i 221 239	placebo-controlled
+T11	i 360 372	experimental
+T12	i 397 404	control
+T13	i 468 489	of ultrasound massage
+T14	i 519 529	continuous
+T15	i 611 617	medium
+T16	i 622 642	% indomethacin cream
+T17	i 679 696	and placebo cream
+T18	i 1096 1122	indomethacin phonophoresis
+T19	o 60 77	temporomandibular
+T20	o 89 90	.
+T21	o 95 116	pain-relieving effect
+T22	o 176 186	joint pain
+T23	o 288 292	pain
+T24	o 743 790	post-treatment pain levels and pain sensitivity
+T25	o 810 876	visual analogue scales ( VAS ) and pressure pain threshold ( PPT )
+T26	o 879 883	Mean
+T27	o 904 922	post-treatment VAS
+T28	o 951 973	and post-treatment PPT
+T29	o 1144 1165	pain relieving effect

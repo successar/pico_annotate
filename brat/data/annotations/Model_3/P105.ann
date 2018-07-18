@@ -1,0 +1,18 @@
+T1	p 65 104	infants with single-ventricle lesions :
+T2	p 265 295	infants undergoing the Norwood
+T3	p 716 765	from 549 subjects ( follow-up , 2.7 ? 0.9 years )
+T4	p 2019 2034	preterm infants
+T5	i 381 402	Blalock-Taussig shunt
+T6	i 414 451	ventricle-to-pulmonary artery shunt .
+T7	i 586 655	transplantation . Parametric time-to-event modeling and bootstrapping
+T8	o 782 796	Mortality risk
+T9	o 1005 1028	pulmonary venous return
+T10	o 1159 1175	genetic syndrome
+T11	o 1199 1214	gestational age
+T12	o 1234 1275	right ventricle-to-pulmonary artery shunt
+T13	o 1289 1304	better survival
+T14	o 1387 1417	modified Blalock-Taussig shunt
+T15	o 1514 1614	Lower pre-Norwood right ventricular fractional area change , pre-Norwood surgery , and anatomy other
+T16	o 1725 1730	shunt
+T17	o 1841 1890	socioeconomic status , anatomy , genetic syndrome
+T18	o 1903 1920	gestational age .

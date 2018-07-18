@@ -1,0 +1,20 @@
+T1	p 28 52	advanced breast cancer .
+T2	p 282 324	of advanced breast cancers which they have
+T3	p 376 436	departments of medicine in eight French anticancer centres .
+T4	p 516 520	work
+T5	p 585 597	603 patients
+T6	p 839 863	doxorubicine or/and with
+T7	p 1136 1139	240
+T8	i 12 24	chemotherapy
+T9	i 241 262	programme evolved for
+T10	i 698 710	chemotherapy
+T11	i 717 752	consisted of vincristine associated
+T12	i 775 811	cyclophosphamide and 5-fluoro-uracil
+T13	i 839 878	doxorubicine or/and with methotrexate .
+T14	i 931 957	therapy using doxorubicine
+T15	i 1368 1380	chemotherapy
+T16	i 1422 1432	anticancer
+T17	o 521 522	.
+T18	o 981 990	frequency
+T19	o 1271 1281	palliation
+T20	o 1288 1292	cure

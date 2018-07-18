@@ -1,0 +1,11 @@
+T1	p 177 214	patients who underwent hysterectomy .
+T2	p 223 276	Forty patients were divided into four groups of ten .
+T3	i 6 26	Intrathecal morphine
+T4	i 108 116	morphine
+T5	i 297 370	intrathecal 0.5 mg morphine ( Group IT0.5 ) , intrathecal 0.1 mg morphine
+T6	o 120 155	natural killer ( NK ) cell activity
+T7	o 646 668	blood NK cell activity
+T8	o 729 818	plasma catecholamines and cortisol levels . The postoperative pain score and side effects
+T9	o 882 898	NK cell activity
+T10	o 1248 1280	plasma cortisol levels increased
+T11	o 1333 1343	pain score

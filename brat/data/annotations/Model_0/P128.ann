@@ -1,0 +1,9 @@
+T1	p 45 90	patients with isolated hypertriglyceridemia .
+T2	p 356 401	patients with isolated hypertriglyceridemia .
+T3	i 16 27	simvastatin
+T4	i 294 315	simvastatin treatment
+T5	i 541 581	simvastatin ( 40 mg daily ) or placebo .
+T6	i 1194 1210	statin treatment
+T7	o 582 650	Plasma lipids , glucose homeostasis markers and hemostasic variables
+T8	o 778 814	plasma levels/activity of fibrinogen
+T9	o 1054 1157	von Willebrand factor levels , and tended to prolong the prothrombin and partial thromboplastin times .

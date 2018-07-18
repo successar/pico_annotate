@@ -1,0 +1,44 @@
+T1	p 17 59	minimally invasive total knee arthroplasty
+T2	p 167 192	knee arthroplasty ( TKA )
+T3	p 468 527	patients undergoing minimally invasive TKA using custom-fit
+T4	p 614 616	80
+T5	p 675 687	into 2 equal
+T6	p 1467 1468	)
+T7	p 1913 1939	minimally invasive TKA and
+T8	i 6 35	Custom-fit minimally invasive
+T9	i 136 150	custom-fit pin
+T10	i 185 186	(
+T11	i 488 506	minimally invasive
+T12	i 528 573	magnetic resonance imaging ( MRI ) -based pin
+T13	i 776 800	custom-fit MRI-based pin
+T14	i 846 888	same cemented posterior-stabilized implant
+T15	i 899 913	mini-midvastus
+T16	i 943 956	drain bottles
+T17	i 1275 1285	custom-fit
+T18	i 1467 1468	)
+T19	i 1504 1514	custom-fit
+T20	i 1833 1847	custom-fit pin
+T21	i 1913 1931	minimally invasive
+T22	o 72 86	blood loss and
+T23	o 247 263	operating time .
+T24	o 311 325	intramedullary
+T25	o 361 384	blood loss and improved
+T26	o 426 440	blood loss and
+T27	o 929 935	volume
+T28	o 943 948	drain
+T29	o 982 989	Hb loss
+T30	o 1023 1036	postoperative
+T31	o 1059 1112	Hb level . Transfusion requirements and surgical time
+T32	o 1137 1145	measures
+T33	o 1151 1220	Knee Society Scores ( KSS ) , knee flexion , knee swelling and pain .
+T34	o 1245 1261	mean drainage of
+T35	o 1356 1376	estimated loss of Hb
+T36	o 1418 1442	transfusion requirements
+T37	o 1469 1484	. Surgical time
+T38	o 1549 1563	. KSS measured
+T39	o 1635 1647	Knee flexion
+T40	o 1691 1726	and knee swelling and pain measured
+T41	o 1863 1877	blood drainage
+T42	o 1902 1904	Hb
+T43	o 1956 1983	transfusion rate . Surgical
+T44	o 2052 2059	. LEVEL

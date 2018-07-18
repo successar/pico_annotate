@@ -1,0 +1,31 @@
+T1	p 53 100	patients insufficiently controlled on timolol .
+T2	p 241 307	patients with open angle glaucoma or ocular hypertension where IOP
+T3	p 426 585	. 53 patients with primary open angle glaucoma , capsular glaucoma , or ocular hypertension with an IOP of at least 21 mmHg on current therapy were recruited .
+T4	i 38 49	latanoprost
+T5	i 91 98	timolol
+T6	i 167 237	switching from timolol to latanoprost or adding latanoprost to timolol
+T7	i 342 349	timolol
+T8	i 475 483	capsular
+T9	i 631 638	timolol
+T10	i 711 712	.
+T11	i 736 786	timolol , one switched from timolol to latanoprost
+T12	i 821 826	third
+T13	i 833 878	received latanoprost in addition to timolol .
+T14	i 1126 1133	timolol
+T15	i 1208 1219	latanoprost
+T16	i 1318 1329	latanoprost
+T17	i 1333 1340	timolol
+T18	i 1408 1415	timolol
+T19	i 1419 1430	latanoprost
+T20	i 1578 1589	latanoprost
+T21	i 1614 1621	timolol
+T22	i 1695 1702	timolol
+T23	i 1706 1717	latanoprost
+T24	o 135 176	intraocular pressure ( IOP ) of switching
+T25	o 883 891	efficacy
+T26	o 919 922	IOP
+T27	o 984 987	IOP
+T28	o 1349 1352	IOP
+T29	o 1439 1442	IOP
+T30	o 1522 1535	IOP reduction
+T31	o 1645 1658	IOP reduction

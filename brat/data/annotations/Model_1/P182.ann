@@ -1,0 +1,11 @@
+T1	p 18 36	prevention program
+T2	p 172 245	clusters of individuals rather than individuals to treatment conditions .
+T3	p 273 300	individuals within clusters
+T4	p 816 858	a youth substance abuse prevention program
+T5	i 503 543	generalized estimating equations ( GEE )
+T6	i 582 604	GEE-independent method
+T7	i 718 740	GEE-independent method
+T8	o 682 692	continuous
+T9	o 696 713	binary outcomes .
+T10	o 748 758	consistent
+T11	o 763 790	robust variance estimates .
