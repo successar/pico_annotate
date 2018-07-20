@@ -1,8 +1,0 @@
-T1	p 66 100	patients with rheumatoid arthritis
-T2	p 236 277	patients with rheumatoid arthritis ( RA )
-T3	p 556 591	38 patients with RA and 20 controls
-T4	o 20 62	creatinine clearance from serum creatinine
-T5	o 167 193	glomerular filtration rate
-T6	o 504 552	prediction of Clcr from serum creatinine ( Scr )
-T7	o 605 616	correlation
-T8	o 1000 1021	predict Clcr from Scr

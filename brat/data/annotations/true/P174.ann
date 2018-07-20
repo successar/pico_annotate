@@ -1,7 +1,0 @@
-T1	p 89 133	primary care patients with untreated anxiety
-T2	p 270 313	patients with previously undetected anxiety
-T3	p 818 977	573 patients who had unrecognized and untreated anxiety identified from the approximately 8,000 patients who completed the waiting room screening questionnaire
-T4	i 459 472	demonstration
-T5	i 996 1018	physician intervention
-T6	o 1347 1399	global anxiety scores , functioning and well-being ,
-T7	o 1404 1445	patients ' reports of global improvements

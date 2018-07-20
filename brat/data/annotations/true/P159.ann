@@ -1,7 +1,0 @@
-T1	p 314 421	391 medical student volunteers during the influenza A2 Hong Kong epidemic in Helsinki in the winter of 1969
-T2	i 84 94	amantadine
-T3	i 155 165	amantadine
-T4	i 574 584	amantadine
-T5	i 620 627	placebo
-T6	o 424 456	Serologically verified influenza
-T7	o 474 529	complement fixation and/or haemagglutination inhibition
