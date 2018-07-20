@@ -1,0 +1,19 @@
+T1	p 94 134	patients with inflammatory bowel disease
+T2	p 382 403	Fifty-six outpatients
+T3	p 966 1006	Thirty-nine subjects completed the study
+T4	p 1439 1451	IBD patients
+T5	i 37 56	relaxation training
+T6	i 534 562	relaxation-training sessions
+T7	i 1062 1081	relaxation-training
+T8	i 1469 1488	relaxation training
+T9	o 60 67	anxiety
+T10	o 72 87	quality of life
+T11	o 191 214	quality of life ( QoL )
+T12	o 657 670	state anxiety
+T13	o 693 755	State-Trait Anxiety Inventory , QoL with the IBD Questionnaire
+T14	o 762 783	Visual Analogue Scale
+T15	o 793 819	pain , depression , stress
+T16	o 824 828	mood
+T17	o 1275 1289	anxiety levels
+T18	o 1315 1327	QoL and mood
+T19	o 1368 1383	pain and stress

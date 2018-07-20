@@ -1,0 +1,27 @@
+T1	p 133 189	patients with mixed dyslipidaemia and metabolic syndrome
+T2	p 393 420	metabolic syndrome ( MetS )
+T3	p 601 643	patients with mixed dyslipidaemia and MetS
+T4	p 987 1019	patients with MetS were included
+T5	i 16 28	rosuvastatin
+T6	i 64 75	fenofibrate
+T7	i 79 94	?-3 fatty acids
+T8	i 468 480	rosuvastatin
+T9	i 528 539	fenofibrate
+T10	i 543 558	?-3 fatty acids
+T11	i 767 779	rosuvastatin
+T12	i 826 838	rosuvastatin
+T13	i 863 874	fenofibrate
+T14	i 911 926	?-3 fatty acids
+T15	i 1329 1331	RF
+T16	i 1516 1518	RF
+T17	i 1704 1705	R
+T18	i 1710 1712	R?
+T19	o 98 129	lipoprotein subfraction profile
+T20	o 566 597	lipoprotein subfraction profile
+T21	o 1132 1163	lipoprotein subfraction profile
+T22	o 1235 1248	mean LDL size
+T23	o 1388 1416	hypotriglyceridemic capacity
+T24	o 1469 1487	insulin resistance
+T25	o 1540 1552	HDL-C levels
+T26	o 1648 1672	of larger HDL subclasses
+T27	o 1755 1763	LDL size

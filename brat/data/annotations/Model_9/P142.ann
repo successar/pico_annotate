@@ -1,0 +1,26 @@
+T1	p 115 144	rheumatoid arthritis patients
+T2	p 395 436	patients with rheumatoid arthritis ( RA )
+T3	p 1016 1137	Sixty-eight RA patients ( age=55?13 years , body mass index : 27.8?5.4 kg/m2 , median of disease duration=5 ( 2-8 ) yrs )
+T4	i 883 885	PA
+T5	o 266 320	International Physical Activity Questionnaire ; IPAQ )
+T6	o 353 384	GT3X ) physical activity ( PA )
+T7	o 546 583	maximal oxygen uptake test ( VO2max )
+T8	o 662 666	IPAQ
+T9	o 671 677	VO2max
+T10	o 883 897	PA measurement
+T11	o 902 908	VO2max
+T12	o 1351 1371	sedentary behaviours
+T13	o 1399 1407	light PA
+T14	o 1564 1570	VO2max
+T15	o 1764 1780	sedentary time (
+T16	o 1831 1851	moderate PA and MVPA
+T17	o 1879 1885	maxV02
+T18	o 2003 2032	IPAQ-VO2 max and GT3X-VO2 max
+T19	o 2118 2122	IPAQ
+T20	o 2166 2175	sedentary
+T21	o 2213 2215	PA
+T22	o 2288 2294	VO2max
+T23	o 2343 2347	MPVA
+T24	o 2364 2370	VO2max
+T25	o 2409 2411	PA
+T26	o 2416 2418	ST

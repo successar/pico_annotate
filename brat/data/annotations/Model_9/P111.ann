@@ -1,0 +1,11 @@
+T1	p 55 108	preschool children who have intellectual disabilities
+T2	p 295 436	preschool children with intellectual disabilities ( IDs ) , including children with Down syndrome and children with autism spectrum disorders
+T3	p 446 468	Seventy-seven children
+T4	p 1349 1416	preschool children who have ID and significant language impairments
+T5	i 25 49	enhanced milieu teaching
+T6	i 175 207	enhanced milieu teaching ( EMT )
+T7	i 510 532	parent + therapist EMT
+T8	i 536 554	therapist-only EMT
+T9	i 889 892	EMT
+T10	o 889 903	EMT strategies
+T11	o 1023 1045	observational measures

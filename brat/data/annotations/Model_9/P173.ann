@@ -1,0 +1,14 @@
+T1	p 33 40	teacher
+T2	p 384 391	teacher
+T3	p 746 754	teachers
+T4	p 835 843	teachers
+T5	p 1015 1022	teacher
+T6	i 33 49	teacher training
+T7	i 461 483	live workshop training
+T8	i 487 511	video training condition
+T9	i 628 641	video-trained
+T10	i 821 834	Video-trained
+T11	o 210 223	effectiveness
+T12	o 250 276	diffusion of Smart Choices
+T13	o 548 590	teachers ' implementation of Smart Choices
+T14	o 692 735	completeness and fidelity of implementation

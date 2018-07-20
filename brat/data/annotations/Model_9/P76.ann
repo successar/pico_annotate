@@ -1,0 +1,23 @@
+T1	p 133 174	patients with acute myocardial infarction
+T2	p 519 600	333 consecutive adult patients with a suspected first acute myocardial infarction
+T3	p 1425 1586	82 patients were excluded on arrival at hospital because they did not meet inclusion criteria , 32 were lost to follow-up , and 77 did not complete the follow-up
+T4	i 6 35	Remote ischaemic conditioning
+T5	i 209 241	Remote ischaemic preconditioning
+T6	i 336 365	remote ischaemic conditioning
+T7	i 778 797	remote conditioning
+T8	i 989 1008	remote conditioning
+T9	i 1679 1698	remote conditioning
+T10	i 2101 2130	Remote ischaemic conditioning
+T11	i 2287 2306	remote conditioning
+T12	o 111 129	myocardial salvage
+T13	o 490 508	myocardial salvage
+T14	o 1126 1210	myocardial salvage index at 30 days after primary percutaneous coronary intervention
+T15	o 1225 1253	myocardial perfusion imaging
+T16	o 1617 1637	Median salvage index
+T17	o 1827 1845	mean salvage index
+T18	o 1954 1983	Major adverse coronary events
+T19	o 1989 1994	death
+T20	o 2015 2027	reinfarction
+T21	o 2052 2065	heart failure
+T22	o 2167 2185	myocardial salvage
+T23	o 2209 2215	safety

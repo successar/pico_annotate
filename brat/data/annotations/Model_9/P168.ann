@@ -1,0 +1,15 @@
+T1	p 134 178	women with a family history of breast cancer
+T2	p 652 706	first-degree relatives of index breast cancer patients
+T3	p 951 1053	200 women aged 35 years and older who had a family history of breast cancer in a first-degree relative
+T4	p 1056 1109	Women with a personal history of cancer were excluded
+T5	i 17 61	individualized breast cancer risk counseling
+T6	i 567 611	individualized breast cancer risk counseling
+T7	i 852 896	individualized breast cancer risk counseling
+T8	i 900 937	general health counseling ( control )
+T9	i 1343 1358	risk counseling
+T10	i 1766 1781	risk counseling
+T11	i 2348 2372	risk-counseling programs
+T12	o 1112 1130	Risk comprehension
+T13	o 1407 1425	risk comprehension
+T14	o 1642 1656	lifetime risks
+T15	o 1807 1820	comprehension

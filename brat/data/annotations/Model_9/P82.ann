@@ -1,0 +1,41 @@
+T1	p 36 67	chronic immune thrombocytopenia
+T2	p 304 349	patients with chronic immune thrombocytopenia
+T3	p 452 597	adults with previously treated immune thrombocytopenia of more than 6 months ' duration who had baseline platelet counts lower than 30,000 per ?L
+T4	p 1503 1560	Between Nov 22 , 2006 , and July 31 , 2007 , 197 patients
+T5	i 6 17	Eltrombopag
+T6	i 132 143	Eltrombopag
+T7	i 274 285	eltrombopag
+T8	i 293 300	placebo
+T9	i 701 712	eltrombopag
+T10	i 725 732	placebo
+T11	i 1358 1369	eltrombopag
+T12	i 1377 1384	placebo
+T13	i 1664 1675	eltrombopag
+T14	i 1681 1688	placebo
+T15	i 1722 1733	eltrombopag
+T16	i 1909 1920	eltrombopag
+T17	i 1954 1961	placebo
+T18	i 2094 2105	eltrombopag
+T19	i 2175 2182	placebo
+T20	i 2228 2239	eltrombopag
+T21	i 2309 2316	placebo
+T22	i 2364 2375	eltrombopag
+T23	i 2436 2443	placebo
+T24	i 2511 2518	placebo
+T25	i 2605 2624	eltrombopag-treated
+T26	i 2657 2664	placebo
+T27	i 2731 2738	placebo
+T28	i 2818 2829	eltrombopag
+T29	i 2847 2858	Eltrombopag
+T30	i 3111 3122	eltrombopag
+T31	o 251 259	response
+T32	o 1153 1207	response to treatment ( defined as a platelet count of
+T33	o 1338 1354	odds of response
+T34	o 1740 1749	responded
+T35	o 1863 1876	of responding
+T36	o 2114 2135	concomitant treatment
+T37	o 2247 2263	rescue treatment
+T38	o 2380 2401	thromboembolic events
+T39	o 2547 2585	alanine aminotransferase concentration
+T40	o 2684 2699	total bilirubin
+T41	o 2743 2766	serious bleeding events

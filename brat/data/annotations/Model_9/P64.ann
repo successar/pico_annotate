@@ -1,0 +1,11 @@
+T1	p 835 860	10 patients in each group
+T2	i 654 663	iopamidol
+T3	i 713 722	iopamidol
+T4	i 775 784	iopamidol
+T5	o 161 196	intracranial arteriovenous contrast
+T6	o 261 271	difference
+T7	o 863 1013	Attenuation values of the bilateral internal carotid arteries ( ICAs ) , basilar artery trunk , bilateral cavernous sinuses ( CSs ) , and Galenic vein
+T8	o 1220 1242	arteriovenous contrast
+T9	o 1372 1380	CT value
+T10	o 1475 1490	ICA attenuation
+T11	o 1499 1525	intracavernous attenuation

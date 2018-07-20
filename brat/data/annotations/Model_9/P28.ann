@@ -1,0 +1,15 @@
+T1	p 38 72	people at high cardiovascular risk
+T2	p 117 137	people with diabetes
+T3	p 607 675	7674 participants with albuminuria data at baseline and at follow-up
+T4	p 1814 1848	nondiabetic and in diabetic people
+T5	i 462 473	ramipril 's
+T6	i 485 492	placebo
+T7	i 1519 1527	Ramipril
+T8	i 1851 1859	Ramipril
+T9	o 1007 1027	clinical proteinuria
+T10	o 1304 1330	progression of albuminuria
+T11	o 1446 1462	microalbuminuria
+T12	o 1496 1516	clinical proteinuria
+T13	o 1553 1564	progression
+T14	o 1743 1754	albuminuria
+T15	o 1883 1909	progression of albuminuria

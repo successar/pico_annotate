@@ -1,0 +1,16 @@
+T1	p 28 50	advanced breast cancer
+T2	p 75 84	600 cases
+T3	p 285 308	advanced breast cancers
+T4	p 409 415	French
+T5	p 585 597	603 patients
+T6	i 12 24	chemotherapy
+T7	i 698 710	chemotherapy
+T8	i 730 741	vincristine
+T9	i 775 791	cyclophosphamide
+T10	i 796 811	5-fluoro-uracil
+T11	i 839 851	doxorubicine
+T12	i 864 876	methotrexate
+T13	i 945 957	doxorubicine
+T14	i 1368 1380	chemotherapy
+T15	o 1002 1009	results
+T16	o 1079 1086	quality

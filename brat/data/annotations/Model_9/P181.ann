@@ -1,0 +1,5 @@
+T1	p 584 633	patients with multivessel coronary artery disease
+T2	p 1371 1497	4,244 BARI randomized and registry study participants with follow-up ECGs received at the Core ECG Laboratory as of March 1995
+T3	i 668 699	coronary artery bypass grafting
+T4	i 703 749	percutaneous transluminal coronary angioplasty
+T5	o 803 846	serial changes in Q , ST , and T wave items

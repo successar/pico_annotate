@@ -1,0 +1,34 @@
+T1	p 126 142	post-thoracotomy
+T2	p 605 666	20 patients undergoing lateral thoracotomy for lung resection
+T3	i 44 68	intercostal nerve blocks
+T4	i 113 121	morphine
+T5	i 254 286	Intercostal nerve blocks ( INB )
+T6	i 291 319	subarachnoid morphine ( SM )
+T7	i 701 703	SM
+T8	i 723 726	INB
+T9	i 732 743	bupivacaine
+T10	i 786 788	SM
+T11	i 794 797	INB
+T12	i 804 810	saline
+T13	i 813 817	INB-
+T14	i 1167 1171	INB+
+T15	i 1395 1399	INB+
+T16	i 1436 1440	INB-
+T17	i 1551 1555	INB-
+T18	i 1570 1574	INB+
+T19	i 1633 1636	INB
+T20	i 1732 1734	SM
+T21	i 1834 1837	INB
+T22	i 1901 1903	SM
+T23	o 407 411	pain
+T24	o 474 495	post-thoracotomy pain
+T25	o 510 542	postoperative pulmonary function
+T26	o 822 853	Visual analog scale pain scores
+T27	o 864 965	with cough , and with movement of the ipsilateral arm , forced expiratory volume in 1 second ( FEV1 )
+T28	o 972 1001	forced vital capacity ( FVC )
+T29	o 1068 1078	Opioid use
+T30	o 1198 1202	FEV1
+T31	o 1251 1254	FVC
+T32	o 1362 1366	FEV1
+T33	o 1456 1467	pain scores
+T34	o 1498 1510	Opioid usage

@@ -1,0 +1,25 @@
+T1	p 77 104	anemic patients with cancer
+T2	p 222 260	patients with cancer-associated anemia
+T3	p 571 604	Three hundred sixty-five patients
+T4	i 59 73	erythropoietin
+T5	i 138 150	epoetin alfa
+T6	i 205 217	epoetin alfa
+T7	i 372 384	epoetin alfa
+T8	i 453 465	epoetin alfa
+T9	i 494 506	epoetin alfa
+T10	i 1544 1556	epoetin alfa
+T11	i 1751 1763	epoetin alfa
+T12	o 780 802	requiring transfusions
+T13	o 1062 1089	hemoglobin ( Hb ) increment
+T14	o 1119 1128	drug dose
+T15	o 1150 1152	Hb
+T16	o 1188 1190	Hb
+T17	o 1200 1210	Toxicities
+T18	o 1223 1238	thromboembolism
+T19	o 1245 1261	overall survival
+T20	o 1314 1344	global quality of life ( QOL )
+T21	o 1426 1436	global QOL
+T22	o 1484 1487	QOL
+T23	o 1653 1670	transfusion needs
+T24	o 1686 1689	QOL
+T25	o 1696 1708	Hb increment

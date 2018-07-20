@@ -1,0 +1,15 @@
+T1	p 652 780	90 patients who had aortic , mitral , and/or tricuspid valve replacement with Sorin Bicarbon or CarboMedics bileaflet prostheses
+T2	i 44 64	bileaflet prostheses
+T3	i 602 622	bileaflet prostheses
+T4	i 730 780	Sorin Bicarbon or CarboMedics bileaflet prostheses
+T5	i 861 871	prostheses
+T6	i 1646 1656	Prosthesis
+T7	o 533 544	feasibility
+T8	o 549 557	accuracy
+T9	o 1089 1112	hemodynamic performance
+T10	o 1163 1186	fluoroscopic evaluation
+T11	o 1588 1611	hemodynamic performance
+T12	o 1691 1737	rate of success of the fluoroscopic evaluation
+T13	o 1834 1873	feasibility and accuracy of fluoroscopy
+T14	o 1909 1941	valve 's hemodynamic performance
+T15	o 1988 2000	fluoroscopic

@@ -1,0 +1,17 @@
+T1	p 41 62	flexible nasendoscopy
+T2	p 272 283	98 patients
+T3	p 339 360	flexible nasendoscopy
+T4	p 1027 1048	flexible nasendoscopy
+T5	i 6 19	Cophenylcaine
+T6	i 30 37	placebo
+T7	i 295 308	cophenylcaine
+T8	i 312 319	placebo
+T9	i 744 757	cophenylcaine
+T10	i 967 980	cophenylcaine
+T11	o 416 481	pain , unpleasantness of taste and overall discomfort experienced
+T12	o 536 555	pain and discomfort
+T13	o 612 638	pain or overall discomfort
+T14	o 690 712	sensation of bad taste
+T15	o 824 838	unpleasantness
+T16	o 872 876	pain
+T17	o 905 928	unpleasantness of taste

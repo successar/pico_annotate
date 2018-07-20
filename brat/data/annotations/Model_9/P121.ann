@@ -1,0 +1,28 @@
+T1	p 43 84	early-stage diabetic nephropathy patients
+T2	p 320 354	Type 2 diabetic patients ( N.=57 )
+T3	p 450 479	Diabetic nephropathy patients
+T4	p 841 849	diabetic
+T5	p 961 969	diabetic
+T6	p 1350 1383	type 2 diabetes mellitus patients
+T7	p 1438 1446	patients
+T8	i 248 271	thiamine ( vitamin B1 )
+T9	i 276 301	pyridoxine ( vitamin B6 )
+T10	i 505 507	B6
+T11	i 536 541	B1+B6
+T12	i 1066 1071	B1+B6
+T13	i 1075 1077	B6
+T14	i 1083 1085	B6
+T15	i 1159 1164	B1+B6
+T16	i 1168 1170	B6
+T17	i 1477 1482	B1+B6
+T18	i 1486 1488	B6
+T19	o 6 39	Plasma AGE-peptides and C-peptide
+T20	o 163 193	circulatory AGE-peptide levels
+T21	o 653 784	glucose , HbA1c , triglyceride , cholesterol , insulin , C-peptide , thiamine pyrophosphate , pyridoxal phosphate and AGE- peptides
+T22	o 809 821	AGE-peptides
+T23	o 931 943	AGE-peptides
+T24	o 1139 1144	HbA1c
+T25	o 1208 1217	C-peptide
+T26	o 1285 1304	plasma AGE-peptides
+T27	o 1529 1541	AGE-peptides
+T28	o 1608 1617	C-peptide

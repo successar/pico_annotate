@@ -56,7 +56,7 @@
                             .append($('<option>', { "value" : data[i]})
                             .text(data[i]));
                     }
-                    for(i = 0; i < 9; i+=1) {
+                    for(i = 0; i < 10; i+=1) {
                         $('#m_single')
                             .append($('<option>', { "value" : "Model_" + i})
                             .text("Model_" + i));
@@ -67,15 +67,6 @@
                             .append($('<option>', { "value" : "Model_" + i})
                             .text("Model_" + i));
                     }
-                    $('#m_single')
-                        .append($('<option>', { "value" : "true"})
-                        .text("true"));
-                    $('#m1')
-                        .append($('<option>', { "value" : "true"})
-                        .text("true"));
-                    $('#m2')
-                        .append($('<option>', { "value" : "true"})
-                        .text("true"));
                 });
             });
             $("#gen_single").on("click", function(e){

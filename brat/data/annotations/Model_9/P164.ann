@@ -1,0 +1,11 @@
+T1	p 104 182	One hundred and twenty patients presenting at Macquarie Hospital for admission
+T2	p 1042 1062	psychiatric patients
+T3	i 28 48	psychiatric hospital
+T4	i 56 75	community treatment
+T5	i 261 297	standard hospital care and follow-up
+T6	i 396 417	back to the community
+T7	i 521 540	follow-up treatment
+T8	o 82 101	effect on relatives
+T9	o 689 712	burden on the relatives
+T10	o 945 954	satisfied
+T11	o 1103 1128	burden on their relatives

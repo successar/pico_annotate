@@ -1,0 +1,25 @@
+T1	p 39 81	endometriosis-related infertility patients
+T2	p 264 315	endometriosis ( EMs ) -related infertility patients
+T3	p 326 456	130 EMs-related infertility patients of blood stasis and toxin accumulation syndrome diagnosed and treated by laparoscopic surgery
+T4	i 85 105	laparoscopic surgery
+T5	i 124 141	quyu jiedu recipe
+T6	i 194 214	laparoscopic surgery
+T7	i 233 260	Quyu Jiedu Recipe ( QYJDR )
+T8	i 598 610	progesterone
+T9	i 650 655	QYJDR
+T10	i 2531 2551	laparoscopic surgery
+T11	i 2570 2575	QYJDR
+T12	i 2793 2798	QYJDR
+T13	o 169 186	clinical efficacy
+T14	o 757 771	pregnancy rate
+T15	o 858 971	Chinese medicine syndrome integrals , serum endometrium antibody ( EMAb ) and cancer antigen 125 ( CA125 ) levels
+T16	o 1064 1078	pregnancy rate
+T17	o 1272 1306	Chinese medicine syndrome integral
+T18	o 1517 1551	Chinese medicine syndrome integral
+T19	o 1900 1910	serum EMAb
+T20	o 2076 2093	serum CA125 level
+T21	o 2639 2651	blood stasis
+T22	o 2656 2683	toxin accumulation syndrome
+T23	o 2694 2721	negative conversion of EMAb
+T24	o 2730 2748	serum CA125 levels
+T25	o 2767 2790	clinical pregnancy rate

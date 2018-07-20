@@ -1,0 +1,13 @@
+T1	p 240 256	37 Holstein cows
+T2	i 32 47	oxytetracycline
+T3	i 151 166	oxytetracycline
+T4	i 363 384	cephapirin benzathine
+T5	i 429 450	cephapirin benzathine
+T6	i 483 498	oxytetracycline
+T7	i 1100 1115	oxytetracycline
+T8	i 1138 1148	cephapirin
+T9	i 1280 1290	cephapirin
+T10	i 1426 1436	cephapirin
+T11	i 1461 1476	oxytetracycline
+T12	o 1052 1064	rate of cure
+T13	o 1552 1564	rate of cure

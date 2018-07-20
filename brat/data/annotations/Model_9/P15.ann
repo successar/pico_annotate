@@ -1,0 +1,8 @@
+T1	p 273 320	patients at high risk for cardiovascular events
+T2	i 206 214	ramipril
+T3	i 220 267	angiotensin-converting enzyme ( ACE ) inhibitor
+T4	i 338 346	ramipril
+T5	i 594 603	vitamin E
+T6	i 683 696	ACE inhibitor
+T7	o 373 486	rates of death , myocardial infarction , stroke , coronary revascularization , cardiac arrest and heart failure ,
+T8	o 502 563	risk of diabetes-related complications and of diabetes itself
