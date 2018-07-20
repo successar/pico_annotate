@@ -1,0 +1,5 @@
+# Python remenants
+*.pyc
+*.pyo
+
+brat/data/Metadata/model_maps.json
